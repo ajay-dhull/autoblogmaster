@@ -46,7 +46,7 @@ class ContentGenerator {
           "Content-Type": "application/json",
         },
         body: JSON.stringify({
-          model: "mixtral-8x7b-32768",
+          model: "llama3-8b-8192",
           messages: [
             {
               role: "system",
@@ -63,7 +63,9 @@ class ContentGenerator {
       });
 
       if (!response.ok) {
-        throw new Error(`Groq API error: ${response.statusText}`);
+        const errorText = await response.text();
+        console.error("Groq API error response:", errorText);
+        throw new Error(`Groq API error: ${response.status} ${response.statusText}`);
       }
 
       const data = await response.json();
@@ -347,7 +349,7 @@ class ContentGenerator {
             "Content-Type": "application/json",
           },
           body: JSON.stringify({
-            model: "mixtral-8x7b-32768",
+            model: "llama3-8b-8192",
             messages: [
               {
                 role: "system",
