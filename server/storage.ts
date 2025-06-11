@@ -23,18 +23,21 @@ export interface IStorage {
 export class DatabaseStorage implements IStorage {
   async getArticles(limit: number = 20, offset: number = 0, category?: string): Promise<Article[]> {
     try {
-      let query = db.select().from(articles).where(eq(articles.isPublished, true));
-      
       if (category && category !== 'all') {
-        query = query.where(and(eq(articles.isPublished, true), eq(articles.category, category)));
+        const result = await db.select().from(articles)
+          .where(and(eq(articles.isPublished, true), eq(articles.category, category)))
+          .orderBy(desc(articles.publishedAt))
+          .limit(limit)
+          .offset(offset);
+        return result;
+      } else {
+        const result = await db.select().from(articles)
+          .where(eq(articles.isPublished, true))
+          .orderBy(desc(articles.publishedAt))
+          .limit(limit)
+          .offset(offset);
+        return result;
       }
-      
-      const result = await query
-        .orderBy(desc(articles.publishedAt))
-        .limit(limit)
-        .offset(offset);
-      
-      return result;
     } catch (error) {
       console.error("Error fetching articles:", error);
       return [];
