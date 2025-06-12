@@ -32,14 +32,6 @@ export default function Home() {
     setIsVisible(true);
   }, []);
 
-  // Auto-slide effect for hero section
-  useEffect(() => {
-    const timer = setInterval(() => {
-      setCurrentSlide((prev) => (prev + 1) % 3);
-    }, 5000);
-    return () => clearInterval(timer);
-  }, []);
-
   const { data: featuredArticles, isLoading: featuredLoading } = useQuery({
     queryKey: ['/api/articles/featured'],
     queryFn: api.getFeaturedArticles,
@@ -49,6 +41,23 @@ export default function Home() {
     queryKey: ['/api/articles'],
     queryFn: () => api.getArticles(8, 0),
   });
+
+  // Latest articles for hero section
+  const { data: latestArticles, isLoading: latestLoading } = useQuery({
+    queryKey: ['/api/articles/latest'],
+    queryFn: () => api.getArticles(5, 0),
+    refetchInterval: 30000, // Auto-refresh every 30 seconds
+  });
+
+  // Auto-slide effect for hero section
+  useEffect(() => {
+    if (latestArticles && latestArticles.length > 0) {
+      const timer = setInterval(() => {
+        setCurrentSlide((prev) => (prev + 1) % latestArticles.length);
+      }, 5000);
+      return () => clearInterval(timer);
+    }
+  }, [latestArticles]);
 
   const stats = [
     { label: "Daily Readers", value: "50K+", icon: Users, color: "text-slate-600" },
@@ -146,19 +155,19 @@ export default function Home() {
                 </div>
               </div>
 
-              {/* Right Side - Sliding Articles */}
+              {/* Right Side - Latest Articles Slider */}
               <div className={`transition-all duration-1000 ${isVisible ? 'opacity-100 translate-x-0' : 'opacity-0 translate-x-10'}`}>
-                {featuredLoading ? (
+                {latestLoading ? (
                   <div className="bg-white/10 backdrop-blur-sm rounded-2xl p-6 animate-pulse">
                     <div className="h-64 bg-gray-300 rounded-xl mb-4"></div>
                     <div className="h-6 bg-gray-300 rounded mb-2"></div>
                     <div className="h-4 bg-gray-300 rounded w-2/3"></div>
                   </div>
-                ) : featuredArticles && featuredArticles.length > 0 ? (
+                ) : latestArticles && latestArticles.length > 0 ? (
                   <div className="relative">
-                    {/* Article Slider */}
+                    {/* Latest Articles Slider */}
                     <div className="relative overflow-hidden rounded-2xl shadow-2xl">
-                      {featuredArticles.slice(0, 3).map((article, index) => (
+                      {latestArticles.slice(0, 5).map((article, index) => (
                         <div
                           key={article.id}
                           className={`absolute inset-0 transition-all duration-700 ease-in-out ${
@@ -188,7 +197,10 @@ export default function Home() {
                                 </Badge>
                               </div>
                               <div className="absolute bottom-4 right-4 bg-black/50 text-white px-3 py-1 rounded-full text-sm">
-                                {index + 1} / 3
+                                {index + 1} / {latestArticles.length}
+                              </div>
+                              <div className="absolute top-4 right-4 bg-gradient-to-r from-orange-500 to-red-500 text-white px-2 py-1 rounded-full text-xs font-bold animate-pulse">
+                                LATEST
                               </div>
                             </div>
                             <CardContent className="p-6">
@@ -217,13 +229,13 @@ export default function Home() {
 
                     {/* Navigation Arrows */}
                     <button
-                      onClick={() => setCurrentSlide((prev) => prev === 0 ? 2 : prev - 1)}
+                      onClick={() => setCurrentSlide((prev) => prev === 0 ? latestArticles.length - 1 : prev - 1)}
                       className="absolute left-4 top-1/2 -translate-y-1/2 bg-white/90 hover:bg-white text-slate-900 p-2 rounded-full shadow-lg transition-all duration-300 hover:scale-110"
                     >
                       <ChevronLeft className="h-5 w-5" />
                     </button>
                     <button
-                      onClick={() => setCurrentSlide((prev) => (prev + 1) % 3)}
+                      onClick={() => setCurrentSlide((prev) => (prev + 1) % latestArticles.length)}
                       className="absolute right-4 top-1/2 -translate-y-1/2 bg-white/90 hover:bg-white text-slate-900 p-2 rounded-full shadow-lg transition-all duration-300 hover:scale-110"
                     >
                       <ChevronRight className="h-5 w-5" />
@@ -231,7 +243,7 @@ export default function Home() {
 
                     {/* Dots Indicator */}
                     <div className="flex justify-center mt-4 space-x-2">
-                      {[0, 1, 2].map((slide) => (
+                      {latestArticles.map((_, slide) => (
                         <button
                           key={slide}
                           onClick={() => setCurrentSlide(slide)}

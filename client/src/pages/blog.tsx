@@ -113,15 +113,15 @@ export default function Blog() {
                     onChange={(e) => setSearchQuery(e.target.value)}
                     className="w-full pl-16 pr-32 py-6 text-lg bg-transparent border-0 focus:ring-0 focus:outline-none placeholder:text-gray-400"
                   />
-                  <div className="absolute left-5 top-6">
+                  <div className="absolute left-6 top-1/2 transform -translate-y-1/2 pointer-events-none">
                     <Search className="h-6 w-6 text-slate-500" />
                   </div>
                   {isSearching && (
-                    <div className="absolute right-24 top-6">
+                    <div className="absolute right-24 top-1/2 transform -translate-y-1/2">
                       <div className="animate-spin rounded-full h-6 w-6 border-b-2 border-slate-600"></div>
                     </div>
                   )}
-                  <div className="absolute right-2 top-2 bottom-2 flex items-center">
+                  <div className="absolute right-3 top-1/2 transform -translate-y-1/2">
                     <div className="bg-gradient-to-r from-slate-800 to-slate-900 text-white px-4 py-2 rounded-xl text-sm font-medium hover:from-slate-900 hover:to-black transition-all duration-300 cursor-pointer">
                       Search
                     </div>

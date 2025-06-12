@@ -157,17 +157,37 @@ export default function About() {
                   ABOUT US
                 </div>
                 
-                <h1 className="text-4xl md:text-6xl font-bold mb-6 leading-tight">
-                  Professional News
-                  <span className="block bg-gradient-to-r from-slate-200 to-white bg-clip-text text-transparent">
-                    You Can Trust
+                <h1 className="text-5xl md:text-7xl font-bold mb-6 leading-tight">
+                  Excellence in
+                  <span className="block bg-gradient-to-r from-slate-200 via-white to-slate-100 bg-clip-text text-transparent">
+                    Digital Journalism
                   </span>
                 </h1>
                 
-                <p className="text-xl text-gray-300 mb-8 leading-relaxed">
-                  Your trusted partner in staying informed about the world around you. We deliver comprehensive, 
-                  accurate, and timely news coverage from verified sources across the globe.
+                <p className="text-xl md:text-2xl text-gray-300 mb-8 leading-relaxed max-w-4xl">
+                  Delivering world-class journalism through cutting-edge technology and uncompromising editorial standards. 
+                  We connect millions of readers to the stories that matter most, backed by rigorous fact-checking and 
+                  real-time global coverage.
                 </p>
+                
+                <div className="grid grid-cols-2 md:grid-cols-4 gap-6 mb-8 max-w-4xl">
+                  <div className="text-center">
+                    <div className="text-3xl font-bold text-white mb-1">24/7</div>
+                    <div className="text-sm text-gray-400">Live Coverage</div>
+                  </div>
+                  <div className="text-center">
+                    <div className="text-3xl font-bold text-white mb-1">150+</div>
+                    <div className="text-sm text-gray-400">Global Sources</div>
+                  </div>
+                  <div className="text-center">
+                    <div className="text-3xl font-bold text-white mb-1">2M+</div>
+                    <div className="text-sm text-gray-400">Monthly Readers</div>
+                  </div>
+                  <div className="text-center">
+                    <div className="text-3xl font-bold text-white mb-1">99.9%</div>
+                    <div className="text-sm text-gray-400">Accuracy Rate</div>
+                  </div>
+                </div>
 
                 <div className="flex flex-col sm:flex-row gap-4">
                   <Link href="/blog">
