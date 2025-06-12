@@ -117,40 +117,114 @@ export default function About() {
 
   return (
     <div className="min-h-screen bg-gradient-to-br from-gray-50 via-white to-blue-50/30 pt-16">
-      {/* Hero Section */}
-      <section className="py-20 bg-gradient-to-br from-slate-600/10 via-gray-600/10 to-zinc-700/10 relative overflow-hidden">
+      {/* Hero Section with Image */}
+      <section className="relative h-[70vh] overflow-hidden">
+        {/* Hero Background Image */}
         <div className="absolute inset-0">
-          <div className="absolute top-20 left-20 w-72 h-72 bg-gradient-to-r from-slate-400/20 to-gray-400/20 rounded-full blur-3xl animate-pulse"></div>
-          <div className="absolute bottom-20 right-20 w-96 h-96 bg-gradient-to-r from-gray-400/20 to-zinc-400/20 rounded-full blur-3xl animate-pulse"></div>
+          <div className="absolute inset-0 bg-gradient-to-br from-slate-900/80 via-gray-900/80 to-black/80 z-10"></div>
+          <div className="absolute inset-0 bg-gradient-to-br from-slate-600/20 via-gray-600/20 to-zinc-700/20">
+            {/* Professional News Background Pattern */}
+            <div className="absolute inset-0 opacity-20">
+              <div className="grid grid-cols-8 gap-4 h-full p-8">
+                {[...Array(32)].map((_, i) => (
+                  <div 
+                    key={i} 
+                    className="bg-white rounded-lg animate-pulse" 
+                    style={{ 
+                      animationDelay: `${i * 0.1}s`,
+                      height: `${Math.random() * 60 + 20}%`,
+                      marginTop: `${Math.random() * 40}%`
+                    }}
+                  ></div>
+                ))}
+              </div>
+            </div>
+            {/* News Elements */}
+            <div className="absolute top-20 left-20 w-64 h-64 bg-gradient-to-r from-white/10 to-transparent rounded-full blur-3xl animate-pulse"></div>
+            <div className="absolute bottom-20 right-20 w-80 h-80 bg-gradient-to-r from-white/10 to-transparent rounded-full blur-3xl animate-pulse" style={{ animationDelay: '2s' }}></div>
+          </div>
         </div>
         
-        <div className="relative z-10 max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
-          <div className="inline-flex items-center justify-center w-20 h-20 rounded-full bg-gradient-to-r from-slate-800 via-slate-900 to-black mb-8 shadow-2xl">
-            <Globe className="h-10 w-10 text-white" />
-          </div>
-          
-          <h1 className="text-5xl md:text-6xl font-bold mb-6 bg-gradient-to-r from-slate-800 via-slate-900 to-black bg-clip-text text-transparent">
-            About NewsHub
-          </h1>
-          
-          <p className="text-xl md:text-2xl text-gray-600 max-w-4xl mx-auto leading-relaxed mb-8">
-            Your trusted partner in staying informed about the world around you. We deliver comprehensive, 
-            accurate, and timely news coverage from verified sources across the globe.
-          </p>
+        {/* Hero Content */}
+        <div className="relative z-20 h-full flex items-center">
+          <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 w-full">
+            <div className="grid grid-cols-1 lg:grid-cols-2 gap-12 items-center">
+              
+              {/* Left Side - Text Content */}
+              <div className="text-white">
+                <div className="inline-flex items-center bg-gradient-to-r from-slate-700 to-slate-800 text-white px-4 py-2 rounded-full text-sm font-bold mb-6">
+                  <Globe className="h-4 w-4 mr-2" />
+                  ABOUT US
+                </div>
+                
+                <h1 className="text-4xl md:text-6xl font-bold mb-6 leading-tight">
+                  Professional News
+                  <span className="block bg-gradient-to-r from-slate-200 to-white bg-clip-text text-transparent">
+                    You Can Trust
+                  </span>
+                </h1>
+                
+                <p className="text-xl text-gray-300 mb-8 leading-relaxed">
+                  Your trusted partner in staying informed about the world around you. We deliver comprehensive, 
+                  accurate, and timely news coverage from verified sources across the globe.
+                </p>
 
-          <div className="flex flex-col sm:flex-row gap-4 justify-center">
-            <Link href="/blog">
-              <Button size="lg" className="bg-gradient-to-r from-slate-800 to-slate-900 hover:from-slate-900 hover:to-black text-white px-8 py-4 text-lg shadow-xl hover:shadow-2xl transition-all duration-300 hover:scale-105">
-                <BookOpen className="mr-2 h-5 w-5" />
-                Read Our Stories
-                <ArrowRight className="ml-2 h-5 w-5" />
-              </Button>
-            </Link>
-            <Link href="/contact">
-              <Button size="lg" variant="outline" className="border-2 border-slate-300 hover:border-slate-400 text-slate-700 hover:text-slate-800 px-8 py-4 text-lg bg-white/80 backdrop-blur-sm hover:bg-white transition-all duration-300 hover:scale-105">
-                Get In Touch
-              </Button>
-            </Link>
+                <div className="flex flex-col sm:flex-row gap-4">
+                  <Link href="/blog">
+                    <Button size="lg" className="bg-white text-slate-900 hover:bg-gray-100 px-8 py-4 text-lg font-semibold shadow-xl hover:shadow-2xl transition-all duration-300 hover:scale-105">
+                      <BookOpen className="mr-2 h-5 w-5" />
+                      Read Our Stories
+                      <ArrowRight className="ml-2 h-5 w-5" />
+                    </Button>
+                  </Link>
+                  <Link href="/contact">
+                    <Button size="lg" variant="outline" className="border-2 border-white text-white hover:bg-white hover:text-slate-900 px-8 py-4 text-lg font-semibold transition-all duration-300">
+                      Get In Touch
+                    </Button>
+                  </Link>
+                </div>
+              </div>
+
+              {/* Right Side - Image/Visual Element */}
+              <div className="relative">
+                <div className="relative bg-white/10 backdrop-blur-sm rounded-2xl p-8 shadow-2xl">
+                  <div className="bg-gradient-to-br from-slate-100 to-gray-200 rounded-xl h-80 flex items-center justify-center relative overflow-hidden">
+                    {/* News Mockup Image */}
+                    <div className="absolute inset-0 bg-gradient-to-br from-slate-800 to-slate-900 opacity-90"></div>
+                    <div className="relative z-10 text-center text-white">
+                      <div className="mb-6">
+                        <div className="grid grid-cols-3 gap-2 mb-4">
+                          {[...Array(9)].map((_, i) => (
+                            <div 
+                              key={i} 
+                              className="bg-white/20 rounded h-6 animate-pulse" 
+                              style={{ animationDelay: `${i * 0.2}s` }}
+                            ></div>
+                          ))}
+                        </div>
+                        <div className="space-y-2">
+                          <div className="bg-white/30 rounded h-4 w-3/4 mx-auto animate-pulse"></div>
+                          <div className="bg-white/30 rounded h-4 w-1/2 mx-auto animate-pulse"></div>
+                        </div>
+                      </div>
+                      <div className="inline-flex items-center justify-center w-16 h-16 rounded-full bg-white/20 mb-4">
+                        <Globe className="h-8 w-8 text-white" />
+                      </div>
+                      <p className="text-lg font-semibold">NewsHub Platform</p>
+                      <p className="text-sm text-gray-300">Professional News Interface</p>
+                    </div>
+                  </div>
+                  
+                  {/* Floating Elements */}
+                  <div className="absolute -top-4 -right-4 bg-gradient-to-r from-orange-500 to-red-500 text-white px-3 py-1 rounded-full text-sm font-bold animate-pulse">
+                    LIVE
+                  </div>
+                  <div className="absolute -bottom-4 -left-4 bg-gradient-to-r from-slate-700 to-slate-800 text-white px-3 py-1 rounded-full text-sm">
+                    24/7 Coverage
+                  </div>
+                </div>
+              </div>
+            </div>
           </div>
         </div>
       </section>
