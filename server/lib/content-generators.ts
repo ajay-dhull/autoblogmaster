@@ -29,12 +29,16 @@ class ContentGenerator {
   }
 
   private generateSlug(title: string): string {
-    return title
+    const baseSlug = title
       .toLowerCase()
       .replace(/[^a-z0-9\s-]/g, "")
       .replace(/\s+/g, "-")
       .replace(/-+/g, "-")
       .trim();
+    
+    // Add timestamp to ensure uniqueness
+    const timestamp = Date.now().toString(36);
+    return `${baseSlug}-${timestamp}`;
   }
 
   private async enhanceWithGroq(content: string, title: string, category: string = ""): Promise<string> {
@@ -53,13 +57,14 @@ class ContentGenerator {
               content: `You are an expert professional journalist and content writer with 15+ years of experience. Your task is to transform the given content into a comprehensive, highly engaging, and SEO-optimized article that provides maximum value to readers.
 
 CONTENT REQUIREMENTS:
-- Write in a professional yet conversational tone that builds trust and authority
-- Create compelling introductions that hook readers immediately
-- Expand on key points with detailed explanations, examples, and context
-- Add relevant background information and expert insights
-- Include practical implications and actionable takeaways
-- Use storytelling elements to make content more engaging
-- Ensure factual accuracy and provide comprehensive coverage
+- PRESERVE ALL FACTUAL INFORMATION from the original content
+- Maintain all specific details, statistics, quotes, and data points
+- Expand on existing information with context and analysis
+- Write in a professional yet engaging journalistic style
+- Create compelling introductions while preserving original facts
+- Add relevant background information without changing core facts
+- Include all names, dates, locations, and numbers from original
+- Provide expert analysis while keeping original information intact
 - Structure content for optimal readability and SEO
 
 FORMATTING REQUIREMENTS:
@@ -71,14 +76,14 @@ FORMATTING REQUIREMENTS:
 - Include relevant subheadings to break up long sections
 
 CONTENT STRUCTURE:
-1. Compelling introduction that establishes context and importance
-2. Main content expanded with detailed analysis and insights
-3. Key takeaways or implications clearly highlighted
+1. Compelling introduction with original context preserved
+2. Main content with ALL original details expanded and enhanced
+3. Key facts and statistics clearly highlighted
 4. Professional conclusion that ties everything together
 
 TARGET LENGTH: 800-1200 words minimum
-TONE: Professional, authoritative, yet accessible to general audience
-FOCUS: Provide comprehensive information that leaves no important detail uncovered`
+TONE: Professional, authoritative, yet accessible journalism
+FOCUS: Rewrite for better readability while preserving ALL original information`
             },
             {
               role: "user",
@@ -173,12 +178,48 @@ Please rewrite this into a comprehensive, professional article that expands on a
         for (const article of data.articles.slice(0, 2)) {
           if (!article.title || !article.description || article.title.includes('[Removed]')) continue;
 
+          // Fetch full article content from the original URL
+          let fullArticleContent = article.description;
+          
+          try {
+            if (article.url) {
+              // Try to fetch more content from the original source
+              const articleResponse = await fetch(article.url, {
+                headers: {
+                  'User-Agent': 'Mozilla/5.0 (compatible; AutoBlog/1.0)'
+                }
+              });
+              
+              if (articleResponse.ok) {
+                const htmlContent = await articleResponse.text();
+                // Extract meaningful content from HTML (basic extraction)
+                const textContent = htmlContent
+                  .replace(/<script[^>]*>.*?<\/script>/gi, '')
+                  .replace(/<style[^>]*>.*?<\/style>/gi, '')
+                  .replace(/<[^>]*>/g, ' ')
+                  .replace(/\s+/g, ' ')
+                  .trim();
+                
+                // Get first 1000 characters of meaningful content
+                if (textContent.length > 500) {
+                  fullArticleContent = textContent.substring(0, 1000);
+                }
+              }
+            }
+          } catch (error) {
+            console.log(`Could not fetch full content from ${article.url}`);
+          }
+
           // Combine all available content for better context
           const fullContent = [
-            article.description,
-            article.content || "",
+            `Title: ${article.title}`,
+            `Description: ${article.description}`,
+            `Full Content: ${fullArticleContent}`,
+            article.content ? `Original Content: ${article.content}` : "",
             `Source: ${article.source?.name || 'Unknown'}`,
+            `Published: ${article.publishedAt || 'Unknown'}`,
             article.author ? `Author: ${article.author}` : "",
+            `URL: ${article.url || 'Unknown'}`,
           ].filter(Boolean).join('\n\n');
 
           const enhancedContent = await this.enhanceWithGroq(
@@ -259,14 +300,47 @@ Please rewrite this into a comprehensive, professional article that expands on a
         for (const article of data.articles.slice(0, 2)) {
           if (!article.title || !article.description) continue;
 
+          // Fetch full article content from the original URL
+          let fullArticleContent = article.description;
+          
+          try {
+            if (article.url) {
+              const articleResponse = await fetch(article.url, {
+                headers: {
+                  'User-Agent': 'Mozilla/5.0 (compatible; AutoBlog/1.0)'
+                }
+              });
+              
+              if (articleResponse.ok) {
+                const htmlContent = await articleResponse.text();
+                const textContent = htmlContent
+                  .replace(/<script[^>]*>.*?<\/script>/gi, '')
+                  .replace(/<style[^>]*>.*?<\/style>/gi, '')
+                  .replace(/<[^>]*>/g, ' ')
+                  .replace(/\s+/g, ' ')
+                  .trim();
+                
+                if (textContent.length > 500) {
+                  fullArticleContent = textContent.substring(0, 1200);
+                }
+              }
+            }
+          } catch (error) {
+            console.log(`Could not fetch full content from ${article.url}`);
+          }
+
           // Combine comprehensive content from GNews
           const fullContent = [
-            article.description,
-            article.content || "",
+            `Title: ${article.title}`,
+            `Description: ${article.description}`,
+            `Full Article Content: ${fullArticleContent}`,
+            article.content ? `Original Content: ${article.content}` : "",
             `Published by: ${article.source?.name || 'Unknown Source'}`,
             `Location: India`,
             `Topic: ${topic}`,
+            `Published: ${article.publishedAt || 'Unknown'}`,
             article.author ? `Author: ${article.author}` : "",
+            `Source URL: ${article.url || 'Unknown'}`,
           ].filter(Boolean).join('\n\n');
 
           const enhancedContent = await this.enhanceWithGroq(
