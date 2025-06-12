@@ -160,7 +160,7 @@ export default function Home() {
                         <div className="flex items-center justify-between">
                           <div className="flex items-center text-gray-500 text-xs">
                             <Calendar className="h-3 w-3 mr-1" />
-                            {new Date(article.publishedAt).toLocaleDateString()}
+                            {article.publishedAt ? new Date(article.publishedAt).toLocaleDateString() : 'Recent'}
                           </div>
                           <Link href={`/article/${article.slug}`}>
                             <Button variant="ghost" size="sm" className="text-slate-800 hover:text-slate-900">
@@ -341,9 +341,9 @@ export default function Home() {
                 <Link key={article.id} href={`/article/${article.slug}`}>
                   <Card className="group hover:shadow-xl transition-all duration-300 hover:scale-105 cursor-pointer overflow-hidden border-0 bg-white">
                     <div className="relative">
-                      {article.imageUrl ? (
+                      {article.featuredImage ? (
                         <img 
-                          src={article.imageUrl} 
+                          src={article.featuredImage} 
                           alt={article.title}
                           className="w-full h-32 object-cover group-hover:scale-110 transition-transform duration-300"
                         />
@@ -362,7 +362,7 @@ export default function Home() {
                       </h3>
                       <div className="flex items-center text-gray-500 text-xs">
                         <Calendar className="h-3 w-3 mr-1" />
-                        {new Date(article.publishedAt).toLocaleDateString()}
+                        {article.publishedAt ? new Date(article.publishedAt).toLocaleDateString() : 'Recent'}
                       </div>
                     </CardContent>
                   </Card>

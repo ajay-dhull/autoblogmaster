@@ -66,42 +66,80 @@ export default function Blog() {
   return (
     <div className="min-h-screen bg-gradient-to-br from-gray-50 via-white to-blue-50/30 pt-16">
       {/* Hero Section */}
-      <section className="py-16 bg-gradient-to-br from-blue-600/10 via-purple-600/10 to-indigo-700/10 relative overflow-hidden">
+      <section className="py-20 bg-gradient-to-br from-slate-600/10 via-gray-600/10 to-zinc-700/10 relative overflow-hidden">
+        {/* Background with Images */}
         <div className="absolute inset-0">
-          <div className="absolute top-10 left-10 w-72 h-72 bg-gradient-to-r from-blue-400/20 to-purple-400/20 rounded-full blur-3xl animate-pulse"></div>
-          <div className="absolute bottom-10 right-10 w-96 h-96 bg-gradient-to-r from-purple-400/20 to-pink-400/20 rounded-full blur-3xl animate-pulse"></div>
+          <div className="absolute top-10 left-10 w-72 h-72 bg-gradient-to-r from-slate-400/20 to-gray-400/20 rounded-full blur-3xl animate-pulse"></div>
+          <div className="absolute bottom-10 right-10 w-96 h-96 bg-gradient-to-r from-gray-400/20 to-zinc-400/20 rounded-full blur-3xl animate-pulse"></div>
+          {/* News Pattern Overlay */}
+          <div className="absolute inset-0 opacity-5">
+            <div className="grid grid-cols-12 gap-4 h-full p-8">
+              {[...Array(24)].map((_, i) => (
+                <div key={i} className="bg-slate-600 rounded-lg animate-pulse" style={{ animationDelay: `${i * 0.1}s` }}></div>
+              ))}
+            </div>
+          </div>
         </div>
         
         <div className="relative z-10 max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
           <div className={`transition-all duration-1000 ${isVisible ? 'opacity-100 translate-y-0' : 'opacity-0 translate-y-10'}`}>
-            <div className="inline-flex items-center justify-center w-16 h-16 rounded-full bg-gradient-to-r from-blue-600 via-purple-600 to-indigo-700 mb-6 shadow-2xl">
-              <BookOpen className="h-8 w-8 text-white" />
+            {/* Hero Icon and Badge */}
+            <div className="relative inline-block mb-8">
+              <div className="inline-flex items-center justify-center w-20 h-20 rounded-full bg-gradient-to-r from-slate-800 via-slate-900 to-black shadow-2xl">
+                <BookOpen className="h-10 w-10 text-white" />
+              </div>
+              <div className="absolute -top-2 -right-2 bg-gradient-to-r from-orange-500 to-red-500 text-white text-xs font-bold px-2 py-1 rounded-full animate-pulse">
+                LIVE
+              </div>
             </div>
             
-            <h1 className="text-4xl md:text-6xl font-bold mb-6 bg-gradient-to-r from-gray-900 via-blue-800 to-purple-800 bg-clip-text text-transparent">
-              Latest News & Insights
+            <h1 className="text-5xl md:text-7xl font-bold mb-6 bg-gradient-to-r from-slate-800 via-slate-900 to-black bg-clip-text text-transparent">
+              Breaking News Hub
             </h1>
             
-            <p className="text-xl md:text-2xl text-gray-600 max-w-3xl mx-auto leading-relaxed mb-8">
-              Stay informed with comprehensive coverage of global events, technology trends, and educational insights from trusted sources worldwide.
+            <p className="text-xl md:text-2xl text-gray-600 max-w-4xl mx-auto leading-relaxed mb-12">
+              Discover comprehensive coverage of global events, technology innovations, and educational insights from verified sources worldwide. Stay ahead with real-time updates and expert analysis.
             </p>
 
-            {/* Enhanced Search Bar */}
-            <div className="max-w-2xl mx-auto">
-              <div className="relative">
+            {/* Search Bar */}
+            <div className="max-w-2xl mx-auto mb-8">
+              <div className="relative group">
                 <Input
                   type="text"
-                  placeholder="Search articles, topics, or keywords..."
+                  placeholder="Search breaking news, topics, or keywords..."
                   value={searchQuery}
                   onChange={(e) => setSearchQuery(e.target.value)}
-                  className="w-full pl-12 pr-4 py-4 text-lg bg-white/80 backdrop-blur-sm border-gray-200 focus:bg-white focus:border-blue-300 focus:ring-2 focus:ring-blue-100 transition-all duration-300 rounded-xl shadow-lg"
+                  className="w-full pl-14 pr-20 py-5 text-lg bg-white/90 backdrop-blur-sm border-2 border-slate-200 focus:bg-white focus:border-slate-400 focus:ring-4 focus:ring-slate-100 transition-all duration-300 rounded-2xl shadow-xl group-hover:shadow-2xl"
                 />
-                <Search className="absolute left-4 top-4 h-6 w-6 text-gray-400" />
+                <Search className="absolute left-5 top-5 h-6 w-6 text-slate-400 group-hover:text-slate-600 transition-colors duration-300" />
                 {isSearching && (
-                  <div className="absolute right-4 top-4">
-                    <div className="animate-spin rounded-full h-6 w-6 border-b-2 border-blue-600"></div>
+                  <div className="absolute right-5 top-5">
+                    <div className="animate-spin rounded-full h-6 w-6 border-b-2 border-slate-600"></div>
                   </div>
                 )}
+                <div className="absolute right-3 top-3 bg-slate-800 text-white px-3 py-2 rounded-xl text-sm font-medium">
+                  Press Enter
+                </div>
+              </div>
+            </div>
+
+            {/* Quick Stats */}
+            <div className="grid grid-cols-2 md:grid-cols-4 gap-6 max-w-4xl mx-auto">
+              <div className="text-center group">
+                <div className="text-2xl font-bold text-slate-800 group-hover:text-slate-900 transition-colors duration-300">2K+</div>
+                <div className="text-sm text-gray-600">Articles</div>
+              </div>
+              <div className="text-center group">
+                <div className="text-2xl font-bold text-slate-800 group-hover:text-slate-900 transition-colors duration-300">25+</div>
+                <div className="text-sm text-gray-600">Countries</div>
+              </div>
+              <div className="text-center group">
+                <div className="text-2xl font-bold text-slate-800 group-hover:text-slate-900 transition-colors duration-300">Live</div>
+                <div className="text-sm text-gray-600">Updates</div>
+              </div>
+              <div className="text-center group">
+                <div className="text-2xl font-bold text-slate-800 group-hover:text-slate-900 transition-colors duration-300">24/7</div>
+                <div className="text-sm text-gray-600">Coverage</div>
               </div>
             </div>
           </div>
