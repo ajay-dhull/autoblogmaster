@@ -48,10 +48,15 @@ export default function Blog() {
   return (
     <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-8">
       {/* Header */}
-      <div className="text-center mb-12">
-        <h1 className="text-4xl md:text-5xl font-bold mb-4">Latest Articles</h1>
-        <p className="text-xl text-gray-600 max-w-2xl mx-auto">
-          Discover our AI-generated content from trending news, educational topics, and viral discussions
+      <div className="text-center mb-16">
+        <div className="inline-flex items-center px-4 py-2 bg-gradient-to-r from-blue-50 to-purple-50 rounded-full mb-6">
+          <span className="text-sm font-medium text-gray-600">🚀 AI-Powered Content</span>
+        </div>
+        <h1 className="text-5xl md:text-7xl font-extrabold mb-6 bg-gradient-to-r from-gray-900 via-blue-600 to-purple-600 bg-clip-text text-transparent leading-tight">
+          Latest Articles
+        </h1>
+        <p className="text-xl md:text-2xl text-gray-600 max-w-3xl mx-auto leading-relaxed font-light">
+          Discover comprehensive, AI-enhanced content from trusted news sources, educational insights, and trending discussions
         </p>
       </div>
 
@@ -113,7 +118,7 @@ export default function Blog() {
       {isLoading || isSearching ? (
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
           {[...Array(9)].map((_, i) => (
-            <div key={i} className="bg-gray-100 rounded-xl h-96 animate-pulse" />
+            <div key={i} className="bg-gradient-to-br from-gray-100 to-gray-200 rounded-2xl h-96 animate-pulse shadow-sm" />
           ))}
         </div>
       ) : error ? (
@@ -124,8 +129,14 @@ export default function Blog() {
       ) : displayArticles && displayArticles.length > 0 ? (
         <>
           <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
-            {displayArticles.map((article) => (
-              <ArticleCard key={article.id} article={article} />
+            {displayArticles.map((article, index) => (
+              <div
+                key={article.id}
+                className="animate-fade-in"
+                style={{ animationDelay: `${index * 0.1}s` }}
+              >
+                <ArticleCard article={article} />
+              </div>
             ))}
           </div>
 
