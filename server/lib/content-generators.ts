@@ -37,7 +37,7 @@ class ContentGenerator {
       .trim();
   }
 
-  private async enhanceWithGroq(content: string, title: string): Promise<string> {
+  private async enhanceWithGroq(content: string, title: string, category: string = ""): Promise<string> {
     try {
       const response = await fetch("https://api.groq.com/openai/v1/chat/completions", {
         method: "POST",
@@ -46,19 +46,52 @@ class ContentGenerator {
           "Content-Type": "application/json",
         },
         body: JSON.stringify({
-          model: "llama3-8b-8192",
+          model: "llama3-70b-8192",
           messages: [
             {
               role: "system",
-              content: "You are a professional blog writer. Rewrite the given content to be engaging, SEO-optimized, and well-structured with proper headings. Make it unique and add human emotion, curiosity, and clarity. Format with HTML tags (h2, h3, p, ul, li)."
+              content: `You are an expert professional journalist and content writer with 15+ years of experience. Your task is to transform the given content into a comprehensive, highly engaging, and SEO-optimized article that provides maximum value to readers.
+
+CONTENT REQUIREMENTS:
+- Write in a professional yet conversational tone that builds trust and authority
+- Create compelling introductions that hook readers immediately
+- Expand on key points with detailed explanations, examples, and context
+- Add relevant background information and expert insights
+- Include practical implications and actionable takeaways
+- Use storytelling elements to make content more engaging
+- Ensure factual accuracy and provide comprehensive coverage
+- Structure content for optimal readability and SEO
+
+FORMATTING REQUIREMENTS:
+- Use proper HTML structure with semantic tags
+- Create engaging headings that improve readability (h2, h3)
+- Format lists for better scanability (ul, li, ol)
+- Use strong tags for emphasis on key points
+- Add proper paragraph breaks for better flow
+- Include relevant subheadings to break up long sections
+
+CONTENT STRUCTURE:
+1. Compelling introduction that establishes context and importance
+2. Main content expanded with detailed analysis and insights
+3. Key takeaways or implications clearly highlighted
+4. Professional conclusion that ties everything together
+
+TARGET LENGTH: 800-1200 words minimum
+TONE: Professional, authoritative, yet accessible to general audience
+FOCUS: Provide comprehensive information that leaves no important detail uncovered`
             },
             {
               role: "user",
-              content: `Title: ${title}\n\nContent: ${content}`
+              content: `Category: ${category || "General"}
+Title: ${title}
+
+Original Content: ${content}
+
+Please rewrite this into a comprehensive, professional article that expands on all key points, provides context and background information, includes expert analysis, and ensures readers get complete understanding of the topic. Make it engaging and informative while maintaining journalistic integrity.`
             }
           ],
-          max_tokens: 2000,
-          temperature: 0.7
+          max_tokens: 4000,
+          temperature: 0.6
         })
       });
 
@@ -121,94 +154,167 @@ class ContentGenerator {
 
   async generateFromNewsAPI(): Promise<InsertArticle[]> {
     try {
-      const response = await fetch(
-        `https://newsapi.org/v2/top-headlines?category=general&language=en&pageSize=5&apiKey=${this.config.newsApiKey}`
-      );
+      // Fetch from multiple categories for better content variety
+      const categories = ['general', 'technology', 'business', 'health', 'science'];
+      const allArticles: InsertArticle[] = [];
 
-      if (!response.ok) {
-        throw new Error(`NewsAPI error: ${response.statusText}`);
-      }
-
-      const data = await response.json();
-      const articles: InsertArticle[] = [];
-
-      for (const article of data.articles.slice(0, 2)) {
-        if (!article.title || !article.description) continue;
-
-        const enhancedContent = await this.enhanceWithGroq(
-          article.description + (article.content || ""),
-          article.title
+      for (const category of categories.slice(0, 2)) {
+        const response = await fetch(
+          `https://newsapi.org/v2/top-headlines?category=${category}&language=en&pageSize=10&apiKey=${this.config.newsApiKey}`
         );
 
-        const featuredImage = await this.getImage(article.title);
+        if (!response.ok) {
+          console.error(`NewsAPI error for category ${category}:`, response.statusText);
+          continue;
+        }
 
-        articles.push({
-          title: article.title,
-          slug: this.generateSlug(article.title),
-          content: enhancedContent,
-          excerpt: article.description.substring(0, 200) + "...",
-          metaDescription: article.description.substring(0, 160),
-          category: "World News",
-          source: "NewsAPI",
-          sourceUrl: article.url,
-          featuredImage,
-          tags: ["news", "world", "global"],
-          isPublished: true,
-          publishedAt: new Date(),
-        });
+        const data = await response.json();
+
+        for (const article of data.articles.slice(0, 2)) {
+          if (!article.title || !article.description || article.title.includes('[Removed]')) continue;
+
+          // Combine all available content for better context
+          const fullContent = [
+            article.description,
+            article.content || "",
+            `Source: ${article.source?.name || 'Unknown'}`,
+            article.author ? `Author: ${article.author}` : "",
+          ].filter(Boolean).join('\n\n');
+
+          const enhancedContent = await this.enhanceWithGroq(
+            fullContent,
+            article.title,
+            this.getCategoryFromNewsAPI(category)
+          );
+
+          const featuredImage = await this.getImage(article.title + " " + category);
+
+          allArticles.push({
+            title: article.title,
+            slug: this.generateSlug(article.title),
+            content: enhancedContent,
+            excerpt: article.description.substring(0, 200) + "...",
+            metaDescription: article.description.substring(0, 160),
+            category: this.getCategoryFromNewsAPI(category),
+            source: "NewsAPI",
+            sourceUrl: article.url,
+            featuredImage,
+            tags: this.generateTags(article.title, category),
+            isPublished: true,
+            publishedAt: new Date(article.publishedAt || new Date()),
+          });
+        }
       }
 
-      return articles;
+      return allArticles;
     } catch (error) {
       console.error("Error generating from NewsAPI:", error);
       return [];
     }
   }
 
+  private getCategoryFromNewsAPI(apiCategory: string): string {
+    const categoryMap: { [key: string]: string } = {
+      'general': 'World News',
+      'technology': 'Technology',
+      'business': 'World News',
+      'health': 'Educational',
+      'science': 'Educational',
+      'sports': 'Trending'
+    };
+    return categoryMap[apiCategory] || 'World News';
+  }
+
+  private generateTags(title: string, category: string): string[] {
+    const baseTags = ['news', category.toLowerCase()];
+    const titleWords = title.toLowerCase().split(' ');
+    
+    // Add relevant keywords as tags
+    const relevantWords = titleWords.filter(word => 
+      word.length > 4 && 
+      !['the', 'and', 'or', 'but', 'in', 'on', 'at', 'to', 'for', 'of', 'with', 'by', 'from', 'up', 'about', 'into', 'through', 'during'].includes(word)
+    ).slice(0, 3);
+    
+    return [...baseTags, ...relevantWords];
+  }
+
   async generateFromGNews(): Promise<InsertArticle[]> {
     try {
-      const response = await fetch(
-        `https://gnews.io/api/v4/top-headlines?country=in&lang=en&max=5&apikey=${this.config.gnewsApiKey}`
-      );
+      // Fetch from multiple Indian news topics for comprehensive coverage
+      const topics = ['nation', 'business', 'technology', 'sports', 'health'];
+      const allArticles: InsertArticle[] = [];
 
-      if (!response.ok) {
-        throw new Error(`GNews error: ${response.statusText}`);
-      }
-
-      const data = await response.json();
-      const articles: InsertArticle[] = [];
-
-      for (const article of data.articles.slice(0, 3)) {
-        if (!article.title || !article.description) continue;
-
-        const enhancedContent = await this.enhanceWithGroq(
-          article.description + (article.content || ""),
-          article.title
+      for (const topic of topics.slice(0, 2)) {
+        const response = await fetch(
+          `https://gnews.io/api/v4/search?q=${topic}&country=in&lang=en&max=8&apikey=${this.config.gnewsApiKey}`
         );
 
-        const featuredImage = await this.getImage(article.title);
+        if (!response.ok) {
+          console.error(`GNews error for topic ${topic}:`, response.statusText);
+          continue;
+        }
 
-        articles.push({
-          title: article.title,
-          slug: this.generateSlug(article.title),
-          content: enhancedContent,
-          excerpt: article.description.substring(0, 200) + "...",
-          metaDescription: article.description.substring(0, 160),
-          category: "India News",
-          source: "GNews",
-          sourceUrl: article.url,
-          featuredImage,
-          tags: ["india", "news", "local"],
-          isPublished: true,
-          publishedAt: new Date(),
-        });
+        const data = await response.json();
+
+        for (const article of data.articles.slice(0, 2)) {
+          if (!article.title || !article.description) continue;
+
+          // Combine comprehensive content from GNews
+          const fullContent = [
+            article.description,
+            article.content || "",
+            `Published by: ${article.source?.name || 'Unknown Source'}`,
+            `Location: India`,
+            `Topic: ${topic}`,
+            article.author ? `Author: ${article.author}` : "",
+          ].filter(Boolean).join('\n\n');
+
+          const enhancedContent = await this.enhanceWithGroq(
+            fullContent,
+            article.title,
+            "India News"
+          );
+
+          const featuredImage = await this.getImage(article.title + " India news");
+
+          allArticles.push({
+            title: article.title,
+            slug: this.generateSlug(article.title),
+            content: enhancedContent,
+            excerpt: article.description.substring(0, 200) + "...",
+            metaDescription: article.description.substring(0, 160),
+            category: "India News",
+            source: "GNews",
+            sourceUrl: article.url,
+            featuredImage,
+            tags: this.generateTagsForIndia(article.title, topic),
+            isPublished: true,
+            publishedAt: new Date(article.publishedAt || new Date()),
+          });
+        }
       }
 
-      return articles;
+      return allArticles;
     } catch (error) {
       console.error("Error generating from GNews:", error);
       return [];
     }
+  }
+
+  private generateTagsForIndia(title: string, topic: string): string[] {
+    const baseTags = ['india', 'news', topic];
+    const titleWords = title.toLowerCase().split(' ');
+    
+    // Add Indian context tags
+    const indiaKeywords = ['delhi', 'mumbai', 'bangalore', 'chennai', 'kolkata', 'hyderabad', 'modi', 'government', 'bjp', 'congress'];
+    const foundIndiaKeywords = titleWords.filter(word => indiaKeywords.includes(word));
+    
+    const relevantWords = titleWords.filter(word => 
+      word.length > 4 && 
+      !['the', 'and', 'or', 'but', 'in', 'on', 'at', 'to', 'for', 'of', 'with', 'by', 'from'].includes(word)
+    ).slice(0, 2);
+    
+    return [...baseTags, ...foundIndiaKeywords, ...relevantWords];
   }
 
   async generateFromReddit(): Promise<InsertArticle[]> {
@@ -230,53 +336,104 @@ class ContentGenerator {
       const authData = await authResponse.json();
       const accessToken = authData.access_token;
 
-      // Get hot posts
-      const postsResponse = await fetch("https://oauth.reddit.com/hot?limit=5", {
-        headers: {
-          "Authorization": `Bearer ${accessToken}`,
-          "User-Agent": "AutoBlog/1.0",
-        },
-      });
+      // Fetch from multiple popular subreddits for diverse content
+      const subreddits = ['todayilearned', 'technology', 'worldnews', 'science', 'askscience'];
+      const allArticles: InsertArticle[] = [];
 
-      if (!postsResponse.ok) {
-        throw new Error(`Reddit posts error: ${postsResponse.statusText}`);
-      }
-
-      const postsData = await postsResponse.json();
-      const articles: InsertArticle[] = [];
-
-      for (const post of postsData.data.children.slice(0, 1)) {
-        const postData = post.data;
-        if (!postData.title || !postData.selftext) continue;
-
-        const enhancedContent = await this.enhanceWithGroq(
-          postData.selftext,
-          postData.title
-        );
-
-        const featuredImage = await this.getImage(postData.title);
-
-        articles.push({
-          title: postData.title,
-          slug: this.generateSlug(postData.title),
-          content: enhancedContent,
-          excerpt: postData.selftext.substring(0, 200) + "...",
-          metaDescription: postData.selftext.substring(0, 160),
-          category: "Viral",
-          source: "Reddit",
-          sourceUrl: `https://reddit.com${postData.permalink}`,
-          featuredImage,
-          tags: ["viral", "reddit", "trending"],
-          isPublished: true,
-          publishedAt: new Date(),
+      for (const subreddit of subreddits.slice(0, 2)) {
+        const postsResponse = await fetch(`https://oauth.reddit.com/r/${subreddit}/hot?limit=10`, {
+          headers: {
+            "Authorization": `Bearer ${accessToken}`,
+            "User-Agent": "AutoBlog/1.0",
+          },
         });
+
+        if (!postsResponse.ok) {
+          console.error(`Reddit posts error for r/${subreddit}:`, postsResponse.statusText);
+          continue;
+        }
+
+        const postsData = await postsResponse.json();
+
+        for (const post of postsData.data.children.slice(0, 1)) {
+          const postData = post.data;
+          if (!postData.title || postData.over_18 || postData.removed_by_category) continue;
+
+          // Combine comprehensive Reddit content
+          const fullContent = [
+            postData.selftext || postData.title,
+            `Subreddit: r/${postData.subreddit}`,
+            `Score: ${postData.score} upvotes`,
+            `Comments: ${postData.num_comments}`,
+            postData.author ? `Posted by: u/${postData.author}` : "",
+            postData.link_flair_text ? `Flair: ${postData.link_flair_text}` : "",
+          ].filter(Boolean).join('\n\n');
+
+          const enhancedContent = await this.enhanceWithGroq(
+            fullContent,
+            postData.title,
+            this.getCategoryFromSubreddit(postData.subreddit)
+          );
+
+          const featuredImage = await this.getImage(postData.title + " " + subreddit);
+
+          allArticles.push({
+            title: postData.title,
+            slug: this.generateSlug(postData.title),
+            content: enhancedContent,
+            excerpt: (postData.selftext || postData.title).substring(0, 200) + "...",
+            metaDescription: (postData.selftext || postData.title).substring(0, 160),
+            category: this.getCategoryFromSubreddit(postData.subreddit),
+            source: "Reddit",
+            sourceUrl: `https://reddit.com${postData.permalink}`,
+            featuredImage,
+            tags: this.generateTagsFromReddit(postData.title, postData.subreddit),
+            isPublished: true,
+            publishedAt: new Date(postData.created_utc * 1000),
+          });
+        }
       }
 
-      return articles;
+      return allArticles;
     } catch (error) {
       console.error("Error generating from Reddit:", error);
       return [];
     }
+  }
+
+  private getCategoryFromSubreddit(subreddit: string): string {
+    const categoryMap: { [key: string]: string } = {
+      'todayilearned': 'Educational',
+      'technology': 'Technology',
+      'worldnews': 'World News',
+      'science': 'Educational',
+      'askscience': 'Educational',
+      'funny': 'Viral',
+      'memes': 'Viral',
+      'politics': 'World News'
+    };
+    return categoryMap[subreddit.toLowerCase()] || 'Trending';
+  }
+
+  private generateTagsFromReddit(title: string, subreddit: string): string[] {
+    const baseTags = ['reddit', subreddit.toLowerCase(), 'viral'];
+    const titleWords = title.toLowerCase().split(' ');
+    
+    // Add subreddit-specific tags
+    const subredditTags: { [key: string]: string[] } = {
+      'todayilearned': ['education', 'facts', 'learning'],
+      'technology': ['tech', 'innovation', 'digital'],
+      'science': ['research', 'discovery', 'facts'],
+      'worldnews': ['global', 'politics', 'current-events']
+    };
+    
+    const contextTags = subredditTags[subreddit.toLowerCase()] || ['trending'];
+    const relevantWords = titleWords.filter(word => 
+      word.length > 4 && 
+      !['the', 'and', 'or', 'but', 'in', 'on', 'at', 'to', 'for', 'of', 'with', 'by', 'from'].includes(word)
+    ).slice(0, 2);
+    
+    return [...baseTags, ...contextTags, ...relevantWords];
   }
 
   async generateFromSerpAPI(): Promise<InsertArticle[]> {
@@ -331,16 +488,42 @@ class ContentGenerator {
   }
 
   async generateEducationalContent(): Promise<InsertArticle[]> {
-    const topics = [
-      "How to Make Money Online: Complete Guide for 2025",
-      "What is ChatGPT? Understanding AI Language Models",
-      "Who is MrBeast? The YouTube Empire Behind Philanthropic Content",
-      "Best AI Tools 2025: Revolutionary Platforms Transforming Industries"
+    const educationalTopics = [
+      {
+        title: "How to Make Money Online: Complete Guide for 2025",
+        keywords: "online earning, digital income, remote work, freelancing",
+        category: "Educational"
+      },
+      {
+        title: "What is ChatGPT? Understanding AI Language Models",
+        keywords: "artificial intelligence, machine learning, chatbot, language model",
+        category: "Technology"
+      },
+      {
+        title: "Who is MrBeast? The YouTube Empire Behind Philanthropic Content",
+        keywords: "youtube creator, content creator, philanthropy, viral videos",
+        category: "Trending"
+      },
+      {
+        title: "Best AI Tools 2025: Revolutionary Platforms Transforming Industries",
+        keywords: "AI tools, automation, productivity, technology trends",
+        category: "Technology"
+      },
+      {
+        title: "Digital Marketing Strategies That Actually Work in 2025",
+        keywords: "digital marketing, SEO, social media, content marketing",
+        category: "Educational"
+      },
+      {
+        title: "Complete Guide to Cryptocurrency Investment for Beginners",
+        keywords: "cryptocurrency, bitcoin, investment, blockchain technology",
+        category: "Educational"
+      }
     ];
 
     const articles: InsertArticle[] = [];
 
-    for (const topic of topics.slice(0, 2)) {
+    for (const topicData of educationalTopics.slice(0, 3)) {
       try {
         const response = await fetch("https://api.groq.com/openai/v1/chat/completions", {
           method: "POST",
@@ -349,19 +532,53 @@ class ContentGenerator {
             "Content-Type": "application/json",
           },
           body: JSON.stringify({
-            model: "llama3-8b-8192",
+            model: "llama3-70b-8192",
             messages: [
               {
                 role: "system",
-                content: "You are a professional educational content writer. Create comprehensive, engaging, and informative articles with proper structure. Use HTML tags for formatting (h2, h3, p, ul, li). Make the content unique, valuable, and SEO-optimized."
+                content: `You are an expert educational content writer and subject matter expert with deep knowledge across multiple domains. Create comprehensive, authoritative, and highly engaging articles that provide exceptional value to readers.
+
+CONTENT REQUIREMENTS:
+- Write 1200-1500 words minimum for comprehensive coverage
+- Start with compelling introduction that hooks readers immediately
+- Provide step-by-step guidance with practical examples
+- Include current statistics, trends, and expert insights
+- Add actionable tips and real-world applications
+- Cover common challenges and solutions
+- Conclude with key takeaways and next steps
+
+STRUCTURE REQUIREMENTS:
+- Use proper HTML formatting with semantic tags
+- Create engaging subheadings (h2, h3) that improve readability
+- Format lists for better scanability (ul, li, ol)
+- Use strong tags for emphasis on important points
+- Include relevant examples and case studies
+- Add practical tips in formatted lists
+
+TONE: Professional, authoritative, yet accessible and engaging
+TARGET: Comprehensive educational content that establishes expertise and trust`
               },
               {
                 role: "user",
-                content: `Write a comprehensive article about: ${topic}`
+                content: `Write a comprehensive educational article about: "${topicData.title}"
+
+Keywords to naturally incorporate: ${topicData.keywords}
+
+Create an in-depth, valuable resource that covers:
+1. Complete introduction to the topic
+2. Detailed explanations with examples
+3. Step-by-step guides where applicable
+4. Current trends and statistics
+5. Practical tips and best practices
+6. Common mistakes to avoid
+7. Future outlook and predictions
+8. Actionable next steps for readers
+
+Make this the most comprehensive and valuable article on this topic that readers will want to bookmark and share.`
               }
             ],
-            max_tokens: 2500,
-            temperature: 0.7
+            max_tokens: 4000,
+            temperature: 0.6
           })
         });
 
@@ -372,28 +589,44 @@ class ContentGenerator {
         const data = await response.json();
         const content = data.choices[0]?.message?.content || "";
 
-        const featuredImage = await this.getImage(topic);
+        const featuredImage = await this.getImage(topicData.keywords);
+
+        // Generate comprehensive excerpt from content
+        const textContent = content.replace(/<[^>]*>/g, '').substring(0, 300);
+        const excerpt = textContent + "...";
+        const metaDescription = textContent.substring(0, 160);
 
         articles.push({
-          title: topic,
-          slug: this.generateSlug(topic),
+          title: topicData.title,
+          slug: this.generateSlug(topicData.title),
           content,
-          excerpt: content.substring(0, 200) + "...",
-          metaDescription: content.substring(0, 160),
-          category: "Educational",
-          source: "Groq AI",
+          excerpt,
+          metaDescription,
+          category: topicData.category,
+          source: "Groq AI Educational",
           sourceUrl: null,
           featuredImage,
-          tags: ["education", "ai", "guide"],
+          tags: this.generateEducationalTags(topicData.title, topicData.keywords),
           isPublished: true,
           publishedAt: new Date(),
         });
       } catch (error) {
-        console.error(`Error generating educational content for ${topic}:`, error);
+        console.error(`Error generating educational content for ${topicData.title}:`, error);
       }
     }
 
     return articles;
+  }
+
+  private generateEducationalTags(title: string, keywords: string): string[] {
+    const baseTags = ['education', 'guide', 'tutorial'];
+    const keywordTags = keywords.split(', ').map(k => k.trim().toLowerCase());
+    const titleWords = title.toLowerCase().split(' ').filter(word => 
+      word.length > 4 && 
+      !['the', 'and', 'or', 'but', 'in', 'on', 'at', 'to', 'for', 'of', 'with', 'by', 'from', 'complete', 'guide'].includes(word)
+    ).slice(0, 2);
+    
+    return [...baseTags, ...keywordTags.slice(0, 3), ...titleWords];
   }
 
   async generateAllContent(): Promise<void> {
