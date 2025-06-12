@@ -17,15 +17,27 @@ import {
   Shield,
   Award,
   Eye,
-  Calendar
+  Calendar,
+  ChevronLeft,
+  ChevronRight,
+  Play
 } from "lucide-react";
 import { useState, useEffect } from "react";
 
 export default function Home() {
   const [isVisible, setIsVisible] = useState(false);
+  const [currentSlide, setCurrentSlide] = useState(0);
 
   useEffect(() => {
     setIsVisible(true);
+  }, []);
+
+  // Auto-slide effect for hero section
+  useEffect(() => {
+    const timer = setInterval(() => {
+      setCurrentSlide((prev) => (prev + 1) % 3);
+    }, 5000);
+    return () => clearInterval(timer);
   }, []);
 
   const { data: featuredArticles, isLoading: featuredLoading } = useQuery({
@@ -85,135 +97,161 @@ export default function Home() {
 
   return (
     <div className="min-h-screen bg-gradient-to-br from-gray-50 via-white to-slate-50/30 pt-16">
-      {/* Hero Section with Latest Articles */}
-      <section className="relative min-h-screen flex items-center justify-center overflow-hidden">
-        {/* Animated Background */}
-        <div className="absolute inset-0 bg-gradient-to-br from-slate-600/10 via-gray-600/10 to-zinc-700/10">
+      {/* Hero Section with Sliding Latest Articles */}
+      <section className="relative h-screen overflow-hidden">
+        {/* Background with Images */}
+        <div className="absolute inset-0">
+          <div className="absolute inset-0 bg-gradient-to-br from-slate-900/90 via-gray-900/90 to-black/90"></div>
           <div className="absolute inset-0 opacity-30">
-            <div className="absolute top-0 left-0 w-full h-full bg-gradient-to-r from-slate-200/20 to-gray-200/20 animate-pulse"></div>
+            <div className="absolute top-0 left-0 w-full h-full bg-gradient-to-r from-white/5 to-transparent"></div>
+            <div className="absolute top-1/4 left-1/4 w-2 h-2 bg-white/20 rounded-full animate-pulse"></div>
+            <div className="absolute top-3/4 right-1/4 w-2 h-2 bg-white/20 rounded-full animate-pulse" style={{ animationDelay: '1s' }}></div>
+            <div className="absolute bottom-1/4 left-1/3 w-2 h-2 bg-white/20 rounded-full animate-pulse" style={{ animationDelay: '2s' }}></div>
           </div>
         </div>
 
-        <div className="relative z-10 max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
-          <div className={`transition-all duration-1000 ${isVisible ? 'opacity-100 translate-y-0' : 'opacity-0 translate-y-10'}`}>
-            {/* Hero Content */}
-            <div className="mb-12">
-              <div className="inline-flex items-center justify-center w-20 h-20 rounded-full bg-gradient-to-r from-slate-800 via-slate-900 to-black mb-8 shadow-2xl">
-                <Globe className="h-10 w-10 text-white" />
-              </div>
+        {/* Hero Content with Sliding Articles */}
+        <div className="relative z-10 h-full flex items-center">
+          <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 w-full">
+            <div className="grid grid-cols-1 lg:grid-cols-2 gap-12 items-center">
               
-              <h1 className="text-5xl md:text-7xl font-bold mb-6 bg-gradient-to-r from-slate-800 via-slate-900 to-black bg-clip-text text-transparent">
-                Latest Breaking News
-              </h1>
-              
-              <p className="text-xl md:text-2xl text-gray-600 mb-8 max-w-3xl mx-auto leading-relaxed">
-                Stay informed with real-time updates, expert analysis, and comprehensive coverage of global events from trusted sources worldwide.
-              </p>
-            </div>
+              {/* Left Side - Hero Text */}
+              <div className={`text-white transition-all duration-1000 ${isVisible ? 'opacity-100 translate-x-0' : 'opacity-0 -translate-x-10'}`}>
+                <div className="inline-flex items-center bg-gradient-to-r from-orange-500 to-red-500 text-white px-4 py-2 rounded-full text-sm font-bold mb-6 animate-pulse">
+                  <div className="w-2 h-2 bg-white rounded-full mr-2 animate-ping"></div>
+                  LIVE NEWS
+                </div>
+                
+                <h1 className="text-4xl md:text-6xl font-bold mb-6 leading-tight">
+                  Breaking News
+                  <span className="block bg-gradient-to-r from-slate-200 to-white bg-clip-text text-transparent">
+                    Updates Live
+                  </span>
+                </h1>
+                
+                <p className="text-xl text-gray-300 mb-8 leading-relaxed">
+                  Stay ahead with real-time news coverage, expert analysis, and comprehensive reporting from trusted sources worldwide.
+                </p>
 
-            {/* Latest Articles Display */}
-            {featuredLoading ? (
-              <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6 mb-12">
-                {[...Array(3)].map((_, i) => (
-                  <Card key={i} className="overflow-hidden animate-pulse">
-                    <div className="h-48 bg-gray-200"></div>
-                    <CardContent className="p-6">
-                      <div className="h-4 bg-gray-200 rounded mb-2"></div>
-                      <div className="h-4 bg-gray-200 rounded mb-4 w-2/3"></div>
-                      <div className="h-3 bg-gray-200 rounded"></div>
-                    </CardContent>
-                  </Card>
-                ))}
+                <div className="flex flex-col sm:flex-row gap-4">
+                  <Link href="/blog">
+                    <Button size="lg" className="bg-white text-slate-900 hover:bg-gray-100 px-8 py-4 text-lg font-semibold shadow-xl hover:shadow-2xl transition-all duration-300 hover:scale-105">
+                      <Play className="mr-2 h-5 w-5" />
+                      Explore Stories
+                    </Button>
+                  </Link>
+                  <Button size="lg" variant="outline" className="border-2 border-white text-white hover:bg-white hover:text-slate-900 px-8 py-4 text-lg font-semibold transition-all duration-300">
+                    Watch Live
+                  </Button>
+                </div>
               </div>
-            ) : featuredArticles && featuredArticles.length > 0 ? (
-              <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6 mb-12">
-                {featuredArticles.slice(0, 3).map((article, index) => (
-                  <div 
-                    key={article.id}
-                    className="animate-in slide-in-from-bottom-4 duration-500"
-                    style={{ animationDelay: `${index * 0.2}s` }}
-                  >
-                    <Card className="group hover:shadow-2xl transition-all duration-500 hover:scale-105 bg-white border-0 overflow-hidden">
-                      <div className="relative">
-                        {article.featuredImage ? (
-                          <img 
-                            src={article.featuredImage} 
-                            alt={article.title}
-                            className="w-full h-48 object-cover group-hover:scale-110 transition-transform duration-500"
-                          />
-                        ) : (
-                          <div className="w-full h-48 bg-gradient-to-br from-slate-100 to-gray-100 flex items-center justify-center">
-                            <BookOpen className="h-12 w-12 text-gray-400" />
-                          </div>
-                        )}
-                        <Badge className="absolute top-3 left-3 bg-slate-800 text-white">
-                          {article.category}
-                        </Badge>
-                      </div>
-                      <CardContent className="p-6">
-                        <h3 className="text-lg font-bold mb-3 text-gray-900 group-hover:text-slate-800 transition-colors duration-300 line-clamp-2">
-                          {article.title}
-                        </h3>
-                        <p className="text-gray-600 text-sm mb-4 line-clamp-3">
-                          {article.content.replace(/<[^>]*>/g, '').substring(0, 150)}...
-                        </p>
-                        <div className="flex items-center justify-between">
-                          <div className="flex items-center text-gray-500 text-xs">
-                            <Calendar className="h-3 w-3 mr-1" />
-                            {article.publishedAt ? new Date(article.publishedAt).toLocaleDateString() : 'Recent'}
-                          </div>
-                          <Link href={`/article/${article.slug}`}>
-                            <Button variant="ghost" size="sm" className="text-slate-800 hover:text-slate-900">
-                              Read More
-                              <ArrowRight className="h-3 w-3 ml-1" />
-                            </Button>
-                          </Link>
-                        </div>
-                      </CardContent>
-                    </Card>
+
+              {/* Right Side - Sliding Articles */}
+              <div className={`transition-all duration-1000 ${isVisible ? 'opacity-100 translate-x-0' : 'opacity-0 translate-x-10'}`}>
+                {featuredLoading ? (
+                  <div className="bg-white/10 backdrop-blur-sm rounded-2xl p-6 animate-pulse">
+                    <div className="h-64 bg-gray-300 rounded-xl mb-4"></div>
+                    <div className="h-6 bg-gray-300 rounded mb-2"></div>
+                    <div className="h-4 bg-gray-300 rounded w-2/3"></div>
                   </div>
-                ))}
-              </div>
-            ) : (
-              <div className="mb-12">
-                <Card className="bg-white/80 backdrop-blur-sm border-0 shadow-xl p-8">
-                  <BookOpen className="h-16 w-16 text-gray-400 mx-auto mb-4" />
-                  <p className="text-gray-500 text-lg">Latest articles will appear here</p>
-                </Card>
-              </div>
-            )}
+                ) : featuredArticles && featuredArticles.length > 0 ? (
+                  <div className="relative">
+                    {/* Article Slider */}
+                    <div className="relative overflow-hidden rounded-2xl shadow-2xl">
+                      {featuredArticles.slice(0, 3).map((article, index) => (
+                        <div
+                          key={article.id}
+                          className={`absolute inset-0 transition-all duration-700 ease-in-out ${
+                            index === currentSlide 
+                              ? 'opacity-100 transform translate-x-0' 
+                              : index < currentSlide 
+                                ? 'opacity-0 transform -translate-x-full' 
+                                : 'opacity-0 transform translate-x-full'
+                          }`}
+                        >
+                          <Card className="bg-white border-0 shadow-2xl overflow-hidden h-full">
+                            <div className="relative">
+                              {article.featuredImage ? (
+                                <img 
+                                  src={article.featuredImage} 
+                                  alt={article.title}
+                                  className="w-full h-64 object-cover"
+                                />
+                              ) : (
+                                <div className="w-full h-64 bg-gradient-to-br from-slate-100 to-gray-200 flex items-center justify-center">
+                                  <BookOpen className="h-16 w-16 text-gray-400" />
+                                </div>
+                              )}
+                              <div className="absolute top-4 left-4">
+                                <Badge className="bg-slate-900 text-white px-3 py-1">
+                                  {article.category}
+                                </Badge>
+                              </div>
+                              <div className="absolute bottom-4 right-4 bg-black/50 text-white px-3 py-1 rounded-full text-sm">
+                                {index + 1} / 3
+                              </div>
+                            </div>
+                            <CardContent className="p-6">
+                              <h3 className="text-xl font-bold mb-3 text-gray-900 line-clamp-2">
+                                {article.title}
+                              </h3>
+                              <p className="text-gray-600 mb-4 line-clamp-3">
+                                {article.content.replace(/<[^>]*>/g, '').substring(0, 120)}...
+                              </p>
+                              <div className="flex items-center justify-between">
+                                <div className="flex items-center text-gray-500 text-sm">
+                                  <Calendar className="h-4 w-4 mr-1" />
+                                  {article.publishedAt ? new Date(article.publishedAt).toLocaleDateString() : 'Recent'}
+                                </div>
+                                <Link href={`/article/${article.slug}`}>
+                                  <Button size="sm" className="bg-slate-900 text-white hover:bg-black">
+                                    Read Full Story
+                                  </Button>
+                                </Link>
+                              </div>
+                            </CardContent>
+                          </Card>
+                        </div>
+                      ))}
+                    </div>
 
-            {/* CTA Buttons */}
-            <div className="flex flex-col sm:flex-row gap-4 justify-center">
-              <Link href="/blog">
-                <Button 
-                  size="lg" 
-                  className="bg-gradient-to-r from-slate-800 to-slate-900 hover:from-slate-900 hover:to-black text-white px-8 py-4 text-lg shadow-xl hover:shadow-2xl transition-all duration-300 hover:scale-105"
-                >
-                  <BookOpen className="mr-2 h-5 w-5" />
-                  Read All News
-                  <ArrowRight className="ml-2 h-5 w-5" />
-                </Button>
-              </Link>
-              <Link href="/about">
-                <Button 
-                  size="lg" 
-                  variant="outline" 
-                  className="border-2 border-slate-300 hover:border-slate-400 text-slate-700 hover:text-slate-800 px-8 py-4 text-lg bg-white/80 backdrop-blur-sm hover:bg-white transition-all duration-300 hover:scale-105"
-                >
-                  Learn More
-                </Button>
-              </Link>
+                    {/* Navigation Arrows */}
+                    <button
+                      onClick={() => setCurrentSlide((prev) => prev === 0 ? 2 : prev - 1)}
+                      className="absolute left-4 top-1/2 -translate-y-1/2 bg-white/90 hover:bg-white text-slate-900 p-2 rounded-full shadow-lg transition-all duration-300 hover:scale-110"
+                    >
+                      <ChevronLeft className="h-5 w-5" />
+                    </button>
+                    <button
+                      onClick={() => setCurrentSlide((prev) => (prev + 1) % 3)}
+                      className="absolute right-4 top-1/2 -translate-y-1/2 bg-white/90 hover:bg-white text-slate-900 p-2 rounded-full shadow-lg transition-all duration-300 hover:scale-110"
+                    >
+                      <ChevronRight className="h-5 w-5" />
+                    </button>
+
+                    {/* Dots Indicator */}
+                    <div className="flex justify-center mt-4 space-x-2">
+                      {[0, 1, 2].map((slide) => (
+                        <button
+                          key={slide}
+                          onClick={() => setCurrentSlide(slide)}
+                          className={`w-3 h-3 rounded-full transition-all duration-300 ${
+                            slide === currentSlide ? 'bg-white scale-125' : 'bg-white/50 hover:bg-white/75'
+                          }`}
+                        />
+                      ))}
+                    </div>
+                  </div>
+                ) : (
+                  <div className="bg-white/10 backdrop-blur-sm rounded-2xl p-8 text-center">
+                    <BookOpen className="h-16 w-16 text-white/50 mx-auto mb-4" />
+                    <p className="text-white/70 text-lg">Latest articles will appear here</p>
+                  </div>
+                )}
+              </div>
             </div>
           </div>
         </div>
-
-        {/* Floating Elements */}
-        <div className="absolute top-20 left-10 w-72 h-72 bg-gradient-to-r from-slate-400/20 to-gray-400/20 rounded-full blur-3xl animate-pulse"></div>
-        <div 
-          className="absolute bottom-20 right-10 w-96 h-96 bg-gradient-to-r from-gray-400/20 to-zinc-400/20 rounded-full blur-3xl animate-pulse" 
-          style={{ animationDelay: '2s' }}
-        ></div>
       </section>
 
       {/* Stats Section */}
@@ -240,35 +278,32 @@ export default function Home() {
       </section>
 
       {/* Features Section */}
-      <section className="py-20 bg-gradient-to-br from-gray-50 to-slate-50/30">
+      <section className="py-20 bg-gradient-to-br from-slate-50 via-gray-50 to-zinc-50">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <div className="text-center mb-16">
             <h2 className="text-4xl md:text-5xl font-bold mb-6 bg-gradient-to-r from-slate-800 to-slate-900 bg-clip-text text-transparent">
               Why Choose NewsHub?
             </h2>
             <p className="text-xl text-gray-600 max-w-3xl mx-auto">
-              We deliver the most comprehensive and reliable news experience with cutting-edge technology and expert curation.
+              Discover the features and principles that make NewsHub your go-to source for reliable news and insights.
             </p>
           </div>
 
-          <div className="grid grid-cols-1 md:grid-cols-2 gap-8">
+          <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-8">
             {features.map((feature, index) => {
               const IconComponent = feature.icon;
               return (
                 <Card 
                   key={index}
-                  className={`group hover:shadow-2xl transition-all duration-500 hover:scale-105 bg-gradient-to-br ${feature.gradient} border-0 overflow-hidden`}
+                  className={`group hover:shadow-xl transition-all duration-500 hover:scale-105 border-0 overflow-hidden bg-gradient-to-br ${feature.gradient}`}
+                  style={{ animationDelay: `${index * 0.1}s` }}
                 >
-                  <CardContent className="p-8">
-                    <div className="flex items-start space-x-4">
-                      <div className={`p-4 rounded-xl ${feature.color} group-hover:scale-110 transition-transform duration-300 shadow-lg`}>
-                        <IconComponent className="h-8 w-8" />
-                      </div>
-                      <div className="flex-1">
-                        <h3 className="text-2xl font-bold mb-3 text-gray-900 group-hover:text-slate-700 transition-colors duration-300">{feature.title}</h3>
-                        <p className="text-gray-600 leading-relaxed">{feature.description}</p>
-                      </div>
+                  <CardContent className="p-8 text-center">
+                    <div className={`inline-flex items-center justify-center w-16 h-16 rounded-full mb-6 ${feature.color} group-hover:scale-110 transition-transform duration-300`}>
+                      <IconComponent className="h-8 w-8" />
                     </div>
+                    <h3 className="text-xl font-bold mb-4 text-gray-900">{feature.title}</h3>
+                    <p className="text-gray-600 leading-relaxed">{feature.description}</p>
                   </CardContent>
                 </Card>
               );
@@ -281,26 +316,33 @@ export default function Home() {
       <section className="py-20 bg-white">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <div className="text-center mb-16">
-            <h2 className="text-4xl md:text-5xl font-bold mb-6 text-gray-900">
-              Explore by Category
+            <h2 className="text-4xl md:text-5xl font-bold mb-6 bg-gradient-to-r from-slate-800 to-slate-900 bg-clip-text text-transparent">
+              Explore Categories
             </h2>
-            <p className="text-xl text-gray-600 max-w-2xl mx-auto">
-              Discover news and insights across various topics that matter to you
+            <p className="text-xl text-gray-600 max-w-3xl mx-auto">
+              Browse our comprehensive coverage across multiple categories and stay informed about what matters most to you.
             </p>
           </div>
 
-          <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-6">
+          <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-6">
             {categories.map((category, index) => {
               const IconComponent = category.icon;
               return (
-                <Link key={index} href={`/blog?category=${encodeURIComponent(category.name)}`}>
-                  <Card className="group hover:shadow-xl transition-all duration-300 hover:scale-105 cursor-pointer overflow-hidden border-0 bg-gradient-to-br from-white to-gray-50">
-                    <CardContent className="p-6 text-center">
-                      <div className={`inline-flex items-center justify-center w-16 h-16 rounded-full ${category.color} text-white mb-4 group-hover:scale-110 transition-transform duration-300 shadow-lg`}>
-                        <IconComponent className="h-8 w-8" />
+                <Link key={index} href={`/blog?category=${category.name}`}>
+                  <Card className="group hover:shadow-xl transition-all duration-300 hover:scale-105 cursor-pointer border-0 overflow-hidden">
+                    <CardContent className="p-8 text-center relative">
+                      <div className="absolute inset-0 bg-gradient-to-br from-transparent to-gray-50 group-hover:to-gray-100 transition-all duration-300"></div>
+                      <div className="relative z-10">
+                        <div className={`inline-flex items-center justify-center w-16 h-16 rounded-full ${category.color} text-white mb-6 group-hover:scale-110 transition-transform duration-300 shadow-lg`}>
+                          <IconComponent className="h-8 w-8" />
+                        </div>
+                        <h3 className="text-xl font-bold mb-2 text-gray-900">{category.name}</h3>
+                        <p className="text-gray-600 mb-4">{category.count} articles</p>
+                        <div className="inline-flex items-center text-slate-700 font-medium group-hover:text-slate-900 transition-colors duration-300">
+                          Explore
+                          <ArrowRight className="ml-2 h-4 w-4 group-hover:translate-x-1 transition-transform duration-300" />
+                        </div>
                       </div>
-                      <h3 className="text-xl font-bold mb-2 text-gray-900 group-hover:text-slate-700 transition-colors duration-300">{category.name}</h3>
-                      <p className="text-gray-600 font-medium">{category.count} articles</p>
                     </CardContent>
                   </Card>
                 </Link>
@@ -310,27 +352,38 @@ export default function Home() {
         </div>
       </section>
 
-      {/* Recent Articles */}
-      <section className="py-20 bg-gradient-to-br from-slate-50/30 to-gray-50/30">
+      {/* Recent Articles Section */}
+      <section className="py-20 bg-gradient-to-br from-gray-50 via-white to-slate-50/30">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
-          <div className="text-center mb-16">
-            <h2 className="text-4xl md:text-5xl font-bold mb-6 bg-gradient-to-r from-slate-800 to-slate-900 bg-clip-text text-transparent">
-              Recent Stories
-            </h2>
-            <p className="text-xl text-gray-600 max-w-2xl mx-auto">
-              Stay updated with our latest news coverage and analysis
-            </p>
+          <div className="flex justify-between items-center mb-12">
+            <div>
+              <h2 className="text-4xl md:text-5xl font-bold mb-4 bg-gradient-to-r from-slate-800 to-slate-900 bg-clip-text text-transparent">
+                Latest Stories
+              </h2>
+              <p className="text-xl text-gray-600">
+                Stay updated with our most recent news and insights
+              </p>
+            </div>
+            <Link href="/blog">
+              <Button 
+                size="lg" 
+                className="bg-gradient-to-r from-slate-800 to-slate-900 hover:from-slate-900 hover:to-black text-white shadow-xl hover:shadow-2xl transition-all duration-300 hover:scale-105"
+              >
+                View All Articles
+                <ArrowRight className="ml-2 h-5 w-5" />
+              </Button>
+            </Link>
           </div>
 
           {articlesLoading ? (
             <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-6">
               {[...Array(4)].map((_, i) => (
                 <Card key={i} className="overflow-hidden animate-pulse">
-                  <div className="h-32 bg-gray-200"></div>
-                  <CardContent className="p-4">
-                    <div className="h-3 bg-gray-200 rounded mb-2"></div>
-                    <div className="h-3 bg-gray-200 rounded mb-2 w-2/3"></div>
-                    <div className="h-2 bg-gray-200 rounded"></div>
+                  <div className="h-48 bg-gray-200"></div>
+                  <CardContent className="p-6">
+                    <div className="h-4 bg-gray-200 rounded mb-2"></div>
+                    <div className="h-4 bg-gray-200 rounded mb-4 w-2/3"></div>
+                    <div className="h-3 bg-gray-200 rounded"></div>
                   </CardContent>
                 </Card>
               ))}
@@ -338,56 +391,22 @@ export default function Home() {
           ) : recentArticles && recentArticles.length > 0 ? (
             <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-6">
               {recentArticles.slice(0, 4).map((article, index) => (
-                <Link key={article.id} href={`/article/${article.slug}`}>
-                  <Card className="group hover:shadow-xl transition-all duration-300 hover:scale-105 cursor-pointer overflow-hidden border-0 bg-white">
-                    <div className="relative">
-                      {article.featuredImage ? (
-                        <img 
-                          src={article.featuredImage} 
-                          alt={article.title}
-                          className="w-full h-32 object-cover group-hover:scale-110 transition-transform duration-300"
-                        />
-                      ) : (
-                        <div className="w-full h-32 bg-gradient-to-br from-slate-100 to-gray-100 flex items-center justify-center">
-                          <BookOpen className="h-8 w-8 text-gray-400" />
-                        </div>
-                      )}
-                      <Badge className="absolute top-2 left-2 text-xs bg-slate-800 text-white">
-                        {article.category}
-                      </Badge>
-                    </div>
-                    <CardContent className="p-4">
-                      <h3 className="text-sm font-bold mb-2 text-gray-900 group-hover:text-slate-800 transition-colors duration-300 line-clamp-2">
-                        {article.title}
-                      </h3>
-                      <div className="flex items-center text-gray-500 text-xs">
-                        <Calendar className="h-3 w-3 mr-1" />
-                        {article.publishedAt ? new Date(article.publishedAt).toLocaleDateString() : 'Recent'}
-                      </div>
-                    </CardContent>
-                  </Card>
-                </Link>
+                <div 
+                  key={article.id}
+                  className="animate-in slide-in-from-bottom-4 duration-500"
+                  style={{ animationDelay: `${index * 0.1}s` }}
+                >
+                  <ArticleCard article={article} />
+                </div>
               ))}
             </div>
           ) : (
-            <div className="text-center py-12">
+            <Card className="p-16 text-center bg-white/80 backdrop-blur-sm border-0 shadow-xl">
               <BookOpen className="h-16 w-16 text-gray-400 mx-auto mb-4" />
-              <p className="text-gray-500 text-lg">No recent articles available</p>
-            </div>
+              <h3 className="text-xl font-semibold text-gray-600 mb-2">No Articles Yet</h3>
+              <p className="text-gray-500">Recent articles will appear here once content is available.</p>
+            </Card>
           )}
-
-          <div className="text-center mt-12">
-            <Link href="/blog">
-              <Button 
-                size="lg" 
-                variant="outline" 
-                className="border-2 border-slate-200 text-slate-600 hover:bg-slate-50 px-8 py-4 text-lg hover:scale-105 transition-all duration-300"
-              >
-                View All Articles
-                <ArrowRight className="ml-2 h-5 w-5" />
-              </Button>
-            </Link>
-          </div>
         </div>
       </section>
     </div>

@@ -101,24 +101,31 @@ export default function Blog() {
               Discover comprehensive coverage of global events, technology innovations, and educational insights from verified sources worldwide. Stay ahead with real-time updates and expert analysis.
             </p>
 
-            {/* Search Bar */}
-            <div className="max-w-2xl mx-auto mb-8">
+            {/* Professional Search Bar */}
+            <div className="max-w-3xl mx-auto mb-8">
               <div className="relative group">
-                <Input
-                  type="text"
-                  placeholder="Search breaking news, topics, or keywords..."
-                  value={searchQuery}
-                  onChange={(e) => setSearchQuery(e.target.value)}
-                  className="w-full pl-14 pr-20 py-5 text-lg bg-white/90 backdrop-blur-sm border-2 border-slate-200 focus:bg-white focus:border-slate-400 focus:ring-4 focus:ring-slate-100 transition-all duration-300 rounded-2xl shadow-xl group-hover:shadow-2xl"
-                />
-                <Search className="absolute left-5 top-5 h-6 w-6 text-slate-400 group-hover:text-slate-600 transition-colors duration-300" />
-                {isSearching && (
-                  <div className="absolute right-5 top-5">
-                    <div className="animate-spin rounded-full h-6 w-6 border-b-2 border-slate-600"></div>
+                <div className="absolute inset-0 bg-gradient-to-r from-slate-200 to-gray-300 rounded-2xl blur opacity-25 group-hover:opacity-40 transition-opacity duration-300"></div>
+                <div className="relative bg-white rounded-2xl shadow-2xl border border-gray-100 overflow-hidden">
+                  <Input
+                    type="text"
+                    placeholder="Search latest news, topics, or keywords..."
+                    value={searchQuery}
+                    onChange={(e) => setSearchQuery(e.target.value)}
+                    className="w-full pl-16 pr-32 py-6 text-lg bg-transparent border-0 focus:ring-0 focus:outline-none placeholder:text-gray-400"
+                  />
+                  <div className="absolute left-5 top-6">
+                    <Search className="h-6 w-6 text-slate-500" />
                   </div>
-                )}
-                <div className="absolute right-3 top-3 bg-slate-800 text-white px-3 py-2 rounded-xl text-sm font-medium">
-                  Press Enter
+                  {isSearching && (
+                    <div className="absolute right-24 top-6">
+                      <div className="animate-spin rounded-full h-6 w-6 border-b-2 border-slate-600"></div>
+                    </div>
+                  )}
+                  <div className="absolute right-2 top-2 bottom-2 flex items-center">
+                    <div className="bg-gradient-to-r from-slate-800 to-slate-900 text-white px-4 py-2 rounded-xl text-sm font-medium hover:from-slate-900 hover:to-black transition-all duration-300 cursor-pointer">
+                      Search
+                    </div>
+                  </div>
                 </div>
               </div>
             </div>

@@ -87,15 +87,9 @@ export default function Header() {
             ))}
           </nav>
 
-          {/* Actions */}
+          {/* Actions - Removed Subscribe */}
           <div className="hidden md:flex items-center space-x-3">
-            <Button 
-              variant="default" 
-              size="sm" 
-              className="bg-gradient-to-r from-slate-800 to-slate-900 hover:from-slate-900 hover:to-black text-white shadow-md hover:shadow-lg transition-all duration-300 hover:scale-105"
-            >
-              Subscribe
-            </Button>
+            {/* Actions can be added here in future */}
           </div>
 
           {/* Mobile menu button */}
