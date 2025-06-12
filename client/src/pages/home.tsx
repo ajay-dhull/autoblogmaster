@@ -132,14 +132,14 @@ export default function Home() {
                 </div>
                 
                 <h1 className="text-4xl md:text-6xl font-bold mb-6 leading-tight">
-                  Breaking News
+                  Latest News
                   <span className="block bg-gradient-to-r from-slate-200 to-white bg-clip-text text-transparent">
-                    Updates Live
+                    Auto-Updates
                   </span>
                 </h1>
                 
                 <p className="text-xl text-gray-300 mb-8 leading-relaxed">
-                  Stay ahead with real-time news coverage, expert analysis, and comprehensive reporting from trusted sources worldwide.
+                  Discover the most recent stories as they unfold. Our hero section automatically refreshes with the latest 5 articles, ensuring you never miss breaking news.
                 </p>
 
                 <div className="flex flex-col sm:flex-row gap-4">
