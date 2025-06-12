@@ -147,7 +147,7 @@ export default function Article() {
             </Badge>
             <div className="flex items-center text-gray-500 text-sm">
               <Calendar className="h-4 w-4 mr-1" />
-              {formatDate(article.publishedAt)}
+              {formatDate(article.publishedAt || new Date())}
             </div>
             <div className="flex items-center text-gray-500 text-sm">
               <Clock className="h-4 w-4 mr-1" />
@@ -220,10 +220,22 @@ export default function Article() {
         )}
 
         {/* Article Content */}
-        <div 
-          className="prose prose-lg max-w-none"
-          dangerouslySetInnerHTML={{ __html: article.content }}
-        />
+        <div className="article-content">
+          <div 
+            className="prose prose-lg prose-blue max-w-none 
+                     prose-headings:font-bold prose-headings:text-gray-900
+                     prose-h2:text-2xl prose-h2:mt-8 prose-h2:mb-4
+                     prose-h3:text-xl prose-h3:mt-6 prose-h3:mb-3
+                     prose-p:text-gray-700 prose-p:leading-relaxed prose-p:mb-4
+                     prose-strong:text-gray-900 prose-strong:font-semibold
+                     prose-ul:my-6 prose-li:my-2 prose-li:text-gray-700
+                     prose-blockquote:border-l-4 prose-blockquote:border-primary
+                     prose-blockquote:pl-6 prose-blockquote:italic
+                     prose-code:bg-gray-100 prose-code:px-2 prose-code:py-1 prose-code:rounded
+                     prose-a:text-primary prose-a:no-underline hover:prose-a:underline"
+            dangerouslySetInnerHTML={{ __html: article.content }}
+          />
+        </div>
 
         {/* Tags */}
         {article.tags && article.tags.length > 0 && (
