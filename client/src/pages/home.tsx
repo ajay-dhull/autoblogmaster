@@ -201,7 +201,7 @@ export default function Home() {
                                 </Badge>
                               </div>
                               <div className="absolute bottom-4 right-4 bg-black/50 text-white px-3 py-1 rounded-full text-sm">
-                                {index + 1} / {latestArticles.length}
+                                {index + 1} / {Math.min(latestArticles?.length || 0, 5)}
                               </div>
                               <div className="absolute top-4 right-4 bg-gradient-to-r from-orange-500 to-red-500 text-white px-2 py-1 rounded-full text-xs font-bold animate-pulse">
                                 LATEST
@@ -233,13 +233,21 @@ export default function Home() {
 
                     {/* Navigation Arrows */}
                     <button
-                      onClick={() => setCurrentSlide((prev) => prev === 0 ? latestArticles.length - 1 : prev - 1)}
+                      onClick={() => {
+                        const articlesToShow = latestArticles || recentArticles;
+                        const maxSlides = Math.min(articlesToShow?.length || 0, 5);
+                        setCurrentSlide((prev) => prev === 0 ? maxSlides - 1 : prev - 1);
+                      }}
                       className="absolute left-4 top-1/2 -translate-y-1/2 bg-white/90 hover:bg-white text-slate-900 p-2 rounded-full shadow-lg transition-all duration-300 hover:scale-110"
                     >
                       <ChevronLeft className="h-5 w-5" />
                     </button>
                     <button
-                      onClick={() => setCurrentSlide((prev) => (prev + 1) % latestArticles.length)}
+                      onClick={() => {
+                        const articlesToShow = latestArticles || recentArticles;
+                        const maxSlides = Math.min(articlesToShow?.length || 0, 5);
+                        setCurrentSlide((prev) => (prev + 1) % maxSlides);
+                      }}
                       className="absolute right-4 top-1/2 -translate-y-1/2 bg-white/90 hover:bg-white text-slate-900 p-2 rounded-full shadow-lg transition-all duration-300 hover:scale-110"
                     >
                       <ChevronRight className="h-5 w-5" />
@@ -247,7 +255,7 @@ export default function Home() {
 
                     {/* Dots Indicator */}
                     <div className="flex justify-center mt-4 space-x-2">
-                      {latestArticles.map((_, slide) => (
+                      {(latestArticles || recentArticles)?.slice(0, 5).map((_, slide) => (
                         <button
                           key={slide}
                           onClick={() => setCurrentSlide(slide)}
