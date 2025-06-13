@@ -47,17 +47,20 @@ export default function Home() {
     queryKey: ['/api/articles/latest'],
     queryFn: () => api.getArticles(5, 0),
     refetchInterval: 30000, // Auto-refresh every 30 seconds
+    staleTime: 0, // Always refetch
   });
 
   // Auto-slide effect for hero section
   useEffect(() => {
-    if (latestArticles && latestArticles.length > 0) {
+    const articlesToShow = latestArticles || recentArticles;
+    if (articlesToShow && articlesToShow.length > 0) {
+      const maxSlides = Math.min(articlesToShow.length, 5);
       const timer = setInterval(() => {
-        setCurrentSlide((prev) => (prev + 1) % latestArticles.length);
+        setCurrentSlide((prev) => (prev + 1) % maxSlides);
       }, 5000);
       return () => clearInterval(timer);
     }
-  }, [latestArticles]);
+  }, [latestArticles, recentArticles]);
 
   const stats = [
     { label: "Daily Readers", value: "50K+", icon: Users, color: "text-slate-600" },
@@ -150,7 +153,8 @@ export default function Home() {
                     </Button>
                   </Link>
                   <Button size="lg" variant="outline" className="border-2 border-white text-white hover:bg-white hover:text-slate-900 px-8 py-4 text-lg font-semibold transition-all duration-300">
-                    Watch Live
+                    <TrendingUp className="mr-2 h-5 w-5" />
+                    Latest Updates
                   </Button>
                 </div>
               </div>
@@ -254,10 +258,71 @@ export default function Home() {
                       ))}
                     </div>
                   </div>
+                ) : recentArticles && recentArticles.length > 0 ? (
+                  <div className="relative">
+                    {/* Fallback to recent articles if latest articles aren't available */}
+                    <div className="relative overflow-hidden rounded-2xl shadow-2xl">
+                      {recentArticles.slice(0, 3).map((article, index) => (
+                        <div
+                          key={article.id}
+                          className={`absolute inset-0 transition-all duration-700 ease-in-out ${
+                            index === currentSlide 
+                              ? 'opacity-100 transform translate-x-0' 
+                              : index < currentSlide 
+                                ? 'opacity-0 transform -translate-x-full' 
+                                : 'opacity-0 transform translate-x-full'
+                          }`}
+                        >
+                          <Card className="bg-white border-0 shadow-2xl overflow-hidden h-full">
+                            <div className="relative">
+                              {article.featuredImage ? (
+                                <img 
+                                  src={article.featuredImage} 
+                                  alt={article.title}
+                                  className="w-full h-64 object-cover"
+                                />
+                              ) : (
+                                <div className="w-full h-64 bg-gradient-to-br from-slate-100 to-gray-200 flex items-center justify-center">
+                                  <BookOpen className="h-16 w-16 text-gray-400" />
+                                </div>
+                              )}
+                              <div className="absolute top-4 left-4">
+                                <Badge className="bg-slate-900 text-white px-3 py-1">
+                                  {article.category}
+                                </Badge>
+                              </div>
+                              <div className="absolute bottom-4 right-4 bg-black/50 text-white px-3 py-1 rounded-full text-sm">
+                                {index + 1} / 3
+                              </div>
+                            </div>
+                            <CardContent className="p-6">
+                              <h3 className="text-xl font-bold mb-3 text-gray-900 line-clamp-2">
+                                {article.title}
+                              </h3>
+                              <p className="text-gray-600 mb-4 line-clamp-3">
+                                {article.content.replace(/<[^>]*>/g, '').substring(0, 120)}...
+                              </p>
+                              <div className="flex items-center justify-between">
+                                <div className="flex items-center text-gray-500 text-sm">
+                                  <Calendar className="h-4 w-4 mr-1" />
+                                  {article.publishedAt ? new Date(article.publishedAt).toLocaleDateString() : 'Recent'}
+                                </div>
+                                <Link href={`/article/${article.slug}`}>
+                                  <Button size="sm" className="bg-slate-900 text-white hover:bg-black">
+                                    Read More
+                                  </Button>
+                                </Link>
+                              </div>
+                            </CardContent>
+                          </Card>
+                        </div>
+                      ))}
+                    </div>
+                  </div>
                 ) : (
                   <div className="bg-white/10 backdrop-blur-sm rounded-2xl p-8 text-center">
                     <BookOpen className="h-16 w-16 text-white/50 mx-auto mb-4" />
-                    <p className="text-white/70 text-lg">Latest articles will appear here</p>
+                    <p className="text-white/70 text-lg">Loading latest articles...</p>
                   </div>
                 )}
               </div>
