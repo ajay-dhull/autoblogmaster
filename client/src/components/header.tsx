@@ -133,11 +133,7 @@ export default function Header() {
               </Link>
             ))}
 
-            <div className="pt-2 px-2">
-              <Button className="w-full bg-gradient-to-r from-slate-800 to-slate-900 hover:from-slate-900 hover:to-black text-white">
-                Subscribe Now
-              </Button>
-            </div>
+
           </nav>
         </div>
       </div>

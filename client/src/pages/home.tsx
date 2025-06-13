@@ -152,26 +152,27 @@ export default function Home() {
                       Explore Stories
                     </Button>
                   </Link>
-                  <Button size="lg" variant="outline" className="border-2 border-white text-white hover:bg-white hover:text-slate-900 px-8 py-4 text-lg font-semibold transition-all duration-300">
-                    <TrendingUp className="mr-2 h-5 w-5" />
-                    Latest Updates
-                  </Button>
+                  <Link href="/contact">
+                    <Button size="lg" variant="outline" className="border-2 border-white text-white hover:bg-white hover:text-slate-900 px-8 py-4 text-lg font-semibold transition-all duration-300">
+                      Contact Us
+                    </Button>
+                  </Link>
                 </div>
               </div>
 
               {/* Right Side - Latest Articles Slider */}
               <div className={`transition-all duration-1000 ${isVisible ? 'opacity-100 translate-x-0' : 'opacity-0 translate-x-10'}`}>
-                {latestLoading ? (
+                {(latestLoading || articlesLoading) ? (
                   <div className="bg-white/10 backdrop-blur-sm rounded-2xl p-6 animate-pulse">
                     <div className="h-64 bg-gray-300 rounded-xl mb-4"></div>
                     <div className="h-6 bg-gray-300 rounded mb-2"></div>
                     <div className="h-4 bg-gray-300 rounded w-2/3"></div>
                   </div>
-                ) : latestArticles && latestArticles.length > 0 ? (
+                ) : recentArticles && recentArticles.length > 0 ? (
                   <div className="relative">
                     {/* Latest Articles Slider */}
                     <div className="relative overflow-hidden rounded-2xl shadow-2xl">
-                      {latestArticles.slice(0, 5).map((article, index) => (
+                      {recentArticles.slice(0, 5).map((article, index) => (
                         <div
                           key={article.id}
                           className={`absolute inset-0 transition-all duration-700 ease-in-out ${
@@ -201,7 +202,7 @@ export default function Home() {
                                 </Badge>
                               </div>
                               <div className="absolute bottom-4 right-4 bg-black/50 text-white px-3 py-1 rounded-full text-sm">
-                                {index + 1} / {Math.min(latestArticles?.length || 0, 5)}
+                                {index + 1} / {Math.min(recentArticles.length, 5)}
                               </div>
                               <div className="absolute top-4 right-4 bg-gradient-to-r from-orange-500 to-red-500 text-white px-2 py-1 rounded-full text-xs font-bold animate-pulse">
                                 LATEST
