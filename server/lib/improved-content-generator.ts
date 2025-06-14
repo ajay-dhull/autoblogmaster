@@ -65,7 +65,7 @@ class ImprovedContentGenerator {
       // Special handling for India News to ensure Hindi language
       const isIndiaNews = category === "India News";
       const languageInstruction = isIndiaNews ? 
-        "IMPORTANT: Write the article ONLY in clear, simple Hindi using Devanagari script. Do NOT use Marathi language. Use standard Hindi vocabulary (like 'के लिए', 'की तरह', 'में', 'से') that is easily understood by all Hindi speakers across India. Avoid regional Marathi words completely." : 
+        "CRITICAL: Write ONLY in pure, standard Hindi using Devanagari script. STRICTLY AVOID Marathi words. Use common Hindi words like: 'के लिए' (not 'साठी'), 'की तरह' (not 'सारखे'), 'में' (not 'मध्ये'), 'से' (not 'पासून'), 'और' (not 'आणि'), 'है' (not 'आहे'). Write for all Hindi speakers across India, not regional audiences." : 
         "Write in clear, simple English that is easy to read and understand.";
 
       const response = await fetch("https://api.groq.com/openai/v1/chat/completions", {
@@ -92,14 +92,17 @@ REQUIREMENTS:
 - Structure content for optimal readability and SEO performance
 - ${languageInstruction}
 
-FORMATTING STRUCTURE:
-1. Compelling introduction that hooks readers immediately
-2. Well-organized main content with logical flow using H2 and H3 headings
-3. Key facts and statistics clearly highlighted with strong tags
-4. Bullet points or numbered lists where appropriate
-5. Expert analysis and implications explained in detail
-6. Strong conclusion that summarizes key takeaways
+FORMATTING STRUCTURE (MANDATORY):
+1. Always start with <h1>Main Title</h1>
+2. Use <h2>Section Headers</h2> for major sections (minimum 3-4 sections)
+3. Use <h3>Sub-headers</h3> for subsections
+4. Wrap all paragraphs in <p> tags
+5. Use <strong>text</strong> for important highlights
+6. Create <ul><li>bullet points</li></ul> for lists
+7. Use <blockquote> for quotes if any
+8. End with compelling conclusion in <p> tags
 
+CRITICAL: EVERY article must follow this HTML structure exactly. No plain text articles allowed.
 TARGET: 1200-1800 words, fully SEO optimized, professional journalism quality
 TONE: Authoritative yet accessible, engaging and informative
 IMPORTANT: Keep all original facts and information unchanged`
