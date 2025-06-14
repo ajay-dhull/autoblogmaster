@@ -74,7 +74,17 @@ export async function registerRoutes(app: Express): Promise<Server> {
     }
   });
 
-
+  // Content Generation API
+  app.post("/api/generate-content", async (req, res) => {
+    try {
+      console.log("Starting content generation via API...");
+      await improvedContentGenerator.generateAllFreshContent();
+      res.json({ message: "Content generation completed successfully" });
+    } catch (error) {
+      console.error("Content generation error:", error);
+      res.status(500).json({ error: "Content generation failed" });
+    }
+  });
 
   const httpServer = createServer(app);
   return httpServer;

@@ -47,6 +47,18 @@ app.use((req, res, next) => {
     throw err;
   });
 
+  // Start generating content immediately on server startup
+  setTimeout(async () => {
+    try {
+      console.log("Starting automatic content generation...");
+      const { improvedContentGenerator } = await import("./lib/improved-content-generator");
+      await improvedContentGenerator.generateAllFreshContent();
+      console.log("Initial content generation completed!");
+    } catch (error) {
+      console.error("Error in automatic content generation:", error);
+    }
+  }, 5000); // Wait 5 seconds for server to fully start
+
   // importantly only setup vite in development and after
   // setting up all the other routes so the catch-all route
   // doesn't interfere with the other routes

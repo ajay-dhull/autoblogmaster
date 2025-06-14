@@ -359,51 +359,62 @@ Transform this into a comprehensive, engaging article that provides real value t
 
   async generateFromSerpAPI(): Promise<InsertArticle[]> {
     try {
-      const queries = ['latest technology trends', 'breaking news today', 'trending topics'];
-      const randomQuery = queries[Math.floor(Math.random() * queries.length)];
+      console.log("Starting SerpAPI content generation - 3 articles per day (world news, AI tech, trending topics)...");
       
-      const response = await fetch(
-        `https://serpapi.com/search.json?q=${encodeURIComponent(randomQuery)}&tbm=nws&num=1&api_key=${this.config.serpApiKey}`
-      );
-      
-      if (!response.ok) {
-        throw new Error(`SerpAPI error: ${response.status}`);
-      }
-
-      const data = await response.json();
+      const searchQueries = [
+        'world breaking news today',
+        'artificial intelligence technology news latest',
+        'trending tech innovations 2024'
+      ];
       const articles: InsertArticle[] = [];
-      
-      if (data.news_results && data.news_results.length > 0) {
-        const result = data.news_results[0];
+
+      for (const query of searchQueries) {
+        const response = await fetch(
+          `https://serpapi.com/search.json?q=${encodeURIComponent(query)}&tbm=nws&num=3&api_key=${this.config.serpApiKey}`
+        );
+
+        if (!response.ok) {
+          console.error(`SerpAPI error for ${query}:`, response.statusText);
+          continue;
+        }
+
+        const data = await response.json();
         
-        if (result.title && result.snippet) {
-          const isDuplicate = await this.checkForDuplicate(result.title);
-          
-          if (!isDuplicate) {
-            const enhancedContent = await this.enhanceWithGroq(
-              result.snippet,
-              result.title,
-              "World News"
-            );
-            
-            const imageUrl = await this.getImage(result.title);
-            
-            const article: InsertArticle = {
-              title: result.title,
-              content: enhancedContent,
-              excerpt: result.snippet || result.title.substring(0, 200),
-              metaDescription: result.snippet || result.title.substring(0, 160),
-              slug: this.generateSlug(result.title),
-              category: "World News",
-              tags: this.generateTags(result.title, "World News"),
-              featuredImage: imageUrl || result.thumbnail || "",
-              source: "SerpAPI",
-              sourceUrl: result.link || "",
-              isPublished: true,
-              publishedAt: new Date(),
-            };
-            
-            articles.push(article);
+        if (data.news_results && data.news_results.length > 0) {
+          // Try multiple results to find a non-duplicate
+          for (const result of data.news_results) {
+            if (result.title && result.snippet) {
+              const isDuplicate = await this.checkForDuplicate(result.title);
+              
+              if (!isDuplicate) {
+                const enhancedContent = await this.enhanceWithGroq(
+                  result.snippet,
+                  result.title,
+                  "Technology"
+                );
+                
+                const imageUrl = await this.getImage(result.title + " technology");
+                
+                const article: InsertArticle = {
+                  title: result.title,
+                  content: enhancedContent,
+                  excerpt: result.snippet?.substring(0, 200) + "..." || "",
+                  metaDescription: result.snippet?.substring(0, 160) || "",
+                  slug: this.generateSlug(result.title),
+                  category: "Technology",
+                  tags: this.generateTags(result.title, "Technology"),
+                  featuredImage: imageUrl || result.thumbnail || "",
+                  source: "SerpAPI",
+                  sourceUrl: result.link || "",
+                  isPublished: true,
+                  publishedAt: new Date(),
+                };
+                
+                articles.push(article);
+                console.log(`Generated SerpAPI article (${query}): ${result.title}`);
+                break; // Move to next query after finding one valid article
+              }
+            }
           }
         }
       }
@@ -504,6 +515,7 @@ Make it comprehensive (1500+ words), practical, and full of actionable advice th
         title: selectedTopic,
         content: content,
         excerpt: excerpt,
+        metaDescription: excerpt.substring(0, 160),
         slug: this.generateSlug(selectedTopic),
         category: "Educational",
         tags: this.generateTags(selectedTopic, "Educational"),
