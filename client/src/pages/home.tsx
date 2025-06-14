@@ -44,7 +44,7 @@ export default function Home() {
 
   // Latest articles for hero section
   const { data: latestArticles, isLoading: latestLoading } = useQuery({
-    queryKey: ['/api/articles/latest'],
+    queryKey: ['/api/articles', 'latest', 5],
     queryFn: () => api.getArticles(5, 0),
     refetchInterval: 30000, // Auto-refresh every 30 seconds
     staleTime: 0, // Always refetch
@@ -52,15 +52,14 @@ export default function Home() {
 
   // Auto-slide effect for hero section
   useEffect(() => {
-    const articlesToShow = latestArticles || recentArticles;
-    if (articlesToShow && articlesToShow.length > 0) {
-      const maxSlides = Math.min(articlesToShow.length, 5);
+    if (latestArticles && latestArticles.length > 0) {
+      const maxSlides = Math.min(latestArticles.length, 5);
       const timer = setInterval(() => {
         setCurrentSlide((prev) => (prev + 1) % maxSlides);
       }, 5000);
       return () => clearInterval(timer);
     }
-  }, [latestArticles, recentArticles]);
+  }, [latestArticles]);
 
   const stats = [
     { label: "Daily Readers", value: "50K+", icon: Users, color: "text-slate-600" },
@@ -168,11 +167,11 @@ export default function Home() {
                     <div className="h-6 bg-gray-300 rounded mb-2"></div>
                     <div className="h-4 bg-gray-300 rounded w-2/3"></div>
                   </div>
-                ) : recentArticles && recentArticles.length > 0 ? (
+                ) : latestArticles && latestArticles.length > 0 ? (
                   <div className="relative">
                     {/* Latest Articles Slider */}
                     <div className="relative overflow-hidden rounded-2xl shadow-2xl">
-                      {recentArticles.slice(0, 5).map((article, index) => (
+                      {latestArticles.slice(0, 5).map((article, index) => (
                         <div
                           key={article.id}
                           className={`absolute inset-0 transition-all duration-700 ease-in-out ${
@@ -202,7 +201,7 @@ export default function Home() {
                                 </Badge>
                               </div>
                               <div className="absolute bottom-4 right-4 bg-black/50 text-white px-3 py-1 rounded-full text-sm">
-                                {index + 1} / {Math.min(recentArticles.length, 5)}
+                                {index + 1} / {Math.min(latestArticles.length, 5)}
                               </div>
                               <div className="absolute top-4 right-4 bg-gradient-to-r from-orange-500 to-red-500 text-white px-2 py-1 rounded-full text-xs font-bold animate-pulse">
                                 LATEST

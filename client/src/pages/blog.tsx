@@ -42,12 +42,13 @@ export default function Blog() {
   }, []);
 
   const { data: articles, isLoading, error } = useQuery({
-    queryKey: ['/api/articles', page, selectedCategory],
+    queryKey: ['/api/articles', page, selectedCategory, 'sorted'],
     queryFn: () => api.getArticles(
       articlesPerPage, 
       page * articlesPerPage, 
       selectedCategory === "All" ? undefined : selectedCategory
     ),
+    staleTime: 0, // Always fetch fresh data to ensure latest articles appear first
   });
 
   const { data: searchResults, isLoading: isSearching } = useQuery({
