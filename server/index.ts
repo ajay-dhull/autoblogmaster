@@ -47,13 +47,17 @@ app.use((req, res, next) => {
     throw err;
   });
 
-  // Start generating content immediately on server startup
+  // Start generating content immediately on server startup - ONLY ONCE
+  let initialContentGenerated = false;
   setTimeout(async () => {
     try {
-      console.log("Starting automatic content generation...");
-      const { improvedContentGenerator } = await import("./lib/improved-content-generator");
-      await improvedContentGenerator.generateAllFreshContent();
-      console.log("Initial content generation completed!");
+      if (!initialContentGenerated) {
+        console.log("Starting one-time automatic content generation...");
+        const { improvedContentGenerator } = await import("./lib/improved-content-generator");
+        await improvedContentGenerator.generateAllFreshContent();
+        initialContentGenerated = true;
+        console.log("Initial content generation completed!");
+      }
     } catch (error) {
       console.error("Error in automatic content generation:", error);
     }

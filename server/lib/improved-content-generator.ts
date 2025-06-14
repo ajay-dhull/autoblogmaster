@@ -410,19 +410,29 @@ Transform this into a comprehensive, SEO-optimized article that expands on all k
               const isDuplicate = await this.checkForDuplicate(result.title);
               
               if (!isDuplicate) {
+                // Ensure we have substantial content to enhance
+                const contentToEnhance = result.snippet && result.snippet.length > 50 
+                  ? result.snippet 
+                  : `${result.title}. This is a breaking news story that requires detailed coverage and analysis.`;
+                
                 const enhancedContent = await this.enhanceWithGroq(
-                  result.snippet,
+                  contentToEnhance,
                   result.title,
                   "Technology"
                 );
+                
+                // Fallback content if Groq fails
+                const finalContent = enhancedContent && enhancedContent.length > 200 
+                  ? enhancedContent 
+                  : `<h1>${result.title}</h1><p>${contentToEnhance}</p><p>This story is developing and more details will be added as they become available.</p>`;
                 
                 const imageUrl = await this.getImage(result.title + " technology");
                 
                 const article: InsertArticle = {
                   title: result.title,
-                  content: enhancedContent,
-                  excerpt: result.snippet?.substring(0, 200) + "..." || "",
-                  metaDescription: result.snippet?.substring(0, 160) || "",
+                  content: finalContent,
+                  excerpt: result.snippet?.substring(0, 200) + "..." || result.title.substring(0, 200) + "...",
+                  metaDescription: result.snippet?.substring(0, 160) || result.title.substring(0, 160),
                   slug: this.generateSlug(result.title),
                   category: "Technology",
                   tags: this.generateTags(result.title, "Technology"),
