@@ -2,7 +2,7 @@ import type { Express } from "express";
 import { createServer, type Server } from "http";
 import { storage } from "./storage";
 import { insertContactSchema } from "@shared/schema";
-import { contentGenerator } from "./lib/content-generators";
+import { improvedContentGenerator } from "./lib/improved-content-generator";
 
 export async function registerRoutes(app: Express): Promise<Server> {
   // Articles API
