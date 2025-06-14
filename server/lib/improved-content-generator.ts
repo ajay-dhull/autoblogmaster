@@ -361,6 +361,7 @@ Transform this into a comprehensive, engaging article that provides real value t
               title: result.title,
               content: enhancedContent,
               excerpt: result.snippet || result.title.substring(0, 200),
+              metaDescription: result.snippet || result.title.substring(0, 160),
               slug: this.generateSlug(result.title),
               category: "World News",
               tags: this.generateTags(result.title, "World News"),
