@@ -23,7 +23,7 @@ class ImprovedContentGenerator {
       gnewsApiKey: process.env.GNEWS_API_KEY || "",
       redditClientId: process.env.REDDIT_CLIENT_ID || "",
       redditClientSecret: process.env.REDDIT_CLIENT_SECRET || "",
-      serpApiKey: process.env.SERPAPI_KEY || "",
+      serpApiKey: process.env.SERP_API_KEY || "",
       groqApiKey: process.env.GROQ_API_KEY || "",
       unsplashAccessKey: process.env.UNSPLASH_ACCESS_KEY || "",
       pexelsApiKey: process.env.PEXELS_API_KEY || "",
@@ -155,48 +155,64 @@ Transform this into a comprehensive, engaging article that provides real value t
 
   async generateFromNewsAPI(): Promise<InsertArticle[]> {
     try {
-      const response = await fetch(
-        `https://newsapi.org/v2/top-headlines?language=en&pageSize=1&sortBy=popularity&apiKey=${this.config.newsApiKey}`
-      );
+      console.log("Starting NewsAPI content generation - 3 different topics per day...");
       
-      if (!response.ok) {
-        throw new Error(`NewsAPI error: ${response.status}`);
-      }
-
-      const data = await response.json();
+      // 3 different categories for world news coverage
+      const categories = ['general', 'technology', 'business'];
+      const countries = ['us', 'gb', 'ca']; // Different countries for variety
       const articles: InsertArticle[] = [];
-      
-      if (data.articles && data.articles.length > 0) {
-        const apiArticle = data.articles[0];
+
+      for (let i = 0; i < 3; i++) {
+        const category = categories[i];
+        const country = countries[i % countries.length];
         
-        if (apiArticle.title && apiArticle.description && !apiArticle.title.includes('[Removed]')) {
-          const isDuplicate = await this.checkForDuplicate(apiArticle.title);
-          
-          if (!isDuplicate) {
-            const enhancedContent = await this.enhanceWithGroq(
-              apiArticle.description + "\n\n" + (apiArticle.content || ""),
-              apiArticle.title,
-              "World News"
-            );
-            
-            const imageUrl = await this.getImage(apiArticle.title);
-            
-            const article: InsertArticle = {
-              title: apiArticle.title,
-              content: enhancedContent,
-              excerpt: apiArticle.description || apiArticle.title.substring(0, 200),
-              metaDescription: apiArticle.description || apiArticle.title.substring(0, 160),
-              slug: this.generateSlug(apiArticle.title),
-              category: "World News",
-              tags: this.generateTags(apiArticle.title, "World News"),
-              featuredImage: imageUrl || apiArticle.urlToImage || "",
-              source: "NewsAPI",
-              sourceUrl: apiArticle.url || "",
-              isPublished: true,
-              publishedAt: new Date(apiArticle.publishedAt || new Date()),
-            };
-            
-            articles.push(article);
+        const response = await fetch(
+          `https://newsapi.org/v2/top-headlines?category=${category}&country=${country}&language=en&pageSize=5&apiKey=${this.config.newsApiKey}`
+        );
+
+        if (!response.ok) {
+          console.error(`NewsAPI error for ${category}:`, response.statusText);
+          continue;
+        }
+
+        const data = await response.json();
+        
+        if (data.articles && data.articles.length > 0) {
+          // Try multiple articles from this category to find a non-duplicate
+          for (const apiArticle of data.articles) {
+            if (apiArticle.title && apiArticle.description && !apiArticle.title.includes('[Removed]')) {
+              const isDuplicate = await this.checkForDuplicate(apiArticle.title);
+              
+              if (!isDuplicate) {
+                const fullContent = `${apiArticle.description}\n\n${apiArticle.content || ''}`;
+                const enhancedContent = await this.enhanceWithGroq(
+                  fullContent,
+                  apiArticle.title,
+                  "World News"
+                );
+                
+                const imageUrl = await this.getImage(apiArticle.title + " news");
+                
+                const article: InsertArticle = {
+                  title: apiArticle.title,
+                  content: enhancedContent,
+                  excerpt: apiArticle.description?.substring(0, 200) + "..." || "",
+                  metaDescription: apiArticle.description?.substring(0, 160) || "",
+                  slug: this.generateSlug(apiArticle.title),
+                  category: "World News",
+                  tags: this.generateTags(apiArticle.title, "World News"),
+                  featuredImage: imageUrl || apiArticle.urlToImage || "",
+                  source: "NewsAPI",
+                  sourceUrl: apiArticle.url || "",
+                  isPublished: true,
+                  publishedAt: new Date(apiArticle.publishedAt || new Date()),
+                };
+                
+                articles.push(article);
+                console.log(`Generated NewsAPI article (${category}): ${apiArticle.title}`);
+                break; // Move to next category after finding one valid article
+              }
+            }
           }
         }
       }
@@ -210,48 +226,63 @@ Transform this into a comprehensive, engaging article that provides real value t
 
   async generateFromGNews(): Promise<InsertArticle[]> {
     try {
-      const response = await fetch(
-        `https://gnews.io/api/v4/top-headlines?country=in&max=1&apikey=${this.config.gnewsApiKey}`
-      );
+      console.log("Starting GNews content generation - 2-3 latest India news (Hindi/English)...");
       
-      if (!response.ok) {
-        throw new Error(`GNews error: ${response.status}`);
-      }
-
-      const data = await response.json();
+      // Different trending topics for India coverage
+      const indiaTopics = [
+        'india breaking news',
+        'india trending today',
+        'indian politics latest'
+      ];
       const articles: InsertArticle[] = [];
-      
-      if (data.articles && data.articles.length > 0) {
-        const apiArticle = data.articles[0];
+
+      for (const topic of indiaTopics) {
+        const response = await fetch(
+          `https://gnews.io/api/v4/search?q=${encodeURIComponent(topic)}&country=in&max=5&apikey=${this.config.gnewsApiKey}`
+        );
+
+        if (!response.ok) {
+          console.error(`GNews error for ${topic}:`, response.statusText);
+          continue;
+        }
+
+        const data = await response.json();
         
-        if (apiArticle.title && apiArticle.description) {
-          const isDuplicate = await this.checkForDuplicate(apiArticle.title);
-          
-          if (!isDuplicate) {
-            const enhancedContent = await this.enhanceWithGroq(
-              apiArticle.description + "\n\n" + (apiArticle.content || ""),
-              apiArticle.title,
-              "India News"
-            );
-            
-            const imageUrl = await this.getImage(apiArticle.title);
-            
-            const article: InsertArticle = {
-              title: apiArticle.title,
-              content: enhancedContent,
-              excerpt: apiArticle.description || apiArticle.title.substring(0, 200),
-              metaDescription: apiArticle.description || apiArticle.title.substring(0, 160),
-              slug: this.generateSlug(apiArticle.title),
-              category: "India News",
-              tags: this.generateTags(apiArticle.title, "India News"),
-              featuredImage: imageUrl || apiArticle.image || "",
-              source: "GNews",
-              sourceUrl: apiArticle.url || "",
-              isPublished: true,
-              publishedAt: new Date(apiArticle.publishedAt || new Date()),
-            };
-            
-            articles.push(article);
+        if (data.articles && data.articles.length > 0) {
+          // Try multiple articles from this topic to find a non-duplicate
+          for (const apiArticle of data.articles) {
+            if (apiArticle.title && apiArticle.description) {
+              const isDuplicate = await this.checkForDuplicate(apiArticle.title);
+              
+              if (!isDuplicate) {
+                const enhancedContent = await this.enhanceWithGroq(
+                  apiArticle.description + "\n\n" + (apiArticle.content || ""),
+                  apiArticle.title,
+                  "India News"
+                );
+                
+                const imageUrl = await this.getImage(apiArticle.title + " india");
+                
+                const article: InsertArticle = {
+                  title: apiArticle.title,
+                  content: enhancedContent,
+                  excerpt: apiArticle.description?.substring(0, 200) + "..." || "",
+                  metaDescription: apiArticle.description?.substring(0, 160) || "",
+                  slug: this.generateSlug(apiArticle.title),
+                  category: "India News",
+                  tags: this.generateTags(apiArticle.title, "India News"),
+                  featuredImage: imageUrl || apiArticle.image || "",
+                  source: "GNews",
+                  sourceUrl: apiArticle.url || "",
+                  isPublished: true,
+                  publishedAt: new Date(apiArticle.publishedAt || new Date()),
+                };
+                
+                articles.push(article);
+                console.log(`Generated GNews article (${topic}): ${apiArticle.title}`);
+                break; // Move to next topic after finding one valid article
+              }
+            }
           }
         }
       }
