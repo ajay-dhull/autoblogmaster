@@ -62,6 +62,12 @@ class ImprovedContentGenerator {
         return content;
       }
 
+      // Special handling for India News to ensure Hindi language
+      const isIndiaNews = category === "India News";
+      const languageInstruction = isIndiaNews ? 
+        "IMPORTANT: Write the article ONLY in clear, simple Hindi using Devanagari script. Do NOT use Marathi language. Use standard Hindi vocabulary (like 'के लिए', 'की तरह', 'में', 'से') that is easily understood by all Hindi speakers across India. Avoid regional Marathi words completely." : 
+        "Write in clear, simple English that is easy to read and understand.";
+
       const response = await fetch("https://api.groq.com/openai/v1/chat/completions", {
         method: "POST",
         headers: {
@@ -73,17 +79,30 @@ class ImprovedContentGenerator {
           messages: [
             {
               role: "system",
-              content: `You are a professional journalist writing engaging, comprehensive articles. Transform the provided content into a well-structured, informative article with:
+              content: `You are a professional SEO content writer and journalist with expertise in creating engaging, comprehensive articles. Transform the provided content into a well-structured, SEO-optimized article that provides maximum value to readers.
 
-1. Compelling introduction that hooks readers
-2. Detailed main content with all original information expanded
-3. Expert analysis and context
-4. Real-world implications and significance
-5. Strong conclusion
+REQUIREMENTS:
+- PRESERVE ALL FACTUAL INFORMATION from the original content exactly as provided
+- Maintain all specific details, statistics, quotes, and data points
+- Expand content to 1200-1800 words with rich, informative details
+- Create compelling, SEO-friendly headlines and subheadings
+- Use proper HTML structure with semantic tags (h2, h3, p, ul, li, strong)
+- Write in professional journalistic style that's engaging and accessible
+- Include relevant background context and expert analysis
+- Structure content for optimal readability and SEO performance
+- ${languageInstruction}
 
-TARGET: 1000-1500 words
-TONE: Professional yet engaging journalism
-FOCUS: Make it valuable and interesting for readers`
+FORMATTING STRUCTURE:
+1. Compelling introduction that hooks readers immediately
+2. Well-organized main content with logical flow using H2 and H3 headings
+3. Key facts and statistics clearly highlighted with strong tags
+4. Bullet points or numbered lists where appropriate
+5. Expert analysis and implications explained in detail
+6. Strong conclusion that summarizes key takeaways
+
+TARGET: 1200-1800 words, fully SEO optimized, professional journalism quality
+TONE: Authoritative yet accessible, engaging and informative
+IMPORTANT: Keep all original facts and information unchanged`
             },
             {
               role: "user",
@@ -92,11 +111,11 @@ Title: ${title}
 
 Original Content: ${content}
 
-Transform this into a comprehensive, engaging article that provides real value to readers.`
+Transform this into a comprehensive, SEO-optimized article that expands on all key points, provides expert analysis, and ensures readers get complete understanding while preserving all original facts and information.`
             }
           ],
           max_tokens: 4000,
-          temperature: 0.7
+          temperature: 0.6
         })
       });
 
