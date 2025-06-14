@@ -23,7 +23,7 @@ class ImprovedContentGenerator {
       gnewsApiKey: process.env.GNEWS_API_KEY || "",
       redditClientId: process.env.REDDIT_CLIENT_ID || "",
       redditClientSecret: process.env.REDDIT_CLIENT_SECRET || "",
-      serpApiKey: process.env.SERP_API_KEY || "",
+      serpApiKey: "cb08919668fe983d9fe2270654b879360b26711d6b7bc08a8b367be207c86194",
       groqApiKey: process.env.GROQ_API_KEY || "",
       unsplashAccessKey: process.env.UNSPLASH_ACCESS_KEY || "",
       pexelsApiKey: process.env.PEXELS_API_KEY || "",
@@ -396,7 +396,8 @@ Transform this into a comprehensive, SEO-optimized article that expands on all k
         );
 
         if (!response.ok) {
-          console.error(`SerpAPI error for ${query}:`, response.statusText);
+          const errorText = await response.text();
+          console.error(`SerpAPI error for ${query}:`, response.status, errorText);
           continue;
         }
 
