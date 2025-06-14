@@ -63,18 +63,71 @@ app.use((req, res, next) => {
     }
   }, 5000); // Wait 5 seconds for server to fully start
 
-  // Set up scheduled content generation
-  // NewsAPI: Every 8 hours (8 AM, 4 PM, 12 AM)
+  // NewsAPI: Every hour - 2-3 articles
+  setInterval(async () => {
+    try {
+      console.log(`Hourly NewsAPI content generation`);
+      const { improvedContentGenerator } = await import("./lib/improved-content-generator");
+      const articles = await improvedContentGenerator.generateFromNewsAPI();
+      
+      // Save articles
+      for (const article of articles) {
+        try {
+          const { db } = await import("./lib/supabase");
+          const { articles: articlesTable } = await import("@shared/schema");
+          await db.insert(articlesTable).values({
+            ...article,
+            createdAt: new Date(),
+            updatedAt: new Date(),
+          });
+          console.log(`Hourly NewsAPI save: ${article.title}`);
+        } catch (error) {
+          console.error(`Error saving hourly NewsAPI article: ${error}`);
+        }
+      }
+    } catch (error) {
+      console.error("Error in hourly NewsAPI generation:", error);
+    }
+  }, 3600000); // Every hour
+
+  // GNews India: Every hour - 2-3 articles
+  setInterval(async () => {
+    try {
+      console.log(`Hourly GNews content generation`);
+      const { improvedContentGenerator } = await import("./lib/improved-content-generator");
+      const articles = await improvedContentGenerator.generateFromGNews();
+      
+      // Save articles
+      for (const article of articles) {
+        try {
+          const { db } = await import("./lib/supabase");
+          const { articles: articlesTable } = await import("@shared/schema");
+          await db.insert(articlesTable).values({
+            ...article,
+            createdAt: new Date(),
+            updatedAt: new Date(),
+          });
+          console.log(`Hourly GNews save: ${article.title}`);
+        } catch (error) {
+          console.error(`Error saving hourly GNews article: ${error}`);
+        }
+      }
+    } catch (error) {
+      console.error("Error in hourly GNews generation:", error);
+    }
+  }, 3600000); // Every hour
+
+  // SerpAPI: 3 times daily (9 AM, 12 PM, 5 PM) - 1 article each
   setInterval(async () => {
     try {
       const hour = new Date().getHours();
-      if (hour === 8 || hour === 16 || hour === 0) {
-        console.log(`Scheduled NewsAPI content generation at ${hour}:00`);
+      if (hour === 9 || hour === 12 || hour === 17) {
+        console.log(`Scheduled SerpAPI content generation at ${hour}:00`);
         const { improvedContentGenerator } = await import("./lib/improved-content-generator");
-        const articles = await improvedContentGenerator.generateFromNewsAPI();
+        const articles = await improvedContentGenerator.generateFromSerpAPI();
         
         // Save articles
-        for (const article of articles) {
+        for (const article of articles.slice(0, 1)) { // Only save 1 article per scheduled time
           try {
             const { db } = await import("./lib/supabase");
             const { articles: articlesTable } = await import("@shared/schema");
@@ -83,58 +136,28 @@ app.use((req, res, next) => {
               createdAt: new Date(),
               updatedAt: new Date(),
             });
-            console.log(`Scheduled save: ${article.title}`);
+            console.log(`SerpAPI scheduled save: ${article.title}`);
           } catch (error) {
-            console.error(`Error saving scheduled article: ${error}`);
+            console.error(`Error saving SerpAPI article: ${error}`);
           }
         }
       }
     } catch (error) {
-      console.error("Error in scheduled NewsAPI generation:", error);
+      console.error("Error in SerpAPI generation:", error);
     }
   }, 3600000); // Check every hour
 
-  // GNews India: Every 6 hours (12 PM, 6 PM, 12 AM, 6 AM)
+  // AI Educational content: 3 times daily (10 AM, 1 PM, 7 PM)
   setInterval(async () => {
     try {
       const hour = new Date().getHours();
-      if (hour === 12 || hour === 18 || hour === 0 || hour === 6) {
-        console.log(`Scheduled GNews content generation at ${hour}:00`);
-        const { improvedContentGenerator } = await import("./lib/improved-content-generator");
-        const articles = await improvedContentGenerator.generateFromGNews();
-        
-        // Save articles
-        for (const article of articles) {
-          try {
-            const { db } = await import("./lib/supabase");
-            const { articles: articlesTable } = await import("@shared/schema");
-            await db.insert(articlesTable).values({
-              ...article,
-              createdAt: new Date(),
-              updatedAt: new Date(),
-            });
-            console.log(`Scheduled save: ${article.title}`);
-          } catch (error) {
-            console.error(`Error saving scheduled article: ${error}`);
-          }
-        }
-      }
-    } catch (error) {
-      console.error("Error in scheduled GNews generation:", error);
-    }
-  }, 3600000); // Check every hour
-
-  // Educational content: Once daily at 10 AM
-  setInterval(async () => {
-    try {
-      const hour = new Date().getHours();
-      if (hour === 10) {
-        console.log(`Scheduled Educational content generation at ${hour}:00`);
+      if (hour === 10 || hour === 13 || hour === 19) {
+        console.log(`Scheduled AI Educational content generation at ${hour}:00`);
         const { improvedContentGenerator } = await import("./lib/improved-content-generator");
         const articles = await improvedContentGenerator.generateEducationalContent();
         
         // Save articles
-        for (const article of articles) {
+        for (const article of articles.slice(0, 1)) { // Only save 1 article per scheduled time
           try {
             const { db } = await import("./lib/supabase");
             const { articles: articlesTable } = await import("@shared/schema");
@@ -143,14 +166,45 @@ app.use((req, res, next) => {
               createdAt: new Date(),
               updatedAt: new Date(),
             });
-            console.log(`Scheduled save: ${article.title}`);
+            console.log(`Educational scheduled save: ${article.title}`);
           } catch (error) {
-            console.error(`Error saving scheduled article: ${error}`);
+            console.error(`Error saving educational article: ${error}`);
           }
         }
       }
     } catch (error) {
-      console.error("Error in scheduled Educational generation:", error);
+      console.error("Error in Educational generation:", error);
+    }
+  }, 3600000); // Check every hour
+
+  // Reddit: 2 articles daily (random times)
+  setInterval(async () => {
+    try {
+      const hour = new Date().getHours();
+      // Generate at 11 AM and 8 PM daily
+      if (hour === 11 || hour === 20) {
+        console.log(`Scheduled Reddit content generation at ${hour}:00`);
+        const { improvedContentGenerator } = await import("./lib/improved-content-generator");
+        const articles = await improvedContentGenerator.generateFromReddit();
+        
+        // Save articles
+        for (const article of articles.slice(0, 1)) { // Only save 1 article per scheduled time
+          try {
+            const { db } = await import("./lib/supabase");
+            const { articles: articlesTable } = await import("@shared/schema");
+            await db.insert(articlesTable).values({
+              ...article,
+              createdAt: new Date(),
+              updatedAt: new Date(),
+            });
+            console.log(`Reddit scheduled save: ${article.title}`);
+          } catch (error) {
+            console.error(`Error saving Reddit article: ${error}`);
+          }
+        }
+      }
+    } catch (error) {
+      console.error("Error in Reddit generation:", error);
     }
   }, 3600000); // Check every hour
 
