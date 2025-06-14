@@ -1,3 +1,4 @@
+import { useState, useEffect } from "react";
 import { Card, CardContent } from "@/components/ui/card";
 import { Button } from "@/components/ui/button";
 import { Badge } from "@/components/ui/badge";
@@ -14,11 +15,28 @@ import {
   Zap,
   CheckCircle,
   Star,
-  ArrowRight
+  ArrowRight,
+  Monitor,
+  Smartphone,
+  Play
 } from "lucide-react";
 import { Link } from "wouter";
 
 export default function About() {
+  const [isVisible, setIsVisible] = useState(false);
+  const [currentImageIndex, setCurrentImageIndex] = useState(0);
+
+  useEffect(() => {
+    setIsVisible(true);
+  }, []);
+
+  // Auto-rotate demo images
+  useEffect(() => {
+    const timer = setInterval(() => {
+      setCurrentImageIndex((prev) => (prev + 1) % 4);
+    }, 3000);
+    return () => clearInterval(timer);
+  }, []);
   const features = [
     {
       title: "Global News Coverage",
@@ -151,13 +169,13 @@ export default function About() {
             <div className="grid grid-cols-1 lg:grid-cols-2 gap-12 items-center">
               
               {/* Left Side - Text Content */}
-              <div className="text-white">
-                <div className="inline-flex items-center bg-gradient-to-r from-slate-700 to-slate-800 text-white px-4 py-2 rounded-full text-sm font-bold mb-6">
+              <div className={`text-white transition-all duration-1000 ${isVisible ? 'opacity-100 translate-x-0' : 'opacity-0 -translate-x-10'}`}>
+                <div className="inline-flex items-center bg-gradient-to-r from-slate-700 to-slate-800 text-white px-4 py-2 rounded-full text-sm font-bold mb-6 animate-pulse">
                   <Globe className="h-4 w-4 mr-2" />
                   ABOUT US
                 </div>
                 
-                <h1 className="text-5xl md:text-7xl font-bold mb-6 leading-tight">
+                <h1 className="text-4xl md:text-6xl lg:text-7xl font-bold mb-6 leading-tight">
                   Excellence in
                   <span className="block bg-gradient-to-r from-slate-200 via-white to-slate-100 bg-clip-text text-transparent">
                     Digital Journalism
@@ -205,42 +223,95 @@ export default function About() {
                 </div>
               </div>
 
-              {/* Right Side - Image/Visual Element */}
-              <div className="relative">
-                <div className="relative bg-white/10 backdrop-blur-sm rounded-2xl p-8 shadow-2xl">
-                  <div className="bg-gradient-to-br from-slate-100 to-gray-200 rounded-xl h-80 flex items-center justify-center relative overflow-hidden">
-                    {/* News Mockup Image */}
-                    <div className="absolute inset-0 bg-gradient-to-br from-slate-800 to-slate-900 opacity-90"></div>
-                    <div className="relative z-10 text-center text-white">
-                      <div className="mb-6">
-                        <div className="grid grid-cols-3 gap-2 mb-4">
-                          {[...Array(9)].map((_, i) => (
-                            <div 
-                              key={i} 
-                              className="bg-white/20 rounded h-6 animate-pulse" 
-                              style={{ animationDelay: `${i * 0.2}s` }}
-                            ></div>
-                          ))}
+              {/* Right Side - Enhanced News Platform Demo */}
+              <div className={`relative transition-all duration-1000 ${isVisible ? 'opacity-100 translate-x-0' : 'opacity-0 translate-x-10'}`}>
+                <div className="relative bg-white/10 backdrop-blur-sm rounded-2xl p-6 shadow-2xl">
+                  {/* Main Platform Display */}
+                  <div className="bg-gradient-to-br from-white via-gray-50 to-gray-100 rounded-xl p-6 relative overflow-hidden h-96">
+                    {/* Platform Header */}
+                    <div className="flex items-center justify-between mb-6">
+                      <div className="flex items-center space-x-3">
+                        <div className="w-8 h-8 bg-gradient-to-r from-blue-600 to-purple-600 rounded-lg flex items-center justify-center">
+                          <Globe className="h-5 w-5 text-white" />
                         </div>
-                        <div className="space-y-2">
-                          <div className="bg-white/30 rounded h-4 w-3/4 mx-auto animate-pulse"></div>
-                          <div className="bg-white/30 rounded h-4 w-1/2 mx-auto animate-pulse"></div>
+                        <span className="font-bold text-gray-900">NewsHub</span>
+                      </div>
+                      <div className="flex space-x-1">
+                        <div className="w-3 h-3 bg-red-500 rounded-full"></div>
+                        <div className="w-3 h-3 bg-yellow-500 rounded-full"></div>
+                        <div className="w-3 h-3 bg-green-500 rounded-full"></div>
+                      </div>
+                    </div>
+
+                    {/* Navigation Bar */}
+                    <div className="flex space-x-4 mb-6 text-sm">
+                      <span className="bg-blue-600 text-white px-3 py-1 rounded-lg">Breaking</span>
+                      <span className="text-gray-600 hover:text-blue-600 cursor-pointer">World</span>
+                      <span className="text-gray-600 hover:text-blue-600 cursor-pointer">Tech</span>
+                      <span className="text-gray-600 hover:text-blue-600 cursor-pointer">Sports</span>
+                    </div>
+
+                    {/* Demo Articles Grid */}
+                    <div className="space-y-3">
+                      {[
+                        { title: "Breaking: Global News Update", category: "World", time: "2 min ago" },
+                        { title: "Technology Innovation Report", category: "Tech", time: "5 min ago" },
+                        { title: "Economic Markets Analysis", category: "Business", time: "8 min ago" },
+                      ].map((article, index) => (
+                        <div 
+                          key={index}
+                          className={`flex items-center space-x-3 p-3 bg-white rounded-lg shadow-sm transition-all duration-500 hover:shadow-md ${
+                            currentImageIndex === index ? 'ring-2 ring-blue-500' : ''
+                          }`}
+                          style={{ animationDelay: `${index * 0.2}s` }}
+                        >
+                          <div className="w-12 h-12 bg-gradient-to-br from-blue-500 to-purple-500 rounded-lg flex items-center justify-center">
+                            {index === 0 && <Globe className="h-6 w-6 text-white" />}
+                            {index === 1 && <Zap className="h-6 w-6 text-white" />}
+                            {index === 2 && <TrendingUp className="h-6 w-6 text-white" />}
+                          </div>
+                          <div className="flex-1">
+                            <h4 className="font-semibold text-gray-900 text-sm">{article.title}</h4>
+                            <div className="flex items-center space-x-2 text-xs text-gray-500">
+                              <span>{article.category}</span>
+                              <span>•</span>
+                              <span>{article.time}</span>
+                            </div>
+                          </div>
+                          <div className="w-2 h-2 bg-green-500 rounded-full animate-pulse"></div>
                         </div>
+                      ))}
+                    </div>
+
+                    {/* Device Showcase Icons */}
+                    <div className="absolute bottom-4 right-4 flex space-x-2">
+                      <div className="w-8 h-8 bg-gray-800 rounded-lg flex items-center justify-center">
+                        <Monitor className="h-4 w-4 text-white" />
                       </div>
-                      <div className="inline-flex items-center justify-center w-16 h-16 rounded-full bg-white/20 mb-4">
-                        <Globe className="h-8 w-8 text-white" />
+                      <div className="w-8 h-8 bg-gray-800 rounded-lg flex items-center justify-center">
+                        <Smartphone className="h-4 w-4 text-white" />
                       </div>
-                      <p className="text-lg font-semibold">NewsHub Platform</p>
-                      <p className="text-sm text-gray-300">Professional News Interface</p>
                     </div>
                   </div>
                   
-                  {/* Floating Elements */}
-                  <div className="absolute -top-4 -right-4 bg-gradient-to-r from-orange-500 to-red-500 text-white px-3 py-1 rounded-full text-sm font-bold animate-pulse">
-                    LIVE
+                  {/* Enhanced Floating Elements */}
+                  <div className="absolute -top-3 -right-3 bg-gradient-to-r from-red-500 to-orange-500 text-white px-3 py-1 rounded-full text-xs font-bold animate-pulse shadow-lg">
+                    <div className="flex items-center space-x-1">
+                      <div className="w-2 h-2 bg-white rounded-full animate-ping"></div>
+                      <span>LIVE</span>
+                    </div>
                   </div>
-                  <div className="absolute -bottom-4 -left-4 bg-gradient-to-r from-slate-700 to-slate-800 text-white px-3 py-1 rounded-full text-sm">
-                    24/7 Coverage
+                  <div className="absolute -bottom-3 -left-3 bg-gradient-to-r from-slate-700 to-slate-800 text-white px-3 py-1 rounded-full text-xs font-medium shadow-lg">
+                    <div className="flex items-center space-x-1">
+                      <Clock className="h-3 w-3" />
+                      <span>24/7</span>
+                    </div>
+                  </div>
+                  <div className="absolute top-4 -left-3 bg-gradient-to-r from-blue-600 to-purple-600 text-white px-3 py-1 rounded-full text-xs font-medium shadow-lg">
+                    <div className="flex items-center space-x-1">
+                      <Users className="h-3 w-3" />
+                      <span>2M+ Readers</span>
+                    </div>
                   </div>
                 </div>
               </div>
@@ -310,21 +381,27 @@ export default function About() {
             </p>
           </div>
 
-          <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
+          <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6 lg:gap-8">
             {features.map((feature, index) => {
               const IconComponent = feature.icon;
               return (
-                <Card key={index} className="group hover:shadow-2xl transition-all duration-500 hover:scale-105 bg-white border-0 overflow-hidden">
-                  <CardContent className="p-8">
-                    <div className={`inline-flex items-center justify-center w-16 h-16 rounded-xl ${feature.color} mb-6 group-hover:scale-110 transition-transform duration-300 shadow-lg`}>
-                      <IconComponent className="h-8 w-8" />
-                    </div>
-                    <h3 className="text-xl font-bold mb-3 text-gray-900 group-hover:text-blue-700 transition-colors duration-300">
-                      {feature.title}
-                    </h3>
-                    <p className="text-gray-600 leading-relaxed">{feature.description}</p>
-                  </CardContent>
-                </Card>
+                <div
+                  key={index}
+                  className="animate-in slide-in-from-bottom-4 duration-700"
+                  style={{ animationDelay: `${index * 0.15}s` }}
+                >
+                  <Card className="group hover:shadow-2xl transition-all duration-500 hover:scale-105 bg-white border-0 overflow-hidden h-full">
+                    <CardContent className="p-6 lg:p-8">
+                      <div className={`inline-flex items-center justify-center w-14 h-14 lg:w-16 lg:h-16 rounded-xl ${feature.color} mb-4 lg:mb-6 group-hover:scale-110 transition-transform duration-300 shadow-lg`}>
+                        <IconComponent className="h-6 w-6 lg:h-8 lg:w-8" />
+                      </div>
+                      <h3 className="text-lg lg:text-xl font-bold mb-3 text-gray-900 group-hover:text-blue-700 transition-colors duration-300">
+                        {feature.title}
+                      </h3>
+                      <p className="text-sm lg:text-base text-gray-600 leading-relaxed">{feature.description}</p>
+                    </CardContent>
+                  </Card>
+                </div>
               );
             })}
           </div>

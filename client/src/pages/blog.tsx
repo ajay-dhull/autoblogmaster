@@ -275,15 +275,15 @@ export default function Blog() {
           {!isLoading && !isSearching && !error && displayArticles && (
             <>
               {displayArticles.length > 0 ? (
-                <div className={`grid gap-8 ${
+                <div className={`grid gap-6 lg:gap-8 ${
                   viewMode === "grid" 
-                    ? "grid-cols-1 md:grid-cols-2 lg:grid-cols-3" 
+                    ? "grid-cols-1 sm:grid-cols-2 lg:grid-cols-3" 
                     : "grid-cols-1 max-w-4xl mx-auto"
                 }`}>
                   {displayArticles.map((article, index) => (
                     <div 
                       key={article.id}
-                      className="animate-in slide-in-from-bottom-4 duration-500"
+                      className="animate-in slide-in-from-bottom-4 duration-700 hover:scale-105 transition-transform duration-300"
                       style={{ animationDelay: `${index * 0.1}s` }}
                     >
                       <ArticleCard article={article} />

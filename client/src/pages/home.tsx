@@ -124,7 +124,7 @@ export default function Home() {
         {/* Hero Content with Sliding Articles */}
         <div className="relative z-10 h-full flex items-center">
           <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 w-full">
-            <div className="grid grid-cols-1 lg:grid-cols-2 gap-12 items-center">
+            <div className="grid grid-cols-1 lg:grid-cols-2 gap-8 lg:gap-12 items-center">
               
               {/* Left Side - Hero Text */}
               <div className={`text-white transition-all duration-1000 ${isVisible ? 'opacity-100 translate-x-0' : 'opacity-0 -translate-x-10'}`}>
@@ -133,14 +133,14 @@ export default function Home() {
                   LIVE NEWS
                 </div>
                 
-                <h1 className="text-4xl md:text-6xl font-bold mb-6 leading-tight">
+                <h1 className="text-3xl sm:text-4xl md:text-5xl lg:text-6xl font-bold mb-6 leading-tight">
                   Latest News
                   <span className="block bg-gradient-to-r from-slate-200 to-white bg-clip-text text-transparent">
                     Auto-Updates
                   </span>
                 </h1>
                 
-                <p className="text-xl text-gray-300 mb-8 leading-relaxed">
+                <p className="text-lg sm:text-xl text-gray-300 mb-8 leading-relaxed">
                   Discover the most recent stories as they unfold. Our hero section automatically refreshes with the latest 5 articles, ensuring you never miss breaking news.
                 </p>
 
@@ -474,12 +474,12 @@ export default function Home() {
               ))}
             </div>
           ) : recentArticles && recentArticles.length > 0 ? (
-            <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-6">
+            <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-4 md:gap-6">
               {recentArticles.slice(0, 4).map((article, index) => (
                 <div 
                   key={article.id}
-                  className="animate-in slide-in-from-bottom-4 duration-500"
-                  style={{ animationDelay: `${index * 0.1}s` }}
+                  className="animate-in slide-in-from-bottom-4 duration-700 hover:scale-105 transition-transform duration-300"
+                  style={{ animationDelay: `${index * 0.15}s` }}
                 >
                   <ArticleCard article={article} />
                 </div>
