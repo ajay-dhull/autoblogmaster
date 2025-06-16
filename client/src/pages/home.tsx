@@ -42,12 +42,13 @@ export default function Home() {
     queryFn: () => api.getArticles(8, 0),
   });
 
-  // Latest articles for hero section
+  // Latest articles for hero section - real-time updates
   const { data: latestArticles, isLoading: latestLoading } = useQuery({
     queryKey: ['/api/articles', 'latest', 5],
     queryFn: () => api.getArticles(5, 0),
-    refetchInterval: 30000, // Auto-refresh every 30 seconds
+    refetchInterval: 10000, // Auto-refresh every 10 seconds for real-time updates
     staleTime: 0, // Always refetch
+    refetchOnWindowFocus: true, // Refetch when window gains focus
   });
 
   // Auto-slide effect for hero section
@@ -161,7 +162,7 @@ export default function Home() {
 
               {/* Right Side - Latest Articles Slider */}
               <div className={`transition-all duration-1000 ${isVisible ? 'opacity-100 translate-x-0' : 'opacity-0 translate-x-10'}`}>
-                {(latestLoading || articlesLoading) ? (
+                {latestLoading ? (
                   <div className="bg-white/10 backdrop-blur-sm rounded-2xl p-6 animate-pulse">
                     <div className="h-64 bg-gray-300 rounded-xl mb-4"></div>
                     <div className="h-6 bg-gray-300 rounded mb-2"></div>
@@ -270,7 +271,7 @@ export default function Home() {
                   <div className="relative">
                     {/* Fallback to recent articles if latest articles aren't available */}
                     <div className="relative overflow-hidden rounded-2xl shadow-2xl">
-                      {recentArticles.slice(0, 3).map((article, index) => (
+                      {recentArticles.slice(0, 5).map((article, index) => (
                         <div
                           key={article.id}
                           className={`absolute inset-0 transition-all duration-700 ease-in-out ${
@@ -300,7 +301,7 @@ export default function Home() {
                                 </Badge>
                               </div>
                               <div className="absolute bottom-4 right-4 bg-black/50 text-white px-3 py-1 rounded-full text-sm">
-                                {index + 1} / 3
+                                {index + 1} / {Math.min(recentArticles.length, 5)}
                               </div>
                             </div>
                             <CardContent className="p-6">
