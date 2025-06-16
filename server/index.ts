@@ -63,10 +63,10 @@ app.use((req, res, next) => {
     }
   }, 5000); // Wait 5 seconds for server to fully start
 
-  // NewsAPI: Every hour - 2-3 articles
+  // NewsAPI: Every 3 hours - 2-3 articles
   setInterval(async () => {
     try {
-      console.log(`Hourly NewsAPI content generation`);
+      console.log(`3-hourly NewsAPI content generation`);
       const { improvedContentGenerator } = await import("./lib/improved-content-generator");
       const articles = await improvedContentGenerator.generateFromNewsAPI();
       
@@ -80,20 +80,20 @@ app.use((req, res, next) => {
             createdAt: new Date(),
             updatedAt: new Date(),
           });
-          console.log(`Hourly NewsAPI save: ${article.title}`);
+          console.log(`3-hourly NewsAPI save: ${article.title}`);
         } catch (error) {
-          console.error(`Error saving hourly NewsAPI article: ${error}`);
+          console.error(`Error saving 3-hourly NewsAPI article: ${error}`);
         }
       }
     } catch (error) {
-      console.error("Error in hourly NewsAPI generation:", error);
+      console.error("Error in 3-hourly NewsAPI generation:", error);
     }
-  }, 3600000); // Every hour
+  }, 10800000); // Every 3 hours (3 * 60 * 60 * 1000)
 
-  // GNews India: Every hour - 2-3 articles
+  // GNews India: Every 3 hours - 2-3 articles
   setInterval(async () => {
     try {
-      console.log(`Hourly GNews content generation`);
+      console.log(`3-hourly GNews content generation`);
       const { improvedContentGenerator } = await import("./lib/improved-content-generator");
       const articles = await improvedContentGenerator.generateFromGNews();
       
@@ -107,15 +107,15 @@ app.use((req, res, next) => {
             createdAt: new Date(),
             updatedAt: new Date(),
           });
-          console.log(`Hourly GNews save: ${article.title}`);
+          console.log(`3-hourly GNews save: ${article.title}`);
         } catch (error) {
-          console.error(`Error saving hourly GNews article: ${error}`);
+          console.error(`Error saving 3-hourly GNews article: ${error}`);
         }
       }
     } catch (error) {
-      console.error("Error in hourly GNews generation:", error);
+      console.error("Error in 3-hourly GNews generation:", error);
     }
-  }, 3600000); // Every hour
+  }, 10800000); // Every 3 hours (3 * 60 * 60 * 1000)
 
   // SerpAPI: 3 times daily (9 AM, 12 PM, 5 PM) - 1 article each
   setInterval(async () => {

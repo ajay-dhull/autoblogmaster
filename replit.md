@@ -120,9 +120,11 @@ Preferred communication style: Simple, everyday language.
   - Educational AI: Generated comprehensive guides and tutorials
 ✅ Integrated Groq AI for professional content enhancement and SEO optimization
 ✅ Added automatic content scheduling system:
-  - NewsAPI: Every 8 hours (8 AM, 4 PM, 12 AM)
-  - GNews India: Every 6 hours (12 PM, 6 PM, 12 AM, 6 AM)
-  - Educational content: Daily at 10 AM
+  - NewsAPI: Every 3 hours (reduced frequency for better management)
+  - GNews India: Every 3 hours (reduced frequency for better management)
+  - SerpAPI: 3 times daily (9 AM, 12 PM, 5 PM)
+  - Educational content: 3 times daily (10 AM, 1 PM, 7 PM)
+  - Reddit: 2 times daily (11 AM, 8 PM)
 ✅ Implemented duplicate prevention system to avoid repeated content
 ✅ Added featured image integration with Unsplash and Pexels APIs
 ✅ Database now populated with 9+ articles from multiple sources
