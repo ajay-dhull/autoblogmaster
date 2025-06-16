@@ -21,6 +21,7 @@ import {
   Play
 } from "lucide-react";
 import { Link } from "wouter";
+import aboutHeroSvg from "../assets/about-hero.svg";
 
 export default function About() {
   const [isVisible, setIsVisible] = useState(false);
@@ -139,27 +140,16 @@ export default function About() {
       <section className="relative h-[70vh] overflow-hidden">
         {/* Hero Background Image */}
         <div className="absolute inset-0">
-          <div className="absolute inset-0 bg-gradient-to-br from-slate-900/80 via-gray-900/80 to-black/80 z-10"></div>
-          <div className="absolute inset-0 bg-gradient-to-br from-slate-600/20 via-gray-600/20 to-zinc-700/20">
-            {/* Professional News Background Pattern */}
-            <div className="absolute inset-0 opacity-20">
-              <div className="grid grid-cols-8 gap-4 h-full p-8">
-                {[...Array(32)].map((_, i) => (
-                  <div 
-                    key={i} 
-                    className="bg-white rounded-lg animate-pulse" 
-                    style={{ 
-                      animationDelay: `${i * 0.1}s`,
-                      height: `${Math.random() * 60 + 20}%`,
-                      marginTop: `${Math.random() * 40}%`
-                    }}
-                  ></div>
-                ))}
-              </div>
-            </div>
-            {/* News Elements */}
-            <div className="absolute top-20 left-20 w-64 h-64 bg-gradient-to-r from-white/10 to-transparent rounded-full blur-3xl animate-pulse"></div>
-            <div className="absolute bottom-20 right-20 w-80 h-80 bg-gradient-to-r from-white/10 to-transparent rounded-full blur-3xl animate-pulse" style={{ animationDelay: '2s' }}></div>
+          <div className="absolute inset-0 bg-gradient-to-br from-slate-900/85 via-gray-900/85 to-black/85 z-10"></div>
+          <img 
+            src={aboutHeroSvg} 
+            alt="Professional News Platform" 
+            className="absolute inset-0 w-full h-full object-cover opacity-30"
+          />
+          <div className="absolute inset-0 bg-gradient-to-br from-slate-600/10 via-gray-600/10 to-zinc-700/10">
+            {/* Enhanced Professional Elements */}
+            <div className="absolute top-20 left-20 w-64 h-64 bg-gradient-to-r from-blue-500/20 to-purple-500/20 rounded-full blur-3xl animate-pulse"></div>
+            <div className="absolute bottom-20 right-20 w-80 h-80 bg-gradient-to-r from-indigo-500/20 to-blue-500/20 rounded-full blur-3xl animate-pulse" style={{ animationDelay: '2s' }}></div>
           </div>
         </div>
         

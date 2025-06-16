@@ -1,0 +1,94 @@
+<svg viewBox="0 0 800 600" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#1e293b;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#334155;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="screen" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#f8fafc;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#e2e8f0;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="accent" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#3b82f6;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#1d4ed8;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  
+  <!-- Background -->
+  <rect width="800" height="600" fill="url(#bg)"/>
+  
+  <!-- News Grid Pattern -->
+  <g opacity="0.1">
+    <rect x="50" y="50" width="150" height="20" fill="white" rx="2"/>
+    <rect x="50" y="80" width="120" height="15" fill="white" rx="2"/>
+    <rect x="50" y="105" width="140" height="15" fill="white" rx="2"/>
+    
+    <rect x="220" y="50" width="160" height="20" fill="white" rx="2"/>
+    <rect x="220" y="80" width="130" height="15" fill="white" rx="2"/>
+    <rect x="220" y="105" width="150" height="15" fill="white" rx="2"/>
+    
+    <rect x="400" y="50" width="140" height="20" fill="white" rx="2"/>
+    <rect x="400" y="80" width="110" height="15" fill="white" rx="2"/>
+    <rect x="400" y="105" width="135" height="15" fill="white" rx="2"/>
+  </g>
+  
+  <!-- Main Device -->
+  <g transform="translate(200, 150)">
+    <!-- Laptop -->
+    <rect x="0" y="0" width="400" height="250" fill="#1f2937" rx="8"/>
+    <rect x="10" y="10" width="380" height="210" fill="url(#screen)" rx="4"/>
+    
+    <!-- Screen Content -->
+    <rect x="30" y="30" width="340" height="40" fill="url(#accent)" rx="4"/>
+    <text x="35" y="55" fill="white" font-size="14" font-weight="bold">NewsHub - Professional Journalism</text>
+    
+    <!-- News Articles -->
+    <rect x="30" y="85" width="160" height="60" fill="#e5e7eb" rx="4"/>
+    <rect x="30" y="155" width="160" height="50" fill="#e5e7eb" rx="4"/>
+    
+    <rect x="210" y="85" width="160" height="60" fill="#e5e7eb" rx="4"/>
+    <rect x="210" y="155" width="160" height="50" fill="#e5e7eb" rx="4"/>
+    
+    <!-- Featured Article -->
+    <rect x="30" y="90" width="150" height="35" fill="url(#accent)" rx="2"/>
+    <text x="35" y="110" fill="white" font-size="8" font-weight="bold">BREAKING NEWS</text>
+    
+    <!-- Laptop Base -->
+    <rect x="-20" y="250" width="440" height="20" fill="#374151" rx="10"/>
+  </g>
+  
+  <!-- Floating Elements -->
+  <circle cx="100" cy="200" r="30" fill="url(#accent)" opacity="0.8">
+    <animateTransform attributeName="transform" type="translate" values="0,0; 0,-10; 0,0" dur="3s" repeatCount="indefinite"/>
+  </circle>
+  
+  <circle cx="700" cy="400" r="25" fill="white" opacity="0.6">
+    <animateTransform attributeName="transform" type="translate" values="0,0; 0,10; 0,0" dur="4s" repeatCount="indefinite"/>
+  </circle>
+  
+  <!-- Globe Icon -->
+  <g transform="translate(75, 175)">
+    <circle cx="0" cy="0" r="25" fill="none" stroke="white" stroke-width="2" opacity="0.8"/>
+    <path d="M-25,0 A25,25 0 0,1 25,0" fill="none" stroke="white" stroke-width="1" opacity="0.6"/>
+    <path d="M-25,0 A25,25 0 0,0 25,0" fill="none" stroke="white" stroke-width="1" opacity="0.6"/>
+    <line x1="0" y1="-25" x2="0" y2="25" stroke="white" stroke-width="1" opacity="0.6"/>
+  </g>
+  
+  <!-- Data Visualization -->
+  <g transform="translate(650, 350)">
+    <rect x="0" y="0" width="8" height="40" fill="url(#accent)" rx="2"/>
+    <rect x="15" y="10" width="8" height="30" fill="url(#accent)" rx="2"/>
+    <rect x="30" y="5" width="8" height="35" fill="url(#accent)" rx="2"/>
+    <rect x="45" y="15" width="8" height="25" fill="url(#accent)" rx="2"/>
+  </g>
+  
+  <!-- Network Connections -->
+  <g opacity="0.4">
+    <line x1="400" y1="300" x2="150" y2="250" stroke="white" stroke-width="1" stroke-dasharray="5,5">
+      <animate attributeName="stroke-dashoffset" values="0;10" dur="2s" repeatCount="indefinite"/>
+    </line>
+    <line x1="400" y1="300" x2="650" y2="380" stroke="white" stroke-width="1" stroke-dasharray="5,5">
+      <animate attributeName="stroke-dashoffset" values="0;10" dur="2.5s" repeatCount="indefinite"/>
+    </line>
+  </g>
+</svg>
