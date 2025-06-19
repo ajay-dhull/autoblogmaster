@@ -169,9 +169,9 @@ export default function Home() {
                     <div className="h-3 sm:h-4 bg-gray-300 rounded w-2/3"></div>
                   </div>
                 ) : latestArticles && latestArticles.length > 0 ? (
-                  <div className="relative w-full max-w-md mx-auto lg:max-w-none">
+                  <div className="relative w-full max-w-lg mx-auto lg:max-w-none">
                     {/* Latest Articles Slider */}
-                    <div className="relative overflow-hidden rounded-xl lg:rounded-2xl shadow-2xl h-96 sm:h-[420px] lg:h-96">
+                    <div className="relative overflow-hidden rounded-xl lg:rounded-2xl shadow-2xl h-[450px] sm:h-[480px] lg:h-[500px]">
                       {latestArticles.slice(0, 5).map((article, index) => (
                         <div
                           key={article.id}
@@ -208,20 +208,22 @@ export default function Home() {
                                 LATEST
                               </div>
                             </div>
-                            <CardContent className="p-4 sm:p-6">
-                              <h3 className="text-lg sm:text-xl font-bold mb-2 sm:mb-3 text-gray-900 line-clamp-2">
-                                {article.title}
-                              </h3>
-                              <p className="text-sm sm:text-base text-gray-600 mb-3 sm:mb-4 line-clamp-2 sm:line-clamp-3">
-                                {article.content.replace(/<[^>]*>/g, '').substring(0, 100)}...
-                              </p>
-                              <div className="flex items-center justify-between flex-wrap gap-2">
+                            <CardContent className="p-4 sm:p-6 flex flex-col justify-between h-full">
+                              <div>
+                                <h3 className="text-lg sm:text-xl font-bold mb-2 sm:mb-3 text-gray-900 line-clamp-2 leading-tight">
+                                  {article.title}
+                                </h3>
+                                <p className="text-sm sm:text-base text-gray-600 mb-3 sm:mb-4 line-clamp-3 leading-relaxed">
+                                  {article.content.replace(/<[^>]*>/g, '').substring(0, 120)}...
+                                </p>
+                              </div>
+                              <div className="flex items-center justify-between flex-wrap gap-2 mt-auto">
                                 <div className="flex items-center text-gray-500 text-xs sm:text-sm">
                                   <Calendar className="h-3 w-3 sm:h-4 sm:w-4 mr-1" />
                                   {article.publishedAt ? new Date(article.publishedAt).toLocaleDateString() : 'Recent'}
                                 </div>
                                 <Link href={`/article/${article.slug}`}>
-                                  <Button size="sm" className="bg-slate-900 text-white hover:bg-black text-xs sm:text-sm px-3 py-1.5">
+                                  <Button size="sm" className="bg-slate-900 text-white hover:bg-black text-xs sm:text-sm px-4 py-2">
                                     Read More
                                   </Button>
                                 </Link>
@@ -268,9 +270,9 @@ export default function Home() {
                     </div>
                   </div>
                 ) : recentArticles && recentArticles.length > 0 ? (
-                  <div className="relative">
+                  <div className="relative w-full max-w-lg mx-auto lg:max-w-none">
                     {/* Fallback to recent articles if latest articles aren't available */}
-                    <div className="relative overflow-hidden rounded-2xl shadow-2xl h-96">
+                    <div className="relative overflow-hidden rounded-xl lg:rounded-2xl shadow-2xl h-[450px] sm:h-[480px] lg:h-[500px]">
                       {recentArticles.slice(0, 5).map((article, index) => (
                         <div
                           key={article.id}

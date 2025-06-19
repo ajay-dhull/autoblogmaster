@@ -206,7 +206,7 @@ export default function About() {
                     </Button>
                   </Link>
                   <Link href="/contact">
-                    <Button size="lg" variant="outline" className="border-2 border-white text-white hover:bg-white hover:text-slate-900 px-6 py-3 sm:px-8 sm:py-4 text-base sm:text-lg font-semibold transition-all duration-300 w-full sm:w-auto">
+                    <Button size="lg" variant="outline" className="border-2 border-white text-white hover:bg-white hover:text-slate-900 px-6 py-3 sm:px-8 sm:py-4 text-base sm:text-lg font-semibold transition-all duration-300 w-full sm:w-auto bg-transparent">
                       Get In Touch
                     </Button>
                   </Link>
@@ -490,7 +490,7 @@ export default function About() {
               </Button>
             </Link>
             <Link href="/contact">
-              <Button size="lg" variant="outline" className="border-white text-white hover:bg-white hover:text-blue-600 px-8 py-4 text-lg font-semibold hover:scale-105 transition-all duration-300">
+              <Button size="lg" variant="outline" className="border-2 border-white text-white hover:bg-white hover:text-blue-600 px-8 py-4 text-lg font-semibold hover:scale-105 transition-all duration-300 bg-transparent">
                 Contact Us
               </Button>
             </Link>
