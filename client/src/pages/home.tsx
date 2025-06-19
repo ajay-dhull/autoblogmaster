@@ -153,9 +153,8 @@ export default function Home() {
                     </Button>
                   </Link>
                   <Link href="/contact">
-                    <Button size="lg" variant="outline" className="border-2 border-white text-white hover:bg-white hover:text-slate-900 px-8 py-4 text-lg font-semibold transition-all duration-300">
+                    <Button size="lg" className="bg-transparent border-2 border-white text-white hover:bg-white hover:text-slate-900 px-8 py-4 text-lg font-semibold transition-all duration-300">
                       Contact Us
-                    </Button>
                   </Link>
                 </div>
               </div>
