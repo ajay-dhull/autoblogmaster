@@ -171,7 +171,7 @@ export default function Home() {
                 ) : latestArticles && latestArticles.length > 0 ? (
                   <div className="relative">
                     {/* Latest Articles Slider */}
-                    <div className="relative overflow-hidden rounded-2xl shadow-2xl">
+                    <div className="relative overflow-hidden rounded-2xl shadow-2xl h-96">
                       {latestArticles.slice(0, 5).map((article, index) => (
                         <div
                           key={article.id}
@@ -270,7 +270,7 @@ export default function Home() {
                 ) : recentArticles && recentArticles.length > 0 ? (
                   <div className="relative">
                     {/* Fallback to recent articles if latest articles aren't available */}
-                    <div className="relative overflow-hidden rounded-2xl shadow-2xl">
+                    <div className="relative overflow-hidden rounded-2xl shadow-2xl h-96">
                       {recentArticles.slice(0, 5).map((article, index) => (
                         <div
                           key={article.id}
