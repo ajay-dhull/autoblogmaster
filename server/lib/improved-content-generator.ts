@@ -136,25 +136,52 @@ Transform this into a comprehensive, SEO-optimized article that expands on all k
 
   private async getImage(keywords: string): Promise<string> {
     try {
-      const response = await fetch(
-        `https://api.unsplash.com/search/photos?query=${encodeURIComponent(keywords)}&per_page=1&orientation=landscape`,
-        {
-          headers: {
-            "Authorization": `Client-ID ${this.config.unsplashAccessKey}`,
-          },
-        }
-      );
+      // Try Unsplash first with varied search terms
+      const searchTerms = [keywords, keywords.split(' ')[0], 'news', 'technology', 'world'];
+      
+      for (const term of searchTerms) {
+        const response = await fetch(
+          `https://api.unsplash.com/search/photos?query=${encodeURIComponent(term)}&per_page=3&orientation=landscape`,
+          {
+            headers: {
+              "Authorization": `Client-ID ${this.config.unsplashAccessKey}`,
+            },
+          }
+        );
 
-      if (response.ok) {
-        const data = await response.json();
-        if (data.results && data.results.length > 0) {
-          return data.results[0].urls.regular;
+        if (response.ok) {
+          const data = await response.json();
+          if (data.results && data.results.length > 0) {
+            const randomIndex = Math.floor(Math.random() * data.results.length);
+            return data.results[randomIndex].urls.regular;
+          }
         }
       }
 
-      return "https://images.unsplash.com/photo-1586339949916-3e9457bef6d3?w=800&h=400&fit=crop";
+      // Diverse fallback images for different categories
+      const fallbackImages = [
+        "https://images.unsplash.com/photo-1586339949916-3e9457bef6d3?w=800&h=400&fit=crop", // News
+        "https://images.unsplash.com/photo-1504711434969-e33886168f5c?w=800&h=400&fit=crop", // Tech
+        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&h=400&fit=crop", // Global
+        "https://images.unsplash.com/photo-1444653614773-995cb1ef5bce?w=800&h=400&fit=crop", // Business
+        "https://images.unsplash.com/photo-1498050108023-c5249f4df085?w=800&h=400&fit=crop", // Education
+        "https://images.unsplash.com/photo-1515378791036-0648a814c963?w=800&h=400&fit=crop", // Science
+        "https://images.unsplash.com/photo-1522202176988-66273c2fd55f?w=800&h=400&fit=crop", // Politics
+        "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&h=400&fit=crop"  // Analysis
+      ];
+      
+      const randomFallback = Math.floor(Math.random() * fallbackImages.length);
+      return fallbackImages[randomFallback];
     } catch (error) {
-      return "https://images.unsplash.com/photo-1586339949916-3e9457bef6d3?w=800&h=400&fit=crop";
+      // Return a random fallback even on error
+      const fallbackImages = [
+        "https://images.unsplash.com/photo-1586339949916-3e9457bef6d3?w=800&h=400&fit=crop",
+        "https://images.unsplash.com/photo-1504711434969-e33886168f5c?w=800&h=400&fit=crop",
+        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&h=400&fit=crop",
+        "https://images.unsplash.com/photo-1444653614773-995cb1ef5bce?w=800&h=400&fit=crop"
+      ];
+      const randomFallback = Math.floor(Math.random() * fallbackImages.length);
+      return fallbackImages[randomFallback];
     }
   }
 

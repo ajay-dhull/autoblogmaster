@@ -156,7 +156,7 @@ export default function About() {
         {/* Hero Content */}
         <div className="relative z-20 h-full flex items-center">
           <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 w-full">
-            <div className="grid grid-cols-1 lg:grid-cols-2 gap-12 items-center">
+            <div className="grid grid-cols-1 lg:grid-cols-2 gap-8 lg:gap-12 items-center">
               
               {/* Left Side - Text Content */}
               <div className={`text-white transition-all duration-1000 ${isVisible ? 'opacity-100 translate-x-0' : 'opacity-0 -translate-x-10'}`}>
@@ -215,34 +215,34 @@ export default function About() {
 
               {/* Right Side - Enhanced News Platform Demo */}
               <div className={`relative transition-all duration-1000 ${isVisible ? 'opacity-100 translate-x-0' : 'opacity-0 translate-x-10'}`}>
-                <div className="relative bg-white/10 backdrop-blur-sm rounded-2xl p-6 shadow-2xl">
+                <div className="relative bg-white/10 backdrop-blur-sm rounded-2xl p-4 sm:p-6 shadow-2xl">
                   {/* Main Platform Display */}
-                  <div className="bg-gradient-to-br from-white via-gray-50 to-gray-100 rounded-xl p-6 relative overflow-hidden h-96">
+                  <div className="bg-gradient-to-br from-white via-gray-50 to-gray-100 rounded-xl p-4 sm:p-6 relative overflow-hidden h-80 sm:h-96">
                     {/* Platform Header */}
-                    <div className="flex items-center justify-between mb-6">
-                      <div className="flex items-center space-x-3">
-                        <div className="w-8 h-8 bg-gradient-to-r from-blue-600 to-purple-600 rounded-lg flex items-center justify-center">
-                          <Globe className="h-5 w-5 text-white" />
+                    <div className="flex items-center justify-between mb-4 sm:mb-6">
+                      <div className="flex items-center space-x-2 sm:space-x-3">
+                        <div className="w-6 h-6 sm:w-8 sm:h-8 bg-gradient-to-r from-blue-600 to-purple-600 rounded-lg flex items-center justify-center">
+                          <Globe className="h-3 w-3 sm:h-5 sm:w-5 text-white" />
                         </div>
-                        <span className="font-bold text-gray-900">NewsHub</span>
+                        <span className="font-bold text-gray-900 text-sm sm:text-base">NewsHub</span>
                       </div>
                       <div className="flex space-x-1">
-                        <div className="w-3 h-3 bg-red-500 rounded-full"></div>
-                        <div className="w-3 h-3 bg-yellow-500 rounded-full"></div>
-                        <div className="w-3 h-3 bg-green-500 rounded-full"></div>
+                        <div className="w-2 h-2 sm:w-3 sm:h-3 bg-red-500 rounded-full"></div>
+                        <div className="w-2 h-2 sm:w-3 sm:h-3 bg-yellow-500 rounded-full"></div>
+                        <div className="w-2 h-2 sm:w-3 sm:h-3 bg-green-500 rounded-full"></div>
                       </div>
                     </div>
 
                     {/* Navigation Bar */}
-                    <div className="flex space-x-4 mb-6 text-sm">
-                      <span className="bg-blue-600 text-white px-3 py-1 rounded-lg">Breaking</span>
+                    <div className="flex flex-wrap gap-2 sm:gap-4 mb-4 sm:mb-6 text-xs sm:text-sm">
+                      <span className="bg-blue-600 text-white px-2 py-1 sm:px-3 sm:py-1 rounded-lg">Breaking</span>
                       <span className="text-gray-600 hover:text-blue-600 cursor-pointer">World</span>
                       <span className="text-gray-600 hover:text-blue-600 cursor-pointer">Tech</span>
-                      <span className="text-gray-600 hover:text-blue-600 cursor-pointer">Sports</span>
+                      <span className="text-gray-600 hover:text-blue-600 cursor-pointer hidden sm:inline">Sports</span>
                     </div>
 
                     {/* Demo Articles Grid */}
-                    <div className="space-y-3">
+                    <div className="space-y-2 sm:space-y-3">
                       {[
                         { title: "Breaking: Global News Update", category: "World", time: "2 min ago" },
                         { title: "Technology Innovation Report", category: "Tech", time: "5 min ago" },
@@ -250,57 +250,58 @@ export default function About() {
                       ].map((article, index) => (
                         <div 
                           key={index}
-                          className={`flex items-center space-x-3 p-3 bg-white rounded-lg shadow-sm transition-all duration-500 hover:shadow-md ${
-                            currentImageIndex === index ? 'ring-2 ring-blue-500' : ''
+                          className={`flex items-center space-x-2 sm:space-x-3 p-2 sm:p-3 bg-white rounded-lg shadow-sm transition-all duration-500 hover:shadow-md ${
+                            currentImageIndex === index ? 'ring-1 sm:ring-2 ring-blue-500' : ''
                           }`}
                           style={{ animationDelay: `${index * 0.2}s` }}
                         >
-                          <div className="w-12 h-12 bg-gradient-to-br from-blue-500 to-purple-500 rounded-lg flex items-center justify-center">
-                            {index === 0 && <Globe className="h-6 w-6 text-white" />}
-                            {index === 1 && <Zap className="h-6 w-6 text-white" />}
-                            {index === 2 && <TrendingUp className="h-6 w-6 text-white" />}
+                          <div className="w-8 h-8 sm:w-12 sm:h-12 bg-gradient-to-br from-blue-500 to-purple-500 rounded-lg flex items-center justify-center flex-shrink-0">
+                            {index === 0 && <Globe className="h-4 w-4 sm:h-6 sm:w-6 text-white" />}
+                            {index === 1 && <Zap className="h-4 w-4 sm:h-6 sm:w-6 text-white" />}
+                            {index === 2 && <TrendingUp className="h-4 w-4 sm:h-6 sm:w-6 text-white" />}
                           </div>
-                          <div className="flex-1">
-                            <h4 className="font-semibold text-gray-900 text-sm">{article.title}</h4>
-                            <div className="flex items-center space-x-2 text-xs text-gray-500">
-                              <span>{article.category}</span>
+                          <div className="flex-1 min-w-0">
+                            <h4 className="font-semibold text-gray-900 text-xs sm:text-sm truncate">{article.title}</h4>
+                            <div className="flex items-center space-x-1 sm:space-x-2 text-xs text-gray-500">
+                              <span className="truncate">{article.category}</span>
                               <span>•</span>
-                              <span>{article.time}</span>
+                              <span className="whitespace-nowrap">{article.time}</span>
                             </div>
                           </div>
-                          <div className="w-2 h-2 bg-green-500 rounded-full animate-pulse"></div>
+                          <div className="w-1.5 h-1.5 sm:w-2 sm:h-2 bg-green-500 rounded-full animate-pulse flex-shrink-0"></div>
                         </div>
                       ))}
                     </div>
 
                     {/* Device Showcase Icons */}
-                    <div className="absolute bottom-4 right-4 flex space-x-2">
-                      <div className="w-8 h-8 bg-gray-800 rounded-lg flex items-center justify-center">
-                        <Monitor className="h-4 w-4 text-white" />
+                    <div className="absolute bottom-2 right-2 sm:bottom-4 sm:right-4 flex space-x-1 sm:space-x-2">
+                      <div className="w-6 h-6 sm:w-8 sm:h-8 bg-gray-800 rounded-lg flex items-center justify-center">
+                        <Monitor className="h-3 w-3 sm:h-4 sm:w-4 text-white" />
                       </div>
-                      <div className="w-8 h-8 bg-gray-800 rounded-lg flex items-center justify-center">
-                        <Smartphone className="h-4 w-4 text-white" />
+                      <div className="w-6 h-6 sm:w-8 sm:h-8 bg-gray-800 rounded-lg flex items-center justify-center">
+                        <Smartphone className="h-3 w-3 sm:h-4 sm:w-4 text-white" />
                       </div>
                     </div>
                   </div>
                   
                   {/* Enhanced Floating Elements */}
-                  <div className="absolute -top-3 -right-3 bg-gradient-to-r from-red-500 to-orange-500 text-white px-3 py-1 rounded-full text-xs font-bold animate-pulse shadow-lg">
+                  <div className="absolute -top-2 -right-2 sm:-top-3 sm:-right-3 bg-gradient-to-r from-red-500 to-orange-500 text-white px-2 py-1 sm:px-3 sm:py-1 rounded-full text-xs font-bold animate-pulse shadow-lg">
                     <div className="flex items-center space-x-1">
-                      <div className="w-2 h-2 bg-white rounded-full animate-ping"></div>
-                      <span>LIVE</span>
+                      <div className="w-1.5 h-1.5 sm:w-2 sm:h-2 bg-white rounded-full animate-ping"></div>
+                      <span className="text-xs">LIVE</span>
                     </div>
                   </div>
-                  <div className="absolute -bottom-3 -left-3 bg-gradient-to-r from-slate-700 to-slate-800 text-white px-3 py-1 rounded-full text-xs font-medium shadow-lg">
+                  <div className="absolute -bottom-2 -left-2 sm:-bottom-3 sm:-left-3 bg-gradient-to-r from-slate-700 to-slate-800 text-white px-2 py-1 sm:px-3 sm:py-1 rounded-full text-xs font-medium shadow-lg">
                     <div className="flex items-center space-x-1">
-                      <Clock className="h-3 w-3" />
-                      <span>24/7</span>
+                      <Clock className="h-2.5 w-2.5 sm:h-3 sm:w-3" />
+                      <span className="text-xs">24/7</span>
                     </div>
                   </div>
-                  <div className="absolute top-4 -left-3 bg-gradient-to-r from-blue-600 to-purple-600 text-white px-3 py-1 rounded-full text-xs font-medium shadow-lg">
+                  <div className="absolute top-3 -left-2 sm:top-4 sm:-left-3 bg-gradient-to-r from-blue-600 to-purple-600 text-white px-2 py-1 sm:px-3 sm:py-1 rounded-full text-xs font-medium shadow-lg">
                     <div className="flex items-center space-x-1">
-                      <Users className="h-3 w-3" />
-                      <span>2M+ Readers</span>
+                      <Users className="h-2.5 w-2.5 sm:h-3 sm:w-3" />
+                      <span className="text-xs hidden sm:inline">2M+ Readers</span>
+                      <span className="text-xs sm:hidden">2M+</span>
                     </div>
                   </div>
                 </div>
