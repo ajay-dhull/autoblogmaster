@@ -171,7 +171,7 @@ export default function Home() {
                 ) : latestArticles && latestArticles.length > 0 ? (
                   <div className="relative w-full max-w-lg mx-auto lg:max-w-none">
                     {/* Latest Articles Slider */}
-                    <div className="relative overflow-hidden rounded-xl lg:rounded-2xl shadow-2xl h-[450px] sm:h-[480px] lg:h-[500px]">
+                    <div className="relative overflow-hidden rounded-xl lg:rounded-2xl shadow-2xl h-[400px] sm:h-[420px] lg:h-[440px]">
                       {latestArticles.slice(0, 5).map((article, index) => (
                         <div
                           key={article.id}
@@ -183,47 +183,47 @@ export default function Home() {
                                 : 'opacity-0 transform translate-x-full'
                           }`}
                         >
-                          <Card className="bg-white border-0 shadow-2xl overflow-hidden h-full">
-                            <div className="relative">
+                          <Card className="bg-white border-0 shadow-2xl overflow-hidden h-full flex flex-col">
+                            <div className="relative flex-shrink-0">
                               {article.featuredImage ? (
                                 <img 
                                   src={article.featuredImage} 
                                   alt={article.title}
-                                  className="w-full h-40 sm:h-48 md:h-56 object-cover"
+                                  className="w-full h-48 sm:h-52 lg:h-56 object-cover"
                                 />
                               ) : (
-                                <div className="w-full h-40 sm:h-48 md:h-56 bg-gradient-to-br from-slate-100 to-gray-200 flex items-center justify-center">
+                                <div className="w-full h-48 sm:h-52 lg:h-56 bg-gradient-to-br from-slate-100 to-gray-200 flex items-center justify-center">
                                   <BookOpen className="h-12 w-12 sm:h-16 sm:w-16 text-gray-400" />
                                 </div>
                               )}
-                              <div className="absolute top-2 sm:top-4 left-2 sm:left-4">
-                                <Badge className="bg-slate-900 text-white px-2 py-1 text-xs sm:text-sm">
+                              <div className="absolute top-3 left-3">
+                                <Badge className="bg-slate-900 text-white px-3 py-1 text-xs font-medium">
                                   {article.category}
                                 </Badge>
                               </div>
-                              <div className="absolute bottom-2 sm:bottom-4 right-2 sm:right-4 bg-black/50 text-white px-2 py-1 rounded-full text-xs sm:text-sm">
+                              <div className="absolute bottom-3 right-3 bg-black/70 text-white px-3 py-1 rounded-full text-xs font-medium">
                                 {index + 1} / {Math.min(latestArticles.length, 5)}
                               </div>
-                              <div className="absolute top-2 sm:top-4 right-2 sm:right-4 bg-gradient-to-r from-orange-500 to-red-500 text-white px-2 py-1 rounded-full text-xs font-bold animate-pulse">
+                              <div className="absolute top-3 right-3 bg-gradient-to-r from-orange-500 to-red-500 text-white px-2 py-1 rounded-full text-xs font-bold animate-pulse">
                                 LATEST
                               </div>
                             </div>
-                            <CardContent className="p-4 sm:p-6 flex flex-col justify-between h-full">
-                              <div>
-                                <h3 className="text-lg sm:text-xl font-bold mb-2 sm:mb-3 text-gray-900 line-clamp-2 leading-tight">
+                            <CardContent className="p-4 sm:p-6 flex flex-col flex-1">
+                              <div className="flex-1">
+                                <h3 className="text-base sm:text-lg font-bold mb-2 text-gray-900 line-clamp-2 leading-tight">
                                   {article.title}
                                 </h3>
-                                <p className="text-sm sm:text-base text-gray-600 mb-3 sm:mb-4 line-clamp-3 leading-relaxed">
-                                  {article.content.replace(/<[^>]*>/g, '').substring(0, 120)}...
+                                <p className="text-sm text-gray-600 mb-4 line-clamp-2 leading-relaxed">
+                                  {article.content.replace(/<[^>]*>/g, '').substring(0, 100)}...
                                 </p>
                               </div>
-                              <div className="flex items-center justify-between flex-wrap gap-2 mt-auto">
-                                <div className="flex items-center text-gray-500 text-xs sm:text-sm">
-                                  <Calendar className="h-3 w-3 sm:h-4 sm:w-4 mr-1" />
+                              <div className="flex items-center justify-between pt-3 border-t border-gray-100">
+                                <div className="flex items-center text-gray-500 text-xs">
+                                  <Calendar className="h-3 w-3 mr-1" />
                                   {article.publishedAt ? new Date(article.publishedAt).toLocaleDateString() : 'Recent'}
                                 </div>
                                 <Link href={`/article/${article.slug}`}>
-                                  <Button size="sm" className="bg-slate-900 text-white hover:bg-black text-xs sm:text-sm px-4 py-2">
+                                  <Button size="sm" className="bg-slate-900 text-white hover:bg-black text-xs px-4 py-2">
                                     Read More
                                   </Button>
                                 </Link>
@@ -241,9 +241,9 @@ export default function Home() {
                         const maxSlides = Math.min(articlesToShow?.length || 0, 5);
                         setCurrentSlide((prev) => prev === 0 ? maxSlides - 1 : prev - 1);
                       }}
-                      className="absolute left-4 top-1/2 -translate-y-1/2 bg-white/90 hover:bg-white text-slate-900 p-2 rounded-full shadow-lg transition-all duration-300 hover:scale-110"
+                      className="absolute left-2 sm:left-4 top-1/2 -translate-y-1/2 bg-white/90 hover:bg-white text-slate-900 p-2 sm:p-3 rounded-full shadow-lg transition-all duration-300 hover:scale-110 z-10"
                     >
-                      <ChevronLeft className="h-5 w-5" />
+                      <ChevronLeft className="h-4 w-4 sm:h-5 sm:w-5" />
                     </button>
                     <button
                       onClick={() => {
@@ -251,18 +251,18 @@ export default function Home() {
                         const maxSlides = Math.min(articlesToShow?.length || 0, 5);
                         setCurrentSlide((prev) => (prev + 1) % maxSlides);
                       }}
-                      className="absolute right-4 top-1/2 -translate-y-1/2 bg-white/90 hover:bg-white text-slate-900 p-2 rounded-full shadow-lg transition-all duration-300 hover:scale-110"
+                      className="absolute right-2 sm:right-4 top-1/2 -translate-y-1/2 bg-white/90 hover:bg-white text-slate-900 p-2 sm:p-3 rounded-full shadow-lg transition-all duration-300 hover:scale-110 z-10"
                     >
-                      <ChevronRight className="h-5 w-5" />
+                      <ChevronRight className="h-4 w-4 sm:h-5 sm:w-5" />
                     </button>
 
                     {/* Dots Indicator */}
-                    <div className="flex justify-center mt-4 space-x-2">
+                    <div className="flex justify-center mt-3 space-x-2">
                       {(latestArticles || recentArticles)?.slice(0, 5).map((_, slide) => (
                         <button
                           key={slide}
                           onClick={() => setCurrentSlide(slide)}
-                          className={`w-3 h-3 rounded-full transition-all duration-300 ${
+                          className={`w-2.5 h-2.5 sm:w-3 sm:h-3 rounded-full transition-all duration-300 ${
                             slide === currentSlide ? 'bg-white scale-125' : 'bg-white/50 hover:bg-white/75'
                           }`}
                         />
@@ -272,7 +272,7 @@ export default function Home() {
                 ) : recentArticles && recentArticles.length > 0 ? (
                   <div className="relative w-full max-w-lg mx-auto lg:max-w-none">
                     {/* Fallback to recent articles if latest articles aren't available */}
-                    <div className="relative overflow-hidden rounded-xl lg:rounded-2xl shadow-2xl h-[450px] sm:h-[480px] lg:h-[500px]">
+                    <div className="relative overflow-hidden rounded-xl lg:rounded-2xl shadow-2xl h-[400px] sm:h-[420px] lg:h-[440px]">
                       {recentArticles.slice(0, 5).map((article, index) => (
                         <div
                           key={article.id}
@@ -284,42 +284,44 @@ export default function Home() {
                                 : 'opacity-0 transform translate-x-full'
                           }`}
                         >
-                          <Card className="bg-white border-0 shadow-2xl overflow-hidden h-full">
-                            <div className="relative">
+                          <Card className="bg-white border-0 shadow-2xl overflow-hidden h-full flex flex-col">
+                            <div className="relative flex-shrink-0">
                               {article.featuredImage ? (
                                 <img 
                                   src={article.featuredImage} 
                                   alt={article.title}
-                                  className="w-full h-64 object-cover"
+                                  className="w-full h-48 sm:h-52 lg:h-56 object-cover"
                                 />
                               ) : (
-                                <div className="w-full h-64 bg-gradient-to-br from-slate-100 to-gray-200 flex items-center justify-center">
-                                  <BookOpen className="h-16 w-16 text-gray-400" />
+                                <div className="w-full h-48 sm:h-52 lg:h-56 bg-gradient-to-br from-slate-100 to-gray-200 flex items-center justify-center">
+                                  <BookOpen className="h-12 w-12 sm:h-16 sm:w-16 text-gray-400" />
                                 </div>
                               )}
-                              <div className="absolute top-4 left-4">
-                                <Badge className="bg-slate-900 text-white px-3 py-1">
+                              <div className="absolute top-3 left-3">
+                                <Badge className="bg-slate-900 text-white px-3 py-1 text-xs font-medium">
                                   {article.category}
                                 </Badge>
                               </div>
-                              <div className="absolute bottom-4 right-4 bg-black/50 text-white px-3 py-1 rounded-full text-sm">
+                              <div className="absolute bottom-3 right-3 bg-black/70 text-white px-3 py-1 rounded-full text-xs font-medium">
                                 {index + 1} / {Math.min(recentArticles.length, 5)}
                               </div>
                             </div>
-                            <CardContent className="p-6">
-                              <h3 className="text-xl font-bold mb-3 text-gray-900 line-clamp-2">
-                                {article.title}
-                              </h3>
-                              <p className="text-gray-600 mb-4 line-clamp-3">
-                                {article.content.replace(/<[^>]*>/g, '').substring(0, 120)}...
-                              </p>
-                              <div className="flex items-center justify-between">
-                                <div className="flex items-center text-gray-500 text-sm">
-                                  <Calendar className="h-4 w-4 mr-1" />
+                            <CardContent className="p-4 sm:p-6 flex flex-col flex-1">
+                              <div className="flex-1">
+                                <h3 className="text-base sm:text-lg font-bold mb-2 text-gray-900 line-clamp-2 leading-tight">
+                                  {article.title}
+                                </h3>
+                                <p className="text-sm text-gray-600 mb-4 line-clamp-2 leading-relaxed">
+                                  {article.content.replace(/<[^>]*>/g, '').substring(0, 100)}...
+                                </p>
+                              </div>
+                              <div className="flex items-center justify-between pt-3 border-t border-gray-100">
+                                <div className="flex items-center text-gray-500 text-xs">
+                                  <Calendar className="h-3 w-3 mr-1" />
                                   {article.publishedAt ? new Date(article.publishedAt).toLocaleDateString() : 'Recent'}
                                 </div>
                                 <Link href={`/article/${article.slug}`}>
-                                  <Button size="sm" className="bg-slate-900 text-white hover:bg-black">
+                                  <Button size="sm" className="bg-slate-900 text-white hover:bg-black text-xs px-4 py-2">
                                     Read More
                                   </Button>
                                 </Link>
