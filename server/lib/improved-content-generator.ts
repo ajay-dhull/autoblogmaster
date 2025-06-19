@@ -136,12 +136,19 @@ Transform this into a comprehensive, SEO-optimized article that expands on all k
 
   private async getImage(keywords: string): Promise<string> {
     try {
-      // Try Unsplash first with varied search terms
-      const searchTerms = [keywords, keywords.split(' ')[0], 'news', 'technology', 'world'];
-      
-      for (const term of searchTerms) {
+      // Create category-specific search terms for better image diversity
+      const keywordVariations = [
+        keywords,
+        keywords.split(' ')[0],
+        keywords.includes('technology') ? 'artificial intelligence' : 'global news',
+        keywords.includes('business') ? 'finance market' : 'world events',
+        keywords.includes('education') ? 'learning development' : 'breaking news'
+      ];
+
+      // Try multiple search attempts with different terms
+      for (const searchTerm of keywordVariations) {
         const response = await fetch(
-          `https://api.unsplash.com/search/photos?query=${encodeURIComponent(term)}&per_page=3&orientation=landscape`,
+          `https://api.unsplash.com/search/photos?query=${encodeURIComponent(searchTerm)}&per_page=10&orientation=landscape&order_by=relevant`,
           {
             headers: {
               "Authorization": `Client-ID ${this.config.unsplashAccessKey}`,
@@ -152,36 +159,62 @@ Transform this into a comprehensive, SEO-optimized article that expands on all k
         if (response.ok) {
           const data = await response.json();
           if (data.results && data.results.length > 0) {
-            const randomIndex = Math.floor(Math.random() * data.results.length);
-            return data.results[randomIndex].urls.regular;
+            // Use timestamp to ensure different images for each article
+            const timeBasedIndex = (Date.now() + Math.random() * 1000) % data.results.length;
+            const selectedIndex = Math.floor(timeBasedIndex);
+            return data.results[selectedIndex].urls.regular;
           }
         }
+        
+        // Add delay between API calls to avoid rate limiting
+        await new Promise(resolve => setTimeout(resolve, 200));
       }
 
-      // Diverse fallback images for different categories
-      const fallbackImages = [
-        "https://images.unsplash.com/photo-1586339949916-3e9457bef6d3?w=800&h=400&fit=crop", // News
-        "https://images.unsplash.com/photo-1504711434969-e33886168f5c?w=800&h=400&fit=crop", // Tech
-        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&h=400&fit=crop", // Global
-        "https://images.unsplash.com/photo-1444653614773-995cb1ef5bce?w=800&h=400&fit=crop", // Business
-        "https://images.unsplash.com/photo-1498050108023-c5249f4df085?w=800&h=400&fit=crop", // Education
-        "https://images.unsplash.com/photo-1515378791036-0648a814c963?w=800&h=400&fit=crop", // Science
-        "https://images.unsplash.com/photo-1522202176988-66273c2fd55f?w=800&h=400&fit=crop", // Politics
-        "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&h=400&fit=crop"  // Analysis
-      ];
-      
-      const randomFallback = Math.floor(Math.random() * fallbackImages.length);
-      return fallbackImages[randomFallback];
+      // Category-specific diverse fallback images with timestamp-based selection
+      const categoryImages: Record<string, string[]> = {
+        technology: [
+          "https://images.unsplash.com/photo-1518709268805-4e9042af2176?w=800&h=400&fit=crop",
+          "https://images.unsplash.com/photo-1531482615713-2afd69097998?w=800&h=400&fit=crop",
+          "https://images.unsplash.com/photo-1563013544-824ae1b704d3?w=800&h=400&fit=crop"
+        ],
+        business: [
+          "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?w=800&h=400&fit=crop",
+          "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=800&h=400&fit=crop",
+          "https://images.unsplash.com/photo-1559526324-4b87b5e36e44?w=800&h=400&fit=crop"
+        ],
+        news: [
+          "https://images.unsplash.com/photo-1504711434969-e33886168f5c?w=800&h=400&fit=crop",
+          "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?w=800&h=400&fit=crop",
+          "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?w=800&h=400&fit=crop"
+        ],
+        education: [
+          "https://images.unsplash.com/photo-1481627834876-b7833e8f5570?w=800&h=400&fit=crop",
+          "https://images.unsplash.com/photo-1434030216411-0b793f4b4173?w=800&h=400&fit=crop",
+          "https://images.unsplash.com/photo-1513475382585-d06e58bcb0e0?w=800&h=400&fit=crop"
+        ]
+      };
+
+      // Determine category from keywords
+      let category: keyof typeof categoryImages = 'news';
+      if (keywords.toLowerCase().includes('tech') || keywords.toLowerCase().includes('ai')) category = 'technology';
+      if (keywords.toLowerCase().includes('business') || keywords.toLowerCase().includes('market')) category = 'business';
+      if (keywords.toLowerCase().includes('education') || keywords.toLowerCase().includes('learn')) category = 'education';
+
+      const images = categoryImages[category] || categoryImages.news;
+      const timeBasedIndex = (Date.now() + Math.random() * 1000) % images.length;
+      return images[Math.floor(timeBasedIndex)];
+
     } catch (error) {
-      // Return a random fallback even on error
-      const fallbackImages = [
+      // Fallback with timestamp-based selection
+      const emergencyFallbacks = [
         "https://images.unsplash.com/photo-1586339949916-3e9457bef6d3?w=800&h=400&fit=crop",
         "https://images.unsplash.com/photo-1504711434969-e33886168f5c?w=800&h=400&fit=crop",
         "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&h=400&fit=crop",
-        "https://images.unsplash.com/photo-1444653614773-995cb1ef5bce?w=800&h=400&fit=crop"
+        "https://images.unsplash.com/photo-1444653614773-995cb1ef5bce?w=800&h=400&fit=crop",
+        "https://images.unsplash.com/photo-1498050108023-c5249f4df085?w=800&h=400&fit=crop"
       ];
-      const randomFallback = Math.floor(Math.random() * fallbackImages.length);
-      return fallbackImages[randomFallback];
+      const timeBasedIndex = (Date.now() + Math.random() * 1000) % emergencyFallbacks.length;
+      return emergencyFallbacks[Math.floor(timeBasedIndex)];
     }
   }
 

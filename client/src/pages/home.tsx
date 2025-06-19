@@ -110,7 +110,7 @@ export default function Home() {
   return (
     <div className="min-h-screen bg-gradient-to-br from-gray-50 via-white to-slate-50/30 pt-16">
       {/* Hero Section with Sliding Latest Articles */}
-      <section className="relative h-screen overflow-hidden">
+      <section className="relative min-h-screen lg:h-screen overflow-hidden">
         {/* Background with Images */}
         <div className="absolute inset-0">
           <div className="absolute inset-0 bg-gradient-to-br from-slate-900/90 via-gray-900/90 to-black/90"></div>
@@ -123,7 +123,7 @@ export default function Home() {
         </div>
 
         {/* Hero Content with Sliding Articles */}
-        <div className="relative z-10 h-full flex items-center">
+        <div className="relative z-10 min-h-screen lg:h-full flex items-center py-20 lg:py-0">
           <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 w-full">
             <div className="grid grid-cols-1 lg:grid-cols-2 gap-8 lg:gap-12 items-center">
               
@@ -134,26 +134,26 @@ export default function Home() {
                   LIVE NEWS
                 </div>
                 
-                <h1 className="text-3xl sm:text-4xl md:text-5xl lg:text-6xl font-bold mb-6 leading-tight">
+                <h1 className="text-2xl sm:text-3xl md:text-4xl lg:text-5xl xl:text-6xl font-bold mb-4 sm:mb-6 leading-tight">
                   Latest News
                   <span className="block bg-gradient-to-r from-slate-200 to-white bg-clip-text text-transparent">
                     Auto-Updates
                   </span>
                 </h1>
                 
-                <p className="text-lg sm:text-xl text-gray-300 mb-8 leading-relaxed">
+                <p className="text-base sm:text-lg lg:text-xl text-gray-300 mb-6 sm:mb-8 leading-relaxed max-w-2xl">
                   Discover the most recent stories as they unfold. Our hero section automatically refreshes with the latest 5 articles, ensuring you never miss breaking news.
                 </p>
 
-                <div className="flex flex-col sm:flex-row gap-4">
+                <div className="flex flex-col sm:flex-row gap-3 sm:gap-4">
                   <Link href="/blog">
-                    <Button size="lg" className="bg-white text-slate-900 hover:bg-gray-100 px-8 py-4 text-lg font-semibold shadow-xl hover:shadow-2xl transition-all duration-300 hover:scale-105">
-                      <Play className="mr-2 h-5 w-5" />
+                    <Button size="lg" className="bg-white text-slate-900 hover:bg-gray-100 px-6 py-3 sm:px-8 sm:py-4 text-base sm:text-lg font-semibold shadow-xl hover:shadow-2xl transition-all duration-300 hover:scale-105 w-full sm:w-auto">
+                      <Play className="mr-2 h-4 w-4 sm:h-5 sm:w-5" />
                       Explore Stories
                     </Button>
                   </Link>
                   <Link href="/contact">
-                    <Button size="lg" className="bg-transparent border-2 border-white text-white hover:bg-white hover:text-slate-900 px-8 py-4 text-lg font-semibold transition-all duration-300">
+                    <Button size="lg" className="bg-transparent border-2 border-white text-white hover:bg-white hover:text-slate-900 px-6 py-3 sm:px-8 sm:py-4 text-base sm:text-lg font-semibold transition-all duration-300 w-full sm:w-auto">
                       Contact Us
                     </Button>
                   </Link>
@@ -169,9 +169,9 @@ export default function Home() {
                     <div className="h-3 sm:h-4 bg-gray-300 rounded w-2/3"></div>
                   </div>
                 ) : latestArticles && latestArticles.length > 0 ? (
-                  <div className="relative">
+                  <div className="relative w-full max-w-md mx-auto lg:max-w-none">
                     {/* Latest Articles Slider */}
-                    <div className="relative overflow-hidden rounded-2xl shadow-2xl h-80 sm:h-96">
+                    <div className="relative overflow-hidden rounded-xl lg:rounded-2xl shadow-2xl h-96 sm:h-[420px] lg:h-96">
                       {latestArticles.slice(0, 5).map((article, index) => (
                         <div
                           key={article.id}

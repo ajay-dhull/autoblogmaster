@@ -137,7 +137,7 @@ export default function About() {
   return (
     <div className="min-h-screen bg-gradient-to-br from-gray-50 via-white to-blue-50/30 pt-16">
       {/* Hero Section with Image */}
-      <section className="relative h-[70vh] overflow-hidden">
+      <section className="relative min-h-screen lg:h-[80vh] overflow-hidden">
         {/* Hero Background Image */}
         <div className="absolute inset-0">
           <div className="absolute inset-0 bg-gradient-to-br from-slate-900/85 via-gray-900/85 to-black/85 z-10"></div>
@@ -148,13 +148,13 @@ export default function About() {
           />
           <div className="absolute inset-0 bg-gradient-to-br from-slate-600/10 via-gray-600/10 to-zinc-700/10">
             {/* Enhanced Professional Elements */}
-            <div className="absolute top-20 left-20 w-64 h-64 bg-gradient-to-r from-blue-500/20 to-purple-500/20 rounded-full blur-3xl animate-pulse"></div>
-            <div className="absolute bottom-20 right-20 w-80 h-80 bg-gradient-to-r from-indigo-500/20 to-blue-500/20 rounded-full blur-3xl animate-pulse" style={{ animationDelay: '2s' }}></div>
+            <div className="absolute top-10 sm:top-20 left-10 sm:left-20 w-32 h-32 sm:w-64 sm:h-64 bg-gradient-to-r from-blue-500/20 to-purple-500/20 rounded-full blur-3xl animate-pulse"></div>
+            <div className="absolute bottom-10 sm:bottom-20 right-10 sm:right-20 w-48 h-48 sm:w-80 sm:h-80 bg-gradient-to-r from-indigo-500/20 to-blue-500/20 rounded-full blur-3xl animate-pulse" style={{ animationDelay: '2s' }}></div>
           </div>
         </div>
         
         {/* Hero Content */}
-        <div className="relative z-20 h-full flex items-center">
+        <div className="relative z-20 min-h-screen lg:h-full flex items-center py-20 lg:py-0">
           <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 w-full">
             <div className="grid grid-cols-1 lg:grid-cols-2 gap-8 lg:gap-12 items-center">
               
@@ -165,14 +165,14 @@ export default function About() {
                   ABOUT US
                 </div>
                 
-                <h1 className="text-4xl md:text-6xl lg:text-7xl font-bold mb-6 leading-tight">
+                <h1 className="text-3xl sm:text-4xl md:text-5xl lg:text-6xl xl:text-7xl font-bold mb-4 sm:mb-6 leading-tight">
                   Excellence in
                   <span className="block bg-gradient-to-r from-slate-200 via-white to-slate-100 bg-clip-text text-transparent">
                     Digital Journalism
                   </span>
                 </h1>
                 
-                <p className="text-xl md:text-2xl text-gray-300 mb-8 leading-relaxed max-w-4xl">
+                <p className="text-lg sm:text-xl lg:text-2xl text-gray-300 mb-6 sm:mb-8 leading-relaxed max-w-4xl">
                   Delivering world-class journalism through cutting-edge technology and uncompromising editorial standards. 
                   We connect millions of readers to the stories that matter most, backed by rigorous fact-checking and 
                   real-time global coverage.
@@ -197,16 +197,16 @@ export default function About() {
                   </div>
                 </div>
 
-                <div className="flex flex-col sm:flex-row gap-4">
+                <div className="flex flex-col sm:flex-row gap-3 sm:gap-4">
                   <Link href="/blog">
-                    <Button size="lg" className="bg-white text-slate-900 hover:bg-gray-100 px-8 py-4 text-lg font-semibold shadow-xl hover:shadow-2xl transition-all duration-300 hover:scale-105">
-                      <BookOpen className="mr-2 h-5 w-5" />
+                    <Button size="lg" className="bg-white text-slate-900 hover:bg-gray-100 px-6 py-3 sm:px-8 sm:py-4 text-base sm:text-lg font-semibold shadow-xl hover:shadow-2xl transition-all duration-300 hover:scale-105 w-full sm:w-auto">
+                      <BookOpen className="mr-2 h-4 w-4 sm:h-5 sm:w-5" />
                       Read Our Stories
-                      <ArrowRight className="ml-2 h-5 w-5" />
+                      <ArrowRight className="ml-2 h-4 w-4 sm:h-5 sm:w-5" />
                     </Button>
                   </Link>
                   <Link href="/contact">
-                    <Button size="lg" variant="outline" className="border-2 border-white text-white hover:bg-white hover:text-slate-900 px-8 py-4 text-lg font-semibold transition-all duration-300">
+                    <Button size="lg" variant="outline" className="border-2 border-white text-white hover:bg-white hover:text-slate-900 px-6 py-3 sm:px-8 sm:py-4 text-base sm:text-lg font-semibold transition-all duration-300 w-full sm:w-auto">
                       Get In Touch
                     </Button>
                   </Link>
