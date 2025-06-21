@@ -110,6 +110,26 @@ Preferred communication style: Simple, everyday language.
 
 ## Recent Changes
 
+**June 21, 2025 - Content Updates:**
+✅ Updated Home page with new professional content:
+  - Changed badge from "LIVE NEWS" to "LIVE UPDATES"
+  - Updated headline to "Stay Ahead with Real‑Time, AI‑Powered News & Insights"
+  - Modified subheadline about intelligent engine and live updates
+  - Changed button text to "Discover Now"
+  - Enhanced Stats Section with detailed taglines for each metric
+  - Updated Features Section with AI curation, analysis, perspectives, and accuracy descriptions
+  - Added detailed descriptions to Categories Section
+  - Changed "Latest Stories" to "Latest Insights & Stories" with enhanced description
+✅ Updated About page with comprehensive new content:
+  - Modified title to "Who We Are - NewsHub Digital Journalism"
+  - Updated mission statement and company description
+  - Enhanced stats metrics (24/7, 150+, 2M+, 99.9%) with proper labels
+  - Updated features with emoji icons and concise descriptions
+  - Revised core values with enhanced descriptions
+  - Updated team member descriptions with professional bios
+  - Modified final section to "Join Us" with updated call-to-action
+  - Added emoji icons to all action buttons
+
 **June 21, 2025 - Environment Configuration Migration:**
 ✅ Successfully migrated all API key configuration from Replit secrets to local `.env` file
 ✅ Added dotenv package and configuration across all server files

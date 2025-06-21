@@ -40,39 +40,39 @@ export default function About() {
   }, []);
   const features = [
     {
-      title: "Global News Coverage",
-      description: "Comprehensive reporting from every corner of the world with real-time updates and breaking news alerts.",
-      icon: Globe,
+      title: "🔍 Real‑Time Alerts",
+      description: "Instant notifications on major breaking events.",
+      icon: Clock,
       color: "bg-blue-50 text-blue-600"
     },
     {
-      title: "Expert Journalism",
-      description: "Our team of seasoned journalists and analysts provide in-depth coverage and professional commentary.",
-      icon: Award,
+      title: "🌐 Global Perspective",
+      description: "Dedicated correspondents in 25+ countries.",
+      icon: Globe,
       color: "bg-purple-50 text-purple-600"
     },
     {
-      title: "Real-Time Updates",
-      description: "Stay ahead with instant notifications and live coverage of major events as they unfold.",
-      icon: Clock,
+      title: "🛡️ Verified Sources",
+      description: "All articles rigorously fact‑checked.",
+      icon: Shield,
       color: "bg-green-50 text-green-600"
     },
     {
-      title: "Verified Sources",
-      description: "All content is fact-checked and sourced from trusted, verified news outlets and official channels.",
-      icon: Shield,
+      title: "📊 In‑Depth Analysis",
+      description: "Expert commentary and data‑backed insights.",
+      icon: Award,
       color: "bg-orange-50 text-orange-600"
     },
     {
-      title: "Diverse Perspectives",
-      description: "Multiple viewpoints and comprehensive analysis to help you understand the complete picture.",
-      icon: Users,
+      title: "💡 Tech‑Driven",
+      description: "AI‑powered curation for the freshest stories.",
+      icon: Zap,
       color: "bg-red-50 text-red-600"
     },
     {
-      title: "Technology Focus",
-      description: "Dedicated coverage of tech trends, innovations, and their impact on society and business.",
-      icon: Zap,
+      title: "🤝 Diverse Voices",
+      description: "Multiple viewpoints to complete the picture.",
+      icon: Users,
       color: "bg-indigo-50 text-indigo-600"
     }
   ];
@@ -80,22 +80,22 @@ export default function About() {
   const values = [
     {
       title: "Accuracy",
-      description: "We prioritize factual reporting and rigorous fact-checking in every story we publish.",
+      description: "We hold ourselves to the highest standards of fact‑checking and source verification.",
       icon: Target
     },
     {
       title: "Transparency",
-      description: "Open about our sources, methodology, and editorial processes to maintain reader trust.",
+      description: "Open about our methods, corrections, and editorial policies.",
       icon: CheckCircle
     },
     {
       title: "Independence",
-      description: "Editorial independence ensures unbiased reporting free from external influence.",
+      description: "Committed to unbiased reporting, free from outside influence.",
       icon: Shield
     },
     {
       title: "Innovation",
-      description: "Leveraging cutting-edge technology to deliver news in engaging and accessible formats.",
+      description: "Leveraging the latest technologies to deliver news in engaging, accessible formats.",
       icon: Zap
     }
   ];
@@ -110,26 +110,26 @@ export default function About() {
   const team = [
     {
       name: "Sarah Johnson",
-      role: "Editor-in-Chief",
-      bio: "Award-winning journalist with 15+ years in international reporting",
+      role: "Editor‑in‑Chief",
+      bio: "15+ years in global reporting; award‑winning investigative journalist.",
       expertise: ["Global Politics", "International Relations"]
     },
     {
       name: "Michael Chen",
       role: "Technology Editor",
-      bio: "Tech industry veteran covering innovation and digital transformation",
+      bio: "Veteran tech commentator covering AI, startups, and digital transformation.",
       expertise: ["AI & Technology", "Startups", "Digital Trends"]
     },
     {
       name: "Dr. Priya Sharma",
       role: "Education Correspondent", 
-      bio: "Former academic with expertise in education policy and research",
+      bio: "Academic specialist in education policy, research, and learning technologies.",
       expertise: ["Education Policy", "Research", "Academic Trends"]
     },
     {
       name: "David Rodriguez",
       role: "Business Analyst",
-      bio: "Financial journalist specializing in market analysis and economic trends",
+      bio: "Market strategist with deep expertise in economics and financial trends.",
       expertise: ["Market Analysis", "Economics", "Business Strategy"]
     }
   ];
@@ -166,26 +166,24 @@ export default function About() {
                 </div>
                 
                 <h1 className="text-3xl sm:text-4xl md:text-5xl lg:text-6xl xl:text-7xl font-bold mb-4 sm:mb-6 leading-tight">
-                  Excellence in
+                  Who We Are
                   <span className="block bg-gradient-to-r from-slate-200 via-white to-slate-100 bg-clip-text text-transparent">
-                    Digital Journalism
+                    NewsHub Digital Journalism
                   </span>
                 </h1>
                 
                 <p className="text-lg sm:text-xl lg:text-2xl text-gray-300 mb-6 sm:mb-8 leading-relaxed max-w-4xl">
-                  Delivering world-class journalism through cutting-edge technology and uncompromising editorial standards. 
-                  We connect millions of readers to the stories that matter most, backed by rigorous fact-checking and 
-                  real-time global coverage.
+                  NewsHub is at the forefront of digital journalism, combining cutting‑edge AI technology with rigorous editorial craftsmanship. Our mission is simple: connect you to the stories that shape our world—accurately, comprehensively, and in real time.
                 </p>
                 
                 <div className="grid grid-cols-2 md:grid-cols-4 gap-6 mb-8 max-w-4xl">
                   <div className="text-center">
                     <div className="text-3xl font-bold text-white mb-1">24/7</div>
-                    <div className="text-sm text-gray-400">Live Coverage</div>
+                    <div className="text-sm text-gray-400">Live Global Coverage</div>
                   </div>
                   <div className="text-center">
                     <div className="text-3xl font-bold text-white mb-1">150+</div>
-                    <div className="text-sm text-gray-400">Global Sources</div>
+                    <div className="text-sm text-gray-400">Verified Sources</div>
                   </div>
                   <div className="text-center">
                     <div className="text-3xl font-bold text-white mb-1">2M+</div>
@@ -193,7 +191,7 @@ export default function About() {
                   </div>
                   <div className="text-center">
                     <div className="text-3xl font-bold text-white mb-1">99.9%</div>
-                    <div className="text-sm text-gray-400">Accuracy Rate</div>
+                    <div className="text-sm text-gray-400">Fact‑Check Accuracy</div>
                   </div>
                 </div>
 
@@ -201,13 +199,13 @@ export default function About() {
                   <Link href="/blog">
                     <Button size="lg" className="bg-white text-slate-900 hover:bg-gray-100 px-6 py-3 sm:px-8 sm:py-4 text-base sm:text-lg font-semibold shadow-xl hover:shadow-2xl transition-all duration-300 hover:scale-105 w-full sm:w-auto">
                       <BookOpen className="mr-2 h-4 w-4 sm:h-5 sm:w-5" />
-                      Read Our Stories
+                      📰 Read Our Stories
                       <ArrowRight className="ml-2 h-4 w-4 sm:h-5 sm:w-5" />
                     </Button>
                   </Link>
                   <Link href="/contact">
                     <Button size="lg" variant="outline" className="border-2 border-white text-white hover:bg-white hover:text-slate-900 px-6 py-3 sm:px-8 sm:py-4 text-base sm:text-lg font-semibold transition-all duration-300 w-full sm:w-auto bg-transparent">
-                      Get In Touch
+                      📬 Get In Touch
                     </Button>
                   </Link>
                 </div>
@@ -340,8 +338,7 @@ export default function About() {
             </h2>
             <div className="max-w-4xl mx-auto">
               <p className="text-xl text-gray-600 leading-relaxed mb-8">
-                To empower informed decision-making by delivering accurate, comprehensive, and timely news coverage 
-                that helps our readers understand and navigate an increasingly complex world.
+                Empower every reader to make informed decisions by delivering real‑time, fact‑driven journalism across politics, technology, education, business, and culture.
               </p>
               <Card className="bg-gradient-to-br from-blue-50 to-purple-50 border-0 shadow-xl">
                 <CardContent className="p-8">
@@ -349,10 +346,9 @@ export default function About() {
                     <Heart className="h-12 w-12 text-red-500" />
                   </div>
                   <p className="text-lg text-gray-700 italic">
-                    "In an era of information overload, we believe in the power of quality journalism 
-                    to cut through the noise and deliver what matters most to our readers."
+                    "In an age of information overload, we believe quality journalism must cut through the noise—bringing clarity, context, and credibility."
                   </p>
-                  <p className="text-sm text-gray-500 mt-4 font-medium">- NewsHub Editorial Team</p>
+                  <p className="text-sm text-gray-500 mt-4 font-medium">— The NewsHub Editorial Team</p>
                 </CardContent>
               </Card>
             </div>
@@ -477,21 +473,21 @@ export default function About() {
         <div className="absolute inset-0 bg-black/20"></div>
         <div className="relative z-10 max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
           <h2 className="text-4xl md:text-5xl font-bold mb-6">
-            Join Our Community
+            Join Us
           </h2>
           <p className="text-xl mb-8 text-blue-100 leading-relaxed">
-            Become part of a growing community of informed readers who value quality journalism and in-depth analysis.
+            Become part of a thriving community of curious, engaged readers who demand clarity and depth.
           </p>
           <div className="flex flex-col sm:flex-row gap-4 justify-center">
             <Link href="/blog">
               <Button size="lg" className="bg-white text-blue-600 hover:bg-gray-100 px-8 py-4 text-lg font-semibold hover:scale-105 transition-all duration-300">
                 <TrendingUp className="mr-2 h-5 w-5" />
-                Start Reading
+                🚀 Start Reading
               </Button>
             </Link>
             <Link href="/contact">
               <Button size="lg" variant="outline" className="border-2 border-white text-white hover:bg-white hover:text-blue-600 px-8 py-4 text-lg font-semibold hover:scale-105 transition-all duration-300 bg-transparent">
-                Contact Us
+                ✉️ Contact Us
               </Button>
             </Link>
           </div>
