@@ -1,3 +1,6 @@
+import dotenv from "dotenv";
+dotenv.config();
+
 import { db } from "./supabase";
 import { articles, type InsertArticle } from "@shared/schema";
 import { sql } from "drizzle-orm";
