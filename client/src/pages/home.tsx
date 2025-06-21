@@ -63,37 +63,37 @@ export default function Home() {
   }, [latestArticles]);
 
   const stats = [
-    { label: "Daily Readers", value: "50K+", icon: Users, color: "text-slate-600" },
-    { label: "Articles Published", value: "2K+", icon: BookOpen, color: "text-slate-700" },
-    { label: "Countries Covered", value: "25+", icon: Globe, color: "text-slate-800" },
-    { label: "Expert Contributors", value: "100+", icon: Star, color: "text-slate-900" },
+    { label: "Active Readers", value: "50K+", description: "Engaged community members every day", icon: Users, color: "text-slate-600" },
+    { label: "Articles Published", value: "2K+", description: "High‑quality stories and analyses", icon: BookOpen, color: "text-slate-700" },
+    { label: "Global Reach", value: "25+", description: "Countries covered with localized reporting", icon: Globe, color: "text-slate-800" },
+    { label: "Expert Contributors", value: "100+", description: "Industry leaders and subject‑matter experts", icon: Star, color: "text-slate-900" },
   ];
 
   const features = [
     {
-      title: "Real-Time Updates",
-      description: "Get the latest news as it happens with our real-time content delivery system",
+      title: "Real‑Time AI Curation",
+      description: "Automatically sift through hundreds of sources and surface the most important developments as they happen—no delay, no noise.",
       icon: Clock,
       color: "bg-slate-50 text-slate-700",
       gradient: "from-slate-100 to-slate-50"
     },
     {
-      title: "Expert Analysis", 
-      description: "Professional insights and comprehensive analysis on every major story",
+      title: "In‑Depth Analysis", 
+      description: "Go beyond headlines with expertly generated context, background, and forward‑looking insight on every major topic.",
       icon: Award,
       color: "bg-gray-50 text-gray-700", 
       gradient: "from-gray-100 to-gray-50"
     },
     {
-      title: "Global Coverage",
-      description: "Comprehensive news coverage from around the world in multiple categories",
+      title: "Global Perspectives",
+      description: "Access localized reporting from around the world, in one unified feed—covering politics, technology, education, culture, and more.",
       icon: Globe,
       color: "bg-zinc-50 text-zinc-700",
       gradient: "from-zinc-100 to-zinc-50"
     },
     {
-      title: "Verified Sources",
-      description: "All content is sourced from verified, trusted news outlets and publications",
+      title: "Rock‑Solid Accuracy",
+      description: "Our AI cross‑verifies each story against trusted outlets and primary sources, so you can read with confidence.",
       icon: Shield,
       color: "bg-stone-50 text-stone-700",
       gradient: "from-stone-100 to-stone-50"
@@ -101,10 +101,10 @@ export default function Home() {
   ];
 
   const categories = [
-    { name: "World News", count: "150+", color: "bg-slate-600", icon: Globe },
-    { name: "Technology", count: "120+", color: "bg-slate-700", icon: Zap },
-    { name: "Education", count: "80+", color: "bg-slate-800", icon: BookOpen },
-    { name: "Trending", count: "200+", color: "bg-slate-900", icon: TrendingUp },
+    { name: "World News", description: "Stay informed on international affairs, geopolitics, and breaking events shaping our planet.", count: "150+", color: "bg-slate-600", icon: Globe },
+    { name: "Technology", description: "Deep dives on emerging innovations, AI breakthroughs, cybersecurity, and the digital economy.", count: "120+", color: "bg-slate-700", icon: Zap },
+    { name: "Education", description: "Thoughtful guidance on learning trends, study tips, policy updates, and groundbreaking research.", count: "80+", color: "bg-slate-800", icon: BookOpen },
+    { name: "Trending", description: "Curated highlights of viral stories, social movements, and must‑read commentary making waves right now.", count: "200+", color: "bg-slate-900", icon: TrendingUp },
   ];
 
   return (
@@ -131,25 +131,25 @@ export default function Home() {
               <div className={`text-white transition-all duration-1000 ${isVisible ? 'opacity-100 translate-x-0' : 'opacity-0 -translate-x-10'}`}>
                 <div className="inline-flex items-center bg-gradient-to-r from-orange-500 to-red-500 text-white px-4 py-2 rounded-full text-sm font-bold mb-6 animate-pulse">
                   <div className="w-2 h-2 bg-white rounded-full mr-2 animate-ping"></div>
-                  LIVE NEWS
+                  LIVE UPDATES
                 </div>
                 
                 <h1 className="text-2xl sm:text-3xl md:text-4xl lg:text-5xl xl:text-6xl font-bold mb-4 sm:mb-6 leading-tight">
-                  Latest News
+                  Stay Ahead with Real‑Time,
                   <span className="block bg-gradient-to-r from-slate-200 to-white bg-clip-text text-transparent">
-                    Auto-Updates
+                    AI‑Powered News & Insights
                   </span>
                 </h1>
                 
                 <p className="text-base sm:text-lg lg:text-xl text-gray-300 mb-6 sm:mb-8 leading-relaxed max-w-2xl">
-                  Discover the most recent stories as they unfold. Our hero section automatically refreshes with the latest 5 articles, ensuring you never miss breaking news.
+                  Harness the power of our intelligent engine to automatically curate and deliver the latest global news and in‑depth educational articles—updated live so you never miss a critical story.
                 </p>
 
                 <div className="flex flex-col sm:flex-row gap-3 sm:gap-4">
                   <Link href="/blog">
                     <Button size="lg" className="bg-white text-slate-900 hover:bg-gray-100 px-6 py-3 sm:px-8 sm:py-4 text-base sm:text-lg font-semibold shadow-xl hover:shadow-2xl transition-all duration-300 hover:scale-105 w-full sm:w-auto">
                       <Play className="mr-2 h-4 w-4 sm:h-5 sm:w-5" />
-                      Explore Stories
+                      Discover Now
                     </Button>
                   </Link>
                   <Link href="/contact">
@@ -360,6 +360,7 @@ export default function Home() {
                   </div>
                   <div className="text-3xl font-bold text-gray-900 mb-1">{stat.value}</div>
                   <div className="text-sm text-gray-600 font-medium">{stat.label}</div>
+                  <div className="text-xs text-gray-500 mt-1">{stat.description}</div>
                 </div>
               );
             })}
@@ -427,7 +428,8 @@ export default function Home() {
                           <IconComponent className="h-8 w-8" />
                         </div>
                         <h3 className="text-xl font-bold mb-2 text-gray-900">{category.name}</h3>
-                        <p className="text-gray-600 mb-4">{category.count} articles</p>
+                        <p className="text-sm text-gray-600 mb-3 leading-relaxed">{category.description}</p>
+                        <p className="text-xs text-gray-500 mb-4 font-medium">{category.count} articles</p>
                         <div className="inline-flex items-center text-slate-700 font-medium group-hover:text-slate-900 transition-colors duration-300">
                           Explore
                           <ArrowRight className="ml-2 h-4 w-4 group-hover:translate-x-1 transition-transform duration-300" />
@@ -448,10 +450,10 @@ export default function Home() {
           <div className="flex justify-between items-center mb-12">
             <div>
               <h2 className="text-4xl md:text-5xl font-bold mb-4 bg-gradient-to-r from-slate-800 to-slate-900 bg-clip-text text-transparent">
-                Latest Stories
+                Latest Insights & Stories
               </h2>
               <p className="text-xl text-gray-600">
-                Stay updated with our most recent news and insights
+                Explore the freshest articles hand‑picked by our AI for timeliness and relevance. From urgent breaking news to expert tutorials, each story is crafted to keep you informed and inspired.
               </p>
             </div>
             <Link href="/blog">
