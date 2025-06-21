@@ -11,6 +11,7 @@ interface ContentGeneratorConfig {
   redditClientId: string;
   redditClientSecret: string;
   serpApiKey: string;
+  serpApiKey2: string;
   groqApiKey: string;
   unsplashAccessKey: string;
   pexelsApiKey: string;
@@ -26,7 +27,8 @@ class ImprovedContentGenerator {
       gnewsApiKey: process.env.GNEWS_API_KEY || "",
       redditClientId: process.env.REDDIT_CLIENT_ID || "",
       redditClientSecret: process.env.REDDIT_CLIENT_SECRET || "",
-      serpApiKey: "cb08919668fe983d9fe2270654b879360b26711d6b7bc08a8b367be207c86194",
+      serpApiKey: process.env.SERPAPI_KEY || "",
+      serpApiKey2: process.env.SERPAPI_KEY_2 || "",
       groqApiKey: process.env.GROQ_API_KEY || "",
       unsplashAccessKey: process.env.UNSPLASH_ACCESS_KEY || "",
       pexelsApiKey: process.env.PEXELS_API_KEY || "",
@@ -43,6 +45,55 @@ class ImprovedContentGenerator {
     
     const timestamp = Date.now().toString(36);
     return `${baseSlug}-${timestamp}`;
+  }
+
+  private async makeSerpAPIRequest(url: string): Promise<Response> {
+    // Try first API key
+    const urlWithKey1 = `${url}&api_key=${this.config.serpApiKey}`;
+    console.log("Trying SerpAPI with primary key...");
+    
+    try {
+      const response1 = await fetch(urlWithKey1);
+      
+      // If successful (status 200), return the response
+      if (response1.ok) {
+        console.log("Primary SerpAPI key worked successfully");
+        return response1;
+      }
+      
+      // If we get 403 or other limit-related errors, try second key
+      if (response1.status === 403 || response1.status === 429) {
+        console.log("Primary SerpAPI key limit reached, trying backup key...");
+        
+        const urlWithKey2 = `${url}&api_key=${this.config.serpApiKey2}`;
+        const response2 = await fetch(urlWithKey2);
+        
+        if (response2.ok) {
+          console.log("Backup SerpAPI key worked successfully");
+          return response2;
+        } else {
+          console.error("Both SerpAPI keys failed");
+          throw new Error(`Both SerpAPI keys failed. Primary: ${response1.status}, Backup: ${response2.status}`);
+        }
+      }
+      
+      // For other errors, just return the first response
+      return response1;
+      
+    } catch (error) {
+      console.error("Error with primary SerpAPI key, trying backup...");
+      
+      // Fallback to second key on any network error
+      const urlWithKey2 = `${url}&api_key=${this.config.serpApiKey2}`;
+      const response2 = await fetch(urlWithKey2);
+      
+      if (response2.ok) {
+        console.log("Backup SerpAPI key worked after primary failed");
+        return response2;
+      } else {
+        throw new Error(`Both SerpAPI keys failed due to network/other errors`);
+      }
+    }
   }
 
   private async checkForDuplicate(title: string): Promise<boolean> {
@@ -454,8 +505,8 @@ Transform this into a comprehensive, SEO-optimized article that expands on all k
       const articles: InsertArticle[] = [];
 
       for (const query of searchQueries) {
-        const response = await fetch(
-          `https://serpapi.com/search.json?q=${encodeURIComponent(query)}&tbm=nws&num=3&api_key=${this.config.serpApiKey}`
+        const response = await this.makeSerpAPIRequest(
+          `https://serpapi.com/search.json?q=${encodeURIComponent(query)}&tbm=nws&num=3`
         );
 
         if (!response.ok) {

@@ -10,6 +10,7 @@ interface ContentGeneratorConfig {
   redditClientId: string;
   redditClientSecret: string;
   serpApiKey: string;
+  serpApiKey2: string;
   groqApiKey: string;
   unsplashAccessKey: string;
   pexelsApiKey: string;
@@ -25,6 +26,7 @@ class ContentGenerator {
       redditClientId: process.env.REDDIT_CLIENT_ID || "",
       redditClientSecret: process.env.REDDIT_CLIENT_SECRET || "",
       serpApiKey: process.env.SERPAPI_KEY || "",
+      serpApiKey2: process.env.SERPAPI_KEY_2 || "",
       groqApiKey: process.env.GROQ_API_KEY || "",
       unsplashAccessKey: process.env.UNSPLASH_ACCESS_KEY || "",
       pexelsApiKey: process.env.PEXELS_API_KEY || "",

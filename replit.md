@@ -110,6 +110,19 @@ Preferred communication style: Simple, everyday language.
 
 ## Recent Changes
 
+**June 21, 2025 - Dual SerpAPI Key Implementation:**
+✅ Added backup SerpAPI key to handle monthly search limits (100 searches/month per key)
+✅ Implemented automatic fallback system in improved-content-generator.ts
+✅ Updated .env file with SERPAPI_KEY_2 (backup key)
+✅ Enhanced makeSerpAPIRequest method with intelligent switching:
+  - Primary key tries first for all requests
+  - Automatically switches to backup on 403/429 errors (limit reached)
+  - Falls back on network errors
+  - Comprehensive logging for transparency
+✅ Updated both content generator files to support dual key configuration
+✅ Verified system functionality - primary key working, backup ready for seamless transition
+✅ All existing content generation schedules remain unchanged
+
 **June 21, 2025 - Content Updates:**
 ✅ Updated Home page with new professional content:
   - Changed badge from "LIVE NEWS" to "LIVE UPDATES"
