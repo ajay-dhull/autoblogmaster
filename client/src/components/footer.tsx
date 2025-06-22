@@ -1,5 +1,5 @@
 import { Link } from "wouter";
-import { Globe, Mail, Phone, MapPin, Twitter, Linkedin, Github, Facebook, Instagram, ArrowUp } from "lucide-react";
+import { Globe, Mail, Phone, MapPin, Twitter, Linkedin, Facebook, Instagram, ArrowUp } from "lucide-react";
 import { Button } from "@/components/ui/button";
 
 export default function Footer() {
@@ -18,11 +18,10 @@ export default function Footer() {
   ];
 
   const socialLinks = [
-    { icon: Twitter, href: "#", color: "hover:text-blue-400" },
-    { icon: Facebook, href: "#", color: "hover:text-blue-600" },
-    { icon: Instagram, href: "#", color: "hover:text-pink-500" },
-    { icon: Linkedin, href: "#", color: "hover:text-blue-700" },
-    { icon: Github, href: "#", color: "hover:text-gray-600" }
+    { icon: Twitter, href: "https://x.com/NeuraXon_?t=K4WvDQ4sHvGYnCLA2ahrPg&s=09", color: "hover:text-blue-400" },
+    { icon: Facebook, href: "https://www.facebook.com/share/1LCDmzvD3U/", color: "hover:text-blue-600" },
+    { icon: Instagram, href: "https://www.instagram.com/haryanvi__jaat_22/profilecard/?igsh=MWdsMjQwaHMwamM2ZQ==", color: "hover:text-pink-500" },
+    { icon: Linkedin, href: "https://www.linkedin.com/in/ajay-dhull-872746255?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app", color: "hover:text-blue-700" }
   ];
 
   const scrollToTop = () => {
@@ -65,15 +64,15 @@ export default function Footer() {
                 <div className="space-y-3">
                   <div className="flex items-center text-gray-300">
                     <Mail className="h-4 w-4 mr-3 text-slate-400" />
-                    <span className="text-sm">contact@newshub.com</span>
+                    <span className="text-sm">contact.neuraxon@gmail.com</span>
                   </div>
                   <div className="flex items-center text-gray-300">
                     <Phone className="h-4 w-4 mr-3 text-slate-400" />
-                    <span className="text-sm">+1 (555) 123-4567</span>
+                    <span className="text-sm">+91 8708327670 (WhatsApp only)</span>
                   </div>
                   <div className="flex items-center text-gray-300">
                     <MapPin className="h-4 w-4 mr-3 text-slate-400" />
-                    <span className="text-sm">Global Headquarters</span>
+                    <span className="text-sm">Kaithal, Haryana 136027, India</span>
                   </div>
                 </div>
               </div>
