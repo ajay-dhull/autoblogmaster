@@ -682,22 +682,22 @@ Make it comprehensive (1500+ words), practical, and full of actionable advice th
 
   async deleteOldArticles(): Promise<void> {
     try {
-      // Delete articles older than 1 month (30 days)
-      const oneMonthAgo = new Date();
-      oneMonthAgo.setDate(oneMonthAgo.getDate() - 30);
+      // Delete articles older than 2 months (60 days)
+      const twoMonthsAgo = new Date();
+      twoMonthsAgo.setDate(twoMonthsAgo.getDate() - 60);
       
       const deletedArticles = await db
         .delete(articles)
-        .where(lt(articles.createdAt, oneMonthAgo))
+        .where(lt(articles.createdAt, twoMonthsAgo))
         .returning({ id: articles.id, title: articles.title });
       
       if (deletedArticles.length > 0) {
-        console.log(`🗑️ Deleted ${deletedArticles.length} articles older than 1 month:`);
+        console.log(`🗑️ Deleted ${deletedArticles.length} articles older than 2 months:`);
         deletedArticles.forEach(article => {
           console.log(`  - ${article.title} (ID: ${article.id})`);
         });
       } else {
-        console.log("✅ No old articles to delete (all articles are less than 1 month old)");
+        console.log("✅ No old articles to delete (all articles are less than 2 months old)");
       }
     } catch (error) {
       console.error("❌ Error deleting old articles:", error);

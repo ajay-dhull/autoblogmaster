@@ -110,6 +110,22 @@ Preferred communication style: Simple, everyday language.
 
 ## Recent Changes
 
+**June 21, 2025 - Footer & Contact Updates + Auto-Delete Feature:**
+✅ Updated footer with real social media links (LinkedIn, Instagram, Twitter/X, Facebook)
+✅ Removed GitHub option from footer as requested
+✅ Changed contact information to Indian details:
+  - Email: contact.neuraxon@gmail.com
+  - Phone: +91 8708327670 (WhatsApp only)
+  - Location: Kaithal, Haryana 136027, India
+✅ Updated contact page with same contact information
+✅ Implemented automatic article deletion system:
+  - Articles automatically deleted after 2 months (60 days)
+  - Daily cleanup process runs every 24 hours
+  - Prevents database storage from filling up
+  - Comprehensive logging for transparency
+✅ Fixed database table creation issues with db:push
+✅ All existing content generation schedules remain unchanged
+
 **June 21, 2025 - Dual SerpAPI Key Implementation:**
 ✅ Added backup SerpAPI key to handle monthly search limits (100 searches/month per key)
 ✅ Implemented automatic fallback system in improved-content-generator.ts

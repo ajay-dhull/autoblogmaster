@@ -66,10 +66,10 @@ app.use((req, res, next) => {
     }
   }, 5000); // Wait 5 seconds for server to fully start
 
-  // Daily cleanup: Delete articles older than 1 month (runs every 24 hours)
+  // Daily cleanup: Delete articles older than 2 months (runs every 24 hours)
   setInterval(async () => {
     try {
-      console.log("🗑️ Starting daily cleanup - deleting articles older than 1 month...");
+      console.log("🗑️ Starting daily cleanup - deleting articles older than 2 months...");
       const { improvedContentGenerator } = await import("./lib/improved-content-generator");
       await improvedContentGenerator.deleteOldArticles();
       console.log("✅ Daily cleanup completed");
