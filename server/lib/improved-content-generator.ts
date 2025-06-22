@@ -3,7 +3,7 @@ dotenv.config();
 
 import { db } from "./supabase";
 import { articles, type InsertArticle } from "@shared/schema";
-import { sql } from "drizzle-orm";
+import { lt, sql } from "drizzle-orm";
 
 interface ContentGeneratorConfig {
   newsApiKey: string;
@@ -680,9 +680,36 @@ Make it comprehensive (1500+ words), practical, and full of actionable advice th
     }
   }
 
+  async deleteOldArticles(): Promise<void> {
+    try {
+      // Delete articles older than 1 month (30 days)
+      const oneMonthAgo = new Date();
+      oneMonthAgo.setDate(oneMonthAgo.getDate() - 30);
+      
+      const deletedArticles = await db
+        .delete(articles)
+        .where(lt(articles.createdAt, oneMonthAgo))
+        .returning({ id: articles.id, title: articles.title });
+      
+      if (deletedArticles.length > 0) {
+        console.log(`🗑️ Deleted ${deletedArticles.length} articles older than 1 month:`);
+        deletedArticles.forEach(article => {
+          console.log(`  - ${article.title} (ID: ${article.id})`);
+        });
+      } else {
+        console.log("✅ No old articles to delete (all articles are less than 1 month old)");
+      }
+    } catch (error) {
+      console.error("❌ Error deleting old articles:", error);
+    }
+  }
+
   async generateAllFreshContent(): Promise<void> {
     try {
       console.log("Starting fresh content generation...");
+      
+      // First, delete old articles (1+ month old)
+      await this.deleteOldArticles();
       
       // Generate one article from each source
       const [newsApiArticles, gnewsArticles, redditArticles, serpApiArticles, educationalArticles] = await Promise.all([

@@ -66,6 +66,18 @@ app.use((req, res, next) => {
     }
   }, 5000); // Wait 5 seconds for server to fully start
 
+  // Daily cleanup: Delete articles older than 1 month (runs every 24 hours)
+  setInterval(async () => {
+    try {
+      console.log("🗑️ Starting daily cleanup - deleting articles older than 1 month...");
+      const { improvedContentGenerator } = await import("./lib/improved-content-generator");
+      await improvedContentGenerator.deleteOldArticles();
+      console.log("✅ Daily cleanup completed");
+    } catch (error) {
+      console.error("❌ Error in daily cleanup:", error);
+    }
+  }, 86400000); // Every 24 hours (24 * 60 * 60 * 1000)
+
   // NewsAPI: Every 4 hours - 2-3 articles
   setInterval(async () => {
     try {

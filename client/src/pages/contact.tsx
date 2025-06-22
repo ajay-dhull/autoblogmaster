@@ -55,20 +55,20 @@ export default function Contact() {
     {
       icon: Mail,
       title: "Email",
-      value: "contact@autoblogpro.com",
+      value: "contact.neuraxon@gmail.com",
       description: "Send us an email anytime",
     },
     {
       icon: Phone,
-      title: "Phone",
-      value: "+1 (555) 123-4567",
-      description: "Call us during business hours",
+      title: "WhatsApp",
+      value: "+91 8708327670",
+      description: "WhatsApp messages only",
     },
     {
       icon: Clock,
-      title: "Support Hours",
-      value: "24/7 Automated",
-      description: "Business hours for human support",
+      title: "Location",
+      value: "Kaithal, Haryana 136027",
+      description: "India",
     },
   ];
 
