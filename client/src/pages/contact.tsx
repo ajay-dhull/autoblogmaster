@@ -13,6 +13,7 @@ import { Select, SelectContent, SelectItem, SelectTrigger, SelectValue } from "@
 import { useToast } from "@/hooks/use-toast";
 import { api } from "@/lib/api";
 import { Mail, Phone, Clock, CheckCircle, Send } from "lucide-react";
+import emailjs from '@emailjs/browser';
 
 export default function Contact() {
   const { toast } = useToast();
@@ -29,7 +30,38 @@ export default function Contact() {
   });
 
   const contactMutation = useMutation({
-    mutationFn: (data: InsertContact) => api.submitContact(data),
+    mutationFn: async (data: InsertContact) => {
+      try {
+        // Initialize EmailJS with your public key
+        const publicKey = import.meta.env.VITE_EMAILJS_PUBLIC_KEY;
+        const serviceId = import.meta.env.VITE_EMAILJS_SERVICE_ID;
+        const templateId = import.meta.env.VITE_EMAILJS_TEMPLATE_ID;
+
+        console.log('EmailJS Config:', { publicKey: !!publicKey, serviceId: !!serviceId, templateId: !!templateId });
+
+        if (!publicKey || !serviceId || !templateId) {
+          throw new Error('EmailJS configuration missing');
+        }
+
+        emailjs.init(publicKey);
+        
+        // Send email using EmailJS
+        const templateParams = {
+          from_name: data.name,
+          from_email: data.email,
+          subject: data.subject,
+          message: data.message,
+          to_email: 'contact.neuraxon@gmail.com'
+        };
+
+        const response = await emailjs.send(serviceId, templateId, templateParams);
+        console.log('EmailJS Response:', response);
+        return response;
+      } catch (error) {
+        console.error('EmailJS Error Details:', error);
+        throw error;
+      }
+    },
     onSuccess: () => {
       setIsSubmitted(true);
       form.reset();
@@ -38,10 +70,11 @@ export default function Contact() {
         description: "Thank you for contacting us. We'll get back to you soon!",
       });
     },
-    onError: () => {
+    onError: (error) => {
+      console.error('EmailJS Error:', error);
       toast({
-        title: "Failed to Send Message",
-        description: "Please try again later or contact us directly.",
+        title: "Failed to Send Message", 
+        description: "Please try again later or contact us directly via WhatsApp.",
         variant: "destructive",
       });
     },

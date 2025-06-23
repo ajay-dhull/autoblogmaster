@@ -110,6 +110,15 @@ Preferred communication style: Simple, everyday language.
 
 ## Recent Changes
 
+**June 22, 2025 - EmailJS Contact Form Integration:**
+✅ Integrated EmailJS service for contact form functionality
+✅ Added @emailjs/browser package for client-side email sending
+✅ Configured contact form to send emails directly to contact.neuraxon@gmail.com
+✅ Added EmailJS environment variables (VITE_EMAILJS_SERVICE_ID, VITE_EMAILJS_TEMPLATE_ID, VITE_EMAILJS_PUBLIC_KEY)
+✅ Implemented proper error handling and success notifications
+✅ Contact form now fully functional without backend API dependency
+✅ Enhanced user experience with real-time email delivery
+
 **June 21, 2025 - Footer & Contact Updates + Auto-Delete Feature:**
 ✅ Updated footer with real social media links (LinkedIn, Instagram, Twitter/X, Facebook)
 ✅ Removed GitHub option from footer as requested
