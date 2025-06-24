@@ -2,10 +2,22 @@ import dotenv from "dotenv";
 dotenv.config();
 
 import express, { type Request, Response, NextFunction } from "express";
+import cors from "cors";  // <-- cors import kiya
+
 import { registerRoutes } from "./routes";
 import { setupVite, serveStatic, log } from "./vite";
 
 const app = express();
+
+// CORS middleware setup - apna frontend URL yahan daalna
+app.use(
+  cors({
+    origin: "https://orangered-goldfinch-313504.hostingersite.com",
+    credentials: true,
+  })
+);
+
+
 app.use(express.json());
 app.use(express.urlencoded({ extended: false }));
 
@@ -84,7 +96,7 @@ app.use((req, res, next) => {
       console.log(`4-hourly NewsAPI content generation`);
       const { improvedContentGenerator } = await import("./lib/improved-content-generator");
       const articles = await improvedContentGenerator.generateFromNewsAPI();
-      
+
       // Save articles
       for (const article of articles) {
         try {
@@ -111,7 +123,7 @@ app.use((req, res, next) => {
       console.log(`4-hourly GNews content generation`);
       const { improvedContentGenerator } = await import("./lib/improved-content-generator");
       const articles = await improvedContentGenerator.generateFromGNews();
-      
+
       // Save articles
       for (const article of articles) {
         try {
@@ -140,9 +152,9 @@ app.use((req, res, next) => {
         console.log(`Scheduled SerpAPI content generation at ${hour}:00`);
         const { improvedContentGenerator } = await import("./lib/improved-content-generator");
         const articles = await improvedContentGenerator.generateFromSerpAPI();
-        
+
         // Save articles
-        for (const article of articles.slice(0, 1)) { // Only save 1 article per scheduled time
+        for (const article of articles.slice(0, 1)) {
           try {
             const { db } = await import("./lib/supabase");
             const { articles: articlesTable } = await import("@shared/schema");
@@ -170,9 +182,9 @@ app.use((req, res, next) => {
         console.log(`Scheduled AI Educational content generation at ${hour}:00`);
         const { improvedContentGenerator } = await import("./lib/improved-content-generator");
         const articles = await improvedContentGenerator.generateEducationalContent();
-        
+
         // Save articles
-        for (const article of articles.slice(0, 1)) { // Only save 1 article per scheduled time
+        for (const article of articles.slice(0, 1)) {
           try {
             const { db } = await import("./lib/supabase");
             const { articles: articlesTable } = await import("@shared/schema");
@@ -196,14 +208,13 @@ app.use((req, res, next) => {
   setInterval(async () => {
     try {
       const hour = new Date().getHours();
-      // Generate at 11 AM and 8 PM daily
       if (hour === 11 || hour === 20) {
         console.log(`Scheduled Reddit content generation at ${hour}:00`);
         const { improvedContentGenerator } = await import("./lib/improved-content-generator");
         const articles = await improvedContentGenerator.generateFromReddit();
-        
+
         // Save articles
-        for (const article of articles.slice(0, 1)) { // Only save 1 article per scheduled time
+        for (const article of articles.slice(0, 1)) {
           try {
             const { db } = await import("./lib/supabase");
             const { articles: articlesTable } = await import("@shared/schema");
@@ -236,11 +247,14 @@ app.use((req, res, next) => {
   // this serves both the API and the client.
   // It is the only port that is not firewalled.
   const port = 5000;
-  server.listen({
-    port,
-    host: "0.0.0.0",
-    reusePort: true,
-  }, () => {
-    log(`serving on port ${port}`);
-  });
+  server.listen(
+    {
+      port,
+      host: "0.0.0.0",
+      reusePort: true,
+    },
+    () => {
+      log(`serving on port ${port}`);
+    }
+  );
 })();
