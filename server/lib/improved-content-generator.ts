@@ -374,7 +374,7 @@ Transform this into a comprehensive, SEO-optimized article that expands on all k
 
       for (const topic of indiaTopics) {
         const response = await fetch(
-          `https://gnews.io/api/v4/search?q=${encodeURIComponent(topic)}&country=in&max=5&apikey=${this.config.gnewsApiKey}`
+          `https://gnews.io/api/v4/search?q=${encodeURIComponent(topic)}&country=in&max=5&token=${this.config.gnewsApiKey}`
         );
 
         if (!response.ok) {
