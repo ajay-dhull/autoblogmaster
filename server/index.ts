@@ -144,17 +144,19 @@ app.use((req, res, next) => {
     }
   }, 14400000); // Every 4 hours (4 * 60 * 60 * 1000)
 
-  // SerpAPI: 3 times daily (9 AM, 12 PM, 5 PM) - 1 article each
+  // SerpAPI: 3 times daily (Morning 9 AM, Afternoon 1 PM, Evening 6 PM) - 2 articles each = 6 articles per day
+  // Total: 6 calls/day × 30 days = 180 calls/month (within 200 limit for 2 API keys)
   setInterval(async () => {
     try {
       const hour = new Date().getHours();
-      if (hour === 9 || hour === 12 || hour === 17) {
-        console.log(`Scheduled SerpAPI content generation at ${hour}:00`);
+      if (hour === 9 || hour === 13 || hour === 18) {
+        const timeOfDay = hour === 9 ? 'Morning' : hour === 13 ? 'Afternoon' : 'Evening';
+        console.log(`${timeOfDay} SerpAPI content generation at ${hour}:00 - generating 2 articles`);
         const { improvedContentGenerator } = await import("./lib/improved-content-generator");
         const articles = await improvedContentGenerator.generateFromSerpAPI();
-
-        // Save articles
-        for (const article of articles.slice(0, 1)) {
+        
+        // Save articles - limit to 2 per session (Morning: 2, Afternoon: 2, Evening: 2)
+        for (const article of articles.slice(0, 2)) {
           try {
             const { db } = await import("./lib/supabase");
             const { articles: articlesTable } = await import("@shared/schema");
@@ -163,7 +165,7 @@ app.use((req, res, next) => {
               createdAt: new Date(),
               updatedAt: new Date(),
             });
-            console.log(`SerpAPI scheduled save: ${article.title}`);
+            console.log(`${timeOfDay} SerpAPI save: ${article.title}`);
           } catch (error) {
             console.error(`Error saving SerpAPI article: ${error}`);
           }
