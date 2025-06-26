@@ -3,7 +3,7 @@ dotenv.config();
 
 import { db } from "./supabase";
 import { articles, type InsertArticle } from "@shared/schema";
-import { lt, sql } from "drizzle-orm";
+import { lt, sql, eq } from "drizzle-orm";
 
 interface ContentGeneratorConfig {
   newsApiKey: string;
@@ -23,16 +23,18 @@ class ImprovedContentGenerator {
 
   constructor() {
     this.config = {
-      newsApiKey: process.env.NEWS_API_KEY || "",
-      gnewsApiKey: process.env.GNEWS_API_KEY || "",
-      redditClientId: process.env.REDDIT_CLIENT_ID || "",
-      redditClientSecret: process.env.REDDIT_CLIENT_SECRET || "",
-      serpApiKey: process.env.SERPAPI_KEY || "",
-      serpApiKey2: process.env.SERPAPI_KEY_2 || "",
-      groqApiKey: process.env.GROQ_API_KEY || "",
-      unsplashAccessKey: process.env.UNSPLASH_ACCESS_KEY || "",
-      pexelsApiKey: process.env.PEXELS_API_KEY || "",
+      newsApiKey: "ff14f797a78b411f938cf46e4b83da16",
+      gnewsApiKey: "d9075cc9625d14e42618a83d220efc9d",
+      redditClientId: "G39BgVta2JmQhyqiuF701g",
+      redditClientSecret: "J2NSotpE6POXBXcFDlE9IPrMDly6Yw",
+      serpApiKey: "cb08919668fe983d9fe2270654b879360b26711d6b7bc08a8b367be207c86194",
+      serpApiKey2: "4800330e1fe0dd5e31a52eab79ba58f772f2004068ad0f50856a3db799d023cf",
+      groqApiKey: "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",
+      unsplashAccessKey: "CAxJlwAvUR9trlj-gaMLqwW6NEpx4oMcp6VBUA4jgZE",
+      pexelsApiKey: "uj5J4qcSq9g4SdGAXqgheb6nmfHnIjoTqOYW7P9WBsvIiCrUaEdqZkPs",
     };
+
+    console.log("Content generator initialized with working API keys");
   }
 
   private generateSlug(title: string): string {
@@ -364,11 +366,10 @@ Transform this into a comprehensive, SEO-optimized article that expands on all k
     try {
       console.log("Starting GNews content generation - 2-3 latest India news (Hindi/English)...");
       
-      // Different trending topics for India coverage
+      // Simple India queries that work with GNews API
       const indiaTopics = [
-        'india breaking news',
-        'india trending today',
-        'indian politics latest'
+        'india',
+        'indian'
       ];
       const articles: InsertArticle[] = [];
 
@@ -378,7 +379,8 @@ Transform this into a comprehensive, SEO-optimized article that expands on all k
         );
 
         if (!response.ok) {
-          console.error(`GNews error for ${topic}:`, response.statusText);
+          const errorText = await response.text();
+          console.error(`GNews error for ${topic}:`, response.status, errorText);
           continue;
         }
 
@@ -728,17 +730,29 @@ Make it comprehensive (1500+ words), practical, and full of actionable advice th
         ...educationalArticles
       ];
 
-      console.log(`Generated ${allArticles.length} fresh articles`);
+      // Remove duplicates based on title
+      const uniqueArticles = allArticles.filter((article, index, self) => 
+        index === self.findIndex(a => a.title === article.title)
+      );
 
-      // Save articles to database
-      for (const article of allArticles) {
+      console.log(`Generated ${allArticles.length} articles, ${uniqueArticles.length} unique after deduplication`);
+
+      // Save unique articles to database
+      for (const article of uniqueArticles) {
         try {
-          await db.insert(articles).values({
-            ...article,
-            createdAt: new Date(),
-            updatedAt: new Date(),
-          });
-          console.log(`Saved article: ${article.title}`);
+          // Double check for existing article in database
+          const existingArticle = await db.select().from(articles).where(sql`title = ${article.title}`).limit(1);
+          
+          if (existingArticle.length === 0) {
+            await db.insert(articles).values({
+              ...article,
+              createdAt: new Date(),
+              updatedAt: new Date(),
+            });
+            console.log(`Saved unique article: ${article.title}`);
+          } else {
+            console.log(`Skipped duplicate article: ${article.title}`);
+          }
         } catch (error) {
           console.error(`Error saving article "${article.title}":`, error);
         }
