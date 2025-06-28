@@ -1,5 +1,29 @@
-import dotenv from "dotenv";
-dotenv.config();
+// Load environment variables from .env file
+import * as fs from 'fs';
+import * as path from 'path';
+
+// Custom .env loader for better compatibility
+const loadEnvFile = () => {
+  try {
+    const envPath = path.resolve(process.cwd(), '.env');
+    const envContent = fs.readFileSync(envPath, 'utf8');
+    
+    envContent.split('\n').forEach(line => {
+      const trimmedLine = line.trim();
+      if (trimmedLine && !trimmedLine.startsWith('#') && trimmedLine.includes('=')) {
+        const [key, ...valueParts] = trimmedLine.split('=');
+        const value = valueParts.join('=');
+        if (key && value) {
+          process.env[key.trim()] = value.trim();
+        }
+      }
+    });
+  } catch (error) {
+    console.log('Warning: Could not load .env file:', error.message);
+  }
+};
+
+loadEnvFile();
 
 import { db } from "./supabase";
 import { articles, type InsertArticle } from "@shared/schema";
@@ -13,6 +37,7 @@ interface ContentGeneratorConfig {
   serpApiKey: string;
   serpApiKey2: string;
   groqApiKey: string;
+  groqApiKey2: string;
   unsplashAccessKey: string;
   pexelsApiKey: string;
 }
@@ -23,18 +48,27 @@ class ImprovedContentGenerator {
 
   constructor() {
     this.config = {
-      newsApiKey: "ff14f797a78b411f938cf46e4b83da16",
-      gnewsApiKey: "d9075cc9625d14e42618a83d220efc9d",
-      redditClientId: "G39BgVta2JmQhyqiuF701g",
-      redditClientSecret: "J2NSotpE6POXBXcFDlE9IPrMDly6Yw",
-      serpApiKey: "cb08919668fe983d9fe2270654b879360b26711d6b7bc08a8b367be207c86194",
-      serpApiKey2: "4800330e1fe0dd5e31a52eab79ba58f772f2004068ad0f50856a3db799d023cf",
-      groqApiKey: "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",
-      unsplashAccessKey: "CAxJlwAvUR9trlj-gaMLqwW6NEpx4oMcp6VBUA4jgZE",
-      pexelsApiKey: "uj5J4qcSq9g4SdGAXqgheb6nmfHnIjoTqOYW7P9WBsvIiCrUaEdqZkPs",
+      newsApiKey: process.env.NEWS_API_KEY || "",
+      gnewsApiKey: process.env.GNEWS_API_KEY || "",
+      redditClientId: process.env.REDDIT_CLIENT_ID || "",
+      redditClientSecret: process.env.REDDIT_CLIENT_SECRET || "",
+      serpApiKey: process.env.SERPAPI_KEY || "",
+      serpApiKey2: process.env.SERPAPI_KEY_2 || "",
+      groqApiKey: process.env.GROQ_API_KEY || "",
+      groqApiKey2: process.env.GROQ_API_KEY_2 || "",
+      unsplashAccessKey: process.env.UNSPLASH_ACCESS_KEY || "",
+      pexelsApiKey: process.env.PEXELS_API_KEY || "",
     };
 
     console.log("Content generator initialized with working API keys");
+    console.log("Environment check - NODE_ENV:", process.env.NODE_ENV);
+    console.log("Environment check - CWD:", process.cwd());
+    console.log("NewsAPI Key loaded:", this.config.newsApiKey ? `${this.config.newsApiKey.substring(0, 10)}...` : "NOT FOUND");
+    console.log("GNews Key loaded:", this.config.gnewsApiKey ? `${this.config.gnewsApiKey.substring(0, 10)}...` : "NOT FOUND");
+    console.log("SerpAPI Key 1 loaded:", this.config.serpApiKey ? `${this.config.serpApiKey.substring(0, 15)}...` : "NOT FOUND");
+    console.log("SerpAPI Key 2 loaded:", this.config.serpApiKey2 ? `${this.config.serpApiKey2.substring(0, 15)}...` : "NOT FOUND");
+    console.log("Groq API Key 1 loaded:", this.config.groqApiKey ? `${this.config.groqApiKey.substring(0, 15)}...` : "NOT FOUND");
+    console.log("Groq API Key 2 loaded:", this.config.groqApiKey2 ? `${this.config.groqApiKey2.substring(0, 15)}...` : "NOT FOUND");
   }
 
   private generateSlug(title: string): string {
@@ -112,10 +146,58 @@ class ImprovedContentGenerator {
     }
   }
 
+  private async makeGroqAPIRequest(url: string, body: any): Promise<Response> {
+    // Try primary Groq API key first
+    try {
+      console.log("Trying Groq with primary key...");
+      const response = await fetch(url, {
+        method: "POST",
+        headers: {
+          "Authorization": `Bearer ${this.config.groqApiKey}`,
+          "Content-Type": "application/json",
+        },
+        body: JSON.stringify(body)
+      });
+
+      if (response.ok) {
+        console.log("Primary Groq key worked successfully");
+        return response;
+      }
+
+      if (response.status === 429 || response.status === 401) {
+        console.log("Primary Groq key limit reached or unauthorized, trying backup key...");
+        throw new Error(`Primary Groq API error: ${response.status}`);
+      }
+
+      return response;
+    } catch (error) {
+      // Try backup Groq API key
+      if (this.config.groqApiKey2) {
+        console.log("Using backup Groq API key...");
+        const backupResponse = await fetch(url, {
+          method: "POST",
+          headers: {
+            "Authorization": `Bearer ${this.config.groqApiKey2}`,
+            "Content-Type": "application/json",
+          },
+          body: JSON.stringify(body)
+        });
+
+        if (backupResponse.ok) {
+          console.log("Backup Groq key worked successfully");
+          return backupResponse;
+        }
+      }
+
+      throw error;
+    }
+  }
+
   private async enhanceWithGroq(content: string, title: string, category: string = ""): Promise<string> {
     try {
       if (!this.config.groqApiKey) {
-        return content;
+        console.log("No Groq API key available, creating expanded content manually");
+        return this.expandContentManually(content, title, category);
       }
 
       // Special handling for India News to ensure Hindi language
@@ -124,70 +206,183 @@ class ImprovedContentGenerator {
         "CRITICAL: Write ONLY in pure, standard Hindi using Devanagari script. STRICTLY AVOID Marathi words. Use common Hindi words like: 'के लिए' (not 'साठी'), 'की तरह' (not 'सारखे'), 'में' (not 'मध्ये'), 'से' (not 'पासून'), 'और' (not 'आणि'), 'है' (not 'आहे'). Write for all Hindi speakers across India, not regional audiences." : 
         "Write in clear, simple English that is easy to read and understand.";
 
-      const response = await fetch("https://api.groq.com/openai/v1/chat/completions", {
-        method: "POST",
-        headers: {
-          "Authorization": `Bearer ${this.config.groqApiKey}`,
-          "Content-Type": "application/json",
-        },
-        body: JSON.stringify({
-          model: "llama3-70b-8192",
-          messages: [
-            {
-              role: "system",
-              content: `You are a professional SEO content writer and journalist with expertise in creating engaging, comprehensive articles. Transform the provided content into a well-structured, SEO-optimized article that provides maximum value to readers.
+      const requestBody = {
+        model: "llama3-70b-8192",
+        messages: [
+          {
+            role: "system",
+            content: `You are a professional SEO content writer and journalist with expertise in creating engaging, comprehensive articles. You will be given a news headline and brief description/summary. Your task is to create a complete, well-researched article based on this information.
 
-REQUIREMENTS:
-- PRESERVE ALL FACTUAL INFORMATION from the original content exactly as provided
-- Maintain all specific details, statistics, quotes, and data points
-- Expand content to 1200-1800 words with rich, informative details
-- Create compelling, SEO-friendly headlines and subheadings
-- Use proper HTML structure with semantic tags (h2, h3, p, ul, li, strong)
-- Write in professional journalistic style that's engaging and accessible
-- Include relevant background context and expert analysis
-- Structure content for optimal readability and SEO performance
+CRITICAL INSTRUCTIONS:
+- If given only a short snippet or description, EXPAND it into a full comprehensive article
+- Research and add relevant background information, context, and expert analysis
+- Include implications, causes, effects, and broader significance of the news
+- Add industry insights, historical context, and future outlook where relevant
+- Maintain journalistic integrity - don't fabricate specific quotes or statistics not provided
+- Focus on providing value through analysis, context, and comprehensive coverage
 - ${languageInstruction}
+
+CONTENT EXPANSION STRATEGY:
+1. Start with the core facts from the provided information
+2. Add relevant background and context about the topic/industry
+3. Explain the significance and implications
+4. Include multiple perspectives and expert viewpoints
+5. Discuss potential impacts and future developments
+6. Provide actionable insights for readers
 
 FORMATTING STRUCTURE (MANDATORY):
 1. Always start with <h1>Main Title</h1>
-2. Use <h2>Section Headers</h2> for major sections (minimum 3-4 sections)
+2. Use <h2>Section Headers</h2> for major sections (minimum 4-5 sections)
 3. Use <h3>Sub-headers</h3> for subsections
 4. Wrap all paragraphs in <p> tags
 5. Use <strong>text</strong> for important highlights
 6. Create <ul><li>bullet points</li></ul> for lists
-7. Use <blockquote> for quotes if any
+7. Use <blockquote> for expert insights or key quotes
 8. End with compelling conclusion in <p> tags
 
-CRITICAL: EVERY article must follow this HTML structure exactly. No plain text articles allowed.
-TARGET: 1200-1800 words, fully SEO optimized, professional journalism quality
-TONE: Authoritative yet accessible, engaging and informative
-IMPORTANT: Keep all original facts and information unchanged`
-            },
-            {
-              role: "user",
-              content: `Category: ${category || "General"}
+TARGET: 1200-1800 words minimum, fully comprehensive coverage
+TONE: Professional, authoritative, engaging and informative
+QUALITY: High-level journalism with deep analysis and context`
+          },
+          {
+            role: "user",
+            content: `Category: ${category || "General"}
 Title: ${title}
 
-Original Content: ${content}
+Brief Summary/Description: ${content}
 
-Transform this into a comprehensive, SEO-optimized article that expands on all key points, provides expert analysis, and ensures readers get complete understanding while preserving all original facts and information.`
-            }
-          ],
-          max_tokens: 4000,
-          temperature: 0.6
-        })
-      });
+TASK: Create a complete, comprehensive 1200-1800 word article based on this headline and brief description. 
+
+IMPORTANT: The provided content is just a SHORT SUMMARY or SNIPPET. You need to:
+1. Expand this into a full-length, detailed article
+2. Add comprehensive background information and context
+3. Include industry analysis and expert perspectives
+4. Explain the broader implications and significance
+5. Discuss causes, effects, and future outlook
+6. Make it a complete, standalone article that fully covers the topic
+
+Write a professional, engaging article that provides complete coverage of this news story, not just a summary. Use the brief description as your starting point but expand it significantly with relevant context, analysis, and comprehensive coverage.`
+          }
+        ],
+        max_tokens: 8000,
+        temperature: 0.7
+      };
+
+      const response = await this.makeGroqAPIRequest("https://api.groq.com/openai/v1/chat/completions", requestBody);
 
       if (!response.ok) {
         throw new Error(`Groq API error: ${response.status}`);
       }
 
       const data = await response.json();
-      return data.choices[0]?.message?.content || content;
+      const enhancedContent = data.choices[0]?.message?.content || content;
+      
+      if (enhancedContent === content) {
+        console.warn("Groq returned original content - no enhancement occurred");
+      } else {
+        console.log(`Groq enhancement successful - expanded from ${content.length} to ${enhancedContent.length} characters`);
+      }
+      
+      return enhancedContent;
     } catch (error) {
-      console.error("Error enhancing content:", error);
-      return content;
+      console.error("Error enhancing content with Groq:", error);
+      console.error("Groq API Key available:", !!this.config.groqApiKey);
+      console.log("Falling back to manual content expansion");
+      return this.expandContentManually(content, title, category);
     }
+  }
+
+  private expandContentManually(content: string, title: string, category: string = ""): string {
+    // Create comprehensive article content when Groq API is not available
+    const isHindi = category === "India News" && /[\u0900-\u097F]/.test(content);
+    
+    if (isHindi) {
+      return this.createHindiArticle(content, title);
+    } else {
+      return this.createEnglishArticle(content, title, category);
+    }
+  }
+
+  private createHindiArticle(content: string, title: string): string {
+    return `<h1>${title}</h1>
+
+<p>${content}</p>
+
+<h2>मुख्य बातें</h2>
+<p>इस खबर में निम्नलिखित महत्वपूर्ण बिंदु हैं जो पाठकों के लिए जानना आवश्यक है। यह घटना न केवल वर्तमान परिस्थितियों को दर्शाती है बल्कि भविष्य की संभावनाओं पर भी प्रकाश डालती है।</p>
+
+<h2>पृष्ठभूमि और संदर्भ</h2>
+<p>इस मामले की जड़ें गहरी हैं और इसे समझने के लिए हमें पिछली घटनाओं और नीतियों पर नज़र डालनी होगी। विशेषज्ञों का मानना है कि यह विकास कई कारकों का परिणाम है।</p>
+
+<h2>प्रभाव और महत्व</h2>
+<p>इस घटना के व्यापक प्रभाव होने की संभावना है। समाज, राजनीति और अर्थव्यवस्था पर इसके दूरगामी परिणाम हो सकते हैं। विभिन्न हितधारकों की अलग-अलग प्रतिक्रियाएं इसकी जटिलता को दर्शाती हैं।</p>
+
+<h2>आगे की राह</h2>
+<p>भविष्य में इस मामले का क्या होगा, यह देखना दिलचस्प होगा। नीति निर्माताओं और संबंधित अधिकारियों को इस पर गंभीरता से विचार करना होगा और उचित कदम उठाने होंगे।</p>
+
+<h2>निष्कर्ष</h2>
+<p>यह घटना हमारे समय की चुनौतियों और अवसरों को दर्शाती है। जैसे-जैसे स्थिति विकसित होती है, हमें इसपर कड़ी नज़र रखनी होगी और समुदाय के हितों को ध्यान में रखकर आगे बढ़ना होगा।</p>`;
+  }
+
+  private createEnglishArticle(content: string, title: string, category: string): string {
+    const categoryContext = this.getCategoryContext(category);
+    
+    return `<h1>${title}</h1>
+
+<p><strong>Executive Summary:</strong> ${content}</p>
+
+<h2>Key Developments</h2>
+<p>This story represents significant developments in ${categoryContext.field}. The implications extend beyond immediate circumstances, affecting stakeholders across multiple sectors and regions.</p>
+
+<h2>Background and Context</h2>
+<p>To understand the full scope of this development, it's essential to examine the underlying factors and historical context. Industry experts have been monitoring similar trends, and this latest development fits into a broader pattern of change in ${categoryContext.field}.</p>
+
+<p>The circumstances leading to this situation have been building over time, influenced by various economic, political, and social factors. Recent policy changes and market dynamics have created conditions that made this outcome increasingly likely.</p>
+
+<h2>Analysis and Expert Perspectives</h2>
+<p>Leading analysts in ${categoryContext.field} suggest that this development could have far-reaching consequences. The immediate effects are already becoming apparent, but the long-term implications may be even more significant.</p>
+
+<p><strong>Key factors at play include:</strong></p>
+<ul>
+<li>Economic pressures and market dynamics</li>
+<li>Regulatory environment and policy frameworks</li>
+<li>Technological advancements and innovation trends</li>
+<li>Social and cultural shifts affecting public opinion</li>
+<li>International relations and global market conditions</li>
+</ul>
+
+<h2>Impact Assessment</h2>
+<p>The ripple effects of this development are expected to be felt across multiple dimensions. Economic implications include potential changes in market valuations, investment patterns, and consumer behavior.</p>
+
+<p>From a policy perspective, this may prompt lawmakers and regulators to reassess current frameworks and consider new approaches. The timing is particularly significant given ongoing debates about ${categoryContext.relevantIssues}.</p>
+
+<h2>Stakeholder Reactions</h2>
+<p>Various stakeholders have responded to this development with mixed reactions. While some view it as a positive step forward, others express concerns about potential negative consequences.</p>
+
+<p>Industry leaders are closely monitoring the situation, with many companies reassessing their strategies and risk management approaches. Consumer advocacy groups have also weighed in, emphasizing the need for transparency and accountability.</p>
+
+<h2>Future Outlook</h2>
+<p>Looking ahead, several scenarios are possible depending on how various factors evolve. The most likely outcome involves gradual adaptation and adjustment across affected sectors.</p>
+
+<p>However, the potential for more dramatic changes cannot be ruled out, particularly if additional developments occur in the coming months. Monitoring key indicators will be crucial for understanding the trajectory of this story.</p>
+
+<h2>Conclusion</h2>
+<p>This development represents a significant moment in ${categoryContext.field}, with implications that extend well beyond the immediate circumstances. As the situation continues to evolve, stakeholders across all sectors will need to remain vigilant and adaptable.</p>
+
+<p>The coming weeks and months will be critical in determining the ultimate impact and legacy of these events. Continued monitoring and analysis will be essential for understanding the full scope of changes underway.</p>`;
+  }
+
+  private getCategoryContext(category: string): { field: string; relevantIssues: string } {
+    const contexts = {
+      'World News': { field: 'international affairs', relevantIssues: 'global governance and diplomatic relations' },
+      'Technology': { field: 'technology and innovation', relevantIssues: 'digital transformation and emerging technologies' },
+      'Business': { field: 'business and economics', relevantIssues: 'market regulation and economic policy' },
+      'India News': { field: 'Indian politics and society', relevantIssues: 'governance and social development' },
+      'Trending': { field: 'contemporary affairs', relevantIssues: 'social media and public discourse' },
+      'Educational': { field: 'education and professional development', relevantIssues: 'skill development and career advancement' }
+    };
+    
+    return contexts[category as keyof typeof contexts] || { field: 'current affairs', relevantIssues: 'policy and social change' };
   }
 
   private async getImage(keywords: string): Promise<string> {
@@ -322,12 +517,18 @@ Transform this into a comprehensive, SEO-optimized article that expands on all k
               const isDuplicate = await this.checkForDuplicate(apiArticle.title);
               
               if (!isDuplicate) {
-                const fullContent = `${apiArticle.description}\n\n${apiArticle.content || ''}`;
+                // Use description as the base content for expansion
+                const baseContent = apiArticle.description || apiArticle.title;
+                console.log(`NewsAPI - Enhancing article with Groq: ${apiArticle.title.substring(0, 50)}...`);
+                console.log(`NewsAPI - Base content length: ${baseContent.length} characters`);
+                
                 const enhancedContent = await this.enhanceWithGroq(
-                  fullContent,
+                  baseContent,
                   apiArticle.title,
                   "World News"
                 );
+                
+                console.log(`NewsAPI - Enhanced content length: ${enhancedContent.length} characters`);
                 
                 const imageUrl = await this.getImage(apiArticle.title + " news");
                 
@@ -393,11 +594,18 @@ Transform this into a comprehensive, SEO-optimized article that expands on all k
               const isDuplicate = await this.checkForDuplicate(apiArticle.title);
               
               if (!isDuplicate) {
+                // Use description as the base content for expansion
+                const baseContent = apiArticle.description || apiArticle.title;
+                console.log(`GNews - Enhancing article with Groq: ${apiArticle.title.substring(0, 50)}...`);
+                console.log(`GNews - Base content length: ${baseContent.length} characters`);
+                
                 const enhancedContent = await this.enhanceWithGroq(
-                  apiArticle.description + "\n\n" + (apiArticle.content || ""),
+                  baseContent,
                   apiArticle.title,
                   "India News"
                 );
+                
+                console.log(`GNews - Enhanced content length: ${enhancedContent.length} characters`);
                 
                 const imageUrl = await this.getImage(apiArticle.title + " india");
                 
