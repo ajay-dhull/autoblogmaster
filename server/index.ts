@@ -12,7 +12,7 @@ const app = express();
 // CORS middleware setup - apna frontend URL yahan daalna
 app.use(
   cors({
-    origin: "https://orangered-goldfinch-313504.hostingersite.com",
+    origin: "https://newshubnow.in/",
     credentials: true,
   })
 );
