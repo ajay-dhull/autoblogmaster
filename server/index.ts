@@ -12,7 +12,7 @@ const app = express();
 // CORS middleware setup - apna frontend URL yahan daalna
 app.use(
   cors({
-    origin: "https://newshubnow.in/",
+    origin: "https://newshubnow.in",
     credentials: true,
   })
 );
