@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://newshubnow.in/sitemap.xml
