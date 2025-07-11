@@ -79,7 +79,7 @@ export default function ArticleCard({ article }: ArticleCardProps) {
               </Badge>
             </div>
           )}
-          
+
           <CardContent className="p-4 sm:p-6 flex-1 flex flex-col">
             <div className="flex items-center space-x-2 sm:space-x-3 mb-3 sm:mb-4">
               <div className="flex items-center text-gray-500 text-xs sm:text-sm">
@@ -96,13 +96,17 @@ export default function ArticleCard({ article }: ArticleCardProps) {
               {article.title}
             </h3>
 
-            <p className="text-sm sm:text-base text-gray-600 mb-3 sm:mb-4 line-clamp-3 flex-1 leading-relaxed">{article.excerpt}</p>
+            <p className="text-sm sm:text-base text-gray-600 mb-3 sm:mb-4 line-clamp-3 flex-1 leading-relaxed">
+              {article.excerpt}
+            </p>
 
             <div className="mt-auto">
               <div className="flex items-center justify-between mb-2 sm:mb-3">
                 <div className="flex items-center space-x-1.5 sm:space-x-2">
                   <span className="text-lg sm:text-xl">{getSourceIcon(article.source)}</span>
-                  <span className="text-xs sm:text-sm font-medium text-gray-700">{article.source}</span>
+                  <span className="text-xs sm:text-sm font-medium text-gray-700">
+                    {article.source}
+                  </span>
                 </div>
               </div>
 
