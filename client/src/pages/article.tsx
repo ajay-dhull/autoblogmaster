@@ -185,9 +185,7 @@ export default function Article() {
               </div>
             </div>
 
-            <h1 className="text-2xl md:text-4xl font-bold leading-tight mb-4 bg-gradient-to-r from-gray-900 via-gray-700 to-gray-600 bg-clip-text text-transparent">
-              {article.title}
-            </h1>
+            <h1 className="text-2xl md:text-4xl font-bold leading-tight mb-4 bg-gradient-to-r from-gray-900 via-gray-700 to-gray-600 bg-clip-text text-transparent text-gray-900">{article.title}</h1>
 
             <p className="text-lg md:text-xl text-gray-600 leading-relaxed mb-6 font-light">
               {article.excerpt}
@@ -204,6 +202,7 @@ export default function Article() {
                       target="_blank"
                       rel="noopener noreferrer"
                       className="text-sm text-primary hover:underline flex items-center"
+                      aria-label="View original article on source website"
                     >
                       View Original <ExternalLink className="ml-1 h-3 w-3" />
                     </a>
@@ -213,17 +212,29 @@ export default function Article() {
 
               <div className="flex items-center space-x-2">
                 <span className="text-sm text-gray-500 mr-2">Share:</span>
-                <Button variant="outline" size="sm" onClick={() => handleShare("twitter")}>
-
-                <Twitter className="h-4 w-4" />
+                <Button
+                  variant="outline"
+                  size="sm"
+                  aria-label="Share on Twitter"
+                  onClick={() => handleShare("twitter")}
+                >
+                  <Twitter className="h-4 w-4" />
                 </Button>
-                <Button variant="outline" size="sm" onClick={() => handleShare("facebook")}>
-
-                <Facebook className="h-4 w-4" />
+                <Button
+                  variant="outline"
+                  size="sm"
+                  aria-label="Share on Facebook"
+                  onClick={() => handleShare("facebook")}
+                >
+                  <Facebook className="h-4 w-4" />
                 </Button>
-                <Button variant="outline" size="sm" onClick={() => handleShare("linkedin")}>
-
-                <Linkedin className="h-4 w-4" />
+                <Button
+                  variant="outline"
+                  size="sm"
+                  aria-label="Share on LinkedIn"
+                  onClick={() => handleShare("linkedin")}
+                >
+                  <Linkedin className="h-4 w-4" />
                 </Button>
               </div>
             </div>
@@ -235,6 +246,7 @@ export default function Article() {
                 <img
                   src={article.featuredImage}
                   alt={article.title}
+                  loading="lazy"
                   className="w-full h-[500px] object-cover"
                 />
                 <div className="absolute inset-0 bg-gradient-to-t from-black/20 to-transparent" />

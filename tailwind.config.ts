@@ -6,10 +6,13 @@ export default {
     "./client/index.html",
     "./client/src/**/*.{js,ts,jsx,tsx}",
     "./client/public/index.html",
-    "./client/**/*.{js,ts,jsx,tsx,html}", // covers everything in client
+    "./client/**/*.{js,ts,jsx,tsx,html}",
   ],
   theme: {
     extend: {
+      fontFamily: {
+        sans: ['Inter', 'Segoe UI', 'Noto Sans Devanagari', 'sans-serif'],
+      },
       borderRadius: {
         lg: "var(--radius)",
         md: "calc(var(--radius) - 2px)",
