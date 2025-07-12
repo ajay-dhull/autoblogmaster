@@ -3,36 +3,58 @@
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1" />
-    <meta name="description" content="NewsHubNow - Your trusted source for global news, expert analysis, and trending topics." />
-    <meta property="og:title" content="NewsHubNow" />
-    <meta property="og:description" content="Stay updated with the latest news and insights from around the world on NewsHubNow." />
-    <meta property="og:url" content="https://newshubnow.in" />
-    <meta property="og:image" content="/assets/icon.png" />
+
+    <!-- Title & Meta Description -->
+    <title>NewsHubNow - Latest Breaking News, Trends & Analysis</title>
+    <meta name="description" content="NewsHubNow - Your trusted source for breaking news, trending stories, and expert insights from India and around the world." />
+    <meta name="keywords" content="breaking news, India news, trending, world news, NewsHubNow" />
+    <meta name="robots" content="index, follow" />
+    <link rel="canonical" href="https://newshubnow.in/" />
 
     <!-- Favicon -->
     <link rel="icon" href="/favicon.ico" />
 
+    <!-- Open Graph Meta Tags (for Facebook, WhatsApp etc.) -->
+    <meta property="og:title" content="NewsHubNow - Trusted News Source" />
+    <meta property="og:description" content="Get the latest news updates, trending topics, and expert analysis on NewsHubNow." />
+    <meta property="og:url" content="https://newshubnow.in" />
+    <meta property="og:image" content="https://newshubnow.in/assets/icon.png" />
+    <meta property="og:type" content="website" />
 
-    <!-- Google AdSense Base Script -->
+    <!-- Structured Data (Schema.org for Google News) -->
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "WebSite",
+      "name": "NewsHubNow",
+      "url": "https://newshubnow.in",
+      "description": "NewsHubNow - Your trusted source for breaking news, trending topics, and expert analysis.",
+      "publisher": {
+        "@type": "Organization",
+        "name": "NewsHubNow",
+        "logo": {
+          "@type": "ImageObject",
+          "url": "https://newshubnow.in/assets/icon.png"
+        }
+      }
+    }
+    </script>
+
+    <!-- Google AdSense -->
     <script
       async
       src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-6085158332077162"
       crossorigin="anonymous"
     ></script>
 
-<!-- Google tag (gtag.js) -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-DC4MV8BTN1"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){ dataLayer.push(arguments); }
-  gtag('js', new Date());
-
-  gtag('config', 'G-DC4MV8BTN1');
-</script>
-
-
-
-    <title>NewsHubNow</title>
+    <!-- Google Analytics (GA4) -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-DC4MV8BTN1"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){ dataLayer.push(arguments); }
+      gtag('js', new Date());
+      gtag('config', 'G-DC4MV8BTN1');
+    </script>
   </head>
   <body>
     <div id="root"></div>

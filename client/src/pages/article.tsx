@@ -1,3 +1,4 @@
+import React from "react";
 import { useQuery } from "@tanstack/react-query";
 import { useRoute } from "wouter";
 import { Link } from "wouter";
@@ -8,12 +9,11 @@ import { Card, CardContent } from "@/components/ui/card";
 import { Separator } from "@/components/ui/separator";
 import ArticleCard from "@/components/article-card";
 import { api } from "@/lib/api";
-import { 
-  Calendar, 
-  Clock, 
-  Tag, 
-  Share2, 
-  ArrowLeft, 
+import {
+  Calendar,
+  Clock,
+  Tag,
+  ArrowLeft,
   ExternalLink,
   Facebook,
   Twitter,
@@ -25,13 +25,13 @@ export default function Article() {
   const slug = params?.slug;
 
   const { data: article, isLoading, error } = useQuery({
-    queryKey: ['/api/articles', slug],
+    queryKey: ["/api/articles", slug],
     queryFn: () => api.getArticleBySlug(slug!),
     enabled: !!slug,
   });
 
   const { data: relatedArticles } = useQuery({
-    queryKey: ['/api/categories', article?.category],
+    queryKey: ["/api/categories", article?.category],
     queryFn: () => api.getArticlesByCategory(article!.category),
     enabled: !!article?.category,
   });
@@ -57,7 +57,9 @@ export default function Article() {
       <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 py-8">
         <div className="text-center py-12">
           <h1 className="text-2xl font-bold mb-4">Article Not Found</h1>
-          <p className="text-gray-600 mb-6">The article you're looking for doesn't exist or has been removed.</p>
+          <p className="text-gray-600 mb-6">
+            The article you're looking for doesn't exist or has been removed.
+          </p>
           <Link href="/blog">
             <Button>
               <ArrowLeft className="mr-2 h-4 w-4" />
@@ -71,13 +73,20 @@ export default function Article() {
 
   const getCategoryColor = (category: string) => {
     switch (category) {
-      case "World News": return "bg-green-500";
-      case "India News": return "bg-orange-500";
-      case "Educational": return "bg-yellow-500";
-      case "Viral": return "bg-red-500";
-      case "Trending": return "bg-blue-500";
-      case "Technology": return "bg-purple-500";
-      default: return "bg-gray-500";
+      case "World News":
+        return "bg-green-500";
+      case "India News":
+        return "bg-orange-500";
+      case "Educational":
+        return "bg-yellow-500";
+      case "Viral":
+        return "bg-red-500";
+      case "Trending":
+        return "bg-blue-500";
+      case "Technology":
+        return "bg-purple-500";
+      default:
+        return "bg-gray-500";
     }
   };
 
@@ -94,20 +103,22 @@ export default function Article() {
     return Math.ceil(wordCount / wordsPerMinute);
   };
 
-  const shareUrl = window.location.href;
+  const shareUrl = typeof window !== "undefined" ? window.location.href : '';
   const shareText = `Check out this article: ${article.title}`;
 
   const handleShare = (platform: string) => {
     let url = "";
+    const encodedText = encodeURIComponent(shareText);
+    const encodedUrl = encodeURIComponent(shareUrl);
     switch (platform) {
       case "twitter":
-        url = `https://twitter.com/intent/tweet?text=${encodeURIComponent(shareText)}&url=${encodeURIComponent(shareUrl)}`;
+        url = `https://twitter.com/intent/tweet?text=${encodedText}&url=${encodedUrl}`;
         break;
       case "facebook":
-        url = `https://www.facebook.com/sharer/sharer.php?u=${encodeURIComponent(shareUrl)}`;
+        url = `https://www.facebook.com/sharer/sharer.php?u=${encodedUrl}`;
         break;
       case "linkedin":
-        url = `https://www.linkedin.com/sharing/share-offsite/?url=${encodeURIComponent(shareUrl)}`;
+        url = `https://www.linkedin.com/sharing/share-offsite/?url=${encodedUrl}`;
         break;
     }
     if (url) window.open(url, '_blank', 'width=600,height=400');
@@ -115,35 +126,38 @@ export default function Article() {
 
   return (
     <>
-      {/* SEO / Social Meta Tags */}
       <Helmet>
-        <title>{article.title}</title>
+        <title>{`${article.title} | NewsHubNow`}</title>
         <meta name="description" content={article.excerpt} />
         <meta name="robots" content="index, follow" />
         <script type="application/ld+json">
-          {JSON.stringify({
-            "@context": "https://schema.org",
-            "@type": "NewsArticle",
-            headline: article.title,
-            image: [article.featuredImage || article.image],
-            datePublished: article.publishedAt,
-            dateModified: article.updatedAt || article.publishedAt,
-            author: { "@type": "Person", name: "Ajay Dhull" },
-            publisher: {
-              "@type": "Organization",
-              name: "NewsHubNow",
-              logo: {
-                "@type": "ImageObject",
-                url: "https://newshubnow.in/logo.png"
+          {JSON.stringify(
+            {
+              "@context": "https://schema.org",
+              "@type": "NewsArticle",
+              "mainEntityOfPage": {
+                "@type": "WebPage",
+                "@id": shareUrl
+              },
+              headline: article.title,
+              description: article.excerpt,
+              image: [article.featuredImage || article.image],
+              datePublished: new Date(article.publishedAt).toISOString(),
+              dateModified: new Date(article.updatedAt || article.publishedAt).toISOString(),
+              author: { "@type": "Person", name: "Ajay Dhull" },
+              publisher: {
+                "@type": "Organization",
+                name: "NewsHubNow",
+                logo: { "@type": "ImageObject", url: "https://newshubnow.in/assets/icon.png" }
               }
             },
-            description: article.excerpt
-          })}
+            null,
+            2
+          )}
         </script>
       </Helmet>
 
       <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 py-8">
-        {/* Back Button */}
         <div className="mb-6">
           <Link href="/blog">
             <Button variant="outline">
@@ -153,11 +167,12 @@ export default function Article() {
           </Link>
         </div>
 
-        {/* Article Header */}
         <article className="mb-12">
           <header className="mb-8">
             <div className="flex items-center space-x-4 mb-6">
-              <Badge className={`${getCategoryColor(article.category)} text-white px-3 py-1`}>
+              <Badge
+                className={`${getCategoryColor(article.category)} text-white px-3 py-1`}
+              >
                 {article.category}
               </Badge>
               <div className="flex items-center text-gray-500 text-sm">
@@ -180,11 +195,11 @@ export default function Article() {
 
             <div className="flex items-center justify-between flex-wrap gap-4">
               <div className="flex items-center space-x-3">
-                <span className="text-2xl">{/* source icon logic here */}</span>
+                <span className="text-2xl" />
                 <div>
                   <p className="font-medium">{article.source}</p>
                   {article.sourceUrl && (
-                    <a 
+                    <a
                       href={article.sourceUrl}
                       target="_blank"
                       rel="noopener noreferrer"
@@ -199,19 +214,21 @@ export default function Article() {
               <div className="flex items-center space-x-2">
                 <span className="text-sm text-gray-500 mr-2">Share:</span>
                 <Button variant="outline" size="sm" onClick={() => handleShare("twitter")}>
-                  <Twitter className="h-4 w-4" />
+
+                <Twitter className="h-4 w-4" />
                 </Button>
                 <Button variant="outline" size="sm" onClick={() => handleShare("facebook")}>
-                  <Facebook className="h-4 w-4" />
+
+                <Facebook className="h-4 w-4" />
                 </Button>
                 <Button variant="outline" size="sm" onClick={() => handleShare("linkedin")}>
-                  <Linkedin className="h-4 w-4" />
+
+                <Linkedin className="h-4 w-4" />
                 </Button>
               </div>
             </div>
           </header>
 
-          {/* Featured Image */}
           {article.featuredImage && (
             <div className="mb-12">
               <div className="relative overflow-hidden rounded-2xl shadow-2xl">
@@ -220,27 +237,21 @@ export default function Article() {
                   alt={article.title}
                   className="w-full h-[500px] object-cover"
                 />
-                <div className="absolute inset-0 bg-gradient-to-t from-black/20 to-transparent"></div>
+                <div className="absolute inset-0 bg-gradient-to-t from-black/20 to-transparent" />
               </div>
             </div>
           )}
 
-          {/* Article Content */}
           <div className="article-content bg-white rounded-xl shadow-lg border border-gray-100 overflow-hidden">
             <div className="p-8 md:p-12">
               <div
-                className="prose prose-lg prose-slate max-w-none ..."
-                style={{
-                  fontSize: '16px',
-                  lineHeight: '1.6',
-                  fontFamily: '"Inter", "Segoe UI", "Noto Sans Devanagari", sans-serif'
-                }}
+                className="prose prose-lg prose-slate max-w-none"
+                style={{ fontSize: '16px', lineHeight: '1.6', fontFamily: '"Inter", "Segoe UI", "Noto Sans Devanagari", sans-serif' }}
                 dangerouslySetInnerHTML={{ __html: article.content }}
               />
             </div>
           </div>
 
-          {/* Tags */}
           {article.tags?.length > 0 && (
             <div className="mt-8 pt-6 border-t border-gray-200">
               <div className="flex items-center flex-wrap gap-2">
@@ -258,7 +269,6 @@ export default function Article() {
 
         <Separator className="my-12" />
 
-        {/* Related Articles */}
         {relatedArticles?.length > 1 && (
           <section>
             <h2 className="text-2xl font-bold mb-6">Related Articles</h2>
