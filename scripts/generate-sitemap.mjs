@@ -9,16 +9,18 @@ import path from "path";
 const API_URL = "https://autoblogmaster-production.up.railway.app/api/articles";
 const BASE_URL = "https://newshubnow.in";
 
-const sitemapPath = path.resolve("public", "sitemap.xml");
-const newsSitemapPath = path.resolve("public", "news-sitemap.xml");
+// ✅ Set public folder inside client directory
+const PUBLIC_DIR = path.resolve("client", "public");
+const sitemapPath = path.join(PUBLIC_DIR, "sitemap.xml");
+const newsSitemapPath = path.join(PUBLIC_DIR, "news-sitemap.xml");
 
 const pipe = promisify(pipeline);
 
+// ✅ Ensure client/public directory exists
 const ensurePublicDir = () => {
-  const dir = path.resolve("public");
-  if (!fs.existsSync(dir)) {
-    fs.mkdirSync(dir);
-    console.log("📁 Created 'public' directory.");
+  if (!fs.existsSync(PUBLIC_DIR)) {
+    fs.mkdirSync(PUBLIC_DIR, { recursive: true });
+    console.log("📁 Created 'client/public' directory.");
   }
 };
 
