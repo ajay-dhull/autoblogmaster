@@ -3,6 +3,30 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://newshubnow.in/article/ind-vs-eng-pratika-rawal-fined-10-match-fee-and-charged-one-demerit-point-for-inappropriate-physical-contact-in-two-separate-incidents-md8yrmm8</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-07-18T11:59:50.000Z</news:publication_date>
+      <news:title><![CDATA[IND vs ENG: Pratika Rawal fined 10% match fee and charged one demerit point for ‘inappropriate ‘physical contact’ in two separate incidents]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/india-conducts-successful-test-firing-of-prithvi-ii-agni-i-ballistic-missiles-md8re5s3</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-07-18T10:16:00.000Z</news:publication_date>
+      <news:title><![CDATA[India Conducts Successful Test-firing Of Prithvi-II, Agni-I Ballistic Missiles]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://newshubnow.in/article/why-this-rajasthan-family-is-known-as-indias-ias-factory-md8iaks9</loc>
     <news:news>
       <news:publication>
@@ -75,6 +99,30 @@
   </url>
 
   <url>
+    <loc>https://newshubnow.in/article/youre-going-to-win-by-rahane-demands-major-change-for-india-after-lords-test-defeat-picks-turning-point-md8itobm</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-07-18T05:30:28.000Z</news:publication_date>
+      <news:title><![CDATA['You're going to win by...': Rahane demands major change for India after Lord's Test defeat, picks turning point]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/hanuman-chalisa-english-pop-punjabi-numbers-how-indian-dressing-room-is-putting-players-at-ease-md8rebx4</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-07-18T05:27:48.000Z</news:publication_date>
+      <news:title><![CDATA[Hanuman Chalisa, English Pop, Punjabi Numbers: How Indian Dressing Room Is Putting Players At Ease]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://newshubnow.in/article/praggnanandhaa-sinks-world-no3-fabiano-caruana-after-magnus-carlsen-scalp-at-las-vegas-freestyle-chess-md8cg68u</loc>
     <news:news>
       <news:publication>
@@ -123,6 +171,18 @@
   </url>
 
   <url>
+    <loc>https://newshubnow.in/article/exclusive-new-details-in-air-india-crash-probe-shift-focus-to-senior-pilot-the-wall-street-journal-md8yrmff</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-07-17T13:24:00.000Z</news:publication_date>
+      <news:title><![CDATA[Exclusive | New Details in Air India Crash Probe Shift Focus to Senior Pilot - The Wall Street Journal]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://newshubnow.in/article/indian-pilots-bodies-reject-wsj-report-suggesting-senior-pilots-error-in-air-india-crash-md83vk81</loc>
     <news:news>
       <news:publication>
@@ -131,6 +191,18 @@
       </news:publication>
       <news:publication_date>2025-07-17T12:50:38.000Z</news:publication_date>
       <news:title><![CDATA[Indian pilots’ bodies reject WSJ report suggesting senior pilot’s error in Air India crash]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/denise-richards-alleges-estranged-husband-aaron-phypers-threatened-to-kill-her-gets-restraining-order-page-six-md8ytuce</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-07-17T12:49:00.000Z</news:publication_date>
+      <news:title><![CDATA[Denise Richards alleges estranged husband Aaron Phypers threatened to kill her, gets restraining order - Page Six]]></news:title>
     </news:news>
   </url>
 
@@ -147,6 +219,18 @@
   </url>
 
   <url>
+    <loc>https://newshubnow.in/article/flesh-eating-bacteria-has-killed-4-in-florida-heres-what-to-know-the-washington-post-md8re6ah</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-07-17T12:09:08.000Z</news:publication_date>
+      <news:title><![CDATA[Flesh-eating bacteria has killed 4 in Florida. Here’s what to know. - The Washington Post]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://newshubnow.in/article/indian-history-for-children-from-1200-to-1850-a-brief-history-of-the-north-eastern-states-md7e5msy</loc>
     <news:news>
       <news:publication>
@@ -155,90 +239,6 @@
       </news:publication>
       <news:publication_date>2025-07-17T08:00:00.000Z</news:publication_date>
       <news:title><![CDATA[Indian history for children: From 1200 to 1850, a brief history of the North Eastern states]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/indian-history-for-children-from-1200-to-1850-a-brief-history-of-the-north-eastern-states-md7e5hjh</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-07-17T08:00:00.000Z</news:publication_date>
-      <news:title><![CDATA[Indian history for children: From 1200 to 1850, a brief history of the North Eastern states]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/bangla-bolta-hain-manei-bangladeshi-the-politics-of-language-plaguing-bengalis-across-india-md75ktzl</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-07-17T05:50:20.000Z</news:publication_date>
-      <news:title><![CDATA[Bangla bolta hain manei Bangladeshi? The politics of language plaguing Bengalis across India]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/fifty-people-killed-in-huge-fire-at-hypermarket-in-iraqs-kut-ina-al-jazeera-md8iaiat</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-07-17T05:40:03.000Z</news:publication_date>
-      <news:title><![CDATA[Fifty people killed in huge fire at hypermarket in Iraq’s Kut: INA - Al Jazeera]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/fire-severely-damages-belgiums-tomorrowland-stage-ahead-of-friday-start-al-jazeera-md8ib28s</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-07-17T05:00:51.000Z</news:publication_date>
-      <news:title><![CDATA[Fire ‘severely damages’ Belgium’s Tomorrowland stage ahead of Friday start - Al Jazeera]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/us-embassy-issues-visa-revocation-warning-as-indian-woman-is-caught-shoplifting-in-illinois-md75kzpu</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-07-17T04:56:03.000Z</news:publication_date>
-      <news:title><![CDATA[US embassy issues visa revocation warning as Indian woman is caught shoplifting in Illinois]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/crime-stories-dominated-indian-tv-news-headlines-murder-suicide-to-execution-md7vawtj</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-07-17T04:08:01.000Z</news:publication_date>
-      <news:title><![CDATA[Crime stories dominated Indian TV news headlines-murder, suicide to execution]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/shubman-gill-triggered-the-beast-in-england-players-showed-a-different-side-md6x0798</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-07-17T03:46:38.000Z</news:publication_date>
-      <news:title><![CDATA[Shubman Gill Triggered 'The Beast' In England? 'Players Showed A Different Side']]></news:title>
     </news:news>
   </url>
 </urlset>
