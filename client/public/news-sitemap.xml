@@ -147,6 +147,18 @@
   </url>
 
   <url>
+    <loc>https://newshubnow.in/article/mike-williams-informs-chargers-of-his-retirement-nbc-sports-md97xvq0</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-07-17T18:04:19.000Z</news:publication_date>
+      <news:title><![CDATA[Mike Williams informs Chargers of his retirement - NBC Sports]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://newshubnow.in/article/india-bloc-minus-tmc-aap-to-hold-virtual-meet-on-saturday-to-discuss-monsoon-session-strategy-md7vaqt6</loc>
     <news:news>
       <news:publication>
@@ -227,18 +239,6 @@
       </news:publication>
       <news:publication_date>2025-07-17T12:09:08.000Z</news:publication_date>
       <news:title><![CDATA[Flesh-eating bacteria has killed 4 in Florida. Here’s what to know. - The Washington Post]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/indian-history-for-children-from-1200-to-1850-a-brief-history-of-the-north-eastern-states-md7e5msy</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-07-17T08:00:00.000Z</news:publication_date>
-      <news:title><![CDATA[Indian history for children: From 1200 to 1850, a brief history of the North Eastern states]]></news:title>
     </news:news>
   </url>
 </urlset>
