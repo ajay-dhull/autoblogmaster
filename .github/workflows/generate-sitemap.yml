@@ -3,7 +3,7 @@ name: Generate Sitemaps Daily
 on:
   schedule:
     - cron: "30 20 * * *"  # Daily at 2:00 AM IST
-  workflow_dispatch:        # Manual run button
+  workflow_dispatch:
 
 jobs:
   build:
@@ -41,5 +41,5 @@ jobs:
           username: ${{ secrets.FTP_USERNAME }}
           password: ${{ secrets.FTP_PASSWORD }}
           server-dir: /public_html/
-          local-dir: ./public
+          local-dir: ./public/
 
