@@ -13,7 +13,7 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v3
         with:
-          token: ${{ secrets.GITHUB_TOKEN }}  # ✅ necessary for push
+          token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Setup Node.js
         uses: actions/setup-node@v3
@@ -35,10 +35,11 @@ jobs:
           git push origin main
 
       - name: 📤 Upload sitemap to Hostinger via FTP
-        uses: sebastianpopp/ftp-action@v1
+        uses: SamKirkland/FTP-Deploy-Action@4.3.4
         with:
-          host: ${{ secrets.FTP_HOST }}
-          user: ${{ secrets.FTP_USERNAME }}
+          server: ${{ secrets.FTP_HOST }}
+          username: ${{ secrets.FTP_USERNAME }}
           password: ${{ secrets.FTP_PASSWORD }}
-          localDir: ./public
-          remoteDir: /public_html
+          local-dir: ./public
+          server-dir: /public_html/
+
