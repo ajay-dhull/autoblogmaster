@@ -58,34 +58,37 @@ const generateSitemap = async () => {
     await pipe(sitemapStream, sitemapWriteStream);
     console.log("✅ sitemap.xml generated at:", sitemapPath);
 
-    // ========= 🔵 News Sitemap Generation =========
-    const newsStream = new SitemapStream({ hostname: BASE_URL });
-    const newsWriteStream = createWriteStream(newsSitemapPath);
-
+    // ========= 🔵 News Sitemap Generation (Manual XML) =========
     const now = new Date();
     const cutoff = new Date(now.getTime() - 48 * 60 * 60 * 1000); // last 48 hours
+    const newsItems = [];
 
     for (const article of articles) {
       const publishedDate = new Date(article.publishedAt);
       if (publishedDate >= cutoff) {
-        newsStream.write({
-          url: `/article/${article.slug}`,
-          news: {
-            publication: {
-              name: "NewsHubNow",
-              language: "en",
-            },
-            publication_date: article.publishedAt,
-            title: article.title,
-          },
-          lastmod: article.updatedAt || article.publishedAt,
-        });
+        newsItems.push(`
+  <url>
+    <loc>${BASE_URL}/article/${article.slug}</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>${article.publishedAt}</news:publication_date>
+      <news:title><![CDATA[${article.title}]]></news:title>
+    </news:news>
+  </url>`);
       }
     }
 
-    newsStream.end();
-    await pipe(newsStream, newsWriteStream);
-    console.log("✅ news-sitemap.xml generated at:", newsSitemapPath);
+    const newsSitemapXML = `<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
+${newsItems.join("\n")}
+</urlset>`;
+
+    fs.writeFileSync(newsSitemapPath, newsSitemapXML, "utf8");
+    console.log("✅ news-sitemap.xml generated with", newsItems.length, "items at:", newsSitemapPath);
   } catch (error) {
     console.error("❌ Error generating sitemaps:", error.message);
   }
