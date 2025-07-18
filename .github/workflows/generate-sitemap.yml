@@ -2,8 +2,8 @@ name: Generate Sitemaps Daily
 
 on:
   schedule:
-    - cron: "30 20 * * *"  # runs at 2:00 AM IST every day
-  workflow_dispatch:        # allows manual trigger
+    - cron: "30 20 * * *"  # 2:00 AM IST daily
+  workflow_dispatch:
 
 jobs:
   build:
@@ -21,15 +21,18 @@ jobs:
       - name: Install dependencies
         run: npm install
 
-      - name: Run sitemap generator
-        run: |
-          cd client
-          node scripts/generate-sitemap.js
+      - name: Generate sitemap
+        run: node scripts/generate-sitemap.mjs
 
-      - name: Commit and Push updated sitemaps
+      - name: Commit and push updated sitemap
         run: |
           git config --global user.name "Sitemap Bot"
           git config --global user.email "bot@newshubnow.in"
-          git add public/sitemap.xml public/news-sitemap.xml
-          git commit -m "🔁 auto: update sitemap [skip ci]" || echo "No changes"
-          git push
+          git add public/sitemap.xml public/news-sitemap.xml || echo "No sitemap files"
+          git commit -m "🔁 auto: update sitemap [skip ci]" || echo "No changes to commit"
+          git push origin main
+        env:
+          # GitHub automatically provides write access using this token
+          GIT_AUTHOR_NAME: Sitemap Bot
+          GIT_AUTHOR_EMAIL: bot@newshubnow.in
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
