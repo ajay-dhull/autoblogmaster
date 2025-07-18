@@ -2,8 +2,8 @@ name: Generate Sitemaps Daily
 
 on:
   schedule:
-    - cron: "30 20 * * *"  # 2:00 AM IST
-  workflow_dispatch:
+    - cron: "30 20 * * *"  # Daily at 2:00 AM IST
+  workflow_dispatch:        # Manual run button
 
 jobs:
   build:
@@ -34,12 +34,12 @@ jobs:
           git commit -m "🔁 auto: update sitemap [skip ci]" || echo "No changes to commit"
           git push origin main
 
-      - name: 📤 Upload sitemap to Hostinger via FTP
-        uses: SamKirkland/FTP-Deploy-Action@4.3.4
+      - name: Deploy to FTP (Hostinger)
+        uses: samkirkland/ftp-deploy-action@v4.3.3
         with:
           server: ${{ secrets.FTP_HOST }}
           username: ${{ secrets.FTP_USERNAME }}
           password: ${{ secrets.FTP_PASSWORD }}
-          local-dir: ./public
           server-dir: /public_html/
+          local-dir: ./public
 
