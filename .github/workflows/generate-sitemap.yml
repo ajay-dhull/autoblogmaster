@@ -30,7 +30,7 @@ jobs:
         run: |
           git config --global user.name "Sitemap Bot"
           git config --global user.email "bot@newshubnow.in"
-          git add public/sitemap.xml public/news-sitemap.xml || echo "No sitemap files"
+          git add client/public/sitemap.xml client/public/news-sitemap.xml || echo "No sitemap files"
           git commit -m "🔁 auto: update sitemap [skip ci]" || echo "No changes to commit"
           git push origin main
 
@@ -41,5 +41,4 @@ jobs:
           username: ${{ secrets.FTP_USERNAME }}
           password: ${{ secrets.FTP_PASSWORD }}
           server-dir: /public_html/
-          local-dir: ./public/
-
+          local-dir: ./client/public/
