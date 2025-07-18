@@ -1,5 +1,12 @@
 import { db } from "./lib/supabase";
-import { articles, contacts, type Article, type InsertArticle, type Contact, type InsertContact } from "@shared/schema";
+import {
+  articles,
+  contacts,
+  type Article,
+  type InsertArticle,
+  type Contact,
+  type InsertContact,
+} from "@shared/schema";
 import { eq, desc, and, like } from "drizzle-orm";
 
 export interface IStorage {
@@ -13,7 +20,7 @@ export interface IStorage {
   searchArticles(query: string): Promise<Article[]>;
   getFeaturedArticles(): Promise<Article[]>;
   getArticlesByCategory(category: string): Promise<Article[]>;
-  
+
   // Contacts
   createContact(contact: InsertContact): Promise<Contact>;
   getContacts(): Promise<Contact[]>;
@@ -21,23 +28,21 @@ export interface IStorage {
 }
 
 export class DatabaseStorage implements IStorage {
-  async getArticles(limit: number = 20, offset: number = 0, category?: string): Promise<Article[]> {
+  async getArticles(limit = 20, offset = 0, category?: string): Promise<Article[]> {
     try {
-      if (category && category !== 'all') {
-        const result = await db.select().from(articles)
-          .where(and(eq(articles.isPublished, true), eq(articles.category, category)))
-          .orderBy(desc(articles.publishedAt))
-          .limit(limit)
-          .offset(offset);
-        return result;
-      } else {
-        const result = await db.select().from(articles)
-          .where(eq(articles.isPublished, true))
-          .orderBy(desc(articles.publishedAt))
-          .limit(limit)
-          .offset(offset);
-        return result;
-      }
+      const result = await db
+        .select()
+        .from(articles)
+        .where(
+          category && category !== "all"
+            ? and(eq(articles.isPublished, true), eq(articles.category, category))
+            : eq(articles.isPublished, true)
+        )
+        .orderBy(desc(articles.publishedAt))
+        .limit(limit)
+        .offset(offset);
+
+      return result;
     } catch (error) {
       console.error("Error fetching articles:", error);
       return [];
@@ -46,10 +51,12 @@ export class DatabaseStorage implements IStorage {
 
   async getArticleBySlug(slug: string): Promise<Article | undefined> {
     try {
-      const result = await db.select().from(articles).where(
-        and(eq(articles.slug, slug), eq(articles.isPublished, true))
-      ).limit(1);
-      
+      const result = await db
+        .select()
+        .from(articles)
+        .where(and(eq(articles.slug, slug), eq(articles.isPublished, true)))
+        .limit(1);
+
       return result[0];
     } catch (error) {
       console.error("Error fetching article by slug:", error);
@@ -69,12 +76,15 @@ export class DatabaseStorage implements IStorage {
 
   async createArticle(article: InsertArticle): Promise<Article> {
     try {
-      const result = await db.insert(articles).values({
-        ...article,
-        createdAt: new Date(),
-        updatedAt: new Date(),
-      }).returning();
-      
+      const result = await db
+        .insert(articles)
+        .values({
+          ...article,
+          createdAt: new Date(),
+          updatedAt: new Date(),
+        })
+        .returning();
+
       return result[0];
     } catch (error) {
       console.error("Error creating article:", error);
@@ -84,11 +94,12 @@ export class DatabaseStorage implements IStorage {
 
   async updateArticle(id: number, article: Partial<InsertArticle>): Promise<Article | undefined> {
     try {
-      const result = await db.update(articles)
+      const result = await db
+        .update(articles)
         .set({ ...article, updatedAt: new Date() })
         .where(eq(articles.id, id))
         .returning();
-      
+
       return result[0];
     } catch (error) {
       console.error("Error updating article:", error);
@@ -108,13 +119,18 @@ export class DatabaseStorage implements IStorage {
 
   async searchArticles(query: string): Promise<Article[]> {
     try {
-      const result = await db.select().from(articles).where(
-        and(
-          eq(articles.isPublished, true),
-          like(articles.title, `%${query}%`)
+      const result = await db
+        .select()
+        .from(articles)
+        .where(
+          and(
+            eq(articles.isPublished, true),
+            like(articles.title, `%${query}%`)
+          )
         )
-      ).orderBy(desc(articles.publishedAt)).limit(20);
-      
+        .orderBy(desc(articles.publishedAt))
+        .limit(20);
+
       return result;
     } catch (error) {
       console.error("Error searching articles:", error);
@@ -124,11 +140,13 @@ export class DatabaseStorage implements IStorage {
 
   async getFeaturedArticles(): Promise<Article[]> {
     try {
-      const result = await db.select().from(articles)
+      const result = await db
+        .select()
+        .from(articles)
         .where(eq(articles.isPublished, true))
         .orderBy(desc(articles.publishedAt))
         .limit(3);
-      
+
       return result;
     } catch (error) {
       console.error("Error fetching featured articles:", error);
@@ -138,10 +156,13 @@ export class DatabaseStorage implements IStorage {
 
   async getArticlesByCategory(category: string): Promise<Article[]> {
     try {
-      const result = await db.select().from(articles).where(
-        and(eq(articles.category, category), eq(articles.isPublished, true))
-      ).orderBy(desc(articles.publishedAt)).limit(10);
-      
+      const result = await db
+        .select()
+        .from(articles)
+        .where(and(eq(articles.category, category), eq(articles.isPublished, true)))
+        .orderBy(desc(articles.publishedAt))
+        .limit(10);
+
       return result;
     } catch (error) {
       console.error("Error fetching articles by category:", error);
@@ -151,11 +172,14 @@ export class DatabaseStorage implements IStorage {
 
   async createContact(contact: InsertContact): Promise<Contact> {
     try {
-      const result = await db.insert(contacts).values({
-        ...contact,
-        createdAt: new Date(),
-      }).returning();
-      
+      const result = await db
+        .insert(contacts)
+        .values({
+          ...contact,
+          createdAt: new Date(),
+        })
+        .returning();
+
       return result[0];
     } catch (error) {
       console.error("Error creating contact:", error);
