@@ -9,17 +9,16 @@ import path from "path";
 const API_URL = "https://autoblogmaster-production.up.railway.app/api/articles";
 const BASE_URL = "https://newshubnow.in";
 
-// ✅ Set public folder inside client directory
-const PUBLIC_DIR = path.resolve("client", "public");
-const sitemapPath = path.join(PUBLIC_DIR, "sitemap.xml");
-const newsSitemapPath = path.join(PUBLIC_DIR, "news-sitemap.xml");
+// ✅ Target only the client/public directory
+const publicDir = path.resolve("client", "public");
+const sitemapPath = path.resolve(publicDir, "sitemap.xml");
+const newsSitemapPath = path.resolve(publicDir, "news-sitemap.xml");
 
 const pipe = promisify(pipeline);
 
-// ✅ Ensure client/public directory exists
 const ensurePublicDir = () => {
-  if (!fs.existsSync(PUBLIC_DIR)) {
-    fs.mkdirSync(PUBLIC_DIR, { recursive: true });
+  if (!fs.existsSync(publicDir)) {
+    fs.mkdirSync(publicDir, { recursive: true });
     console.log("📁 Created 'client/public' directory.");
   }
 };
@@ -60,7 +59,7 @@ const generateSitemap = async () => {
     await pipe(sitemapStream, sitemapWriteStream);
     console.log("✅ sitemap.xml generated at:", sitemapPath);
 
-    // ========= 🔵 News Sitemap Generation (Manual XML) =========
+    // ========= 🔵 News Sitemap Generation =========
     const now = new Date();
     const cutoff = new Date(now.getTime() - 48 * 60 * 60 * 1000); // last 48 hours
     const newsItems = [];
