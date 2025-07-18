@@ -33,3 +33,12 @@ jobs:
           git add public/sitemap.xml public/news-sitemap.xml || echo "No sitemap files"
           git commit -m "🔁 auto: update sitemap [skip ci]" || echo "No changes to commit"
           git push origin main
+
+      - name: 📤 Upload sitemap to Hostinger via FTP
+        uses: sebastianpopp/ftp-action@v1
+        with:
+          host: ${{ secrets.FTP_HOST }}
+          user: ${{ secrets.FTP_USERNAME }}
+          password: ${{ secrets.FTP_PASSWORD }}
+          localDir: ./public
+          remoteDir: /public_html
