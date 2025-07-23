@@ -9,6 +9,8 @@ import { Card, CardContent } from "@/components/ui/card";
 import { Separator } from "@/components/ui/separator";
 import ArticleCard from "@/components/article-card";
 import { api } from "@/lib/api";
+import SpinWheel from "@/components/SpinWheel"; // ✅ added
+
 import {
   Calendar,
   Clock,
@@ -23,6 +25,26 @@ import {
 export default function Article() {
   const [, params] = useRoute("/article/:slug");
   const slug = params?.slug;
+
+  // ❌ Prevent invalid-slug pages (fix Soft 404)
+  if (!slug || slug === "undefined") {
+    return (
+      <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 py-8">
+        <div className="text-center py-12">
+          <h1 className="text-2xl font-bold mb-4">Invalid Article Link</h1>
+          <p className="text-gray-600 mb-6">
+            The article you're looking for is invalid or does not exist.
+          </p>
+          <Link href="/blog">
+            <Button>
+              <ArrowLeft className="mr-2 h-4 w-4" />
+              Back to Blog
+            </Button>
+          </Link>
+        </div>
+      </div>
+    );
+  }
 
   const { data: article, isLoading, error } = useQuery({
     queryKey: ["/api/articles", slug],
@@ -48,6 +70,16 @@ export default function Article() {
             ))}
           </div>
         </div>
+        
+        {/* Static fallback for crawlers */}
+        <noscript>
+          <article>
+            <h1 className="text-2xl font-bold">Sample Article Title</h1>
+            <p className="mt-2 text-gray-700">
+              This is a static excerpt or first paragraph to ensure crawlers see real content.
+            </p>
+          </article>
+        </noscript>
       </div>
     );
   }
@@ -130,6 +162,27 @@ export default function Article() {
         <title>{`${article.title} | NewsHubNow`}</title>
         <meta name="description" content={article.excerpt} />
         <meta name="robots" content="index, follow" />
+        
+        {/* Canonical URL */}
+        <link 
+          rel="canonical" 
+          href={`https://newshubnow.in/article/${article.slug}`} 
+        />
+
+        {/* Open Graph */}
+        <meta property="og:type" content="article" />
+        <meta property="og:url" content={shareUrl} />
+        <meta property="og:title" content={article.title} />
+        <meta property="og:description" content={article.excerpt} />
+        <meta property="og:image" content={article.featuredImage || 'https://newshubnow.in/assets/icon.png'} />
+
+        {/* Twitter Card */}
+        <meta name="twitter:card" content="summary_large_image" />
+        <meta name="twitter:site" content="@NewsHubNow" />
+        <meta name="twitter:title" content={article.title} />
+        <meta name="twitter:description" content={article.excerpt} />
+        <meta name="twitter:image" content={article.featuredImage || 'https://newshubnow.in/assets/icon.png'} />
+
         <script type="application/ld+json">
           {JSON.stringify(
             {
@@ -175,10 +228,13 @@ export default function Article() {
               >
                 {article.category}
               </Badge>
-              <div className="flex items-center text-gray-500 text-sm">
+              <time 
+                dateTime={new Date(article.publishedAt).toISOString()} 
+                className="flex items-center text-gray-500 text-sm"
+              >
                 <Calendar className="h-4 w-4 mr-1" />
                 {formatDate(article.publishedAt)}
-              </div>
+              </time>
               <div className="flex items-center text-gray-500 text-sm">
                 <Clock className="h-4 w-4 mr-1" />
                 {estimateReadTime(article.content)} min read
@@ -247,7 +303,7 @@ export default function Article() {
                   src={article.featuredImage}
                   alt={article.title}
                   loading="lazy"
-                  className="w-full h-[500px] object-cover"
+                  className="w-full h-[500px] object-cover rounded-xl"
                 />
                 <div className="absolute inset-0 bg-gradient-to-t from-black/20 to-transparent" />
               </div>
@@ -281,19 +337,28 @@ export default function Article() {
 
         <Separator className="my-12" />
 
+        {/* Related Articles */}
         {relatedArticles?.length > 1 && (
           <section>
             <h2 className="text-2xl font-bold mb-6">Related Articles</h2>
             <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
               {relatedArticles
                 .filter((r) => r.id !== article.id)
-                .slice(0, 3)
+                .slice(0, 4)
                 .map((r) => (
                   <ArticleCard key={r.id} article={r} />
                 ))}
             </div>
+            <Link href={`/blog?category=${article.category}`}>
+              <Button className="mt-6">View All in {article.category}</Button>
+            </Link>
           </section>
         )}
+
+        {/* SPIN WHEEL after related stories */}
+        <div className="mt-12">
+          <SpinWheel />
+        </div>
       </div>
     </>
   );

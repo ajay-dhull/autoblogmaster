@@ -1,8 +1,9 @@
 import { useState, useEffect } from "react";
 import { useQuery } from "@tanstack/react-query";
+import { Helmet } from "react-helmet-async";
 import { Button } from "@/components/ui/button";
 import { Input } from "@/components/ui/input";
-import { Badge } from "@/components/ui/badge";
+
 import { Card, CardContent } from "@/components/ui/card";
 import ArticleCard from "@/components/article-card";
 import { api } from "@/lib/api";
@@ -12,12 +13,23 @@ import {
   Grid3X3, 
   List, 
   TrendingUp, 
-  Clock, 
   Globe,
   BookOpen,
   ArrowRight,
   Zap
 } from "lucide-react";
+
+interface Article {
+  id: string;
+  title: string;
+  content: string;
+  category: string;
+  featuredImage?: string;
+  publishedAt?: string;
+  slug: string;
+  description?: string;
+  views?: number;
+}
 
 const categories = [
   { name: "All", icon: Grid3X3, color: "bg-gray-500" },
@@ -66,6 +78,38 @@ export default function Blog() {
 
   return (
     <div className="min-h-screen bg-gradient-to-br from-gray-50 via-white to-blue-50/30 pt-16">
+      <Helmet>
+        <title>{`Newshub Blog | Page ${page + 1} | ${selectedCategory}`}</title>
+        <meta name="description" content="Read trending, educational, world, and tech news articles updated in real-time on Newshub Blog." />
+        <meta name="robots" content="index, follow" />
+
+        <meta property="og:title" content={`Newshub Blog | Page ${page + 1} | ${selectedCategory}`} />
+        <meta property="og:description" content="Explore breaking news, tech updates, and expert educational content on the Newshub blog." />
+        <meta property="og:type" content="website" />
+        <meta property="og:url" content={`https://newshubnow.in/blog${selectedCategory !== "All" ? `?category=${encodeURIComponent(selectedCategory)}` : ""}${page > 0 ? `${selectedCategory !== "All" ? "&" : "?"}page=${page + 1}` : ""}`} />
+        <link rel="canonical" href={`https://newshubnow.in/blog${selectedCategory !== "All" ? `?category=${encodeURIComponent(selectedCategory)}` : ""}${page > 0 ? `${selectedCategory !== "All" ? "&" : "?"}page=${page + 1}` : ""}`} />
+        {page > 0 && (
+          <link rel="prev" href={`https://newshubnow.in/blog?page=${page}`} />
+        )}
+        {displayArticles && displayArticles.length === articlesPerPage && (
+          <link rel="next" href={`https://newshubnow.in/blog?page=${page + 2}`} />
+        )}
+        <script type="application/ld+json">
+          {JSON.stringify({
+            "@context": "https://schema.org",
+            "@type": "Blog",
+            "name": "Newshub Blog",
+            "description": "Trending, educational, world, and tech news articles updated in real-time.",
+            "url": `https://newshubnow.in/blog${selectedCategory !== "All" ? `?category=${selectedCategory}` : ""}${page > 0 ? `${selectedCategory !== "All" ? "&" : "?"}page=${page + 1}` : ""}`,
+            "publisher": {
+              "@type": "Organization",
+              "name": "Newshub",
+              "url": "https://newshubnow.in"
+            }
+          })}
+        </script>
+      </Helmet>
+
       {/* Hero Section */}
       <section className="py-20 bg-gradient-to-br from-slate-600/10 via-gray-600/10 to-zinc-700/10 relative overflow-hidden">
         {/* Background with Images */}
@@ -161,10 +205,10 @@ export default function Blog() {
             
             {/* Category Filter */}
             <div className="flex-1">
-              <h2 className="text-lg font-semibold text-gray-900 mb-4 flex items-center">
+              <h3 className="text-lg font-semibold text-gray-900 mb-4 flex items-center">
                 <Filter className="h-5 w-5 mr-2 text-blue-600" />
                 Categories
-              </h2>
+              </h3>
               <div className="flex flex-wrap gap-3">
                 {categories.map((category) => {
                   const IconComponent = category.icon;
@@ -185,6 +229,16 @@ export default function Blog() {
                   );
                 })}
               </div>
+              
+              <p className="text-sm text-gray-500 mt-2">
+                {selectedCategory === "All" && "Explore all the latest articles from every category."}
+                {selectedCategory === "Technology" && "Latest updates and trends in the world of technology."}
+                {selectedCategory === "World News" && "Global news and insights from around the world."}
+                {selectedCategory === "India News" && "Important headlines and updates from across India."}
+                {selectedCategory === "Educational" && "Informative and educational content to grow your knowledge."}
+                {selectedCategory === "Trending" && "Hot topics that are currently in the spotlight."}
+                {selectedCategory === "Viral" && "News and stories that are going viral on the internet."}
+              </p>
             </div>
 
             {/* View Mode Toggle */}
@@ -271,6 +325,15 @@ export default function Blog() {
             </div>
           )}
 
+          {/* Articles Section */}
+          <div className="mb-8">
+            <h3 className="text-xl font-semibold text-gray-900 mb-6 flex items-center">
+              <BookOpen className="h-5 w-5 mr-2 text-blue-600" />
+              {searchQuery.length > 2 ? `Search Results for "${searchQuery}"` : 
+               selectedCategory === "All" ? "Latest Articles" : `${selectedCategory} Articles`}
+            </h3>
+          </div>
+
           {/* Articles Grid/List */}
           {!isLoading && !isSearching && !error && displayArticles && (
             <>
@@ -280,7 +343,7 @@ export default function Blog() {
                     ? "grid-cols-1 sm:grid-cols-2 lg:grid-cols-3" 
                     : "grid-cols-1 max-w-4xl mx-auto"
                 }`}>
-                  {displayArticles.map((article, index) => (
+                  {displayArticles.map((article: Article, index: number) => (
                     <div 
                       key={article.id}
                       className="animate-in slide-in-from-bottom-4 duration-700 hover:scale-105 transition-transform duration-300"

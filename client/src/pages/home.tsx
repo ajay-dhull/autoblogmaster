@@ -24,6 +24,18 @@ import {
 } from "lucide-react";
 import { useState, useEffect } from "react";
 
+interface Article {
+  id: string;
+  title: string;
+  content: string;
+  category: string;
+  featuredImage?: string;
+  publishedAt?: string;
+  slug: string;
+  description?: string;
+  views?: number;
+}
+
 export default function Home() {
   const [isVisible, setIsVisible] = useState(false);
   const [currentSlide, setCurrentSlide] = useState(0);
@@ -109,6 +121,7 @@ export default function Home() {
 
   return (
     <div className="min-h-screen bg-gradient-to-br from-gray-50 via-white to-slate-50/30 pt-16">
+
       {/* Hero Section with Sliding Latest Articles */}
       <section className="relative min-h-screen lg:h-screen overflow-hidden">
         {/* Background with Images */}
@@ -135,14 +148,14 @@ export default function Home() {
                 </div>
                 
                 <h1 className="text-2xl sm:text-3xl md:text-4xl lg:text-5xl xl:text-6xl font-bold mb-4 sm:mb-6 leading-tight">
-                  Stay Ahead with Real‑Time,
+                  Latest News Headlines,
                   <span className="block bg-gradient-to-r from-slate-200 to-white bg-clip-text text-transparent">
-                    AI‑Powered News & Insights
+                    Stay Updated Worldwide
                   </span>
                 </h1>
                 
                 <p className="text-base sm:text-lg lg:text-xl text-gray-300 mb-6 sm:mb-8 leading-relaxed max-w-2xl">
-                  Harness the power of our intelligent engine to automatically curate and deliver the latest global news and in‑depth educational articles—updated live so you never miss a critical story.
+                  Stay updated with the most recent news from around the world. Explore top stories across categories including world news, technology, education, and trending topics.
                 </p>
 
                 <div className="flex flex-col sm:flex-row gap-3 sm:gap-4">
@@ -172,7 +185,7 @@ export default function Home() {
                   <div className="relative w-full max-w-lg mx-auto lg:max-w-none">
                     {/* Latest Articles Slider */}
                     <div className="relative overflow-hidden rounded-xl lg:rounded-2xl shadow-2xl h-[400px] sm:h-[420px] lg:h-[440px]">
-                      {latestArticles.slice(0, 5).map((article, index) => (
+                      {latestArticles.slice(0, 5).map((article: Article, index: number) => (
                         <div
                           key={article.id}
                           className={`absolute inset-0 transition-all duration-700 ease-in-out ${
@@ -188,7 +201,7 @@ export default function Home() {
                               {article.featuredImage ? (
                                 <img 
                                   src={article.featuredImage} 
-                                  alt={article.title}
+                                  alt={article.title || "Latest news article"}
                                   className="w-full h-48 sm:h-52 lg:h-56 object-cover"
                                 />
                               ) : (
@@ -213,9 +226,15 @@ export default function Home() {
                                 <h3 className="text-base sm:text-lg font-bold mb-2 text-gray-900 line-clamp-2 leading-tight">
                                   {article.title}
                                 </h3>
-                                <p className="text-sm text-gray-600 mb-4 line-clamp-2 leading-relaxed">
-                                  {article.content.replace(/<[^>]*>/g, '').substring(0, 100)}...
-                                </p>
+                                {article.description ? (
+                                  <p className="text-sm text-gray-600 mb-4 line-clamp-2 leading-relaxed">
+                                    {article.description}
+                                  </p>
+                                ) : (
+                                  <p className="text-sm text-gray-600 mb-4 line-clamp-2 leading-relaxed">
+                                    {article.content.replace(/<[^>]*>/g, '').substring(0, 100)}...
+                                  </p>
+                                )}
                               </div>
                               <div className="flex items-center justify-between pt-3 border-t border-gray-100">
                                 <div className="flex items-center text-gray-500 text-xs">
@@ -258,7 +277,7 @@ export default function Home() {
 
                     {/* Dots Indicator */}
                     <div className="flex justify-center mt-3 space-x-2">
-                      {(latestArticles || recentArticles)?.slice(0, 5).map((_, slide) => (
+                      {(latestArticles || recentArticles)?.slice(0, 5).map((_: Article, slide: number) => (
                         <button
                           key={slide}
                           onClick={() => setCurrentSlide(slide)}
@@ -273,7 +292,7 @@ export default function Home() {
                   <div className="relative w-full max-w-lg mx-auto lg:max-w-none">
                     {/* Fallback to recent articles if latest articles aren't available */}
                     <div className="relative overflow-hidden rounded-xl lg:rounded-2xl shadow-2xl h-[400px] sm:h-[420px] lg:h-[440px]">
-                      {recentArticles.slice(0, 5).map((article, index) => (
+                      {recentArticles.slice(0, 5).map((article: Article, index: number) => (
                         <div
                           key={article.id}
                           className={`absolute inset-0 transition-all duration-700 ease-in-out ${
@@ -289,7 +308,7 @@ export default function Home() {
                               {article.featuredImage ? (
                                 <img 
                                   src={article.featuredImage} 
-                                  alt={article.title}
+                                  alt={article.title || "Recent news article"}
                                   className="w-full h-48 sm:h-52 lg:h-56 object-cover"
                                 />
                               ) : (
@@ -311,9 +330,15 @@ export default function Home() {
                                 <h3 className="text-base sm:text-lg font-bold mb-2 text-gray-900 line-clamp-2 leading-tight">
                                   {article.title}
                                 </h3>
-                                <p className="text-sm text-gray-600 mb-4 line-clamp-2 leading-relaxed">
-                                  {article.content.replace(/<[^>]*>/g, '').substring(0, 100)}...
-                                </p>
+                                {article.description ? (
+                                  <p className="text-sm text-gray-600 mb-4 line-clamp-2 leading-relaxed">
+                                    {article.description}
+                                  </p>
+                                ) : (
+                                  <p className="text-sm text-gray-600 mb-4 line-clamp-2 leading-relaxed">
+                                    {article.content.replace(/<[^>]*>/g, '').substring(0, 100)}...
+                                  </p>
+                                )}
                               </div>
                               <div className="flex items-center justify-between pt-3 border-t border-gray-100">
                                 <div className="flex items-center text-gray-500 text-xs">
@@ -335,9 +360,18 @@ export default function Home() {
                 ) : (
                   <div className="bg-white/10 backdrop-blur-sm rounded-2xl p-8 text-center">
                     <BookOpen className="h-16 w-16 text-white/50 mx-auto mb-4" />
-                    <p className="text-white/70 text-lg">Loading latest articles...</p>
+                    <p className="text-white/70 text-lg">No articles found at the moment. Please check back later.</p>
                   </div>
                 )}
+                
+                {/* Static fallback for crawlers */}
+                <noscript>
+                  <ul className="list-disc list-inside text-gray-800 bg-white p-4 rounded-lg">
+                    <li><a href="/article/breaking-world-news-today">Breaking World News: Major Global Updates Today</a></li>
+                    <li><a href="/article/latest-technology-breakthroughs">Latest Technology Breakthroughs and Innovations</a></li>
+                    <li><a href="/article/educational-reforms-worldwide">Educational Reforms and Changes Worldwide</a></li>
+                  </ul>
+                </noscript>
               </div>
             </div>
           </div>
@@ -482,7 +516,7 @@ export default function Home() {
             </div>
           ) : recentArticles && recentArticles.length > 0 ? (
             <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-4 md:gap-6">
-              {recentArticles.slice(0, 4).map((article, index) => (
+              {recentArticles.slice(0, 4).map((article: Article, index: number) => (
                 <div 
                   key={article.id}
                   className="animate-in slide-in-from-bottom-4 duration-700 hover:scale-105 transition-transform duration-300"
@@ -495,10 +529,19 @@ export default function Home() {
           ) : (
             <Card className="p-16 text-center bg-white/80 backdrop-blur-sm border-0 shadow-xl">
               <BookOpen className="h-16 w-16 text-gray-400 mx-auto mb-4" />
-              <h3 className="text-xl font-semibold text-gray-600 mb-2">No Articles Yet</h3>
-              <p className="text-gray-500">Recent articles will appear here once content is available.</p>
+              <h3 className="text-xl font-semibold text-gray-600 mb-2">No Articles Available</h3>
+              <p className="text-gray-500">No articles found at the moment. Please check back later for the latest news and insights.</p>
             </Card>
           )}
+          
+          {/* Static fallback for crawlers */}
+          <noscript>
+            <ul className="list-disc list-inside text-gray-800 bg-white p-4 rounded-lg">
+              <li><a href="/article/trending-stories-today">Trending Stories and Viral News Today</a></li>
+              <li><a href="/article/in-depth-analysis-current-events">In-Depth Analysis of Current Global Events</a></li>
+              <li><a href="/article/expert-insights-industry-news">Expert Insights on Industry News and Updates</a></li>
+            </ul>
+          </noscript>
         </div>
       </section>
     </div>
