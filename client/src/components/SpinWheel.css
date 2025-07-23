@@ -1,0 +1,162 @@
+/* src/components/SpinWheel.css */
+
+.spin-container {
+  text-align: center;
+  margin: 30px 0;
+}
+
+.spin-title {
+  font-size: 22px;
+  margin-bottom: 15px;
+  font-weight: bold;
+  color: #333;
+}
+
+.wheel-wrapper {
+  position: relative;
+  width: 300px;
+  height: 300px;
+  margin: 0 auto;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.wheel {
+  width: 100%;
+  height: 100%;
+  border-radius: 50%;
+  border: 8px solid #f0f0f0;
+  box-shadow: 0 0 20px rgba(0, 0, 0, 0.3);
+  position: relative;
+  transform: rotate(0deg);
+}
+
+.segment {
+  position: absolute;
+  width: 50%;
+  height: 50%;
+  top: 50%;
+  left: 50%;
+  transform-origin: 0 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-weight: bold;
+  color: #000;
+  font-size: 18px;
+}
+
+/* Segment colors: 1=Blue, 2=Green, 3=Yellow, 4=Red */
+.segment:nth-child(1) {
+  background: #4dd2ff;
+  transform: rotate(0deg) translate(-50%, -50%);
+}
+.segment:nth-child(2) {
+  background: #4fff4d;
+  transform: rotate(90deg) translate(-50%, -50%);
+}
+.segment:nth-child(3) {
+  background: #ffeb4d;
+  transform: rotate(180deg) translate(-50%, -50%);
+}
+.segment:nth-child(4) {
+  background: #ff4444;
+  transform: rotate(270deg) translate(-50%, -50%);
+}
+
+.pointer {
+  position: absolute;
+  top: -20px;
+  left: 50%;
+  transform: translateX(-50%);
+  width: 0;
+  height: 0;
+  border-left: 18px solid transparent;
+  border-right: 18px solid transparent;
+  border-bottom: 24px solid #FFD700; /* gold pointer */
+}
+
+.spin-button {
+  margin-top: 20px;
+  padding: 12px 30px;
+  font-size: 18px;
+  font-weight: bold;
+  background: orange;
+  color: white;
+  border: none;
+  border-radius: 8px;
+  cursor: pointer;
+  box-shadow: 0 0 10px #ffa500;
+  transition: background 0.3s ease;
+}
+
+.spin-button:hover {
+  background: #ff8800;
+}
+
+.result-text {
+  margin-top: 15px;
+  font-size: 20px;
+  font-weight: 600;
+}
+
+/* Popup overlay */
+.popup {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: rgba(0, 0, 0, 0.5);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+/* Popup card */
+.popup-content {
+  background: #fff;
+  padding: 30px;
+  border-radius: 10px;
+  text-align: center;
+  max-width: 320px;
+  box-shadow: 0 0 20px rgba(0, 0, 0, 0.3);
+  opacity: 0;
+  transform: scale(0.9);
+  animation: fadeIn 0.5s ease-out forwards;
+}
+
+/* Redeem code box */
+.code-box {
+  margin: 15px 0;
+  padding: 10px;
+  background: #f0f0f0;
+  font-weight: bold;
+  font-size: 18px;
+  border-radius: 6px;
+  color: #d32f2f; /* darker red */
+}
+
+/* Close button */
+.close-btn {
+  background: #ff4444;
+  color: white;
+  border: none;
+  padding: 8px 20px;
+  border-radius: 6px;
+  cursor: pointer;
+  margin-top: 10px;
+}
+
+/* Fade-in animation for popup */
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+    transform: scale(0.9);
+  }
+  to {
+    opacity: 1;
+    transform: scale(1);
+  }
+}

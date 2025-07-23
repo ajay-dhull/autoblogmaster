@@ -2,19 +2,25 @@
 <html lang="en">
   <head>
     <meta charset="UTF-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    
+    <!-- Theme Color & Mobile-App Capabilities -->
+    <meta name="theme-color" content="#1F2937" />
+    <meta name="mobile-web-app-capable" content="yes" />
+    <meta name="apple-mobile-web-app-title" content="NewsHubNow" />
+    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
 
-    <!-- ✅ SEO Title & Meta Description -->
+    <!-- SEO Title & Meta Description -->
     <title>NewsHubNow - Latest Breaking News, Trends & Analysis</title>
     <meta name="description" content="NewsHubNow - Your trusted source for breaking news, trending stories, and expert insights from India and around the world." />
     <meta name="keywords" content="breaking news, India news, trending, world news, NewsHubNow" />
     <meta name="robots" content="index, follow" />
     <link rel="canonical" href="https://newshubnow.in/" />
 
-    <!-- ✅ Favicon -->
+    <!-- Favicon -->
     <link rel="icon" href="/favicon.ico" />
 
-    <!-- ✅ Font Preload: Inter -->
+    <!-- Font Preload: Inter -->
     <link rel="preconnect" href="https://fonts.googleapis.com" />
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
     <link
@@ -22,14 +28,21 @@
       rel="stylesheet"
     />
 
-    <!-- ✅ Open Graph (Facebook, WhatsApp) -->
+    <!-- Open Graph (Facebook, WhatsApp) -->
     <meta property="og:title" content="NewsHubNow - Trusted News Source" />
     <meta property="og:description" content="Get the latest news updates, trending topics, and expert analysis on NewsHubNow." />
     <meta property="og:url" content="https://newshubnow.in" />
     <meta property="og:image" content="https://newshubnow.in/assets/icon.png" />
     <meta property="og:type" content="website" />
 
-    <!-- ✅ Structured Data (Google News / SEO) -->
+    <!-- Twitter Card Tags -->
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:site" content="@NewsHubNow" />
+    <meta name="twitter:title" content="NewsHubNow - Latest Breaking News, Trends & Analysis" />
+    <meta name="twitter:description" content="Your trusted source for breaking news, trending stories, and expert insights from India and around the world." />
+    <meta name="twitter:image" content="https://newshubnow.in/assets/icon.png" />
+
+    <!-- Structured Data (Google News / SEO) - WebSite -->
     <script type="application/ld+json">
     {
       "@context": "https://schema.org",
@@ -48,14 +61,65 @@
     }
     </script>
 
-    <!-- ✅ Google AdSense -->
+    <!-- NewsArticle JSON-LD for Homepage -->
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "NewsArticle",
+      "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://newshubnow.in/"
+      },
+      "headline": "NewsHubNow – Latest Breaking News, Trends & Analysis",
+      "description": "NewsHubNow - Your trusted source for breaking news, trending stories, and expert insights from India and around the world.",
+      "image": "https://newshubnow.in/assets/icon.png",
+      "author": {
+        "@type": "Organization",
+        "name": "NewsHubNow"
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": "NewsHubNow",
+        "logo": {
+          "@type": "ImageObject",
+          "url": "https://newshubnow.in/assets/icon.png"
+        }
+      },
+      "datePublished": "2025-07-21T00:00:00+05:30",
+      "dateModified": "2025-07-21T00:00:00+05:30"
+    }
+    </script>
+
+    <!-- Breadcrumb Structured Data -->
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://newshubnow.in/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Latest News",
+          "item": "https://newshubnow.in/"
+        }
+      ]
+    }
+    </script>
+
+    <!-- Google AdSense -->
     <script
       async
       src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-6085158332077162"
       crossorigin="anonymous"
     ></script>
 
-    <!-- ✅ Google Analytics (GA4) -->
+    <!-- Google Analytics (GA4) -->
     <script async src="https://www.googletagmanager.com/gtag/js?id=G-DC4MV8BTN1"></script>
     <script>
       window.dataLayer = window.dataLayer || [];

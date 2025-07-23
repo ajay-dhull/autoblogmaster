@@ -9,6 +9,9 @@ interface ArticleCardProps {
 }
 
 export default function ArticleCard({ article }: ArticleCardProps) {
+  // ✅ Fix: If slug is missing or "undefined", don't render the card
+  if (!article.slug || article.slug === "undefined") return null;
+
   const getCategoryColor = (category: string) => {
     switch (category) {
       case "World News":
