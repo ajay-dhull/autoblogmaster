@@ -3,6 +3,18 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://newshubnow.in/article/rising-islamist-nexus-in-bangladesh-should-ring-alarm-bells-in-delhi-mdpmjh25</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-07-30T07:04:57.000Z</news:publication_date>
+      <news:title><![CDATA[Rising Islamist nexus in Bangladesh should ring alarm bells in Delhi]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://newshubnow.in/article/security-forces-eliminate-2-pakistani-terrorists-in-jammu-kashmirs-poonch-infiltration-bid-foiled-mdpm69s6</loc>
     <news:news>
       <news:publication>
@@ -51,6 +63,18 @@
   </url>
 
   <url>
+    <loc>https://newshubnow.in/article/isro-to-launch-nisar-satellite-using-gslv-f16-from-sriharikota-on-wednesday-evening-mdpmjnph</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-07-30T06:14:17.000Z</news:publication_date>
+      <news:title><![CDATA[ISRO to launch ‘NISAR’ satellite using GSLV-F16 from Sriharikota on Wednesday evening]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://newshubnow.in/article/driving-success-how-to-start-and-grow-an-intercity-taxi-business-in-india-mdpj9tzz</loc>
     <news:news>
       <news:publication>
@@ -95,6 +119,18 @@
       </news:publication>
       <news:publication_date>2025-07-30T00:13:17.000Z</news:publication_date>
       <news:title><![CDATA[शैलेश जेजुरीकर पी अँड जीच्या जागतिक अध्यक्षपदी]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/barclays-second-quarter-profit-beats-estimates-as-investment-banking-revenues-swell-cnbc-mdpmjgxk</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-07-29T06:20:39.000Z</news:publication_date>
+      <news:title><![CDATA[Barclays second-quarter profit beats estimates as investment banking revenues swell - CNBC]]></news:title>
     </news:news>
   </url>
 
