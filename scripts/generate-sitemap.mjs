@@ -6,7 +6,7 @@ import { pipeline } from "stream";
 import { promisify } from "util";
 import path from "path";
 
-const API_URL = "https://autoblogmaster-production.up.railway.app/api/articles";
+const API_URL = "https://autoblogmaster.onrender.com/api/articles";
 const BASE_URL = "https://newshubnow.in";
 
 // ✅ Target only the client/public directory
