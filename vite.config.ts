@@ -1,6 +1,7 @@
 import { defineConfig } from "vite";
 import react from "@vitejs/plugin-react";
 import runtimeErrorOverlay from "@replit/vite-plugin-runtime-error-modal";
+import prerender from "vite-plugin-prerender";
 import { fileURLToPath } from "url";
 import { dirname, resolve } from "path";
 
@@ -8,18 +9,37 @@ const __filename = fileURLToPath(import.meta.url);
 const __dirname = dirname(__filename);
 
 export default defineConfig({
+  root: resolve(__dirname, "client"),
+
   plugins: [
     react(),
     runtimeErrorOverlay(),
+
+    // Replit Cartographer (dev-only)
     ...(process.env.NODE_ENV !== "production" &&
     process.env.REPL_ID !== undefined
       ? [
           await import("@replit/vite-plugin-cartographer").then((m) =>
-            m.cartographer(),
+            m.cartographer()
           ),
         ]
       : []),
+
+    // Prerender static HTML for crawlers (AdSense “no content” fix)
+    prerender({
+      // match your build.outDir below
+      staticDir: resolve(__dirname, "dist", "public"),
+      routes: [
+        "/", 
+        "/blog", 
+        "/about", 
+        "/contact", 
+        "/privacy", 
+        "/terms"
+      ]
+    }),
   ],
+
   resolve: {
     alias: {
       "@": resolve(__dirname, "client", "src"),
@@ -27,9 +47,9 @@ export default defineConfig({
       "@assets": resolve(__dirname, "attached_assets"),
     },
   },
-  root: resolve(__dirname, "client"),
+
   build: {
-    outDir: resolve(__dirname, "dist/public"),
+    outDir: resolve(__dirname, "dist", "public"),
     emptyOutDir: true,
     minify: "terser",
     cssCodeSplit: true,
@@ -44,6 +64,7 @@ export default defineConfig({
       },
     },
   },
+
   server: {
     fs: {
       strict: true,

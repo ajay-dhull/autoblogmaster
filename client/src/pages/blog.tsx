@@ -1,6 +1,7 @@
 import { useState, useEffect } from "react";
 import { useQuery } from "@tanstack/react-query";
 import { Helmet } from "react-helmet-async";
+import { useLocation } from "wouter";
 import { Button } from "@/components/ui/button";
 import { Input } from "@/components/ui/input";
 
@@ -48,6 +49,16 @@ export default function Blog() {
   const [viewMode, setViewMode] = useState<"grid" | "list">("grid");
   const [isVisible, setIsVisible] = useState(false);
   const articlesPerPage = 12;
+
+  const [, setLocation] = useLocation();
+
+  useEffect(() => {
+    const urlParams = new URLSearchParams(window.location.search);
+    const urlCategory = urlParams.get("category");
+    if (urlCategory && categories.some(cat => cat.name === urlCategory)) {
+      setSelectedCategory(urlCategory);
+    }
+  }, []);
 
   useEffect(() => {
     setIsVisible(true);
@@ -215,7 +226,14 @@ export default function Blog() {
                   return (
                     <Button
                       key={category.name}
-                      onClick={() => setSelectedCategory(category.name)}
+                      onClick={() => {
+                        setSelectedCategory(category.name);
+                        if (category.name === "All") {
+                          setLocation("/blog");
+                        } else {
+                          setLocation(`/blog?category=${encodeURIComponent(category.name)}`);
+                        }
+                      }}
                       variant={selectedCategory === category.name ? "default" : "outline"}
                       className={`transition-all duration-300 hover:scale-105 ${
                         selectedCategory === category.name
