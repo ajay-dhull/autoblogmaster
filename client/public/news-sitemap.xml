@@ -3,6 +3,126 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://newshubnow.in/article/netanyahu-meets-security-officials-as-israel-considers-full-gaza-takeover-mdza8w64</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-08-06T01:21:47.740Z</news:publication_date>
+      <news:title><![CDATA[Netanyahu meets security officials as Israel considers full Gaza takeover]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/indias-diplomacy-with-eu-us-pushback-in-recent-years-challenges-over-the-past-decades-mdza8ync</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-08-06T01:15:30.000Z</news:publication_date>
+      <news:title><![CDATA[India’s diplomacy with EU, US: Pushback in recent years, challenges over the past decades]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/openai-open-weight-models-available-today-on-aws-mdz0ez4h</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-08-05T20:46:35.345Z</news:publication_date>
+      <news:title><![CDATA[OpenAI open weight models available today on AWS]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/flash-floods-kill-at-least-4-and-trap-others-under-debris-in-northern-india-mdz0eueg</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-08-05T20:46:29.224Z</news:publication_date>
+      <news:title><![CDATA[Flash floods kill at least 4 and trap others under debris in northern India]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/openai-to-open-source-some-of-the-ai-systems-behind-chatgpt-mdz0d0tq</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-08-05T20:45:04.238Z</news:publication_date>
+      <news:title><![CDATA[OpenAI to Open-Source Some of the A.I. Systems Behind ChatGPT]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/4-european-countries-agree-to-buy-a-combined-1-billion-in-us-weapons-for-ukraine-mdz0csnc</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-08-05T20:44:53.640Z</news:publication_date>
+      <news:title><![CDATA[4 European countries agree to buy a combined $1 billion in U.S. weapons for Ukraine]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/inaugural-india-new-zealand-defence-strategic-dialogue-held-in-delhi-mdz0ctbu</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-08-05T19:30:02.000Z</news:publication_date>
+      <news:title><![CDATA[Inaugural India-New Zealand Defence Strategic Dialogue held in Delhi]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/--mdz0evxd</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-08-05T19:27:52.000Z</news:publication_date>
+      <news:title><![CDATA[२४ तासांत आणखी कर, डोनाल्ड ट्रम्प यांची भारताला धमकी; रशियाकडून तेल खरेदीवर पुन्हा बोट]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/demon-slayer-infinity-castle-india-release-pushed-to-september-12-after-cinepolis-backtracks-on-early-update-mdz0cyqb</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-08-05T19:24:19.000Z</news:publication_date>
+      <news:title><![CDATA[Demon Slayer Infinity Castle India release pushed to September 12 after Cinepolis backtracks on early update]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/call-to-end-h-1b-visas-may-create-uncertainty-among-indians-in-the-us-mdz0f2g5</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-08-05T18:15:00.000Z</news:publication_date>
+      <news:title><![CDATA[Call to End H-1B Visas May Create Uncertainty Among Indians in the US]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://newshubnow.in/article/google-says-its-new-world-model-could-train-ai-robots-in-virtual-warehouses-mdyu0tpn</loc>
     <news:news>
       <news:publication>
@@ -119,126 +239,6 @@
       </news:publication>
       <news:publication_date>2025-08-05T14:54:09.000Z</news:publication_date>
       <news:title><![CDATA[Defence the cornerstone of India-Philippines strategic partnership as both nations take aim at China]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/dont-burn-nikki-haley-defends-india-cites-china-tariff-pause-after-trump-threat-mdynyxnl</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-08-05T14:49:41.000Z</news:publication_date>
-      <news:title><![CDATA[‘Don’t Burn...’: Nikki Haley Defends India, Cites China Tariff Pause After Trump Threat]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/india-actively-discussing-trade-pact-with-us-say-minister-mdyohpkl</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-08-05T14:45:54.000Z</news:publication_date>
-      <news:title><![CDATA[India actively discussing trade pact with US, say minister]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/7-indian-boxers-assured-of-medals-at-u19-asian-boxing-cships-mdyohv70</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-08-05T14:45:10.000Z</news:publication_date>
-      <news:title><![CDATA[7 Indian boxers assured of medals at U19 Asian Boxing Cships]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/life-of-lee-fortis-the-oval-chief-curator-turns-hero-from-villain-in-five-days-mdyojo4q</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-08-05T14:27:48.000Z</news:publication_date>
-      <news:title><![CDATA[Life of Lee Fortis: The Oval chief curator turns ‘hero from villain’ in five days]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/dozens-killed-as-palestinians-in-gaza-scramble-for-aid-from-air-and-land-mdy41oe9</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-08-05T05:40:27.201Z</news:publication_date>
-      <news:title><![CDATA[Dozens killed as Palestinians in Gaza scramble for aid from air and land]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/sab-sikhana-padta-hai-arshdeep-singhs-banter-with-md-siraj-goes-viral-mdy41nv6</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-08-05T05:29:37.000Z</news:publication_date>
-      <news:title><![CDATA['Sab Sikhana Padta Hai': Arshdeep Singh’s Banter With Md Siraj Goes Viral]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/trump-administration-posts-guidance-on-tariff-rollout-mdy35ufn</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-08-05T05:15:42.035Z</news:publication_date>
-      <news:title><![CDATA[Trump Administration Posts Guidance on Tariff Rollout]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/hockey-india-announces-mens-hockey-squad-for-australia-tour-mdy35v69</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-08-05T04:58:20.000Z</news:publication_date>
-      <news:title><![CDATA[Hockey India Announces Men's Hockey Squad For Australia Tour]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/iex-achieves-record-electricity-trade-in-july-mdy41tvj</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-08-05T04:58:20.000Z</news:publication_date>
-      <news:title><![CDATA[IEX Achieves Record Electricity Trade in July]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/mahavatar-narsimha-box-office-collection-day-11-word-of-mouth-hit-beats-akshay-kumars-kesari-2-to-cross-rs-100-cr-today-mdy362h5</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-08-05T04:48:37.000Z</news:publication_date>
-      <news:title><![CDATA[Mahavatar Narsimha box office collection day 11: Word-of-mouth hit beats Akshay Kumar’s Kesari 2, to cross Rs 100 cr today]]></news:title>
     </news:news>
   </url>
 </urlset>
