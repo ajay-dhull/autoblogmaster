@@ -3,6 +3,234 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://newshubnow.in/article/mckinsey-technology-trends-outlook-2025-mea76m8c</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-08-13T16:41:30.636Z</news:publication_date>
+      <news:title><![CDATA[McKinsey Technology Trends Outlook 2025]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/breaking-down-trumps-nvidia-amd-deal-and-the-latest-artificial-intelligence-news-mea76d6e</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-08-13T16:41:18.902Z</news:publication_date>
+      <news:title><![CDATA[Breaking down Trump's Nvidia-AMD deal and the latest artificial intelligence news]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/trump-told-zelensky-he-wants-ceasefire-from-putin-summit-mea7661z</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-08-13T16:41:09.671Z</news:publication_date>
+      <news:title><![CDATA[Trump told Zelensky he wants ceasefire from Putin summit]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/complete-guide-to-cryptocurrency-for-beginners-mea76354</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-08-13T16:41:05.896Z</news:publication_date>
+      <news:title><![CDATA[Complete Guide to Cryptocurrency for Beginners]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/decomposed-body-of-rickshaw-puller-found-hanging-from-tree-in-delhis-inderlok-mea763yv</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-08-13T16:34:10.000Z</news:publication_date>
+      <news:title><![CDATA[Decomposed body of rickshaw puller found hanging from tree in Delhi's Inderlok]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/andhra-pradeshs-aquaculture-transformation-a-journey-towards-global-excellence-mea768ma</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-08-13T16:27:58.000Z</news:publication_date>
+      <news:title><![CDATA[Andhra Pradesh's Aquaculture Transformation: A Journey Towards Global Excellence]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/what-if-ai-doesnt-get-much-better-than-this-me9a5bd9</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-08-13T01:16:42.573Z</news:publication_date>
+      <news:title><![CDATA[What If A.I. Doesn’t Get Much Better Than This?]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/ukraine-will-not-cede-land-that-could-be-russian-springboard-for-new-war-zelenskyy-says-me9a53oh</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-08-13T01:16:32.609Z</news:publication_date>
+      <news:title><![CDATA[Ukraine will not cede land that could be Russian springboard for new war, Zelenskyy says]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/indias-population-is-its-strength-will-tap-new-markets-agriculture-minister-shivraj-chouhan-on-trump-tariffs-me9a534o</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-08-13T01:11:12.000Z</news:publication_date>
+      <news:title><![CDATA[India's population is its strength, will tap new markets: Agriculture Minister Shivraj Chouhan on Trump tariffs]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/house-panel-asks-railways-to-prepare-database-of-bridges-me9a588v</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-08-13T01:06:19.000Z</news:publication_date>
+      <news:title><![CDATA[House panel asks Railways to prepare database of bridges]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/how-ai-poisoning-is-fighting-bots-that-hoover-data-without-permission-me90g3bk</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-08-12T20:45:09.200Z</news:publication_date>
+      <news:title><![CDATA[How AI poisoning is fighting bots that hoover data without permission]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/state-department-slashes-its-annual-reports-on-human-rights-me90fym0</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-08-12T20:45:03.097Z</news:publication_date>
+      <news:title><![CDATA[State Department slashes its annual reports on human rights]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/bedford-tech-company-expands-with-an-educated-eye-toward-ai-me90dx7x</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-08-12T20:43:27.981Z</news:publication_date>
+      <news:title><![CDATA[Bedford tech company expands with an educated eye toward AI]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/european-union-leaders-statement-on-ukraine-me90dsnp</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-08-12T20:43:22.069Z</news:publication_date>
+      <news:title><![CDATA[European Union Leaders' Statement on Ukraine]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/cabinet-approves-18500-crore-semiconductor-infrastructure-projects-me90ds32</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-08-12T20:10:25.000Z</news:publication_date>
+      <news:title><![CDATA[Cabinet approves ₹18,500 crore semiconductor, infrastructure projects]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/no-new-us-tariffs-on-electronics-pharma-says-jitin-me90fyot</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-08-12T19:52:00.000Z</news:publication_date>
+      <news:title><![CDATA[No New U.S. Tariffs on Electronics, Pharma, Says Jitin]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/stealth-guided-missile-frigates-udaygiri-himgiri-set-to-be-commissioned-into-navy-this-month-me90dx8j</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-08-12T18:51:34.000Z</news:publication_date>
+      <news:title><![CDATA[Stealth guided-missile frigates Udaygiri, Himgiri set to be commissioned into Navy this month]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/50-lakh-1-crore-homes-dominate-buyer-demand-between-2022-and-2024-anarock-ai-data-me90g4dl</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-08-12T18:30:00.000Z</news:publication_date>
+      <news:title><![CDATA[₹50 lakh- ₹1 crore homes dominate buyer demand between 2022 and 2024: Anarock AI data]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/cdc-shooter-died-by-suicide-and-fired-nearly-200-rounds-at-headquarters-authorities-say-nbc-news-mea763qx</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-08-12T15:39:42.000Z</news:publication_date>
+      <news:title><![CDATA[CDC shooter died by suicide and fired nearly 200 rounds at headquarters, authorities say - NBC News]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://newshubnow.in/article/cerence-ai-ceo-explains-how-new-tech-can-help-drivers-its-a-partner-in-the-vehicle-me7uni0v</loc>
     <news:news>
       <news:publication>
@@ -11,174 +239,6 @@
       </news:publication>
       <news:publication_date>2025-08-12T01:15:10.975Z</news:publication_date>
       <news:title><![CDATA[Cerence AI CEO explains how new tech can help drivers: 'It's a partner in the vehicle']]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/who-were-the-al-jazeera-journalists-killed-in-an-israeli-strike-in-gaza-me7unbp5</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-08-12T01:15:02.777Z</news:publication_date>
-      <news:title><![CDATA[Who Were the Al Jazeera Journalists Killed in an Israeli Strike in Gaza?]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/strengthening-ties-india-and-singapores-strategic-collaborations-me7uncmh</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-08-12T00:38:29.000Z</news:publication_date>
-      <news:title><![CDATA[Strengthening Ties: India and Singapore's Strategic Collaborations]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/-pak--me7unj2g</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-08-11T23:54:11.000Z</news:publication_date>
-      <news:title><![CDATA[बांग्लादेश सीमा से सटे फरक्का बैराज पर भारत की त्रिशक्ति का युद्धाभ्यास, PAK सेना ने दी है पूर्वी छोर से हमले की धमकी]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/trump-to-join-european-leaders-on-emergency-call-before-putin-talks-me7kzmo3</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-08-11T20:44:40.707Z</news:publication_date>
-      <news:title><![CDATA[Trump to join European leaders on emergency call before Putin talks]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/anas-al-sharif-who-was-the-al-jazeera-journalist-killed-by-israel-in-gaza-me7kw9s1</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-08-11T20:42:04.033Z</news:publication_date>
-      <news:title><![CDATA[Anas al-Sharif: Who was the Al Jazeera journalist killed by Israel in Gaza?]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/--me7kwbna</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-08-11T20:21:49.000Z</news:publication_date>
-      <news:title><![CDATA[अग्रलेख: आहे ‘डॅशिंग’ तरी…]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/market-correction-brings-record-high-equity-mf-inflows-in-july-up-81-from-june-me7kznum</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-08-11T20:19:09.000Z</news:publication_date>
-      <news:title><![CDATA[Market correction brings record high equity MF inflows in July; up 81% from June]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/how-to-design-ai-solutions-for-indian-problems-me7kwh78</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-08-11T19:50:07.000Z</news:publication_date>
-      <news:title><![CDATA[How to design AI solutions for Indian problems]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/parliamentary-panel-warns-of-rising-chinese-influence-in-indian-ocean-me7kzuhp</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-08-11T19:01:00.000Z</news:publication_date>
-      <news:title><![CDATA[Parliamentary Panel Warns of Rising Chinese Influence in Indian Ocean]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/netanyahu-defends-israels-plan-to-seize-gaza-city-despite-global-condemnation-me6fhhmh</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-08-11T01:22:50.105Z</news:publication_date>
-      <news:title><![CDATA[Netanyahu defends Israel's plan to seize Gaza City, despite global condemnation]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/delhi-bound-ai-flight-gets-diverted-to-chennai-after-snag-me6fhj84</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-08-11T01:05:00.000Z</news:publication_date>
-      <news:title><![CDATA[Delhi-bound AI Flight Gets Diverted to Chennai After Snag]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/meteorite-that-tore-through-southeastern-us-skies-this-summer-determined-to-be-older-than-earth-itself-researchers-say-cnn-me7unahx</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-08-11T00:44:00.000Z</news:publication_date>
-      <news:title><![CDATA[Meteorite that tore through southeastern US skies this summer determined to be older than Earth itself, researchers say - CNN]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/indian-athletics-news--me6fhpmd</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-08-11T00:29:45.000Z</news:publication_date>
-      <news:title><![CDATA[Indian Athletics News: మురళీ అన్నూలకు స్వర్ణాలు]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/netanyahu-defends-gaza-plans-as-israel-heavily-criticised-at-un-security-council-me65iv73</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-08-10T20:43:58.191Z</news:publication_date>
-      <news:title><![CDATA[Netanyahu defends Gaza plans as Israel heavily criticised at UN Security Council]]></news:title>
     </news:news>
   </url>
 </urlset>
