@@ -1,6 +1,5 @@
 import { useState, useEffect } from "react";
 import { useQuery } from "@tanstack/react-query";
-import { Helmet } from "react-helmet-async";
 import { useLocation } from "wouter";
 import { Button } from "@/components/ui/button";
 import { Input } from "@/components/ui/input";
@@ -8,6 +7,7 @@ import { Input } from "@/components/ui/input";
 import { Card, CardContent } from "@/components/ui/card";
 import ArticleCard from "@/components/article-card";
 import { api } from "@/lib/api";
+import Seo from "@/components/Seo";
 import { 
   Search, 
   Filter, 
@@ -87,39 +87,21 @@ export default function Blog() {
 
   const displayArticles = searchQuery.length > 2 ? searchResults : articles;
 
+  // Build an ogUrl for social sharing (kept with params) but canonical will be fixed to /blog
+  const ogUrl =
+    typeof window !== "undefined"
+      ? `https://newshubnow.in/blog${selectedCategory !== "All" ? `?category=${encodeURIComponent(selectedCategory)}` : ""}${page > 0 ? `${selectedCategory !== "All" ? "&" : "?"}page=${page + 1}` : ""}`
+      : "https://newshubnow.in/blog";
+
   return (
     <div className="min-h-screen bg-gradient-to-br from-gray-50 via-white to-blue-50/30 pt-16">
-      <Helmet>
-        <title>{`Newshub Blog | Page ${page + 1} | ${selectedCategory}`}</title>
-        <meta name="description" content="Read trending, educational, world, and tech news articles updated in real-time on Newshub Blog." />
-        <meta name="robots" content="index, follow" />
-
-        <meta property="og:title" content={`Newshub Blog | Page ${page + 1} | ${selectedCategory}`} />
-        <meta property="og:description" content="Explore breaking news, tech updates, and expert educational content on the Newshub blog." />
-        <meta property="og:type" content="website" />
-        <meta property="og:url" content={`https://newshubnow.in/blog${selectedCategory !== "All" ? `?category=${encodeURIComponent(selectedCategory)}` : ""}${page > 0 ? `${selectedCategory !== "All" ? "&" : "?"}page=${page + 1}` : ""}`} />
-        <link rel="canonical" href={`https://newshubnow.in/blog${selectedCategory !== "All" ? `?category=${encodeURIComponent(selectedCategory)}` : ""}${page > 0 ? `${selectedCategory !== "All" ? "&" : "?"}page=${page + 1}` : ""}`} />
-        {page > 0 && (
-          <link rel="prev" href={`https://newshubnow.in/blog?page=${page}`} />
-        )}
-        {displayArticles && displayArticles.length === articlesPerPage && (
-          <link rel="next" href={`https://newshubnow.in/blog?page=${page + 2}`} />
-        )}
-        <script type="application/ld+json">
-          {JSON.stringify({
-            "@context": "https://schema.org",
-            "@type": "Blog",
-            "name": "Newshub Blog",
-            "description": "Trending, educational, world, and tech news articles updated in real-time.",
-            "url": `https://newshubnow.in/blog${selectedCategory !== "All" ? `?category=${selectedCategory}` : ""}${page > 0 ? `${selectedCategory !== "All" ? "&" : "?"}page=${page + 1}` : ""}`,
-            "publisher": {
-              "@type": "Organization",
-              "name": "Newshub",
-              "url": "https://newshubnow.in"
-            }
-          })}
-        </script>
-      </Helmet>
+      {/* SEO: canonical fixed to /blog to avoid ?category= duplicates */}
+      <Seo
+        title={`Newshub Blog | Page ${page + 1} | ${selectedCategory}`}
+        description="Read trending, educational, world, and tech news articles updated in real-time on Newshub Blog."
+        canonical="https://newshubnow.in/blog"
+        ogUrl={ogUrl}
+      />
 
       {/* Hero Section */}
       <section className="py-20 bg-gradient-to-br from-slate-600/10 via-gray-600/10 to-zinc-700/10 relative overflow-hidden">
