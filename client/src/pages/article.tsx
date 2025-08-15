@@ -2,14 +2,14 @@ import React from "react";
 import { useQuery } from "@tanstack/react-query";
 import { useRoute } from "wouter";
 import { Link } from "wouter";
+import { Helmet } from "react-helmet";
 import { Button } from "@/components/ui/button";
 import { Badge } from "@/components/ui/badge";
 import { Card, CardContent } from "@/components/ui/card";
 import { Separator } from "@/components/ui/separator";
 import ArticleCard from "@/components/article-card";
 import { api } from "@/lib/api";
-import SpinWheel from "@/components/SpinWheel";
-import Seo from "@/components/Seo";
+import SpinWheel from "@/components/SpinWheel"; // ✅ added
 
 import {
   Calendar,
@@ -29,30 +29,20 @@ export default function Article() {
   // ❌ Prevent invalid-slug pages (fix Soft 404)
   if (!slug || slug === "undefined") {
     return (
-      <>
-        {/* Mark invalid pages as noindex so search engines don't treat them as soft-404 */}
-        <Seo
-          title="Invalid Article | NewsHubNow"
-          description="The article link is invalid."
-          noindex={true}
-          canonical="https://newshubnow.in/blog"
-        />
-
-        <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 py-8">
-          <div className="text-center py-12">
-            <h1 className="text-2xl font-bold mb-4">Invalid Article Link</h1>
-            <p className="text-gray-600 mb-6">
-              The article you're looking for is invalid or does not exist.
-            </p>
-            <Link href="/blog">
-              <Button>
-                <ArrowLeft className="mr-2 h-4 w-4" />
-                Back to Blog
-              </Button>
-            </Link>
-          </div>
+      <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 py-8">
+        <div className="text-center py-12">
+          <h1 className="text-2xl font-bold mb-4">Invalid Article Link</h1>
+          <p className="text-gray-600 mb-6">
+            The article you're looking for is invalid or does not exist.
+          </p>
+          <Link href="/blog">
+            <Button>
+              <ArrowLeft className="mr-2 h-4 w-4" />
+              Back to Blog
+            </Button>
+          </Link>
         </div>
-      </>
+      </div>
     );
   }
 
@@ -80,7 +70,7 @@ export default function Article() {
             ))}
           </div>
         </div>
-
+        
         {/* Static fallback for crawlers */}
         <noscript>
           <article>
@@ -96,30 +86,20 @@ export default function Article() {
 
   if (error || !article) {
     return (
-      <>
-        {/* If article not found, mark noindex — prevents soft 404 indexing */}
-        <Seo
-          title="Article Not Found | NewsHubNow"
-          description="The requested article was not found."
-          noindex={true}
-          canonical="https://newshubnow.in/blog"
-        />
-
-        <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 py-8">
-          <div className="text-center py-12">
-            <h1 className="text-2xl font-bold mb-4">Article Not Found</h1>
-            <p className="text-gray-600 mb-6">
-              The article you're looking for doesn't exist or has been removed.
-            </p>
-            <Link href="/blog">
-              <Button>
-                <ArrowLeft className="mr-2 h-4 w-4" />
-                Back to Blog
-              </Button>
-            </Link>
-          </div>
+      <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 py-8">
+        <div className="text-center py-12">
+          <h1 className="text-2xl font-bold mb-4">Article Not Found</h1>
+          <p className="text-gray-600 mb-6">
+            The article you're looking for doesn't exist or has been removed.
+          </p>
+          <Link href="/blog">
+            <Button>
+              <ArrowLeft className="mr-2 h-4 w-4" />
+              Back to Blog
+            </Button>
+          </Link>
         </div>
-      </>
+      </div>
     );
   }
 
@@ -155,9 +135,8 @@ export default function Article() {
     return Math.ceil(wordCount / wordsPerMinute);
   };
 
-  // Safe share values
-  const shareUrl = typeof window !== "undefined" ? window.location.href : `https://newshubnow.in/article/${article.slug}`;
-  const shareText = article?.title ? `Check out this article: ${article.title}` : "Check out this article";
+  const shareUrl = typeof window !== "undefined" ? window.location.href : '';
+  const shareText = `Check out this article: ${article.title}`;
 
   const handleShare = (platform: string) => {
     let url = "";
@@ -177,41 +156,59 @@ export default function Article() {
     if (url) window.open(url, '_blank', 'width=600,height=400');
   };
 
-  // Render article page with Seo component
   return (
     <>
-      <Seo
-        title={`${article.title} | NewsHubNow`}
-        description={article.excerpt || article.title}
-        canonical={`https://newshubnow.in/article/${article.slug}`}
-        ogUrl={shareUrl}
-      />
+      <Helmet>
+        <title>{`${article.title} | NewsHubNow`}</title>
+        <meta name="description" content={article.excerpt} />
+        <meta name="robots" content="index, follow" />
+        
+        {/* Canonical URL */}
+        <link 
+          rel="canonical" 
+          href={`https://newshubnow.in/article/${article.slug}`} 
+        />
 
-      {/* JSON-LD structured data for NewsArticle */}
-      <script type="application/ld+json" dangerouslySetInnerHTML={{
-        __html: JSON.stringify({
-          "@context": "https://schema.org",
-          "@type": "NewsArticle",
-          "mainEntityOfPage": {
-            "@type": "WebPage",
-            "@id": shareUrl
-          },
-          "headline": article.title,
-          "description": article.excerpt,
-          "image": article.featuredImage ? [article.featuredImage] : (article.image ? [article.image] : []),
-          "datePublished": new Date(article.publishedAt).toISOString(),
-          "dateModified": new Date(article.updatedAt || article.publishedAt).toISOString(),
-          "author": { "@type": "Person", "name": article.author || "NewsHubNow" },
-          "publisher": {
-            "@type": "Organization",
-            "name": "NewsHubNow",
-            "logo": {
-              "@type": "ImageObject",
-              "url": "https://newshubnow.in/assets/icon.png"
-            }
-          }
-        }, null, 2)
-      }} />
+        {/* Open Graph */}
+        <meta property="og:type" content="article" />
+        <meta property="og:url" content={shareUrl} />
+        <meta property="og:title" content={article.title} />
+        <meta property="og:description" content={article.excerpt} />
+        <meta property="og:image" content={article.featuredImage || 'https://newshubnow.in/assets/icon.png'} />
+
+        {/* Twitter Card */}
+        <meta name="twitter:card" content="summary_large_image" />
+        <meta name="twitter:site" content="@NewsHubNow" />
+        <meta name="twitter:title" content={article.title} />
+        <meta name="twitter:description" content={article.excerpt} />
+        <meta name="twitter:image" content={article.featuredImage || 'https://newshubnow.in/assets/icon.png'} />
+
+        <script type="application/ld+json">
+          {JSON.stringify(
+            {
+              "@context": "https://schema.org",
+              "@type": "NewsArticle",
+              "mainEntityOfPage": {
+                "@type": "WebPage",
+                "@id": shareUrl
+              },
+              headline: article.title,
+              description: article.excerpt,
+              image: [article.featuredImage || article.image],
+              datePublished: new Date(article.publishedAt).toISOString(),
+              dateModified: new Date(article.updatedAt || article.publishedAt).toISOString(),
+              author: { "@type": "Person", name: "Ajay Dhull" },
+              publisher: {
+                "@type": "Organization",
+                name: "NewsHubNow",
+                logo: { "@type": "ImageObject", url: "https://newshubnow.in/assets/icon.png" }
+              }
+            },
+            null,
+            2
+          )}
+        </script>
+      </Helmet>
 
       <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 py-8">
         <div className="mb-6">
@@ -231,8 +228,8 @@ export default function Article() {
               >
                 {article.category}
               </Badge>
-              <time
-                dateTime={new Date(article.publishedAt).toISOString()}
+              <time 
+                dateTime={new Date(article.publishedAt).toISOString()} 
                 className="flex items-center text-gray-500 text-sm"
               >
                 <Calendar className="h-4 w-4 mr-1" />
@@ -352,7 +349,7 @@ export default function Article() {
                   <ArticleCard key={r.id} article={r} />
                 ))}
             </div>
-            <Link href={`/blog?category=${encodeURIComponent(article.category)}`}>
+            <Link href={`/blog?category=${article.category}`}>
               <Button className="mt-6">View All in {article.category}</Button>
             </Link>
           </section>
