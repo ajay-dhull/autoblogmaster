@@ -54,14 +54,14 @@ jobs:
           git push origin main
 
       # 6. Deploy updated sitemap to Hostinger via FTP
-      - name: Deploy to FTP (Hostinger)
+     - name: Deploy to FTP (Hostinger)
         uses: samkirkland/ftp-deploy-action@v4.3.3
         with:
           server: ${{ secrets.FTP_HOST }}
           username: ${{ secrets.FTP_USERNAME }}
           password: ${{ secrets.FTP_PASSWORD }}
-          server-dir: public_html/        # Main Hostinger public_html directory
-          local-dir: client/public/       # Only upload sitemap files from here
+          server-dir: ./               # Use root of FTP account (already public_html)
+          local-dir: ./client/public/  # Only upload files from client/public
           exclude: |
             **/.git*
             **/.github*
