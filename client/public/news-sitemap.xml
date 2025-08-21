@@ -3,8 +3,18 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
-<<<<<<< Updated upstream
-=======
+    <loc>https://newshubnow.in/article/palestinians-flee-gaza-city-as-israel-says-first-stages-of-assault-have-begun-mel088j4</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-08-21T06:12:16.816Z</news:publication_date>
+      <news:title><![CDATA[Palestinians flee Gaza City as Israel says first stages of assault have begun]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://newshubnow.in/article/justice-reddys-bid-for-vice-presidency-a-battle-of-ideologies-mekzy00e</loc>
     <news:news>
       <news:publication>
@@ -17,7 +27,6 @@
   </url>
 
   <url>
->>>>>>> Stashed changes
     <loc>https://newshubnow.in/article/with-10-commission-on-ukraine-weapon-sales-trump-is-real-profiteer-of-russias-war-not-india-mekzuulp</loc>
     <news:news>
       <news:publication>
@@ -42,8 +51,18 @@
   </url>
 
   <url>
-<<<<<<< Updated upstream
-=======
+    <loc>https://newshubnow.in/article/agni-5-test-how-indias-new-mirv-equipped-missile-boosts-its-nuclear-deterrence-mel02641</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-08-21T05:57:17.000Z</news:publication_date>
+      <news:title><![CDATA[Agni-5 Test: How India’s New MIRV-Equipped Missile Boosts Its Nuclear Deterrence]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://newshubnow.in/article/--mekzy5sf</loc>
     <news:news>
       <news:publication>
@@ -56,7 +75,30 @@
   </url>
 
   <url>
->>>>>>> Stashed changes
+    <loc>https://newshubnow.in/article/sanjeevani-national-convention-uniting-for-early-cancer-detection-mel08a3p</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-08-21T05:53:18.000Z</news:publication_date>
+      <news:title><![CDATA[Sanjeevani National Convention: Uniting for Early Cancer Detection]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/online-gaming-bill-2025-which-indian-apps-are-likely-to-be-impacted-after-parliament-nod-mel02b4t</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-08-21T05:51:12.000Z</news:publication_date>
+      <news:title><![CDATA[Online Gaming Bill 2025: Which Indian apps are likely to be impacted after Parliament nod?]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://newshubnow.in/article/on-fbis-most-wanted-list-us-woman-accused-of-killing-son-arrested-in-india-mekzmzsw</loc>
     <news:news>
       <news:publication>
@@ -77,6 +119,18 @@
       </news:publication>
       <news:publication_date>2025-08-21T05:40:41.000Z</news:publication_date>
       <news:title><![CDATA[Rupee rises with foreign banks keeping up dollar sales, confounding market]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/india-sees-asias-biggest-earnings-downgrades-as-us-tariffs-loom-mel08fe9</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-08-21T05:40:00.000Z</news:publication_date>
+      <news:title><![CDATA[India sees Asia's biggest earnings downgrades as US tariffs loom]]></news:title>
     </news:news>
   </url>
 
@@ -187,91 +241,4 @@
       <news:title><![CDATA[Massacres in eastern Congo cast doubt on U.S. mediated peace deal]]></news:title>
     </news:news>
   </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/nclat-rejects-central-bank-of-india-plea-clears-390-crore-plan-for-neptune-developers-meky15jm</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-08-21T05:09:40.000Z</news:publication_date>
-      <news:title><![CDATA[NCLAT rejects Central Bank of India plea, clears ₹390 crore plan for Neptune Developers]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/indian-markets-rise-amid-cautious-optimism-and-global-uncertainties-meky19p5</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-08-21T05:06:18.000Z</news:publication_date>
-      <news:title><![CDATA[Indian Markets Rise Amid Cautious Optimism and Global Uncertainties]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/florida-southwestern-state-college-using-ai-technology-to-prevent-mass-shootings-mekpgg7j</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-08-21T01:10:44.239Z</news:publication_date>
-      <news:title><![CDATA[Florida SouthWestern State College using AI technology to prevent mass shootings]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/india-needs-an-innocence-movement-to-address-the-miscarriage-of-justice-mekpgev2</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-08-21T01:00:00.000Z</news:publication_date>
-      <news:title><![CDATA[India needs an ‘innocence movement’ to address the miscarriage of justice]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/govt-outlines-use-of-ai-and-drones-against-narcotics-mekpgimw</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-08-21T00:44:13.000Z</news:publication_date>
-      <news:title><![CDATA[Govt outlines use of AI and drones against narcotics]]></news:title>
-    </news:news>
-  </url>
-<<<<<<< Updated upstream
-
-  <url>
-    <loc>https://newshubnow.in/article/googles-pixel-10-phones-raises-the-ante-on-artificial-intelligence-mekfzfoo</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-08-20T20:45:33.864Z</news:publication_date>
-      <news:title><![CDATA[Google's Pixel 10 phones raises the ante on artificial intelligence]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/israel-approves-settlement-plan-to-erase-idea-of-palestinian-state-mekfzbyu</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-08-20T20:45:29.046Z</news:publication_date>
-      <news:title><![CDATA[Israel approves settlement plan to erase idea of Palestinian state]]></news:title>
-    </news:news>
-  </url>
-=======
->>>>>>> Stashed changes
 </urlset>
