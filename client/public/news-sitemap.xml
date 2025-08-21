@@ -3,6 +3,42 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://newshubnow.in/article/us-tech-stock-stumble-shows-vulnerability-in-ai-trade-mekyj2yr</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-08-21T05:24:43.587Z</news:publication_date>
+      <news:title><![CDATA[US tech-stock stumble shows vulnerability in AI trade]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/mexico-city-mayor-says-police-have-arrested-13-in-connection-with-killings-of-her-staffers-mekyiy6m</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-08-21T05:24:37.390Z</news:publication_date>
+      <news:title><![CDATA[Mexico City mayor says police have arrested 13 in connection with killings of her staffers]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/hariharan-a-melodic-maestro-honoured-mekyixgs</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-08-21T05:13:54.000Z</news:publication_date>
+      <news:title><![CDATA[Hariharan: A Melodic Maestro Honoured]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://newshubnow.in/article/google-launches-pixel-10-phones-with-new-artificial-intelligence-features-meky1crm</loc>
     <news:news>
       <news:publication>
@@ -203,42 +239,6 @@
       </news:publication>
       <news:publication_date>2025-08-20T14:17:33.677Z</news:publication_date>
       <news:title><![CDATA[Israel calls up 60,000 reservists ahead of Gaza City offensive]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/jalalabad-renamed-as-parashurampuri-honoring-cultural-heritage-mek24lei</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-08-20T14:13:43.000Z</news:publication_date>
-      <news:title><![CDATA[Jalalabad Renamed as Parashurampuri: Honoring Cultural Heritage]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/indias-online-gaming-bill-a-new-era-of-regulation-and-e-sports-promotion-mek24h9h</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-08-20T14:11:16.000Z</news:publication_date>
-      <news:title><![CDATA[India's Online Gaming Bill: A New Era of Regulation and E-Sports Promotion]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/a-reflective-john-wall-retires-from-the-nba-and-pivots-to-tv-the-washington-post-mekpgfpc</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-08-20T02:23:58.000Z</news:publication_date>
-      <news:title><![CDATA[A reflective John Wall retires from the NBA and pivots to TV - The Washington Post]]></news:title>
     </news:news>
   </url>
 </urlset>
