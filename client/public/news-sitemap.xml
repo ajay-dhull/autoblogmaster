@@ -3,6 +3,18 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://newshubnow.in/article/india-advances-with-landmark-online-gaming-bill-2025-aiming-social-safety-and-industry-promotion-mekyobd5</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-08-21T05:26:44.000Z</news:publication_date>
+      <news:title><![CDATA[India Advances with Landmark Online Gaming Bill 2025 Aiming Social Safety and Industry Promotion]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://newshubnow.in/article/us-tech-stock-stumble-shows-vulnerability-in-ai-trade-mekyj2yr</loc>
     <news:news>
       <news:publication>
@@ -23,6 +35,18 @@
       </news:publication>
       <news:publication_date>2025-08-21T05:24:37.390Z</news:publication_date>
       <news:title><![CDATA[Mexico City mayor says police have arrested 13 in connection with killings of her staffers]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/viral-video-japanese-lady-dons-saree-serves-indian-food-in-japan-social-media-reacts-glimpse-of-home-in-that-plate-mekyogab</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-08-21T05:20:31.000Z</news:publication_date>
+      <news:title><![CDATA[Viral video: Japanese lady dons saree, serves Indian food in Japan; social media reacts, Glimpse of home in that plate]]></news:title>
     </news:news>
   </url>
 
@@ -215,30 +239,6 @@
       </news:publication>
       <news:publication_date>2025-08-20T20:21:00.000Z</news:publication_date>
       <news:title><![CDATA[Accompanied by NDA netas & with PM as first proposer, C P Radhakrishnan files papers]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/buddhist-monk-from-bangladesh-who-applied-for-citizenship-under-caa-booked-for-holding-fake-indian-passport-mekfzgn9</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-08-20T19:43:00.000Z</news:publication_date>
-      <news:title><![CDATA[Buddhist monk from Bangladesh who applied for citizenship under CAA booked for holding fake Indian passport]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/israel-calls-up-60000-reservists-ahead-of-gaza-city-offensive-mek24gkt</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-08-20T14:17:33.677Z</news:publication_date>
-      <news:title><![CDATA[Israel calls up 60,000 reservists ahead of Gaza City offensive]]></news:title>
     </news:news>
   </url>
 </urlset>
