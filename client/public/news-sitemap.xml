@@ -3,6 +3,30 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://newshubnow.in/article/rupee-rises-with-foreign-banks-keeping-up-dollar-sales-confounding-market-mekz6sri</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-08-21T05:40:41.000Z</news:publication_date>
+      <news:title><![CDATA[Rupee rises with foreign banks keeping up dollar sales, confounding market]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/sensex-registers-longest-winning-streak-since-april-up-2000-points-in-6-sessions-can-it-hit-a-record-high-soon-mekz6x2n</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-08-21T05:38:53.000Z</news:publication_date>
+      <news:title><![CDATA[Sensex registers longest winning streak since April, up 2,000 points in 6 sessions. Can it hit a record high soon?]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://newshubnow.in/article/india-advances-with-landmark-online-gaming-bill-2025-aiming-social-safety-and-industry-promotion-mekyobd5</loc>
     <news:news>
       <news:publication>
@@ -215,30 +239,6 @@
       </news:publication>
       <news:publication_date>2025-08-20T20:34:00.000Z</news:publication_date>
       <news:title><![CDATA[Cyber experts warn of China, Pakistan intrusions, call for robust measures]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/fencing-on-myanmar-border-security-to-be-robust-dgar-mekfv38j</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-08-20T20:32:00.000Z</news:publication_date>
-      <news:title><![CDATA[Fencing on, Myanmar border security to be robust: DGAR]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/accompanied-by-nda-netas-with-pm-as-first-proposer-c-p-radhakrishnan-files-papers-mekfzcbp</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-08-20T20:21:00.000Z</news:publication_date>
-      <news:title><![CDATA[Accompanied by NDA netas & with PM as first proposer, C P Radhakrishnan files papers]]></news:title>
     </news:news>
   </url>
 </urlset>
