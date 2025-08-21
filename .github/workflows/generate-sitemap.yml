@@ -1,4 +1,4 @@
-name: Generate and Deploy Sitemaps
+name: Generate Sitemaps Daily
 
 on:
   schedule:
@@ -10,40 +10,59 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
+      # 1. Checkout the repository
       - name: Checkout repository
         uses: actions/checkout@v3
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
 
+      # 2. Setup Node.js
       - name: Setup Node.js
         uses: actions/setup-node@v3
         with:
           node-version: 18
 
+      # 3. Install dependencies
       - name: Install dependencies
         run: npm install
 
+      # 4. Generate the sitemap
       - name: Generate sitemap
         run: node scripts/generate-sitemap.mjs
 
+      # 5. Commit and push updated sitemap (with stash fix)
       - name: Commit and push updated sitemap
         run: |
           git config --global user.name "Sitemap Bot"
           git config --global user.email "bot@newshubnow.in"
+
+          # Stage files
+          git add client/public/sitemap.xml client/public/news-sitemap.xml || echo "No sitemap files"
+
+          # Stash changes to avoid conflict with remote
+          git stash || echo "Nothing to stash"
+
+          # Pull latest changes
           git pull origin main --rebase
+
+          # Re-apply stashed changes
+          git stash pop || echo "Nothing to apply"
+
+          # Commit and push
           git add client/public/sitemap.xml client/public/news-sitemap.xml || echo "No sitemap files"
           git commit -m "🔁 auto: update sitemap [skip ci]" || echo "No changes to commit"
           git push origin main
 
-      - name: Deploy only sitemap files to FTP (Hostinger)
-        uses: SamKirkland/FTP-Deploy-Action@v4.3.3
+      # 6. Deploy updated sitemap to Hostinger via FTP
+      - name: Deploy to FTP (Hostinger)
+        uses: samkirkland/ftp-deploy-action@v4.3.3
         with:
           server: ${{ secrets.FTP_HOST }}
           username: ${{ secrets.FTP_USERNAME }}
           password: ${{ secrets.FTP_PASSWORD }}
-          server-dir: /public_html/
-          local-dir: ./client/public/
+          server-dir: public_html/        # Main Hostinger public_html directory
+          local-dir: client/public/       # Only upload sitemap files from here
           exclude: |
-            *
-            !sitemap.xml
-            !news-sitemap.xml
+            **/.git*
+            **/.github*
+            **/node_modules/**
