@@ -3,6 +3,21 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+<<<<<<< Updated upstream
+=======
+    <loc>https://newshubnow.in/article/justice-reddys-bid-for-vice-presidency-a-battle-of-ideologies-mekzy00e</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-08-21T06:01:53.000Z</news:publication_date>
+      <news:title><![CDATA[Justice Reddy's Bid for Vice Presidency: A Battle of Ideologies]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+>>>>>>> Stashed changes
     <loc>https://newshubnow.in/article/with-10-commission-on-ukraine-weapon-sales-trump-is-real-profiteer-of-russias-war-not-india-mekzuulp</loc>
     <news:news>
       <news:publication>
@@ -27,6 +42,21 @@
   </url>
 
   <url>
+<<<<<<< Updated upstream
+=======
+    <loc>https://newshubnow.in/article/--mekzy5sf</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-08-21T05:55:46.000Z</news:publication_date>
+      <news:title><![CDATA["एकाच मार्गावर अडकून चालणार नाही", जयशंकर यांचं पुतिन सरकारला आवाहन; मॉस्कोमधील भाषणात म्हणाले…]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+>>>>>>> Stashed changes
     <loc>https://newshubnow.in/article/on-fbis-most-wanted-list-us-woman-accused-of-killing-son-arrested-in-india-mekzmzsw</loc>
     <news:news>
       <news:publication>
@@ -217,6 +247,7 @@
       <news:title><![CDATA[Govt outlines use of AI and drones against narcotics]]></news:title>
     </news:news>
   </url>
+<<<<<<< Updated upstream
 
   <url>
     <loc>https://newshubnow.in/article/googles-pixel-10-phones-raises-the-ante-on-artificial-intelligence-mekfzfoo</loc>
@@ -241,4 +272,6 @@
       <news:title><![CDATA[Israel approves settlement plan to erase idea of Palestinian state]]></news:title>
     </news:news>
   </url>
+=======
+>>>>>>> Stashed changes
 </urlset>
