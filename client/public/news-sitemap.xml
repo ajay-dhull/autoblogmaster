@@ -3,6 +3,18 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://newshubnow.in/article/xi-jinping-visits-tibet-as-dalai-lamas-succession-looms-mel0dmwj</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-08-21T06:16:28.723Z</news:publication_date>
+      <news:title><![CDATA[Xi Jinping Visits Tibet as Dalai Lama’s Succession Looms]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://newshubnow.in/article/palestinians-flee-gaza-city-as-israel-says-first-stages-of-assault-have-begun-mel088j4</loc>
     <news:news>
       <news:publication>
@@ -11,6 +23,30 @@
       </news:publication>
       <news:publication_date>2025-08-21T06:12:16.816Z</news:publication_date>
       <news:title><![CDATA[Palestinians flee Gaza City as Israel says first stages of assault have begun]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/yoyo-test-no-longer-only-benchmark-in-indian-cricket-gautam-gambhirs-recruit-introduces-bronco-test-mel0dqzn</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-08-21T06:12:08.000Z</news:publication_date>
+      <news:title><![CDATA[YoYo Test no longer only benchmark in Indian cricket, Gautam Gambhir's recruit introduces Bronco Test]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/india-surpasses-china-in-smartphone-exports-to-us-mel0dmuj</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-08-21T06:10:08.000Z</news:publication_date>
+      <news:title><![CDATA[India surpasses China in smartphone exports to US]]></news:title>
     </news:news>
   </url>
 
@@ -203,42 +239,6 @@
       </news:publication>
       <news:publication_date>2025-08-21T05:20:31.000Z</news:publication_date>
       <news:title><![CDATA[Viral video: Japanese lady dons saree, serves Indian food in Japan; social media reacts, Glimpse of home in that plate]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/hariharan-a-melodic-maestro-honoured-mekyixgs</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-08-21T05:13:54.000Z</news:publication_date>
-      <news:title><![CDATA[Hariharan: A Melodic Maestro Honoured]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/google-launches-pixel-10-phones-with-new-artificial-intelligence-features-meky1crm</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-08-21T05:10:56.482Z</news:publication_date>
-      <news:title><![CDATA[Google launches Pixel 10 phones with new artificial intelligence features]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/massacres-in-eastern-congo-cast-doubt-on-us-mediated-peace-deal-meky17r6</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-08-21T05:10:49.986Z</news:publication_date>
-      <news:title><![CDATA[Massacres in eastern Congo cast doubt on U.S. mediated peace deal]]></news:title>
     </news:news>
   </url>
 </urlset>
