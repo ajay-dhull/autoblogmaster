@@ -3,6 +3,42 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://newshubnow.in/article/with-10-commission-on-ukraine-weapon-sales-trump-is-real-profiteer-of-russias-war-not-india-mekzuulp</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-08-21T06:00:20.000Z</news:publication_date>
+      <news:title><![CDATA[With 10% commission on Ukraine weapon sales, Trump is real profiteer of Russia's war - not India]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/haryana-human-rights-panel-acts-on-the-indian-express-report-on-bonded-labour-of-bihar-teen-seeks-medical-report-mekzuykj</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-08-21T05:59:29.000Z</news:publication_date>
+      <news:title><![CDATA[Haryana human rights panel acts on The Indian Express report on bonded labour of Bihar teen, seeks medical report]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/on-fbis-most-wanted-list-us-woman-accused-of-killing-son-arrested-in-india-mekzmzsw</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-08-21T05:43:23.000Z</news:publication_date>
+      <news:title><![CDATA[On FBI’s ‘Most Wanted’ list: US woman accused of killing son arrested in India]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://newshubnow.in/article/rupee-rises-with-foreign-banks-keeping-up-dollar-sales-confounding-market-mekz6sri</loc>
     <news:news>
       <news:publication>
@@ -23,6 +59,18 @@
       </news:publication>
       <news:publication_date>2025-08-21T05:38:53.000Z</news:publication_date>
       <news:title><![CDATA[Sensex registers longest winning streak since April, up 2,000 points in 6 sessions. Can it hit a record high soon?]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/kerala-govts-broadband-service-gets-major-upgrade-with-ott-services-national-ambition-follows-mekzn4c4</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-08-21T05:27:36.000Z</news:publication_date>
+      <news:title><![CDATA[Kerala govt’s broadband service gets major upgrade with OTT services, national ambition follows]]></news:title>
     </news:news>
   </url>
 
@@ -191,54 +239,6 @@
       </news:publication>
       <news:publication_date>2025-08-20T20:45:29.046Z</news:publication_date>
       <news:title><![CDATA[Israel approves settlement plan to erase idea of Palestinian state]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/us-tech-stocks-hit-by-concerns-over-future-of-ai-boom-mekfv8mw</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-08-20T20:42:18.105Z</news:publication_date>
-      <news:title><![CDATA[US tech stocks hit by concerns over future of AI boom]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/israeli-military-says-first-stages-of-assault-on-gaza-city-have-begun-mekfv4k6</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-08-20T20:42:12.822Z</news:publication_date>
-      <news:title><![CDATA[Israeli military says first stages of assault on Gaza City have begun]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/ai-tools-every-professional-should-know-mekfv2za</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-08-20T20:42:10.774Z</news:publication_date>
-      <news:title><![CDATA[AI Tools Every Professional Should Know]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/cyber-experts-warn-of-china-pakistan-intrusions-call-for-robust-measures-mekfv7cg</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-08-20T20:34:00.000Z</news:publication_date>
-      <news:title><![CDATA[Cyber experts warn of China, Pakistan intrusions, call for robust measures]]></news:title>
     </news:news>
   </url>
 </urlset>
