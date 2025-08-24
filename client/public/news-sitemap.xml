@@ -3,6 +3,78 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://newshubnow.in/article/europe-to-halt-postal-services-to-us-after-tax-deal-scrapped-meoqa8l9</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-08-23T20:44:58.749Z</news:publication_date>
+      <news:title><![CDATA[Europe to halt postal services to US after tax deal scrapped]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/after-gaza-famine-report-us-is-mostly-silent-and-israel-is-defiant-meoq7vvg</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-08-23T20:43:08.956Z</news:publication_date>
+      <news:title><![CDATA[After Gaza Famine Report, U.S. Is Mostly Silent and Israel Is Defiant]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/janhvi-kapoor-defends-malayali-accent-in-param-sundari-role-of-course-im-not-a-malayali-meoq7z1a</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-08-23T20:33:17.000Z</news:publication_date>
+      <news:title><![CDATA[Janhvi Kapoor defends Malayali accent in ‘Param Sundari’ role: ‘Of course, I’m not a Malayali…’]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/you-dont-like-it-you-dont-buy-jaishankars-jibe-at-us-over-russian-oil-purchase-meoq7ue0</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-08-23T20:27:36.000Z</news:publication_date>
+      <news:title><![CDATA['You don't like it, you don't buy': Jaishankar's jibe at US over Russian oil purchase]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/ed-arrests-cong-mla-in-betting-gambling-case-meoqa76q</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-08-23T20:23:00.000Z</news:publication_date>
+      <news:title><![CDATA[ED arrests Cong MLA in betting, gambling case]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/indian-naval-ship-kadmatt-completes-port-call-at-surabaya-indonesia-meoqabpl</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-08-23T20:15:03.000Z</news:publication_date>
+      <news:title><![CDATA[Indian Naval Ship Kadmatt completes port call at Surabaya, Indonesia]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://newshubnow.in/article/opinion-hhs-is-using-ai-effectively-someones-hallucinating-menxjb1g</loc>
     <news:news>
       <news:publication>
@@ -167,78 +239,6 @@
       </news:publication>
       <news:publication_date>2025-08-23T00:30:00.000Z</news:publication_date>
       <news:title><![CDATA[5 Nauvari saree looks inspired by Bollywood actresses for Ganesh Puja]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/good-as-gold-trove-of-2000-year-old-treasure-pulled-from-underwater-city-off-coast-of-egypt-menawgb0</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-08-22T20:46:35.148Z</news:publication_date>
-      <news:title><![CDATA[Good as gold! Trove of 2,000-year-old treasure pulled from underwater city off coast of Egypt]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/editors-notebook-ai-is-here-to-stay-and-its-changing-by-the-minute-menau1lu</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-08-22T20:44:42.786Z</news:publication_date>
-      <news:title><![CDATA[Editor's Notebook: AI is here to stay, and it’s changing by the minute]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/gaza-city-officially-in-famine-with-hunger-spreading-says-global-hunger-monitor-menatss2</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-08-22T20:44:31.346Z</news:publication_date>
-      <news:title><![CDATA[Gaza City officially in famine, with hunger spreading, says global hunger monitor]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/india-beat-bangladesh-2-0-for-second-straight-win-in-saff-u-17-womens-championship-menawfml</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-08-22T20:35:26.000Z</news:publication_date>
-      <news:title><![CDATA[India beat Bangladesh 2-0 for second straight win in SAFF U-17 Women’s Championship]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/sebi-chief-tuhin-kanta-pandey-eyes-vast-headroom-for-growth-in-indian-mutual-fund-industry-heres-what-he-said-menawjo7</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-08-22T19:54:47.000Z</news:publication_date>
-      <news:title><![CDATA[Sebi Chief Tuhin Kanta Pandey eyes ‘vast headroom for growth’ in Indian mutual fund industry - Here's what he said]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/newsom-signs-california-redistricting-measures-in-response-to-texas-bill-axios-menxj57f</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-08-22T06:00:00.000Z</news:publication_date>
-      <news:title><![CDATA[Newsom signs California redistricting measures in response to Texas bill - Axios]]></news:title>
     </news:news>
   </url>
 </urlset>
