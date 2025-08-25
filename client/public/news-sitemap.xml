@@ -3,6 +3,138 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://newshubnow.in/article/4-palestinians-shot-dead-by-israeli-forces-while-seeking-aid-near-gaza-city-witnesses-say-meqfcoc6</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-08-25T01:14:29.046Z</news:publication_date>
+      <news:title><![CDATA[4 Palestinians shot dead by Israeli forces while seeking aid near Gaza City, witnesses say]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/noida-dowry-death-husband-sent-to-14-day-custody-showed-no-remorse-10-points-meqfcr5t</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-08-25T00:55:23.000Z</news:publication_date>
+      <news:title><![CDATA[Noida dowry death: Husband sent to 14-day custody, showed ‘no remorse’ | 10 points]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/stocks-in-news-indigo-max-healthcare-idbi-bank-indian-hotels-idbi-bank-meqfcvfu</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-08-25T00:41:00.000Z</news:publication_date>
+      <news:title><![CDATA[Stocks in news: IndiGo, Max Healthcare, IDBI Bank, Indian Hotels, IDBI Bank]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/ukraine-and-russia-trade-drone-strikes-on-kyivs-independence-day-meq5qthi</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-08-24T20:45:32.742Z</news:publication_date>
+      <news:title><![CDATA[Ukraine and Russia trade drone strikes on Kyiv’s independence day]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/youtube-secretly-used-ai-to-edit-peoples-videos-the-results-could-bend-reality-meq5onpt</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-08-24T20:43:51.953Z</news:publication_date>
+      <news:title><![CDATA[YouTube secretly used AI to edit people's videos. The results could bend reality]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/amid-gaza-famine-palestinian-girl-struggles-to-survive-meq5ojrg</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-08-24T20:43:46.828Z</news:publication_date>
+      <news:title><![CDATA[Amid Gaza famine, Palestinian girl struggles to survive]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/jurassic-marvel-indias-1st-phytosaur-fossil-unearthed-from-jaisalmer-village-meq5qsns</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-08-24T20:39:00.000Z</news:publication_date>
+      <news:title><![CDATA[Jurassic marvel: India’s 1st phytosaur fossil unearthed from Jaisalmer village]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/arrested-congress-mla-to-be-quizzed-on-casinos-abroad-tied-to-politicians-meq5oj7s</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-08-24T20:33:00.000Z</news:publication_date>
+      <news:title><![CDATA[Arrested Congress MLA to be quizzed on casinos abroad tied to politicians]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/online-gaming-bill-bcci-likely-to-lose-dream-11-as-team-india-title-sponsor-meq5on7o</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-08-24T20:12:25.000Z</news:publication_date>
+      <news:title><![CDATA[Online Gaming Bill: BCCI Likely to Lose Dream 11 as Team India Title Sponsor]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/india-will-buy-oil-where-it-gets-best-deal-indian-envoy-to-russia-meq5qwyg</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-08-24T20:02:49.000Z</news:publication_date>
+      <news:title><![CDATA[India will Buy Oil Where it Gets Best Deal: Indian Envoy to Russia]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/shilo-sanders-is-ejected-from-preseason-finale-for-throwing-a-punch-nbc-sports-meqfcpbj</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-08-24T00:49:58.000Z</news:publication_date>
+      <news:title><![CDATA[Shilo Sanders is ejected from preseason finale for throwing a punch - NBC Sports]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://newshubnow.in/article/europe-to-halt-postal-services-to-us-after-tax-deal-scrapped-meoqa8l9</loc>
     <news:news>
       <news:publication>
@@ -11,234 +143,6 @@
       </news:publication>
       <news:publication_date>2025-08-23T20:44:58.749Z</news:publication_date>
       <news:title><![CDATA[Europe to halt postal services to US after tax deal scrapped]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/after-gaza-famine-report-us-is-mostly-silent-and-israel-is-defiant-meoq7vvg</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-08-23T20:43:08.956Z</news:publication_date>
-      <news:title><![CDATA[After Gaza Famine Report, U.S. Is Mostly Silent and Israel Is Defiant]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/janhvi-kapoor-defends-malayali-accent-in-param-sundari-role-of-course-im-not-a-malayali-meoq7z1a</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-08-23T20:33:17.000Z</news:publication_date>
-      <news:title><![CDATA[Janhvi Kapoor defends Malayali accent in ‘Param Sundari’ role: ‘Of course, I’m not a Malayali…’]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/you-dont-like-it-you-dont-buy-jaishankars-jibe-at-us-over-russian-oil-purchase-meoq7ue0</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-08-23T20:27:36.000Z</news:publication_date>
-      <news:title><![CDATA['You don't like it, you don't buy': Jaishankar's jibe at US over Russian oil purchase]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/ed-arrests-cong-mla-in-betting-gambling-case-meoqa76q</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-08-23T20:23:00.000Z</news:publication_date>
-      <news:title><![CDATA[ED arrests Cong MLA in betting, gambling case]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/indian-naval-ship-kadmatt-completes-port-call-at-surabaya-indonesia-meoqabpl</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-08-23T20:15:03.000Z</news:publication_date>
-      <news:title><![CDATA[Indian Naval Ship Kadmatt completes port call at Surabaya, Indonesia]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/opinion-hhs-is-using-ai-effectively-someones-hallucinating-menxjb1g</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-08-23T07:20:12.964Z</news:publication_date>
-      <news:title><![CDATA[Opinion | HHS is using AI effectively? Someone’s hallucinating.]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/e-commerce-business-start-to-scale-menxj4qw</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-08-23T07:20:04.808Z</news:publication_date>
-      <news:title><![CDATA[E-commerce Business: Start to Scale]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/malaysia-sets-sights-on-asia-cup-glory-in-bihar-2025-menxj5lb</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-08-23T07:17:56.000Z</news:publication_date>
-      <news:title><![CDATA[Malaysia Sets Sights on Asia Cup Glory in Bihar 2025]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/india-will-build-its-own-space-station-pm-modi-on-national-space-day-menxja56</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-08-23T07:17:23.000Z</news:publication_date>
-      <news:title><![CDATA['India will build its own space station': PM Modi on National Space Day]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/trump-told-orbn-hes-very-angry-at-ukraine-over-pipeline-attack-menvon0w</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-08-23T06:28:22.544Z</news:publication_date>
-      <news:title><![CDATA[Trump told Orbán he’s ‘very angry’ at Ukraine over pipeline attack]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/indias-space-ambitions-soar-as-pm-modi-celebrates-national-space-day-menvontr</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-08-23T06:16:13.000Z</news:publication_date>
-      <news:title><![CDATA[India's Space Ambitions Soar as PM Modi Celebrates National Space Day]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/will-have-our-own-space-station-pm-modi-outlines-indias-ambitions-on-national-space-day-menvosag</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-08-23T06:06:46.000Z</news:publication_date>
-      <news:title><![CDATA['Will Have Our Own Space Station': PM Modi Outlines India’s Ambitions On National Space Day]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/ancient-artifacts-of-sunken-city-likely-destroyed-by-earthquake-or-tsunami-plucked-from-seafloor-menu3ura</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-08-23T05:44:13.175Z</news:publication_date>
-      <news:title><![CDATA[Ancient artifacts of sunken city likely destroyed by earthquake or tsunami plucked from seafloor]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/after-indian-origin-trucker-killed-3-in-florida-work-visa-hurdles-for-foreign-drivers-revealed-menu3zjh</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-08-23T05:38:28.000Z</news:publication_date>
-      <news:title><![CDATA[After Indian-origin trucker killed 3 in Florida, work visa hurdles for foreign drivers revealed]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/delhi-protests-erupt-at-rohini-abc-centre-over-alleged-cruelty-to-stray-dogs-menu3vqf</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-08-23T05:37:41.000Z</news:publication_date>
-      <news:title><![CDATA[Delhi: Protests erupt at Rohini ABC centre over alleged cruelty to stray dogs]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/opinion-ai-may-be-just-kind-of-ordinary-menka9va</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-08-23T01:09:16.534Z</news:publication_date>
-      <news:title><![CDATA[Opinion | A.I. May Be Just Kind of Ordinary]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/how-israels-policies-created-famine-in-gaza-menka0z9</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-08-23T01:09:05.013Z</news:publication_date>
-      <news:title><![CDATA[How Israel's policies created famine in Gaza]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/trump-nominates-close-aide-sergio-gor-as-us-ambassador-to-india-menka0mi</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-08-23T00:47:45.000Z</news:publication_date>
-      <news:title><![CDATA[Trump Nominates Close Aide Sergio Gor As US Ambassador To India]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/5-nauvari-saree-looks-inspired-by-bollywood-actresses-for-ganesh-puja-menka5e6</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-08-23T00:30:00.000Z</news:publication_date>
-      <news:title><![CDATA[5 Nauvari saree looks inspired by Bollywood actresses for Ganesh Puja]]></news:title>
     </news:news>
   </url>
 </urlset>
