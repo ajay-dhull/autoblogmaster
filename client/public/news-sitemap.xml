@@ -3,6 +3,162 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://newshubnow.in/article/us-hosts-talks-on-post-war-gaza-as-israel-calls-gaza-city-evacuation-inevitable-meuqnwr7</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-08-28T01:42:13.651Z</news:publication_date>
+      <news:title><![CDATA[US hosts talks on post-war Gaza as Israel calls Gaza City evacuation ‘inevitable’]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/express-view-moving-past-tariff-meuqnwh5</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-08-28T01:38:41.000Z</news:publication_date>
+      <news:title><![CDATA[Express View: Moving past tariff]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/indian-stock-market-8-key-things-that-changed-for-market-overnight-gift-nifty-trump-tariffs-to-nvidia-q2-results-meuqo0hy</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-08-28T01:35:13.000Z</news:publication_date>
+      <news:title><![CDATA[Indian stock market: 8 key things that changed for market overnight - Gift Nifty, Trump Tariffs to Nvidia Q2 results]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/nvidias-latest-quarter-shows-signs-of-ai-chip-sales-slump-amid-concerns-of-tech-bubble-meupiodh</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-08-28T01:10:09.893Z</news:publication_date>
+      <news:title><![CDATA[Nvidia’s latest quarter shows signs of AI chip sales slump amid concerns of tech bubble]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/tony-blair-attends-white-house-meeting-with-trump-on-postwar-gaza-meupijwu</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-08-28T01:10:04.110Z</news:publication_date>
+      <news:title><![CDATA[Tony Blair attends White House meeting with Trump on postwar Gaza]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/greenville-county-schools-explores-ai-technology-in-the-classroom-meug39iv</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-08-27T20:46:14.263Z</news:publication_date>
+      <news:title><![CDATA[Greenville County Schools explores AI technology in the classroom]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/hussam-al-masri-the-reuters-journalist-killed-by-israeli-fire-in-gaza-meug35im</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-08-27T20:46:09.070Z</news:publication_date>
+      <news:title><![CDATA[Hussam al-Masri, the Reuters journalist killed by Israeli fire in Gaza]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/the-ai-spending-frenzy-is-propping-up-the-real-economy-too-meug17nl</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-08-27T20:44:38.529Z</news:publication_date>
+      <news:title><![CDATA[The A.I. Spending Frenzy Is Propping Up the Real Economy, Too]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/donald-trump-holds-white-house-talks-on-postwar-plan-for-gaza-meug0vbb</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-08-27T20:44:22.535Z</news:publication_date>
+      <news:title><![CDATA[Donald Trump holds White House talks on postwar plan for Gaza]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/as-tariffs-bite-farms-mills-diverge-on-import-duty-cut-meug0vmh</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-08-27T20:32:05.000Z</news:publication_date>
+      <news:title><![CDATA[As tariffs bite, farms, mills diverge on import duty cut]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/india-invites-russian-investments-in-space-ventures-meug359z</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-08-27T20:31:05.000Z</news:publication_date>
+      <news:title><![CDATA[India Invites Russian Investments in Space Ventures]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/--meug0zc8</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-08-27T19:59:24.000Z</news:publication_date>
+      <news:title><![CDATA[एका मराठी स्त्रीच्या कर्तृत्वाची झेप…]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/can-indian-job-market-survive-donald-trumps-tariff-war-which-sectors-likely-to-take-a-hit-meug39oc</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-08-27T19:40:36.000Z</news:publication_date>
+      <news:title><![CDATA[Can Indian Job Market Survive Donald Trump's Tariff War? Which Sectors Likely to Take a Hit]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://newshubnow.in/article/behind-the-controversial-ai-tech-used-to-inspect-rental-vehicles-for-damages-metgaukk</loc>
     <news:news>
       <news:publication>
@@ -83,162 +239,6 @@
       </news:publication>
       <news:publication_date>2025-08-27T01:10:18.321Z</news:publication_date>
       <news:title><![CDATA[IDF claims hospital strike was aimed at Hamas camera, as hundreds of thousands protest Gaza war in Israel]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/clock-is-ticking-india-braces-for-50-tariff-hit-as-donald-trumps-trade-levies-loom-10-points-meta302w</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-08-27T00:56:59.000Z</news:publication_date>
-      <news:title><![CDATA[Clock is ticking! India braces for 50% tariff hit as Donald Trump's trade levies loom : 10 points]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/can-ais-suffer-big-tech-and-users-grapple-with-one-of-most-unsettling-questions-of-our-times-met0nsbr</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-08-26T20:46:31.719Z</news:publication_date>
-      <news:title><![CDATA[Can AIs suffer? Big tech and users grapple with one of most unsettling questions of our times]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/thousands-demonstrate-block-roads-on-nationwide-day-of-protests-for-hostages-met0nnuv</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-08-26T20:46:25.927Z</news:publication_date>
-      <news:title><![CDATA[Thousands demonstrate, block roads on nationwide day of protests for hostages]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/melania-trump-to-lead-effort-to-educate-next-generation-about-ai-technology-met0ki3s</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-08-26T20:43:58.504Z</news:publication_date>
-      <news:title><![CDATA[Melania Trump to lead effort to educate next generation about AI technology]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/he-loved-his-work-deeply-profiles-of-five-palestinian-journalists-killed-in-gaza-airstrike-met0kcf9</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-08-26T20:43:51.141Z</news:publication_date>
-      <news:title><![CDATA[‘He loved his work deeply’: profiles of five Palestinian journalists killed in Gaza airstrike]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/half-of-pregnant-lactating-women-in-bhubaneswar-slums-use-smokeless-tobacco-on-waking-met0no7m</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-08-26T20:37:00.000Z</news:publication_date>
-      <news:title><![CDATA[Half of pregnant, lactating women in Bhubaneswar slums use smokeless tobacco on waking]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/heads-going-to-spin-trump-reiterates-tariff-warning-forced-quick-resolution-between-india-pak-recalls-pressuring-pm-modi-over-nuclear-fears-met0kchj</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-08-26T20:24:00.000Z</news:publication_date>
-      <news:title><![CDATA[‘Head’s going to spin’: Trump reiterates tariff warning forced quick resolution between India, Pak; recalls pressuring PM Modi over nuclear fears]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/from-wednesday-steep-us-tariffs-to-hit-indian-exports-as-trade-tensions-rise-met0kgel</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-08-26T19:54:47.000Z</news:publication_date>
-      <news:title><![CDATA[From Wednesday, steep US tariffs to hit Indian exports as trade tensions rise]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/us-issues-notification-to-hit-india-with-50-tariffs-met0nscz</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-08-26T19:54:24.000Z</news:publication_date>
-      <news:title><![CDATA[US issues notification to hit India with 50% tariffs]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/elon-musks-xai-sues-apple-and-openai-over-claims-it-is-being-shut-out-meruq816</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-08-26T01:12:41.514Z</news:publication_date>
-      <news:title><![CDATA[Elon Musk’s xAI Sues Apple and OpenAI Over Claims It Is Being Shut Out]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/hezbollah-chief-rejects-disarmament-demands-israel-comply-with-ceasefire-meruq303</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-08-26T01:12:34.995Z</news:publication_date>
-      <news:title><![CDATA[Hezbollah chief rejects disarmament, demands Israel comply with ceasefire]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/hdfc-bank-shares-to-trade-ex-bonus-today-share-price-to-halve-check-allotment-date-meruq3zd</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-08-26T00:54:34.000Z</news:publication_date>
-      <news:title><![CDATA[HDFC Bank Shares To Trade Ex-Bonus Today, Share Price To Halve - Check Allotment Date]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/trump-meets-with-south-korean-leader-after-public-blast-the-washington-post-meta2zyn</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-08-26T00:48:39.000Z</news:publication_date>
-      <news:title><![CDATA[Trump meets with South Korean leader after public blast - The Washington Post]]></news:title>
     </news:news>
   </url>
 </urlset>
