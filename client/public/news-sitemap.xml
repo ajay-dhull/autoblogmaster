@@ -3,6 +3,126 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://newshubnow.in/article/dod-official-says-ai-other-innovations-will-transform-future-warfighting-mew4yavk</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-08-29T01:09:59.312Z</news:publication_date>
+      <news:title><![CDATA[DOD Official Says AI, Other Innovations Will Transform Future Warfighting]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/ranking-member-shaheen-senator-ernst-representative-wilson-statement-on-israeli-strikes-in-damascus-mew4y26e</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-08-29T01:09:48.038Z</news:publication_date>
+      <news:title><![CDATA[Ranking Member Shaheen, Senator Ernst, Representative Wilson Statement on Israeli Strikes in Damascus]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/school-enrolment-fell-by-11mn-in-2024-2025-govt-data-mew4xzbk</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-08-29T01:06:16.000Z</news:publication_date>
+      <news:title><![CDATA[School enrolment fell by 1.1mn in 2024-2025: Govt data]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/ai-semiconductors-investments-whats-on-agenda-during-pm-modis-japan-visit-mew4y30c</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-08-29T00:40:11.000Z</news:publication_date>
+      <news:title><![CDATA[AI, semiconductors, investments: What's on agenda during PM Modi's Japan visit]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/israeli-forces-raid-former-air-defence-base-near-syrian-capital-mevvkk1j</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-08-28T20:47:21.463Z</news:publication_date>
+      <news:title><![CDATA[Israeli forces raid former air defence base near Syrian capital]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/europeans-launch-un-sanctions-process-against-iran-drawing-tehran-ire-mevvgddn</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-08-28T20:44:06.204Z</news:publication_date>
+      <news:title><![CDATA[Europeans launch UN sanctions process against Iran, drawing Tehran ire]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/india-hopes-to-resume-us-trade-discussions-mevvgd2y</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-08-28T20:36:55.000Z</news:publication_date>
+      <news:title><![CDATA[India hopes to resume US trade discussions]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/stunning-themed-pandals-bring-alive-indias-shrines-in-nagpur-mevvkk3z</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-08-28T20:36:00.000Z</news:publication_date>
+      <news:title><![CDATA[Stunning themed pandals bring alive India’s shrines in Nagpur]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/army-chief-praises-indian-rlys-for-swift-support-during-op-sindoor-commends-16-officers-mevvkon7</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-08-28T20:32:00.000Z</news:publication_date>
+      <news:title><![CDATA[Army chief praises Indian Rlys for swift support during Op Sindoor, commends 16 officers]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/fda-issues-narrower-approvals-for-covid-boosters-revokes-emergency-authorizations-statnewscom-mew4xz3c</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-08-28T02:26:15.000Z</news:publication_date>
+      <news:title><![CDATA[FDA issues narrower approvals for Covid boosters, revokes emergency authorizations - statnews.com]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://newshubnow.in/article/us-hosts-talks-on-post-war-gaza-as-israel-calls-gaza-city-evacuation-inevitable-meuqnwr7</loc>
     <news:news>
       <news:publication>
@@ -107,138 +227,6 @@
       </news:publication>
       <news:publication_date>2025-08-27T20:44:22.535Z</news:publication_date>
       <news:title><![CDATA[Donald Trump holds White House talks on postwar plan for Gaza]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/as-tariffs-bite-farms-mills-diverge-on-import-duty-cut-meug0vmh</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-08-27T20:32:05.000Z</news:publication_date>
-      <news:title><![CDATA[As tariffs bite, farms, mills diverge on import duty cut]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/india-invites-russian-investments-in-space-ventures-meug359z</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-08-27T20:31:05.000Z</news:publication_date>
-      <news:title><![CDATA[India Invites Russian Investments in Space Ventures]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/--meug0zc8</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-08-27T19:59:24.000Z</news:publication_date>
-      <news:title><![CDATA[एका मराठी स्त्रीच्या कर्तृत्वाची झेप…]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/can-indian-job-market-survive-donald-trumps-tariff-war-which-sectors-likely-to-take-a-hit-meug39oc</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-08-27T19:40:36.000Z</news:publication_date>
-      <news:title><![CDATA[Can Indian Job Market Survive Donald Trump's Tariff War? Which Sectors Likely to Take a Hit]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/behind-the-controversial-ai-tech-used-to-inspect-rental-vehicles-for-damages-metgaukk</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-08-27T04:04:21.956Z</news:publication_date>
-      <news:title><![CDATA[Behind the controversial AI tech used to inspect rental vehicles for damages]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/personal-finance-budget-invest-and-build-wealth-metgarlo</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-08-27T04:04:18.108Z</news:publication_date>
-      <news:title><![CDATA[Personal Finance: Budget, Invest, and Build Wealth]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/deadly-israeli-attack-hits-crowded-gaza-market-metgapsd</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-08-27T04:04:15.757Z</news:publication_date>
-      <news:title><![CDATA[Deadly Israeli attack hits crowded Gaza market]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/ganesh-chaturthi-picks-sagar-doshi-suggests-nykaa-kaynes-technology-dr-reddys-shares-to-buy-27-august-metgaxfb</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-08-27T03:52:08.000Z</news:publication_date>
-      <news:title><![CDATA[Ganesh Chaturthi Picks: Sagar Doshi suggests Nykaa, Kaynes Technology, Dr Reddy's shares to buy - 27 August]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/us-tariffs-likely-to-affect-us-gdp-by-40-50-bps-fuelling-inflationary-pressures-sbi-report-metgat8o</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-08-27T03:48:28.000Z</news:publication_date>
-      <news:title><![CDATA[US tariffs likely to affect US GDP by 40-50 bps, fuelling inflationary pressures: SBI Report]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/report-offers-guidance-for-government-on-ai-adoption-meta39es</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-08-27T01:10:30.244Z</news:publication_date>
-      <news:title><![CDATA[Report Offers Guidance for Government on AI Adoption]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/idf-claims-hospital-strike-was-aimed-at-hamas-camera-as-hundreds-of-thousands-protest-gaza-war-in-israel-meta307l</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-08-27T01:10:18.321Z</news:publication_date>
-      <news:title><![CDATA[IDF claims hospital strike was aimed at Hamas camera, as hundreds of thousands protest Gaza war in Israel]]></news:title>
     </news:news>
   </url>
 </urlset>
