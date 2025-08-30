@@ -3,6 +3,138 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://newshubnow.in/article/exclusive-alibaba-creates-ai-chip-to-help-china-fill-nvidia-void-wsj-mexk9i5k</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-08-30T01:06:22.376Z</news:publication_date>
+      <news:title><![CDATA[Exclusive | Alibaba Creates AI Chip to Help China Fill Nvidia Void - WSJ]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/us-bars-palestinian-leader-abbas-from-un-as-allies-pledge-statehood-mexk9di8</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-08-30T01:06:16.352Z</news:publication_date>
+      <news:title><![CDATA[US bars Palestinian leader Abbas from UN as allies pledge statehood]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/us-will-proceed-with-probe-of-solar-imports-from-india-laos-and-indonesia-mexk9es7</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-08-30T00:59:00.000Z</news:publication_date>
+      <news:title><![CDATA[US will proceed with probe of solar imports from India, Laos and Indonesia]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/drdo-pune-develops-signal-star-naval-flare-for-kalvari-class-submarines-mexk9iko</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-08-30T00:46:01.000Z</news:publication_date>
+      <news:title><![CDATA[DRDO Pune develops signal star naval flare for Kalvari-class submarines]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/us-to-bar-some-palestinians-from-un-assembly-as-allies-pledge-statehood-mexax4ti</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-08-29T20:44:48.678Z</news:publication_date>
+      <news:title><![CDATA[US to bar some Palestinians from UN assembly as allies pledge statehood]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/ai-apocalypse-why-language-surrounding-tech-is-sounding-increasingly-religious-mexauy3y</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-08-29T20:43:06.670Z</news:publication_date>
+      <news:title><![CDATA[AI Apocalypse? Why Language Surrounding Tech Is Sounding Increasingly Religious]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/gaza-famine-likely-to-worsen-as-israel-ends-pauses-for-aid-deliveries-in-capital-mexautjz</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-08-29T20:43:00.767Z</news:publication_date>
+      <news:title><![CDATA[Gaza famine likely to worsen as Israel ends pauses for aid deliveries in capital]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/during-modis-visit-india-and-japan-ink-pact-for-chandrayaan-5-mission-to-explore-water-on-lunar-south-pole-mexautu9</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-08-29T20:05:00.000Z</news:publication_date>
+      <news:title><![CDATA[During Modi's visit, India and Japan ink pact for Chandrayaan-5 mission to explore water on lunar south pole]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/american-brand-globally-is-in-the-toilet-former-us-nsa-jake-sullivan-says-trumps-massive-trade-offensive-is-pushing-india-toward-china-mexax53n</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-08-29T20:04:00.000Z</news:publication_date>
+      <news:title><![CDATA[‘American brand globally is in the toilet’: Former US NSA Jake Sullivan says Trump’s ‘massive trade offensive’ is pushing India toward China]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/--mexauy5x</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-08-29T20:04:00.000Z</news:publication_date>
+      <news:title><![CDATA[काळाचे गणित : अधिकस्य अधिकम्]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/--mexaxa5m</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-08-29T19:38:00.000Z</news:publication_date>
+      <news:title><![CDATA[तळटीपा : स्थळ काळाला बांधून ठेवणारी कला…]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://newshubnow.in/article/dod-official-says-ai-other-innovations-will-transform-future-warfighting-mew4yavk</loc>
     <news:news>
       <news:publication>
@@ -51,6 +183,18 @@
   </url>
 
   <url>
+    <loc>https://newshubnow.in/article/heidi-gardner-exits-snl-after-eight-seasons-variety-mexk9dkm</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-08-28T22:15:00.000Z</news:publication_date>
+      <news:title><![CDATA[Heidi Gardner Exits ‘SNL’ After Eight Seasons - Variety]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://newshubnow.in/article/israeli-forces-raid-former-air-defence-base-near-syrian-capital-mevvkk1j</loc>
     <news:news>
       <news:publication>
@@ -71,162 +215,6 @@
       </news:publication>
       <news:publication_date>2025-08-28T20:44:06.204Z</news:publication_date>
       <news:title><![CDATA[Europeans launch UN sanctions process against Iran, drawing Tehran ire]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/india-hopes-to-resume-us-trade-discussions-mevvgd2y</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-08-28T20:36:55.000Z</news:publication_date>
-      <news:title><![CDATA[India hopes to resume US trade discussions]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/stunning-themed-pandals-bring-alive-indias-shrines-in-nagpur-mevvkk3z</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-08-28T20:36:00.000Z</news:publication_date>
-      <news:title><![CDATA[Stunning themed pandals bring alive India’s shrines in Nagpur]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/army-chief-praises-indian-rlys-for-swift-support-during-op-sindoor-commends-16-officers-mevvkon7</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-08-28T20:32:00.000Z</news:publication_date>
-      <news:title><![CDATA[Army chief praises Indian Rlys for swift support during Op Sindoor, commends 16 officers]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/fda-issues-narrower-approvals-for-covid-boosters-revokes-emergency-authorizations-statnewscom-mew4xz3c</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-08-28T02:26:15.000Z</news:publication_date>
-      <news:title><![CDATA[FDA issues narrower approvals for Covid boosters, revokes emergency authorizations - statnews.com]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/us-hosts-talks-on-post-war-gaza-as-israel-calls-gaza-city-evacuation-inevitable-meuqnwr7</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-08-28T01:42:13.651Z</news:publication_date>
-      <news:title><![CDATA[US hosts talks on post-war Gaza as Israel calls Gaza City evacuation ‘inevitable’]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/express-view-moving-past-tariff-meuqnwh5</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-08-28T01:38:41.000Z</news:publication_date>
-      <news:title><![CDATA[Express View: Moving past tariff]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/indian-stock-market-8-key-things-that-changed-for-market-overnight-gift-nifty-trump-tariffs-to-nvidia-q2-results-meuqo0hy</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-08-28T01:35:13.000Z</news:publication_date>
-      <news:title><![CDATA[Indian stock market: 8 key things that changed for market overnight - Gift Nifty, Trump Tariffs to Nvidia Q2 results]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/nvidias-latest-quarter-shows-signs-of-ai-chip-sales-slump-amid-concerns-of-tech-bubble-meupiodh</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-08-28T01:10:09.893Z</news:publication_date>
-      <news:title><![CDATA[Nvidia’s latest quarter shows signs of AI chip sales slump amid concerns of tech bubble]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/tony-blair-attends-white-house-meeting-with-trump-on-postwar-gaza-meupijwu</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-08-28T01:10:04.110Z</news:publication_date>
-      <news:title><![CDATA[Tony Blair attends White House meeting with Trump on postwar Gaza]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/greenville-county-schools-explores-ai-technology-in-the-classroom-meug39iv</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-08-27T20:46:14.263Z</news:publication_date>
-      <news:title><![CDATA[Greenville County Schools explores AI technology in the classroom]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/hussam-al-masri-the-reuters-journalist-killed-by-israeli-fire-in-gaza-meug35im</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-08-27T20:46:09.070Z</news:publication_date>
-      <news:title><![CDATA[Hussam al-Masri, the Reuters journalist killed by Israeli fire in Gaza]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/the-ai-spending-frenzy-is-propping-up-the-real-economy-too-meug17nl</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-08-27T20:44:38.529Z</news:publication_date>
-      <news:title><![CDATA[The A.I. Spending Frenzy Is Propping Up the Real Economy, Too]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/donald-trump-holds-white-house-talks-on-postwar-plan-for-gaza-meug0vbb</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-08-27T20:44:22.535Z</news:publication_date>
-      <news:title><![CDATA[Donald Trump holds White House talks on postwar plan for Gaza]]></news:title>
     </news:news>
   </url>
 </urlset>
