@@ -3,6 +3,114 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://newshubnow.in/article/texas-tech-university-offering-new-degree-focused-on-artificial-intelligence-mf1uqwt5</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-09-02T01:10:55.385Z</news:publication_date>
+      <news:title><![CDATA[Texas Tech University offering new degree focused on Artificial Intelligence]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/cm-fadnavis-inaugurates-metro-pedestrian-bridge-over-mutha-river-mf1uqwzj</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-09-02T01:08:14.000Z</news:publication_date>
+      <news:title><![CDATA[CM Fadnavis inaugurates metro pedestrian bridge over Mutha River]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/pm-modi-to-inaugurate-semicon-india-2500-representatives-participate-know-all-updates-mf1uqvsv</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-09-02T01:03:03.000Z</news:publication_date>
+      <news:title><![CDATA[Pm Modi To Inaugurate Semicon India; 2500 Representatives Participate Know All Updates]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/russia-suspected-of-jamming-navigation-on-eu-leaders-plane-above-bulgaria-mf1l8dmt</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-09-01T20:44:34.181Z</news:publication_date>
+      <news:title><![CDATA[Russia suspected of jamming navigation on EU leader’s plane above Bulgaria]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/devastating-afghanistan-earthquake-kills-over-800-people-and-injures-another-2500-mf1l66u6</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-09-01T20:42:52.062Z</news:publication_date>
+      <news:title><![CDATA[Devastating Afghanistan earthquake kills over 800 people and injures another 2,500]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/decades-long-india-russia-ties-in-focus-as-pm-modi-president-putin-meet-during-sco-mf1l677t</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-09-01T20:27:28.000Z</news:publication_date>
+      <news:title><![CDATA[Decades-long India-Russia ties in focus as PM Modi, President Putin meet during SCO]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/india-came-forward-to-help-afghanistan-mea-said-sent-humanitarian-aid-and-relief-material-mf1l8dsk</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-09-01T20:26:34.000Z</news:publication_date>
+      <news:title><![CDATA[India Came Forward To Help Afghanistan, Mea Said- Sent Humanitarian Aid And Relief Material]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/army-contingent-departs-for-india-us-joint-military-exercise-yudh-abhyas-2025-in-alaska-mf1l685r</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-09-01T20:22:00.000Z</news:publication_date>
+      <news:title><![CDATA[Army contingent departs for India-U.S. joint military exercise ‘Yudh Abhyas 2025’ in Alaska]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/us-consumers-will-absorb-higher-tea-price-hopes-ita-mf1l8f10</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-09-01T20:12:00.000Z</news:publication_date>
+      <news:title><![CDATA[US consumers will absorb higher tea price, hopes ITA]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://newshubnow.in/article/afghanistan-earthquake-kills-800-injures-2800-taliban-asks-world-for-help-mf19gb0t</loc>
     <news:news>
       <news:publication>
@@ -99,6 +207,18 @@
   </url>
 
   <url>
+    <loc>https://newshubnow.in/article/israel-says-it-killed-longtime-spokesman-of-hamass-military-wing-the-washington-post-mf1uqvpe</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-09-01T00:33:36.000Z</news:publication_date>
+      <news:title><![CDATA[Israel says it killed longtime spokesman of Hamas’s military wing - The Washington Post]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://newshubnow.in/article/ukraine-war-latest-zelenskyy-plans-new-deep-strikes-against-russia-putin-in-china-to-meet-axis-of-upheaval-mf05tau4</loc>
     <news:news>
       <news:publication>
@@ -119,126 +239,6 @@
       </news:publication>
       <news:publication_date>2025-08-31T20:42:55.200Z</news:publication_date>
       <news:title><![CDATA[How Builder.ai Collapsed Amid Silicon Valley’s Biggest Boom]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/news-and-current-affairs-from-germany-and-around-the-world-dw-mf05qd7b</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-08-31T20:42:53.399Z</news:publication_date>
-      <news:title><![CDATA[News and current affairs from Germany and around the world – DW]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/india-set-for-wetter-september-flash-floods-mf05qbet</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-08-31T20:23:06.000Z</news:publication_date>
-      <news:title><![CDATA[India Set for Wetter September, Flash Floods]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/imd-forecasts-more-rain-in-september-warns-hill-states-mf05tavl</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-08-31T20:20:24.000Z</news:publication_date>
-      <news:title><![CDATA[IMD forecasts more rain in September, warns hill states]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/jasprit-bumrah-advised-to-skip-ipl-ahead-of-five-test-series-after-england-workload-drama-too-much-cricket-mf05qe19</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-08-31T19:17:19.000Z</news:publication_date>
-      <news:title><![CDATA[Jasprit Bumrah advised to skip IPL ahead of five-Test series after England workload drama: 'Too much cricket...']]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/3-west-bengal-migrant-workers-held-in-assam-mf05tbzt</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-08-31T19:05:12.000Z</news:publication_date>
-      <news:title><![CDATA[3 West Bengal Migrant Workers Held in Assam]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/piastri-wins-as-norris-retires-in-dramatic-dutch-gp-formula-1-mf19ga67</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-08-31T15:29:43.000Z</news:publication_date>
-      <news:title><![CDATA[Piastri wins as Norris retires in dramatic Dutch GP - Formula 1]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/here-are-the-winning-numbers-for-the-1b-powerball-jackpot-abc7-los-angeles-mf0kis5a</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-08-31T03:11:59.000Z</news:publication_date>
-      <news:title><![CDATA[Here are the winning numbers for the $1B Powerball jackpot - ABC7 Los Angeles]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/houthi-prime-minister-killed-in-israeli-air-strike-on-yemen-meyzzjvb</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-08-31T01:14:18.071Z</news:publication_date>
-      <news:title><![CDATA[Houthi prime minister killed in Israeli air strike on Yemen]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/who-was-pratik-pandey-indian-origin-microsoft-techie-found-dead-in-california-office-meyzznay</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-08-31T01:02:16.000Z</news:publication_date>
-      <news:title><![CDATA[Who was Pratik Pandey, Indian-origin Microsoft techie found dead in California office?]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/vimukti-divas-73-years-on-indias-denotified-communities-still-await-true-liberation-meyzzjk8</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-08-31T01:00:00.000Z</news:publication_date>
-      <news:title><![CDATA[Vimukti Divas: 73 years on, India’s ‘denotified’ communities still await true liberation]]></news:title>
     </news:news>
   </url>
 </urlset>
