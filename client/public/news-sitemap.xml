@@ -3,6 +3,138 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://newshubnow.in/article/morocco-rises-as-ai-leader-in-healthcare-finance-mf3a1acd</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-09-03T01:06:39.901Z</news:publication_date>
+      <news:title><![CDATA[Morocco Rises as AI Leader in Healthcare, Finance]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/trump-defends-tariffs-on-india-calls-trade-ties-one-sided-mf3a17bc</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-09-03T00:54:46.000Z</news:publication_date>
+      <news:title><![CDATA[Trump Defends Tariffs on India, Calls Trade Ties One-Sided]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/-sheikh-hasina--mf3a18rq</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-09-03T00:31:54.000Z</news:publication_date>
+      <news:title><![CDATA[बांग्लादेशी आतंकवादियों के साजिश का पर्दाफाश, Sheikh Hasina के भारत आने के बाद भारतीय उच्चायोग को बंधक बनाने की हुई थी कोशिश... पढ़ें पूरी खबर]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/anthropic-raises-its-valuation-to-183-billion-in-new-funding-mf30nuez</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-09-02T20:44:16.187Z</news:publication_date>
+      <news:title><![CDATA[Anthropic Raises Its Valuation to $183 Billion in New Funding]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/israel-begins-ground-operation-in-gaza-city-idf-says-mf30nt4m</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-09-02T20:44:14.518Z</news:publication_date>
+      <news:title><![CDATA[Israel begins ground operation in Gaza City, IDF says]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/technology-marathon-ai-legal-outlook-what-is-new-and-next-track-mf30li9x</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-09-02T20:42:27.141Z</news:publication_date>
+      <news:title><![CDATA[Technology Marathon – AI Legal Outlook: What Is New and Next Track]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/afghan-quake-survivors-dig-graves-with-pickaxes-as-entire-households-wiped-out-mf30lguw</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-09-02T20:42:25.304Z</news:publication_date>
+      <news:title><![CDATA[Afghan quake survivors dig graves with pickaxes as entire households wiped out]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/relations-with-india-are-good-but-for-many-years-us-president-defends-the-decision-to-impose-tariff-mf30lfcz</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-09-02T20:39:22.000Z</news:publication_date>
+      <news:title><![CDATA['relations With India Are Good, But For Many Years...' Us President Defends The Decision To Impose Tariff]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/indias-first-ventilator-maker-to-set-up-rs-60-crore-project-at-med-park-mf30ns76</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-09-02T20:31:00.000Z</news:publication_date>
+      <news:title><![CDATA[India’s first ventilator maker to set up Rs 60-crore project at med park]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/himachal-in-peril-climate-change-unleashes-fury-on-dev-bhoomi-mf30lgc7</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-09-02T20:30:55.000Z</news:publication_date>
+      <news:title><![CDATA[Himachal in peril Climate change unleashes fury on Dev Bhoomi]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/shubhanshu-shuklas-captivating-video-sipping-coffee-in-microgravity-reveals-how-astronauts-eat-and-drink-on-the-iss-mf30nu86</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-09-02T20:28:08.000Z</news:publication_date>
+      <news:title><![CDATA[Shubhanshu Shukla's Captivating Video: Sipping Coffee In Microgravity Reveals How Astronauts Eat And Drink On The ISS]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://newshubnow.in/article/texas-tech-university-offering-new-degree-focused-on-artificial-intelligence-mf1uqwt5</loc>
     <news:news>
       <news:publication>
@@ -39,6 +171,18 @@
   </url>
 
   <url>
+    <loc>https://newshubnow.in/article/coco-gauff-kind-of-broke-down-after-us-open-loss-to-naomi-osaka-new-york-post-mf3a17kp</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-09-02T00:58:00.000Z</news:publication_date>
+      <news:title><![CDATA[Coco Gauff ‘kind of broke down’ after US Open loss to Naomi Osaka - New York Post]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://newshubnow.in/article/russia-suspected-of-jamming-navigation-on-eu-leaders-plane-above-bulgaria-mf1l8dmt</loc>
     <news:news>
       <news:publication>
@@ -47,198 +191,6 @@
       </news:publication>
       <news:publication_date>2025-09-01T20:44:34.181Z</news:publication_date>
       <news:title><![CDATA[Russia suspected of jamming navigation on EU leader’s plane above Bulgaria]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/devastating-afghanistan-earthquake-kills-over-800-people-and-injures-another-2500-mf1l66u6</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-09-01T20:42:52.062Z</news:publication_date>
-      <news:title><![CDATA[Devastating Afghanistan earthquake kills over 800 people and injures another 2,500]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/decades-long-india-russia-ties-in-focus-as-pm-modi-president-putin-meet-during-sco-mf1l677t</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-09-01T20:27:28.000Z</news:publication_date>
-      <news:title><![CDATA[Decades-long India-Russia ties in focus as PM Modi, President Putin meet during SCO]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/india-came-forward-to-help-afghanistan-mea-said-sent-humanitarian-aid-and-relief-material-mf1l8dsk</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-09-01T20:26:34.000Z</news:publication_date>
-      <news:title><![CDATA[India Came Forward To Help Afghanistan, Mea Said- Sent Humanitarian Aid And Relief Material]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/army-contingent-departs-for-india-us-joint-military-exercise-yudh-abhyas-2025-in-alaska-mf1l685r</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-09-01T20:22:00.000Z</news:publication_date>
-      <news:title><![CDATA[Army contingent departs for India-U.S. joint military exercise ‘Yudh Abhyas 2025’ in Alaska]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/us-consumers-will-absorb-higher-tea-price-hopes-ita-mf1l8f10</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-09-01T20:12:00.000Z</news:publication_date>
-      <news:title><![CDATA[US consumers will absorb higher tea price, hopes ITA]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/afghanistan-earthquake-kills-800-injures-2800-taliban-asks-world-for-help-mf19gb0t</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-09-01T15:14:48.653Z</news:publication_date>
-      <news:title><![CDATA[Afghanistan earthquake kills 800, injures 2,800, Taliban asks world for help]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/political-tensions-rise-as-mamata-banerjee-accuses-bjp-of-misusing-army-amid-protests-mf19gbar</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-09-01T15:02:14.000Z</news:publication_date>
-      <news:title><![CDATA[Political Tensions Rise as Mamata Banerjee Accuses BJP of Misusing Army Amid Protests]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/india-offered-zero-tariffs-on-us-imports-donald-trumps-fresh-rant-as-modi-putin-xi-jinping-share-bonhomie-at-sco-summit-mf19ga7m</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-09-01T15:01:56.000Z</news:publication_date>
-      <news:title><![CDATA[India offered ‘zero tariffs’ on US imports? Donald Trump's fresh rant as Modi, Putin, Xi Jinping share bonhomie at SCO Summit]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/meta-loses-top-ai-talent-after-forming-new-division-to-pursue-superintelligence-report-mf0kiu78</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-09-01T03:36:56.420Z</news:publication_date>
-      <news:title><![CDATA[Meta loses top AI talent after forming new division to pursue superintelligence: Report]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/rohit-sharma-passes-bcci-fitness-several-india-players-put-through-fitness-drill-ahead-of-asia-cup-2025-mf0kis58</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-09-01T03:22:11.000Z</news:publication_date>
-      <news:title><![CDATA[Rohit Sharma passes BCCI fitness; several India players put through fitness drill ahead of Asia Cup 2025]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/china-tries-to-use-trump-turmoil-to-unite-leaders-against-us-led-order-mf0fo9fd</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-09-01T01:21:11.353Z</news:publication_date>
-      <news:title><![CDATA[China tries to use Trump turmoil to unite leaders against U.S.-led order]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/morning-digest-india-and-china-are-victims-of-terrorism-pm-modi-tells-xi-over-33000-people-apply-for-re-inclusion-in-bihar-electoral-rolls-and-more-mf0fo7zo</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-09-01T01:08:29.000Z</news:publication_date>
-      <news:title><![CDATA[Morning Digest: India and China are victims of terrorism, PM Modi tells Xi; over 33,000 people apply for re-inclusion in Bihar electoral rolls, and more]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/age-of-ai-its-still-human-first-in-corporate-corridors-mf0fo90x</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-09-01T01:07:00.000Z</news:publication_date>
-      <news:title><![CDATA[Age of AI: It’s still human-first in corporate corridors]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/israel-says-it-killed-longtime-spokesman-of-hamass-military-wing-the-washington-post-mf1uqvpe</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-09-01T00:33:36.000Z</news:publication_date>
-      <news:title><![CDATA[Israel says it killed longtime spokesman of Hamas’s military wing - The Washington Post]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/ukraine-war-latest-zelenskyy-plans-new-deep-strikes-against-russia-putin-in-china-to-meet-axis-of-upheaval-mf05tau4</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-08-31T20:45:10.300Z</news:publication_date>
-      <news:title><![CDATA[Ukraine war latest: Zelenskyy plans 'new deep strikes' against Russia; Putin in China to meet 'axis of upheaval']]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/how-builderai-collapsed-amid-silicon-valleys-biggest-boom-mf05qelc</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-08-31T20:42:55.200Z</news:publication_date>
-      <news:title><![CDATA[How Builder.ai Collapsed Amid Silicon Valley’s Biggest Boom]]></news:title>
     </news:news>
   </url>
 </urlset>
