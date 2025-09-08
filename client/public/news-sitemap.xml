@@ -3,6 +3,126 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://newshubnow.in/article/ai-could-make-the-smartphone-pass-what-comes-next-mfb5wzst</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-09-08T13:33:30.557Z</news:publication_date>
+      <news:title><![CDATA[A.I. Could Make the Smartphone Passé. What Comes Next?]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/palestinian-gunmen-kill-6-people-in-attack-on-jerusalem-bus-stop-mfb5wuuo</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-09-08T13:33:24.144Z</news:publication_date>
+      <news:title><![CDATA[Palestinian gunmen kill 6 people in attack on Jerusalem bus stop]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/cloud-computing-fundamentals-aws-azure-google-cloud-mfb5wui6</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-09-08T13:33:23.694Z</news:publication_date>
+      <news:title><![CDATA[Cloud Computing Fundamentals: AWS, Azure, Google Cloud]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/-tiktok--mfb5wuq2</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-09-08T13:29:32.000Z</news:publication_date>
+      <news:title><![CDATA[भारत में वापसी करने वाला है TikTok! अश्विनी वैष्णव ने तोड़ी चुप्पी]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/iim-bangalores-mastery-tops-india-climbs-global-charts-mfb5wy8c</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-09-08T13:27:46.000Z</news:publication_date>
+      <news:title><![CDATA[IIM Bangalore's Mastery: Tops India, Climbs Global Charts]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/investment-strategies-for-young-professionals-mfb1joci</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-09-08T11:31:10.722Z</news:publication_date>
+      <news:title><![CDATA[Investment Strategies for Young Professionals]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/having-lived-in-new-zealand-and-uk-shilpa-shirodkar-vows-never-to-leave-india-now-loneliness-was-eating-me-mfb1h14g</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-09-08T11:22:05.000Z</news:publication_date>
+      <news:title><![CDATA[Having lived in New Zealand and UK, Shilpa Shirodkar vows never to leave India now: ‘Loneliness was eating me’]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/indias-unemployment-rate-lowest-among-g20-at-2-mansukh-mandaviya-mfb1jolb</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-09-08T11:19:33.000Z</news:publication_date>
+      <news:title><![CDATA[India's Unemployment Rate Lowest Among G20 At 2%: Mansukh Mandaviya]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/indian-navys-heroic-firefighting-effort-in-visakhapatnam-mfb1h3k7</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-09-08T11:19:13.000Z</news:publication_date>
+      <news:title><![CDATA[Indian Navy's Heroic Firefighting Effort in Visakhapatnam]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/ar-rahman-poses-with-harry-porters-draco-malfoy-aka-tom-felton-at-gandhi-premiere-mfb1jt2p</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-09-08T11:18:47.000Z</news:publication_date>
+      <news:title><![CDATA[AR Rahman Poses With Harry Porter's Draco Malfoy aka Tom Felton At Gandhi Premiere]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://newshubnow.in/article/young-star-callum-vidler-ruled-out-of-australia-a-tour-of-india-mfazu2a5</loc>
     <news:news>
       <news:publication>
@@ -119,126 +239,6 @@
       </news:publication>
       <news:publication_date>2025-09-08T10:11:14.039Z</news:publication_date>
       <news:title><![CDATA[Russia says it struck Ukrainian military targets with drones, missiles and aircraft]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/chatgpt-glossary-56-ai-terms-everyone-should-know-mfaylm7c</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-09-08T10:08:42.408Z</news:publication_date>
-      <news:title><![CDATA[ChatGPT Glossary: 56 AI Terms Everyone Should Know]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/mushroom-murders-erin-patterson-who-served-death-to-family-at-lunch-jailed-for-life-3-died-but-myste-mfayljv7</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-09-08T10:08:39.379Z</news:publication_date>
-      <news:title><![CDATA[Mushroom murders: Erin Patterson, who served death to family at lunch, jailed for life; 3 died, but myste]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/eu-political-and-security-committees-maiden-visit-to-india-from-september-10-mfayljo6</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-09-08T10:00:12.000Z</news:publication_date>
-      <news:title><![CDATA[EU Political and Security Committee's maiden visit to India from September 10]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/iesa-hails-gst-20-terms-it-a-step-forward-to-meet-indias-energy-storage-needs-mfayovsk</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-09-08T10:00:02.000Z</news:publication_date>
-      <news:title><![CDATA[IESA hails GST 2.0, terms it a step forward to meet Indias energy storage needs]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/sivakarthikeyan-i-cant-do-a-full-fledged-comedy-now-mfaylkir</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-09-08T09:59:02.000Z</news:publication_date>
-      <news:title><![CDATA[Sivakarthikeyan: I can't do a full-fledged comedy now]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/triumphant-victory-indian-womens-hockey-team-dominates-singapore-12-0-mfayox6w</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-09-08T09:58:49.000Z</news:publication_date>
-      <news:title><![CDATA[Triumphant Victory: Indian Women's Hockey Team Dominates Singapore 12-0]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/japan-pm-ishiba-resigns-after-series-of-bruising-election-losses-mfaff4wn</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-09-08T01:11:47.351Z</news:publication_date>
-      <news:title><![CDATA[Japan PM Ishiba resigns after series of bruising election losses]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/why-foreign-investors-are-not-bullish-on-india-mfaff4l2</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-09-08T01:00:45.000Z</news:publication_date>
-      <news:title><![CDATA[Why foreign investors are not bullish on India]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/gukesh-arjun-play-out-draw-in-all-indian-battle-at-fide-grand-swiss-vaishali-remains-joint-leader-among-women-mfaff5hi</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-09-08T01:00:04.000Z</news:publication_date>
-      <news:title><![CDATA[Gukesh, Arjun play out draw in all-Indian battle at FIDE Grand Swiss; Vaishali remains joint-leader among women]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/colombias-lone-amazon-port-faces-drying-river-and-rising-tensions-with-peru-mfa5rvop</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-09-07T20:41:45.769Z</news:publication_date>
-      <news:title><![CDATA[Colombia's lone Amazon port faces drying river and rising tensions with Peru]]></news:title>
     </news:news>
   </url>
 </urlset>
