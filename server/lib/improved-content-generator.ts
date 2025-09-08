@@ -19,7 +19,11 @@ const loadEnvFile = () => {
       }
     });
   } catch (error) {
-    console.log('Warning: Could not load .env file:', error.message);
+    if (error instanceof Error) {
+      console.log('Warning: Could not load .env file:', error.message);
+    } else {
+      console.log('Warning: Could not load .env file:', error);
+    }
   }
 };
 
@@ -132,16 +136,31 @@ class ImprovedContentGenerator {
     }
   }
 
-  private async checkForDuplicate(title: string): Promise<boolean> {
+  // SIMPLE duplicate check using DB (no embeddings)
+  private async checkForDuplicate(title: string, contentSnippet?: string): Promise<boolean> {
     try {
-      const titleWords = title.toLowerCase().split(' ').slice(0, 4).join(' ');
-      const existing = await db.select().from(articles).where(
-        sql`LOWER(title) LIKE ${`%${titleWords}%`}`
-      ).limit(1);
-      
-      return existing.length > 0;
+      const normalizedTitle = title.trim().toLowerCase();
+
+      // 1) Exact title match
+      const exact = await db.select().from(articles).where(sql`LOWER(title) = ${normalizedTitle}`).limit(1);
+      if (exact.length > 0) return true;
+
+      // 2) Partial match - first 6 words
+      const titleWords = normalizedTitle.split(/\s+/).slice(0, 6).join(' ');
+      const partial = await db.select().from(articles).where(sql`LOWER(title) LIKE ${`%${titleWords}%`}`).limit(1);
+      if (partial.length > 0) return true;
+
+      // 3) Snippet match if provided
+      if (contentSnippet && contentSnippet.length > 50) {
+        const snippet = contentSnippet.toLowerCase().slice(0, 120);
+        const snippetMatch = await db.select().from(articles).where(sql`LOWER(content) LIKE ${`%${snippet}%`}`).limit(1);
+        if (snippetMatch.length > 0) return true;
+      }
+
+      return false;
     } catch (error) {
       console.error("Error checking duplicates:", error);
+      // On error, consider not duplicate so we don't block content generation
       return false;
     }
   }
@@ -292,24 +311,27 @@ Write a professional, engaging article that provides complete coverage of this n
     }
   }
 
-  private expandContentManually(content: string, title: string, category: string = ""): string {
+  private expandContentManually(content: string, title: string, category: string = "", source = "NewsHubNow"): string {
     // Create comprehensive article content when Groq API is not available
     const isHindi = category === "India News" && /[\u0900-\u097F]/.test(content);
     
     if (isHindi) {
-      return this.createHindiArticle(content, title);
+      return this.createHindiArticle(content, title, source);
     } else {
       return this.createEnglishArticle(content, title, category);
     }
   }
 
-  private createHindiArticle(content: string, title: string): string {
+  private createHindiArticle(content: string, title: string, source = "NewsHubNow"): string {
+    const now = new Date();
+    const publishedDate = now.toLocaleDateString('hi-IN', { day: 'numeric', month: 'long', year: 'numeric' });
+
     return `<h1>${title}</h1>
 
-<p>${content}</p>
+<p><strong>सार:</strong> ${content}</p>
 
-<h2>मुख्य बातें</h2>
-<p>इस खबर में निम्नलिखित महत्वपूर्ण बिंदु हैं जो पाठकों के लिए जानना आवश्यक है। यह घटना न केवल वर्तमान परिस्थितियों को दर्शाती है बल्कि भविष्य की संभावनाओं पर भी प्रकाश डालती है।</p>
+<h2>प्रमुख बिंदु</h2>
+<p>(${publishedDate}) — इस रिपोर्ट में निम्नलिखित महत्वपूर्ण बिंदु हैं जो पाठकों के लिए जानना आवश्यक है। यह घटना न केवल वर्तमान परिस्थितियों को दर्शाती है बल्कि भविष्य की संभावनाओं पर भी प्रकाश डालती है।</p>
 
 <h2>पृष्ठभूमि और संदर्भ</h2>
 <p>इस मामले की जड़ें गहरी हैं और इसे समझने के लिए हमें पिछली घटनाओं और नीतियों पर नज़र डालनी होगी। विशेषज्ञों का मानना है कि यह विकास कई कारकों का परिणाम है।</p>
@@ -485,6 +507,7 @@ Write a professional, engaging article that provides complete coverage of this n
     
     return [...titleWords, ...(categoryTags[category] || [])].slice(0, 5);
   }
+
 
   async generateFromNewsAPI(): Promise<InsertArticle[]> {
     try {
