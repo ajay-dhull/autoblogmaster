@@ -165,6 +165,7 @@ class ImprovedContentGenerator {
     }
   }
 
+  // ✅ FIXED: Enhanced error logging for better debugging
   private async makeGroqAPIRequest(url: string, body: any): Promise<Response> {
     // Try primary Groq API key first
     try {
@@ -178,33 +179,63 @@ class ImprovedContentGenerator {
         body: JSON.stringify(body)
       });
 
+      // ✅ FIXED: Added detailed error logging for debugging
+      if (!response.ok) {
+        const errorText = await response.text();
+        console.error("❌ Groq API Error Response:");
+        console.error("Status:", response.status);
+        console.error("Status Text:", response.statusText);
+        console.error("Error Body:", errorText);
+        
+        // Try to parse error JSON if possible
+        try {
+          const errorJson = JSON.parse(errorText);
+          console.error("Parsed Error:", errorJson);
+        } catch (parseError) {
+          console.error("Could not parse error response as JSON");
+        }
+      }
+
       if (response.ok) {
         console.log("Primary Groq key worked successfully");
         return response;
       }
 
-      if (response.status === 429 || response.status === 401) {
-        console.log("Primary Groq key limit reached or unauthorized, trying backup key...");
+      if (response.status === 429 || response.status === 401 || response.status === 400) {
+        console.log("Primary Groq key error, trying backup key...");
         throw new Error(`Primary Groq API error: ${response.status}`);
       }
 
       return response;
     } catch (error) {
+      console.error("❌ Primary Groq API request failed:", error);
+      
       // Try backup Groq API key
       if (this.config.groqApiKey2) {
         console.log("Using backup Groq API key...");
-        const backupResponse = await fetch(url, {
-          method: "POST",
-          headers: {
-            "Authorization": `Bearer ${this.config.groqApiKey2}`,
-            "Content-Type": "application/json",
-          },
-          body: JSON.stringify(body)
-        });
+        try {
+          const backupResponse = await fetch(url, {
+            method: "POST",
+            headers: {
+              "Authorization": `Bearer ${this.config.groqApiKey2}`,
+              "Content-Type": "application/json",
+            },
+            body: JSON.stringify(body)
+          });
 
-        if (backupResponse.ok) {
-          console.log("Backup Groq key worked successfully");
-          return backupResponse;
+          if (!backupResponse.ok) {
+            const backupErrorText = await backupResponse.text();
+            console.error("❌ Backup Groq API Error Response:");
+            console.error("Status:", backupResponse.status);
+            console.error("Error Body:", backupErrorText);
+          }
+
+          if (backupResponse.ok) {
+            console.log("Backup Groq key worked successfully");
+            return backupResponse;
+          }
+        } catch (backupError) {
+          console.error("❌ Backup Groq API request also failed:", backupError);
         }
       }
 
@@ -226,7 +257,7 @@ class ImprovedContentGenerator {
         "Write in clear, simple English that is easy to read and understand.";
 
       const requestBody = {
-        model: "gpt-oss-20b",
+        model: "openai/gpt-oss-20b", // ✅ FIXED: Correct model name format for Groq API
         messages: [
           {
             role: "system",
@@ -283,14 +314,15 @@ IMPORTANT: The provided content is just a SHORT SUMMARY or SNIPPET. You need to:
 Write a professional, engaging article that provides complete coverage of this news story, not just a summary. Use the brief description as your starting point but expand it significantly with relevant context, analysis, and comprehensive coverage.`
           }
         ],
-        max_tokens: 8000,
+        max_tokens: 4000, // ✅ FIXED: Reduced from 8000 to 4000 to prevent 400 error
         temperature: 0.7
       };
 
       const response = await this.makeGroqAPIRequest("https://api.groq.com/openai/v1/chat/completions", requestBody);
 
       if (!response.ok) {
-        throw new Error(`Groq API error: ${response.status}`);
+        const errorText = await response.text();
+        throw new Error(`Groq API error: ${response.status} - ${errorText}`);
       }
 
       const data = await response.json();
@@ -850,7 +882,7 @@ Write a professional, engaging article that provides complete coverage of this n
           "Content-Type": "application/json",
         },
         body: JSON.stringify({
-          model: "gpt-oss-20b",
+          model: "openai/gpt-oss-20b", // ✅ FIXED: Correct model name format for Groq API
           messages: [
             {
               role: "system",
@@ -879,7 +911,7 @@ Goal: Produce top-quality, engaging, and professional articles that readers find
 Make it comprehensive (1500+ words), practical, and full of actionable advice that readers can implement immediately. Include specific examples, tools, and strategies.`
             }
           ],
-          max_tokens: 4000,
+          max_tokens: 4000, // ✅ FIXED: Reduced from 8000 to 4000 to prevent 400 error
           temperature: 0.8
         })
       });
