@@ -3,6 +3,54 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://newshubnow.in/article/young-star-callum-vidler-ruled-out-of-australia-a-tour-of-india-mfazu2a5</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-09-08T10:35:50.000Z</news:publication_date>
+      <news:title><![CDATA[Young Star Callum Vidler Ruled Out Of Australia A Tour Of India]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/bengali-actor-stars-in-papua-new-guineas-first-oscar-submission-mfazu3lm</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-09-08T10:33:07.000Z</news:publication_date>
+      <news:title><![CDATA[Bengali Actor Stars in Papua New Guinea's First Oscar Submission]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/ihg-hotels-resorts-appoints-jaideep-dang-as-head-of-development-south-west-asia-mfazbf8x</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-09-08T10:23:00.000Z</news:publication_date>
+      <news:title><![CDATA[IHG Hotels & Resorts appoints Jaideep Dang as head of development, South West Asia]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/stanford-harvard-and-now-openai-meet-akshay-jagadeesh-mfazbghd</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-09-08T10:20:51.000Z</news:publication_date>
+      <news:title><![CDATA[Stanford, Harvard, and Now OpenAI: Meet Akshay Jagadeesh]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://newshubnow.in/article/asml-becomes-mistral-ais-top-shareholder-after-latest-funding-round-mfayu8el</loc>
     <news:news>
       <news:publication>
@@ -191,54 +239,6 @@
       </news:publication>
       <news:publication_date>2025-09-07T20:41:45.769Z</news:publication_date>
       <news:title><![CDATA[Colombia's lone Amazon port faces drying river and rising tensions with Peru]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/lollapalooza-india-2026-linkin-park-to-yungblud-meet-the-rock-legends-and-rising-stars-mfa5ru32</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-09-07T20:37:52.000Z</news:publication_date>
-      <news:title><![CDATA[Lollapalooza India 2026: Linkin Park to YUNGBLUD, meet the rock legends and rising stars]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/congress-plans-to-link-bihar-roll-issue-with-welfare-schemes-mfa5vj0j</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-09-07T20:34:11.000Z</news:publication_date>
-      <news:title><![CDATA[Congress plans to link Bihar roll issue with welfare schemes]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/xi-bonhomie-no-change-in-military-posture-in-eastern-ladakh-mfa5ruwg</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-09-07T20:30:41.000Z</news:publication_date>
-      <news:title><![CDATA[Xi bonhomie, no change in military posture in eastern Ladakh]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/stock-market-today--mfa5vkm0</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-09-07T20:04:34.000Z</news:publication_date>
-      <news:title><![CDATA[Stock Market Today: ట్రంప్‌ టారిఫ్‌ల ఎఫెక్ట్‌.. నష్టాల్లో సూచీలు]]></news:title>
     </news:news>
   </url>
 </urlset>
