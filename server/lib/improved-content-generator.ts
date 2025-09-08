@@ -226,7 +226,7 @@ class ImprovedContentGenerator {
         "Write in clear, simple English that is easy to read and understand.";
 
       const requestBody = {
-        model: "llama3-70b-8192",
+        model: "gpt-oss-20b",
         messages: [
           {
             role: "system",
