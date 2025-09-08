@@ -10,10 +10,11 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout repository
+      - name: Checkout repository (full history)
         uses: actions/checkout@v3
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
+          fetch-depth: 0
 
       - name: Setup Node.js
         uses: actions/setup-node@v3
@@ -26,19 +27,41 @@ jobs:
       - name: Generate sitemap
         run: node scripts/generate-sitemap.mjs
 
-      - name: Commit and push updated sitemap
+      - name: Commit and push updated sitemap (safe stash/pull)
         run: |
           git config --global user.name "Sitemap Bot"
           git config --global user.email "bot@newshubnow.in"
-          git add client/public/sitemap.xml client/public/news-sitemap.xml || echo "No sitemap files"
+
+          # Stage sitemap files if present
+          git add client/public/sitemap.xml client/public/news-sitemap.xml || echo "No sitemap files to add"
+
+          # Stash any local changes so pull can run cleanly
+          git stash --include-untracked || echo "Nothing to stash"
+
+          # Pull remote updates
+          git pull origin main --rebase
+
+          # Restore stashed changes
+          git stash pop || echo "Nothing to pop"
+
+          # Commit and push if there are changes
+          git add client/public/sitemap.xml client/public/news-sitemap.xml || echo "No sitemap files to add"
           git commit -m "🔁 auto: update sitemap [skip ci]" || echo "No changes to commit"
           git push origin main
 
-      - name: Deploy to FTP (Hostinger)
+      - name: Deploy only sitemap files to FTP (Hostinger) — prevent nested folders
         uses: samkirkland/ftp-deploy-action@v4.3.3
         with:
           server: ${{ secrets.FTP_HOST }}
           username: ${{ secrets.FTP_USERNAME }}
           password: ${{ secrets.FTP_PASSWORD }}
-          server-dir: /public_html/
+          # Use FTP account root. Hostinger's FTP root normally maps to public_html.
+          server-dir: ./
+          # Local folder that contains sitemap files
           local-dir: ./client/public/
+          # Exclude everything except the two sitemap files so we DO NOT recreate folders
+          exclude: |
+            *
+            !sitemap.xml
+            !news-sitemap.xml
+
