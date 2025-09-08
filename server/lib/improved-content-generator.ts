@@ -7,7 +7,7 @@ const loadEnvFile = () => {
   try {
     const envPath = path.resolve(process.cwd(), '.env');
     const envContent = fs.readFileSync(envPath, 'utf8');
-    
+
     envContent.split('\n').forEach(line => {
       const trimmedLine = line.trim();
       if (trimmedLine && !trimmedLine.startsWith('#') && trimmedLine.includes('=')) {
@@ -82,7 +82,7 @@ class ImprovedContentGenerator {
       .replace(/\s+/g, "-")
       .replace(/-+/g, "-")
       .trim();
-    
+
     const timestamp = Date.now().toString(36);
     return `${baseSlug}-${timestamp}`;
   }
@@ -91,23 +91,23 @@ class ImprovedContentGenerator {
     // Try first API key
     const urlWithKey1 = `${url}&api_key=${this.config.serpApiKey}`;
     console.log("Trying SerpAPI with primary key...");
-    
+
     try {
       const response1 = await fetch(urlWithKey1);
-      
+
       // If successful (status 200), return the response
       if (response1.ok) {
         console.log("Primary SerpAPI key worked successfully");
         return response1;
       }
-      
+
       // If we get 403 or other limit-related errors, try second key
       if (response1.status === 403 || response1.status === 429) {
         console.log("Primary SerpAPI key limit reached, trying backup key...");
-        
+
         const urlWithKey2 = `${url}&api_key=${this.config.serpApiKey2}`;
         const response2 = await fetch(urlWithKey2);
-        
+
         if (response2.ok) {
           console.log("Backup SerpAPI key worked successfully");
           return response2;
@@ -116,17 +116,17 @@ class ImprovedContentGenerator {
           throw new Error(`Both SerpAPI keys failed. Primary: ${response1.status}, Backup: ${response2.status}`);
         }
       }
-      
+
       // For other errors, just return the first response
       return response1;
-      
+
     } catch (error) {
       console.error("Error with primary SerpAPI key, trying backup...");
-      
+
       // Fallback to second key on any network error
       const urlWithKey2 = `${url}&api_key=${this.config.serpApiKey2}`;
       const response2 = await fetch(urlWithKey2);
-      
+
       if (response2.ok) {
         console.log("Backup SerpAPI key worked after primary failed");
         return response2;
@@ -221,8 +221,8 @@ class ImprovedContentGenerator {
 
       // Special handling for India News to ensure Hindi language
       const isIndiaNews = category === "India News";
-      const languageInstruction = isIndiaNews ? 
-        "CRITICAL: Write ONLY in pure, standard Hindi using Devanagari script. STRICTLY AVOID Marathi words. Use common Hindi words like: 'के लिए' (not 'साठी'), 'की तरह' (not 'सारखे'), 'में' (not 'मध्ये'), 'से' (not 'पासून'), 'और' (not 'आणि'), 'है' (not 'आहे'). Write for all Hindi speakers across India, not regional audiences." : 
+      const languageInstruction = isIndiaNews ?
+        "CRITICAL: Write ONLY in pure, standard Hindi using Devanagari script. STRICTLY AVOID Marathi words. Use common Hindi words like: 'के लिए' (not 'साठी'), 'की तरह' (not 'सारखे'), 'में' (not 'मध्ये'), 'से' (not 'पासून'), 'और' (not 'आणि'), 'है' (not 'आहे'). Write for all Hindi speakers across India, not regional audiences." :
         "Write in clear, simple English that is easy to read and understand.";
 
       const requestBody = {
@@ -295,13 +295,13 @@ Write a professional, engaging article that provides complete coverage of this n
 
       const data = await response.json();
       const enhancedContent = data.choices[0]?.message?.content || content;
-      
+
       if (enhancedContent === content) {
         console.warn("Groq returned original content - no enhancement occurred");
       } else {
         console.log(`Groq enhancement successful - expanded from ${content.length} to ${enhancedContent.length} characters`);
       }
-      
+
       return enhancedContent;
     } catch (error) {
       console.error("Error enhancing content with Groq:", error);
@@ -314,7 +314,7 @@ Write a professional, engaging article that provides complete coverage of this n
   private expandContentManually(content: string, title: string, category: string = "", source = "NewsHubNow"): string {
     // Create comprehensive article content when Groq API is not available
     const isHindi = category === "India News" && /[\u0900-\u097F]/.test(content);
-    
+
     if (isHindi) {
       return this.createHindiArticle(content, title, source);
     } else {
@@ -348,7 +348,7 @@ Write a professional, engaging article that provides complete coverage of this n
 
   private createEnglishArticle(content: string, title: string, category: string): string {
     const categoryContext = this.getCategoryContext(category);
-    
+
     return `<h1>${title}</h1>
 
 <p><strong>Executive Summary:</strong> ${content}</p>
@@ -403,7 +403,7 @@ Write a professional, engaging article that provides complete coverage of this n
       'Trending': { field: 'contemporary affairs', relevantIssues: 'social media and public discourse' },
       'Educational': { field: 'education and professional development', relevantIssues: 'skill development and career advancement' }
     };
-    
+
     return contexts[category as keyof typeof contexts] || { field: 'current affairs', relevantIssues: 'policy and social change' };
   }
 
@@ -438,7 +438,7 @@ Write a professional, engaging article that provides complete coverage of this n
             return data.results[selectedIndex].urls.regular;
           }
         }
-        
+
         // Add delay between API calls to avoid rate limiting
         await new Promise(resolve => setTimeout(resolve, 200));
       }
@@ -493,10 +493,10 @@ Write a professional, engaging article that provides complete coverage of this n
 
   private generateTags(title: string, category: string): string[] {
     const commonWords = ['the', 'and', 'or', 'but', 'in', 'on', 'at', 'to', 'for', 'of', 'with', 'by', 'a', 'an'];
-    const titleWords = title.toLowerCase().split(' ').filter(word => 
+    const titleWords = title.toLowerCase().split(' ').filter(word =>
       word.length > 3 && !commonWords.includes(word)
     ).slice(0, 3);
-    
+
     const categoryTags: Record<string, string[]> = {
       'Technology': ['tech', 'innovation', 'digital'],
       'World News': ['global', 'international', 'breaking'],
@@ -504,7 +504,7 @@ Write a professional, engaging article that provides complete coverage of this n
       'Educational': ['learning', 'education', 'tutorial'],
       'Trending': ['viral', 'popular', 'trending']
     };
-    
+
     return [...titleWords, ...(categoryTags[category] || [])].slice(0, 5);
   }
 
@@ -512,7 +512,7 @@ Write a professional, engaging article that provides complete coverage of this n
   async generateFromNewsAPI(): Promise<InsertArticle[]> {
     try {
       console.log("Starting NewsAPI content generation - 3 different topics per day...");
-      
+
       // 3 different categories for world news coverage
       const categories = ['general', 'technology', 'business'];
       const countries = ['us', 'gb', 'ca']; // Different countries for variety
@@ -521,7 +521,7 @@ Write a professional, engaging article that provides complete coverage of this n
       for (let i = 0; i < 3; i++) {
         const category = categories[i];
         const country = countries[i % countries.length];
-        
+
         const response = await fetch(
           `https://newsapi.org/v2/top-headlines?category=${category}&country=${country}&language=en&pageSize=5&apiKey=${this.config.newsApiKey}`
         );
@@ -532,29 +532,29 @@ Write a professional, engaging article that provides complete coverage of this n
         }
 
         const data = await response.json();
-        
+
         if (data.articles && data.articles.length > 0) {
           // Try multiple articles from this category to find a non-duplicate
           for (const apiArticle of data.articles) {
             if (apiArticle.title && apiArticle.description && !apiArticle.title.includes('[Removed]')) {
               const isDuplicate = await this.checkForDuplicate(apiArticle.title);
-              
+
               if (!isDuplicate) {
                 // Use description as the base content for expansion
                 const baseContent = apiArticle.description || apiArticle.title;
                 console.log(`NewsAPI - Enhancing article with Groq: ${apiArticle.title.substring(0, 50)}...`);
                 console.log(`NewsAPI - Base content length: ${baseContent.length} characters`);
-                
+
                 const enhancedContent = await this.enhanceWithGroq(
                   baseContent,
                   apiArticle.title,
                   "World News"
                 );
-                
+
                 console.log(`NewsAPI - Enhanced content length: ${enhancedContent.length} characters`);
-                
+
                 const imageUrl = await this.getImage(apiArticle.title + " news");
-                
+
                 const article: InsertArticle = {
                   title: apiArticle.title,
                   content: enhancedContent,
@@ -569,7 +569,7 @@ Write a professional, engaging article that provides complete coverage of this n
                   isPublished: true,
                   publishedAt: new Date(apiArticle.publishedAt || new Date()),
                 };
-                
+
                 articles.push(article);
                 console.log(`Generated NewsAPI article (${category}): ${apiArticle.title}`);
                 break; // Move to next category after finding one valid article
@@ -578,7 +578,7 @@ Write a professional, engaging article that provides complete coverage of this n
           }
         }
       }
-      
+
       return articles;
     } catch (error) {
       console.error("NewsAPI generation error:", error);
@@ -589,7 +589,7 @@ Write a professional, engaging article that provides complete coverage of this n
   async generateFromGNews(): Promise<InsertArticle[]> {
     try {
       console.log("Starting GNews content generation - 2-3 latest India news (Hindi/English)...");
-      
+
       // Simple India queries that work with GNews API
       const indiaTopics = [
         'india',
@@ -609,29 +609,29 @@ Write a professional, engaging article that provides complete coverage of this n
         }
 
         const data = await response.json();
-        
+
         if (data.articles && data.articles.length > 0) {
           // Try multiple articles from this topic to find a non-duplicate
           for (const apiArticle of data.articles) {
             if (apiArticle.title && apiArticle.description) {
               const isDuplicate = await this.checkForDuplicate(apiArticle.title);
-              
+
               if (!isDuplicate) {
                 // Use description as the base content for expansion
                 const baseContent = apiArticle.description || apiArticle.title;
                 console.log(`GNews - Enhancing article with Groq: ${apiArticle.title.substring(0, 50)}...`);
                 console.log(`GNews - Base content length: ${baseContent.length} characters`);
-                
+
                 const enhancedContent = await this.enhanceWithGroq(
                   baseContent,
                   apiArticle.title,
                   "India News"
                 );
-                
+
                 console.log(`GNews - Enhanced content length: ${enhancedContent.length} characters`);
-                
+
                 const imageUrl = await this.getImage(apiArticle.title + " india");
-                
+
                 const article: InsertArticle = {
                   title: apiArticle.title,
                   content: enhancedContent,
@@ -646,7 +646,7 @@ Write a professional, engaging article that provides complete coverage of this n
                   isPublished: true,
                   publishedAt: new Date(apiArticle.publishedAt || new Date()),
                 };
-                
+
                 articles.push(article);
                 console.log(`Generated GNews article (${topic}): ${apiArticle.title}`);
                 break; // Move to next topic after finding one valid article
@@ -655,7 +655,7 @@ Write a professional, engaging article that provides complete coverage of this n
           }
         }
       }
-      
+
       return articles;
     } catch (error) {
       console.error("GNews generation error:", error);
@@ -667,7 +667,7 @@ Write a professional, engaging article that provides complete coverage of this n
     try {
       const subreddits = ['technology', 'todayilearned', 'science'];
       const randomSubreddit = subreddits[Math.floor(Math.random() * subreddits.length)];
-      
+
       const response = await fetch(
         `https://www.reddit.com/r/${randomSubreddit}/hot.json?limit=1`,
         {
@@ -676,29 +676,29 @@ Write a professional, engaging article that provides complete coverage of this n
           }
         }
       );
-      
+
       if (!response.ok) {
         throw new Error(`Reddit error: ${response.status}`);
       }
 
       const data = await response.json();
       const articles: InsertArticle[] = [];
-      
+
       if (data.data && data.data.children && data.data.children.length > 0) {
         const post = data.data.children[0].data;
-        
+
         if (post.title && post.selftext) {
           const isDuplicate = await this.checkForDuplicate(post.title);
-          
+
           if (!isDuplicate) {
             const enhancedContent = await this.enhanceWithGroq(
               post.selftext,
               post.title,
               "Trending"
             );
-            
+
             const imageUrl = await this.getImage(post.title);
-            
+
             const article: InsertArticle = {
               title: post.title,
               content: enhancedContent,
@@ -713,12 +713,12 @@ Write a professional, engaging article that provides complete coverage of this n
               isPublished: true,
               publishedAt: new Date(),
             };
-            
+
             articles.push(article);
           }
         }
       }
-      
+
       return articles;
     } catch (error) {
       console.error("Reddit generation error:", error);
@@ -729,7 +729,7 @@ Write a professional, engaging article that provides complete coverage of this n
   async generateFromSerpAPI(): Promise<InsertArticle[]> {
     try {
       console.log("Starting SerpAPI content generation - 3 articles per day (world news, AI tech, trending topics)...");
-      
+
       const searchQueries = [
         'world breaking news today',
         'artificial intelligence technology news latest',
@@ -749,32 +749,32 @@ Write a professional, engaging article that provides complete coverage of this n
         }
 
         const data = await response.json();
-        
+
         if (data.news_results && data.news_results.length > 0) {
           // Try multiple results to find a non-duplicate
           for (const result of data.news_results) {
             if (result.title && result.snippet) {
               const isDuplicate = await this.checkForDuplicate(result.title);
-              
+
               if (!isDuplicate) {
                 // Ensure we have substantial content to enhance
-                const contentToEnhance = result.snippet && result.snippet.length > 50 
-                  ? result.snippet 
+                const contentToEnhance = result.snippet && result.snippet.length > 50
+                  ? result.snippet
                   : `${result.title}. This is a breaking news story that requires detailed coverage and analysis.`;
-                
+
                 const enhancedContent = await this.enhanceWithGroq(
                   contentToEnhance,
                   result.title,
                   "Technology"
                 );
-                
+
                 // Fallback content if Groq fails
-                const finalContent = enhancedContent && enhancedContent.length > 200 
-                  ? enhancedContent 
+                const finalContent = enhancedContent && enhancedContent.length > 200
+                  ? enhancedContent
                   : `<h1>${result.title}</h1><p>${contentToEnhance}</p><p>This story is developing and more details will be added as they become available.</p>`;
-                
+
                 const imageUrl = await this.getImage(result.title + " technology");
-                
+
                 const article: InsertArticle = {
                   title: result.title,
                   content: finalContent,
@@ -789,7 +789,7 @@ Write a professional, engaging article that provides complete coverage of this n
                   isPublished: true,
                   publishedAt: new Date(),
                 };
-                
+
                 articles.push(article);
                 console.log(`Generated SerpAPI article (${query}): ${result.title}`);
                 break; // Move to next query after finding one valid article
@@ -798,7 +798,7 @@ Write a professional, engaging article that provides complete coverage of this n
           }
         }
       }
-      
+
       return articles;
     } catch (error) {
       console.error("SerpAPI generation error:", error);
@@ -816,7 +816,7 @@ Write a professional, engaging article that provides complete coverage of this n
       const topics = [
         "How to Build Passive Income Streams in 2024",
         "Complete Guide to Cryptocurrency for Beginners",
-        "Master Digital Marketing: SEO, Social Media & Content Strategy", 
+        "Master Digital Marketing: SEO, Social Media & Content Strategy",
         "Python Programming: From Zero to Job-Ready in 90 Days",
         "Personal Finance: Budget, Invest, and Build Wealth",
         "AI Tools Every Professional Should Know",
@@ -838,7 +838,7 @@ Write a professional, engaging article that provides complete coverage of this n
 
       // Check if we've used this topic recently
       const isDuplicate = await this.checkForDuplicate(selectedTopic);
-      
+
       if (isDuplicate) {
         return [];
       }
@@ -850,20 +850,27 @@ Write a professional, engaging article that provides complete coverage of this n
           "Content-Type": "application/json",
         },
         body: JSON.stringify({
-          model: "llama3-70b-8192",
+          model: "gpt-oss-20b",
           messages: [
             {
               role: "system",
-              content: `You are an expert educator and content creator. Create a comprehensive, actionable educational article that provides real value. Include:
+              content: `You are an expert educator, researcher, and professional content creator. 
+Your role is to create comprehensive, engaging, and actionable educational articles that deliver real value to readers. 
+Every article should feel like it was written by a top industry expert and designed to attract, engage, and inspire readers.
 
-1. Engaging introduction explaining why this topic matters now
-2. Step-by-step practical guide with specific actions
-3. Real-world examples and case studies
-4. Common mistakes to avoid
-5. Resources and next steps
-6. Expert tips and insider knowledge
+Requirements:
+1. Start with a powerful and engaging introduction that clearly explains why the topic matters today, connecting it to real-world trends and urgency.
+2. Provide a clear, step-by-step practical guide with specific, actionable steps that readers can immediately apply.
+3. Include real-world examples, case studies, or success stories that make the content relatable and credible.
+4. Highlight common mistakes or misconceptions to help readers avoid pitfalls.
+5. Provide useful resources, tools, or next steps for deeper learning or skill growth.
+6. Share expert tips, insider knowledge, or advanced strategies that make the article feel premium and worth saving.
+7. Maintain a professional yet conversational tone: informative, motivational, and easy to read.
+8. Structure the article with engaging subheadings, bullet points, and short paragraphs for maximum clarity and readability.
+9. Ensure the content feels fresh, practical, and directly helpful for readers looking to improve their skills, career, or income.
 
-Make it practical, actionable, and valuable for readers looking to improve their skills or income.`
+Goal: Produce top-quality, engaging, and professional articles that readers find so valuable they want to share and revisit.
+`
             },
             {
               role: "user",
@@ -918,12 +925,12 @@ Make it comprehensive (1500+ words), practical, and full of actionable advice th
       // Delete articles older than 2 months (60 days)
       const twoMonthsAgo = new Date();
       twoMonthsAgo.setDate(twoMonthsAgo.getDate() - 60);
-      
+
       const deletedArticles = await db
         .delete(articles)
         .where(lt(articles.createdAt, twoMonthsAgo))
         .returning({ id: articles.id, title: articles.title });
-      
+
       if (deletedArticles.length > 0) {
         console.log(`🗑️ Deleted ${deletedArticles.length} articles older than 2 months:`);
         deletedArticles.forEach(article => {
@@ -940,14 +947,14 @@ Make it comprehensive (1500+ words), practical, and full of actionable advice th
   async generateAllFreshContent(): Promise<void> {
     try {
       console.log("Starting fresh content generation...");
-      
+
       // First, delete old articles (1+ month old)
       await this.deleteOldArticles();
-      
+
       // Generate one article from each source
       const [newsApiArticles, gnewsArticles, redditArticles, serpApiArticles, educationalArticles] = await Promise.all([
         this.generateFromNewsAPI(),
-        this.generateFromGNews(), 
+        this.generateFromGNews(),
         this.generateFromReddit(),
         this.generateFromSerpAPI(),
         this.generateEducationalContent()
@@ -955,14 +962,14 @@ Make it comprehensive (1500+ words), practical, and full of actionable advice th
 
       const allArticles = [
         ...newsApiArticles,
-        ...gnewsArticles, 
+        ...gnewsArticles,
         ...redditArticles,
         ...serpApiArticles,
         ...educationalArticles
       ];
 
       // Remove duplicates based on title
-      const uniqueArticles = allArticles.filter((article, index, self) => 
+      const uniqueArticles = allArticles.filter((article, index, self) =>
         index === self.findIndex(a => a.title === article.title)
       );
 
@@ -973,7 +980,7 @@ Make it comprehensive (1500+ words), practical, and full of actionable advice th
         try {
           // Double check for existing article in database
           const existingArticle = await db.select().from(articles).where(sql`title = ${article.title}`).limit(1);
-          
+
           if (existingArticle.length === 0) {
             await db.insert(articles).values({
               ...article,
