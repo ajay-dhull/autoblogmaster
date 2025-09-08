@@ -3,6 +3,54 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://newshubnow.in/article/asml-becomes-mistral-ais-top-shareholder-after-latest-funding-round-mfayu8el</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-09-08T10:15:24.429Z</news:publication_date>
+      <news:title><![CDATA[ASML becomes Mistral AI's top shareholder after latest funding round]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/netanyahu-says-israel-paying-the-price-on-world-stage-for-war-in-gaza-mfayu66o</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-09-08T10:15:21.552Z</news:publication_date>
+      <news:title><![CDATA[Netanyahu says Israel ‘paying the price’ on world stage for war in Gaza]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/i-felt-like-getting-into-depression-chris-gayle-speaks-out-on-heartbreaking-experience-during-his-punjab-kings-stint-in-ipl-video-mfayu7p8</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-09-08T10:13:25.000Z</news:publication_date>
+      <news:title><![CDATA['I Felt Like Getting Into Depression': Chris Gayle Speaks Out On Heartbreaking Experience During His Punjab Kings Stint In IPL: Video]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/hcltech-welcomes-amitabh-kant-as-independent-director-to-boost-growth-strategy-mfayu5w0</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-09-08T10:13:13.000Z</news:publication_date>
+      <news:title><![CDATA[HCLTech Welcomes Amitabh Kant as Independent Director to Boost Growth Strategy]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://newshubnow.in/article/transformative-tech-coverage-that-matters-mfayowaw</loc>
     <news:news>
       <news:publication>
@@ -191,54 +239,6 @@
       </news:publication>
       <news:publication_date>2025-09-07T20:04:34.000Z</news:publication_date>
       <news:title><![CDATA[Stock Market Today: ట్రంప్‌ టారిఫ్‌ల ఎఫెక్ట్‌.. నష్టాల్లో సూచీలు]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/godfather-of-ai-says-the-technology-will-create-massive-unemployment-and-send-profits-soaring-that-is-the-capitalist-system-mf9easah</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-09-07T07:52:38.585Z</news:publication_date>
-      <news:title><![CDATA['Godfather of AI' says the technology will create massive unemployment and send profits soaring — 'that is the capitalist system']]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/russias-largest-air-attack-on-ukraine-sets-fire-to-main-government-building-mf9eaqts</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-09-07T07:52:36.688Z</news:publication_date>
-      <news:title><![CDATA[Russia's largest air attack on Ukraine sets fire to main government building]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/trump-adviser-peter-navarro-slams-elon-musk-after-india-russia-oil-post-gets-flagged-by-community-notes-on-x-mf9eaoa9</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-09-07T07:47:48.000Z</news:publication_date>
-      <news:title><![CDATA[Trump Adviser Peter Navarro Slams Elon Musk After India-Russia Oil Post Gets Flagged by Community Notes on X]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/venice-film-festival-2025-anuparna-roy-makes-history-with-orizzonti-best-director-win-for-songs-of-forgotten-trees-mf9eap6s</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-09-07T07:44:10.000Z</news:publication_date>
-      <news:title><![CDATA[Venice Film Festival 2025: Anuparna Roy makes history with Orizzonti Best Director win for ‘Songs of Forgotten Trees’]]></news:title>
     </news:news>
   </url>
 </urlset>
