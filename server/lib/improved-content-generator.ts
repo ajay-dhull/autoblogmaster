@@ -257,7 +257,7 @@ class ImprovedContentGenerator {
         "Write in clear, simple English that is easy to read and understand.";
 
       const requestBody = {
-       model: "llama-3-70b-versatile",
+       model: "llama-3.3-70b-versatile",
         messages: [
           {
             role: "system",
@@ -882,7 +882,7 @@ Write a professional, engaging article that provides complete coverage of this n
           "Content-Type": "application/json",
         },
         body: JSON.stringify({
-          model: "llama-3-70b-versatile",
+          model: "llama-3.3-70b-versatile",
           messages: [
             {
               role: "system",
