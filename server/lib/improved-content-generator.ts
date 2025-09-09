@@ -257,7 +257,7 @@ class ImprovedContentGenerator {
         "Write in clear, simple English that is easy to read and understand.";
 
       const requestBody = {
-        model: "openai/gpt-oss-20b", // ✅ FIXED: Correct model name format for Groq API
+       model: "llama-3-70b-versatile",
         messages: [
           {
             role: "system",
@@ -882,7 +882,7 @@ Write a professional, engaging article that provides complete coverage of this n
           "Content-Type": "application/json",
         },
         body: JSON.stringify({
-          model: "openai/gpt-oss-20b", // ✅ FIXED: Correct model name format for Groq API
+          model: "llama-3-70b-versatile",
           messages: [
             {
               role: "system",
