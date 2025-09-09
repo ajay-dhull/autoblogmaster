@@ -3,6 +3,30 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://newshubnow.in/article/white-house-says-trump-notified-qatar-before-israeli-strike-on-hamas-mfcxrlsu</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-09-09T19:20:54.558Z</news:publication_date>
+      <news:title><![CDATA[White House says Trump notified Qatar before Israeli strike on Hamas]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/frances-prime-minister-is-ousted-as-the-nation-drifts-into-turmoil-mfcr3clj</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-09-09T16:14:05.191Z</news:publication_date>
+      <news:title><![CDATA[France’s prime minister is ousted as the nation drifts into turmoil]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://newshubnow.in/article/israel-orders-full-evacuation-of-gaza-city-as-netanyahu-warns-this-is-only-the-beginning-mfcqzksb</loc>
     <news:news>
       <news:publication>
@@ -71,6 +95,54 @@
       </news:publication>
       <news:publication_date>2025-09-09T14:23:35.238Z</news:publication_date>
       <news:title><![CDATA[Israel carries out attack against Hamas leadership in Qatar, Israeli source says]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/when-where-how-to-watch-iphone-17-series-launch-in-india-us-uk-canada-china-other-countries-mfcxrkmv</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-09-09T07:20:45.000Z</news:publication_date>
+      <news:title><![CDATA[When, where & how to watch iPhone 17 series launch in India, US, UK, Canada, China & other countries]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/india-playing-xi-hints-men-in-blue-prepare-hardik-pandya-like-option-jitesh-likely-to-replace-samson-mfcxrpfl</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-09-09T07:20:34.000Z</news:publication_date>
+      <news:title><![CDATA[India playing XI hints: Men in Blue prepare Hardik Pandya-like option, Jitesh likely to replace Samson]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/nifty-sensex-open-in-green-it-index-leads-gains-auto-opens-under-pressure-mfcr3h3c</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-09-09T04:13:57.000Z</news:publication_date>
+      <news:title><![CDATA[Nifty, Sensex open in green; IT index leads gains, auto opens under pressure]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/nothing-ear-3-tws-earbuds-price-in-india-launch-date-and-more-mfcr3bvl</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-09-09T04:12:04.000Z</news:publication_date>
+      <news:title><![CDATA[Nothing Ear 3 TWS earbuds price in India, launch date and more]]></news:title>
     </news:news>
   </url>
 
@@ -167,78 +239,6 @@
       </news:publication>
       <news:publication_date>2025-09-09T02:21:00.000Z</news:publication_date>
       <news:title><![CDATA[A tops global pay metric for 3rd yr in row]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/france-in-fresh-political-crisis-after-mps-oust-prime-minister-mfburkcb</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-09-09T01:09:07.644Z</news:publication_date>
-      <news:title><![CDATA[France in fresh political crisis after MPs oust prime minister]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/at-least-19-killed-hundreds-injured-in-protests-after-nepal-social-media-ban-mfbse22g</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-09-09T00:02:38.200Z</news:publication_date>
-      <news:title><![CDATA[At least 19 killed, hundreds injured in protests after Nepal social media ban]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/onion-prices-drop-in-andhra-naidu-orders-msp-of-1200-per-quintal-mfbse2ds</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-09-08T23:50:12.000Z</news:publication_date>
-      <news:title><![CDATA[Onion prices drop in Andhra, Naidu orders MSP of ₹1200 per quintal]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/pm-to-inaugurate-top-military-comdrs-conference-on-sept-15-dm-nsa-cds-3-service-chiefs-to-attend-mfbse3tk</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-09-08T23:42:48.000Z</news:publication_date>
-      <news:title><![CDATA[PM to inaugurate top military comdrs’ conference on Sept 15; DM, NSA, CDS, 3 Service chiefs to attend]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/snapchat-ai-lens-snapchat-launches-imagine-lens-for-creative-photo-edits-mfbldxkr</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-09-08T20:46:35.067Z</news:publication_date>
-      <news:title><![CDATA[Snapchat AI Lens: Snapchat Launches Imagine Lens for Creative Photo Edits]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/french-parliament-ousts-prime-minister-deepening-political-crisis-mfbldvkb</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-09-08T20:46:32.459Z</news:publication_date>
-      <news:title><![CDATA[French parliament ousts prime minister, deepening political crisis]]></news:title>
     </news:news>
   </url>
 </urlset>
