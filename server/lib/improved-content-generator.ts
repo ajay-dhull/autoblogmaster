@@ -314,8 +314,8 @@ IMPORTANT: The provided content is just a SHORT SUMMARY or SNIPPET. You need to:
 Write a professional, engaging article that provides complete coverage of this news story, not just a summary. Use the brief description as your starting point but expand it significantly with relevant context, analysis, and comprehensive coverage.`
           }
         ],
-        max_tokens: 4000, // ✅ FIXED: Reduced from 8000 to 4000 to prevent 400 error
-        temperature: 0.7
+        max_tokens: 3500, // ✅ FIXED: Reduced from 8000 to 4000 to prevent 400 error
+        temperature: 0.75
       };
 
       const response = await this.makeGroqAPIRequest("https://api.groq.com/openai/v1/chat/completions", requestBody);
@@ -911,8 +911,8 @@ Goal: Produce top-quality, engaging, and professional articles that readers find
 Make it comprehensive (1500+ words), practical, and full of actionable advice that readers can implement immediately. Include specific examples, tools, and strategies.`
             }
           ],
-          max_tokens: 4000, // ✅ FIXED: Reduced from 8000 to 4000 to prevent 400 error
-          temperature: 0.8
+          max_tokens: 3500, // ✅ FIXED: Reduced from 8000 to 4000 to prevent 400 error
+          temperature: 0.75
         })
       });
 
