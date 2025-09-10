@@ -3,6 +3,90 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://newshubnow.in/article/violent-gen-z-protests-spiral-with-at-least-19-killed-in-nepal-video-shows-parliament-building-ablaze-mfdgvxby</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-09-10T04:16:08.830Z</news:publication_date>
+      <news:title><![CDATA[Violent Gen Z protests spiral with at least 19 killed in Nepal; video shows parliament building ablaze]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/israel-attacks-hamas-leaders-in-qatar-us-says-it-had-little-warning-mfda52bq</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-09-10T01:07:17.894Z</news:publication_date>
+      <news:title><![CDATA[Israel attacks Hamas leaders in Qatar, US says it had little warning]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/new-life-for-the-mainframe-ai-cost-savings-materialize-modernization-efforts-pay-off-mfd39agt</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-09-09T21:54:37.757Z</news:publication_date>
+      <news:title><![CDATA[New life for the mainframe: AI cost savings materialize, modernization efforts pay off]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/oil-settles-higher-after-israeli-attack-on-qatar-mfd3932e</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-09-09T21:54:28.166Z</news:publication_date>
+      <news:title><![CDATA[Oil settles higher after Israeli attack on Qatar]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/frances-macron-names-loyalist-lecornu-as-new-prime-minister-mfd0th7x</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-09-09T20:46:20.781Z</news:publication_date>
+      <news:title><![CDATA[France's Macron names loyalist Lecornu as new prime minister]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/align-expands-align-insights-panel-series-with-new-episode-on-artificial-intelligence-and-critical-technology-trends-in-the-alternative-investment-industry-mfd0p9m8</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-09-09T20:43:04.305Z</news:publication_date>
+      <news:title><![CDATA[Align Expands “Align Insights” Panel Series with New Episode on Artificial Intelligence and Critical Technology Trends in the Alternative Investment Industry]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/us-says-strike-on-doha-does-not-advance-israels-goals-mfd0p41h</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-09-09T20:42:57.077Z</news:publication_date>
+      <news:title><![CDATA[US says strike on Doha 'does not advance Israel's goals']]></news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://newshubnow.in/article/white-house-says-trump-notified-qatar-before-israeli-strike-on-hamas-mfcxrlsu</loc>
     <news:news>
       <news:publication>
@@ -11,6 +95,30 @@
       </news:publication>
       <news:publication_date>2025-09-09T19:20:54.558Z</news:publication_date>
       <news:title><![CDATA[White House says Trump notified Qatar before Israeli strike on Hamas]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/eu-and-indias-trade-transformation-a-fairtrade-commitment-mfdgvx1h</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-09-09T16:15:32.000Z</news:publication_date>
+      <news:title><![CDATA[EU and India's Trade Transformation: A Fairtrade Commitment]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/rupee-closes-at-8810-against-us-dollar-before-briefly-recovering-to-8795-a-key-resistance-level-mfdgw1nq</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-09-09T16:15:00.000Z</news:publication_date>
+      <news:title><![CDATA[Rupee closes at 88.10 against US dollar, before briefly recovering to 87.95, a key resistance level]]></news:title>
     </news:news>
   </url>
 
@@ -99,146 +207,38 @@
   </url>
 
   <url>
-    <loc>https://newshubnow.in/article/when-where-how-to-watch-iphone-17-series-launch-in-india-us-uk-canada-china-other-countries-mfcxrkmv</loc>
+    <loc>https://newshubnow.in/article/nepal-india-trade--mfda53i9</loc>
     <news:news>
       <news:publication>
         <news:name>NewsHubNow</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2025-09-09T07:20:45.000Z</news:publication_date>
-      <news:title><![CDATA[When, where & how to watch iPhone 17 series launch in India, US, UK, Canada, China & other countries]]></news:title>
+      <news:publication_date>2025-09-09T13:07:03.000Z</news:publication_date>
+      <news:title><![CDATA[Nepal India Trade: नेपाल में सुलगता आग का दरिया, खतरे में भारत की आर्थिक 'लाइफलाइन', क्‍या-क्‍या जाता है आर-पार?]]></news:title>
     </news:news>
   </url>
 
   <url>
-    <loc>https://newshubnow.in/article/india-playing-xi-hints-men-in-blue-prepare-hardik-pandya-like-option-jitesh-likely-to-replace-samson-mfcxrpfl</loc>
+    <loc>https://newshubnow.in/article/samsung-innovation-campus-to-expand-to-train-20000-indian-students-in-future-mfda584o</loc>
     <news:news>
       <news:publication>
         <news:name>NewsHubNow</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2025-09-09T07:20:34.000Z</news:publication_date>
-      <news:title><![CDATA[India playing XI hints: Men in Blue prepare Hardik Pandya-like option, Jitesh likely to replace Samson]]></news:title>
+      <news:publication_date>2025-09-09T13:06:00.000Z</news:publication_date>
+      <news:title><![CDATA[Samsung Innovation Campus to expand to train 20,000 Indian students in Future]]></news:title>
     </news:news>
   </url>
 
   <url>
-    <loc>https://newshubnow.in/article/nifty-sensex-open-in-green-it-index-leads-gains-auto-opens-under-pressure-mfcr3h3c</loc>
+    <loc>https://newshubnow.in/article/10-budget-friendly-family-holidays-in-india-mfd393oq</loc>
     <news:news>
       <news:publication>
         <news:name>NewsHubNow</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2025-09-09T04:13:57.000Z</news:publication_date>
-      <news:title><![CDATA[Nifty, Sensex open in green; IT index leads gains, auto opens under pressure]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/nothing-ear-3-tws-earbuds-price-in-india-launch-date-and-more-mfcr3bvl</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-09-09T04:12:04.000Z</news:publication_date>
-      <news:title><![CDATA[Nothing Ear 3 TWS earbuds price in India, launch date and more]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/bdeshs-gift-of-1200-mt-of-hilsa-to-bengal-mfcqzkev</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-09-09T04:10:46.000Z</news:publication_date>
-      <news:title><![CDATA[B’desh’s gift of 1,200 MT of hilsa to Bengal]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/20--mfcqzmig</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-09-09T04:10:25.000Z</news:publication_date>
-      <news:title><![CDATA[டி20 கிரிக்கெட்: ஷிவம் துபே போன்ற ஆல் ரவுண்டர்கள் அதை செய்வது முக்கியம் - இந்திய பயிற்சியாளர்]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/indias-first-e-water-taxi-to-run-from-gateway-to-jnpa-launching-september-22nd-mfcpdab4</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-09-09T03:25:43.000Z</news:publication_date>
-      <news:title><![CDATA[India's First E-Water Taxi to Run from Gateway to JNPA, Launching September 22nd]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/arshdeep-singh-1-wicket-away-from-becoming-1st-indian-cricketer-to-mfcpdcki</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-09-09T03:24:23.000Z</news:publication_date>
-      <news:title><![CDATA[Arshdeep Singh 1 Wicket Away From Becoming 1st Indian Cricketer To...]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/historic-naval-mission-10-indian-armed-forces-women-officers-set-to-sail-26000-nautical-miles-across-the-globe-i-watch-mfcnym4s</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-09-09T02:45:51.000Z</news:publication_date>
-      <news:title><![CDATA[Historic Naval Mission: 10 Indian Armed Forces Women Officers Set To Sail 26,000+ Nautical Miles Across The Globe I Watch]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/techie-who-returned-home-from-sweden-shares-his-first-day-back-in-indian-office-in-viral-video-poor-roads-wifi-problems-but-amazing-food-mfcnykq1</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-09-09T02:45:00.000Z</news:publication_date>
-      <news:title><![CDATA[Techie who returned home from Sweden shares his first day back in Indian office in viral video: 'Poor roads, WiFi problems but amazing food']]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/is-he-an-ordinary-person-india-bloc-vp-candidate-sudarshan-reddy-on-meeting-lalu-yadav-mfcn58kz</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-09-09T02:22:29.000Z</news:publication_date>
-      <news:title><![CDATA['Is He An Ordinary Person?': INDIA Bloc VP Candidate Sudarshan Reddy On Meeting Lalu Yadav]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/a-tops-global-pay-metric-for-3rd-yr-in-row-mfcn5a4q</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-09-09T02:21:00.000Z</news:publication_date>
-      <news:title><![CDATA[A tops global pay metric for 3rd yr in row]]></news:title>
+      <news:publication_date>2025-09-09T09:54:13.000Z</news:publication_date>
+      <news:title><![CDATA[10 Budget-Friendly Family Holidays In India]]></news:title>
     </news:news>
   </url>
 </urlset>
