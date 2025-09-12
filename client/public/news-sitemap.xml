@@ -3,6 +3,66 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://newshubnow.in/article/openai-takes-big-steps-toward-its-long-planned-reorganization-mfg4zlc0</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-09-12T01:06:23.040Z</news:publication_date>
+      <news:title><![CDATA[OpenAI Takes Big Steps Toward Its Long-Planned Reorganization]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/belarus-frees-political-prisoners-in-exchange-for-easing-of-us-sanctions-mfg4zfpj</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-09-12T01:06:15.751Z</news:publication_date>
+      <news:title><![CDATA[Belarus frees political prisoners in exchange for easing of US sanctions]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/where-will-everyone-in-gaza-city-go-mffvmsh5</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-09-11T20:44:29.225Z</news:publication_date>
+      <news:title><![CDATA[Where Will Everyone in Gaza City Go?]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/university-of-cincinnati-launches-ai-ethics-center-with-federal-support-mffvi76f</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-09-11T20:40:54.999Z</news:publication_date>
+      <news:title><![CDATA[University of Cincinnati launches AI ethics center with federal support]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/qatar-holds-funeral-for-victims-of-israeli-attack-amid-regional-solidarity-mffvi1ki</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-09-11T20:40:47.730Z</news:publication_date>
+      <news:title><![CDATA[Qatar holds funeral for victims of Israeli attack amid regional solidarity]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://newshubnow.in/article/us-senator-cruz-proposes-ai-sandbox-to-ease-regulations-on-tech-companies-mffj9x7d</loc>
     <news:news>
       <news:publication>
@@ -35,6 +95,78 @@
       </news:publication>
       <news:publication_date>2025-09-11T14:58:22.769Z</news:publication_date>
       <news:title><![CDATA[Video Content Creation: YouTube, TikTok, Instagram]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/pm-modi-announces-rs-1200-crore-aid-for-flood-hit-uttarakhand-meets-victims-in-dehradun-mfg4zg07</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-09-11T13:06:00.000Z</news:publication_date>
+      <news:title><![CDATA[PM Modi announces Rs 1,200 crore aid for flood-hit Uttarakhand, meets victims in Dehradun]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/indias-bold-gst-overhaul-a-new-boost-for-the-automotive-sector-mfg4zknz</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-09-11T13:05:51.000Z</news:publication_date>
+      <news:title><![CDATA[India's Bold GST Overhaul: A New Boost for the Automotive Sector]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/kalpataru-projects-secures-rs-2720-crore-in-infrastructure-orders-mffvna13</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-09-11T08:43:03.000Z</news:publication_date>
+      <news:title><![CDATA[Kalpataru Projects Secures Rs 2,720 Crore in Infrastructure Orders]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/mauritius-and-india-strengthening-a-timeless-bond-mffvn4bg</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-09-11T08:41:00.000Z</news:publication_date>
+      <news:title><![CDATA[Mauritius and India: Strengthening a Timeless Bond]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/india-to-offer-large-carbon-capture-incentives-as-coal-remains-major-part-of-energy-mix-mffvi1ra</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-09-11T08:39:52.000Z</news:publication_date>
+      <news:title><![CDATA[India to offer large carbon capture incentives as coal remains major part of energy mix]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/honda-activa-dio-other-bikes-get-price-drop-after-gst-20-check-full-model-list-mffvi6r5</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-09-11T08:37:46.000Z</news:publication_date>
+      <news:title><![CDATA[Honda Activa, Dio, Other Bikes Get Price Drop After GST 2.0 - Check Full Model List]]></news:title>
     </news:news>
   </url>
 
@@ -87,6 +219,18 @@
   </url>
 
   <url>
+    <loc>https://newshubnow.in/article/chronically-sleepless-new-study-suggests-it-might-cause-your-brain-to-age-the-washington-post-mfg4zgbm</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-09-11T00:31:35.000Z</news:publication_date>
+      <news:title><![CDATA[Chronically sleepless? New study suggests it might cause your brain to age. - The Washington Post]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://newshubnow.in/article/apple-intelligence-everything-you-need-to-know-about-apples-ai-model-and-services-mfeg96kw</loc>
     <news:news>
       <news:publication>
@@ -95,150 +239,6 @@
       </news:publication>
       <news:publication_date>2025-09-10T20:46:13.904Z</news:publication_date>
       <news:title><![CDATA[Apple Intelligence: Everything you need to know about Apple’s AI model and services]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/oil-prices-settle-up-over-1-after-global-tensions-mount-oversupply-caps-gains-mfeg91vu</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-09-10T20:46:07.818Z</news:publication_date>
-      <news:title><![CDATA[Oil prices settle up over $1 after global tensions mount; oversupply caps gains]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/openai-signs-300-billion-data-center-pact-with-tech-giant-oracle-mfeg6scr</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-09-10T20:44:22.155Z</news:publication_date>
-      <news:title><![CDATA[OpenAI Signs $300 Billion Data Center Pact With Tech Giant Oracle]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/trump-on-russias-incursion-into-nato-here-we-go-mfeg6ng4</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-09-10T20:44:15.796Z</news:publication_date>
-      <news:title><![CDATA[Trump on Russia’s incursion into NATO: ‘Here we go!’]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/demon-slayer-all-seasons-movie-recap-essential-highlights-to-know-before-infinity-castle-releases-in-india-mfepn233</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-09-10T13:08:26.000Z</news:publication_date>
-      <news:title><![CDATA[Demon Slayer All Seasons, Movie Recap: Essential Highlights To Know Before Infinity Castle Releases In India]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/koalas-to-be-vaccinated-against-deadly-chlamydia-in-world-first-cnn-mffj9pbw</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-09-10T11:03:00.000Z</news:publication_date>
-      <news:title><![CDATA[Koalas to be vaccinated against deadly chlamydia in world first - CNN]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/marriott-doubles-down-on-india-with-500-hotel-plan-by-2030-mfeg91ao</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-09-10T08:45:12.000Z</news:publication_date>
-      <news:title><![CDATA[Marriott doubles down on India with 500-hotel plan by 2030]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/baraat-in-london-people-stop-to-watch-indian-mfeg95pb</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-09-10T08:45:00.000Z</news:publication_date>
-      <news:title><![CDATA[Baraat in London: People stop to watch Indian]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/goldman-sachs-india-portfolio-slips-but-5-stocks-rally-50-100-in-5-months-mfeg6npq</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-09-10T08:44:00.000Z</news:publication_date>
-      <news:title><![CDATA[Goldman Sachs India portfolio slips, but 5 stocks rally 50-100% in 5 months]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/violent-gen-z-protests-spiral-with-at-least-19-killed-in-nepal-video-shows-parliament-building-ablaze-mfdgvxby</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-09-10T04:16:08.830Z</news:publication_date>
-      <news:title><![CDATA[Violent Gen Z protests spiral with at least 19 killed in Nepal; video shows parliament building ablaze]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/protests-against-nepals-social-media-ban-grow-more-violent-as-demonstrators-set-buildings-on-fire-ap-news-mfepn246</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-09-10T02:30:00.000Z</news:publication_date>
-      <news:title><![CDATA[Protests against Nepal's social-media ban grow more violent as demonstrators set buildings on fire - AP News]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/israel-attacks-hamas-leaders-in-qatar-us-says-it-had-little-warning-mfda52bq</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-09-10T01:07:17.894Z</news:publication_date>
-      <news:title><![CDATA[Israel attacks Hamas leaders in Qatar, US says it had little warning]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/new-life-for-the-mainframe-ai-cost-savings-materialize-modernization-efforts-pay-off-mfd39agt</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-09-09T21:54:37.757Z</news:publication_date>
-      <news:title><![CDATA[New life for the mainframe: AI cost savings materialize, modernization efforts pay off]]></news:title>
     </news:news>
   </url>
 </urlset>
