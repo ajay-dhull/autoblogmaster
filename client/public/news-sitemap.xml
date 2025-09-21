@@ -3,6 +3,54 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://newshubnow.in/article/internet-computer-icp-news-ai-the-new-tech-stack-mft08rvp</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-09-21T01:14:33.637Z</news:publication_date>
+      <news:title><![CDATA[Internet Computer (ICP) News: AI the New Tech Stack]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/israeli-bombing-kills-over-90-palestinians-as-gaza-city-faces-destruction-mft08mtn</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-09-21T01:14:27.083Z</news:publication_date>
+      <news:title><![CDATA[Israeli bombing kills over 90 Palestinians as Gaza City faces destruction]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/israel-presses-on-with-gaza-city-assault-at-least-60-palestinians-killed-mfsqjnm5</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-09-20T20:43:05.165Z</news:publication_date>
+      <news:title><![CDATA[Israel presses on with Gaza City assault, at least 60 Palestinians killed]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/cyberattack-causes-disruptions-at-major-european-airports-mfsqgr80</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-09-20T20:40:49.872Z</news:publication_date>
+      <news:title><![CDATA[Cyberattack causes disruptions at major European airports]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://newshubnow.in/article/new-book-claims-superintelligent-ai-development-is-racing-toward-global-catastrophe-mfshzf7t</loc>
     <news:news>
       <news:publication>
@@ -23,6 +71,78 @@
       </news:publication>
       <news:publication_date>2025-09-20T16:43:15.864Z</news:publication_date>
       <news:title><![CDATA[Cyberattack causes flight delays, cancellations at major European airports]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/fpis-turn-net-buyers-as-fed-rate-cut-boosts-emerging-market-appeal-mft08qtr</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-09-20T13:13:59.000Z</news:publication_date>
+      <news:title><![CDATA[FPIs turn net buyers as Fed rate cut boosts emerging market appeal]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/--mft08mbr</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-09-20T13:13:50.000Z</news:publication_date>
+      <news:title><![CDATA["சென்னை ஒன்று மொபைல் செயலி": நாளை மறுநாள் மு.க.ஸ்டாலின் தொடங்கி வைக்கிறார்]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/shutting-out-the-noise-suryakumar-yadavs-game-plan-against-rivalry-mfsqjsg9</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-09-20T08:42:52.000Z</news:publication_date>
+      <news:title><![CDATA[Shutting Out the Noise: Suryakumar Yadav's Game Plan Against Rivalry]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/suryakumar-yadav-shares-words-of-wisdom-with-omans-squad-after-asia-cup-clash-mfsqjnov</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-09-20T08:42:33.000Z</news:publication_date>
+      <news:title><![CDATA[Suryakumar Yadav shares words of wisdom with Oman's squad after Asia Cup clash]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/pm-modi-inaugurates-mumbai-international-cruise-terminal-projects-worth-34200-crore-in-gujarat-mfsqgs93</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-09-20T08:40:08.000Z</news:publication_date>
+      <news:title><![CDATA[PM Modi inaugurates Mumbai International Cruise Terminal, projects worth ₹34,200 crore in Gujarat]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/opinion-men-occupy-places-vs-women-occupy-spaces-liminality-of-women-mfsqgwkb</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-09-20T08:38:40.000Z</news:publication_date>
+      <news:title><![CDATA[Opinion | Men Occupy Places Vs Women Occupy Spaces: Liminality Of Women]]></news:title>
     </news:news>
   </url>
 
@@ -75,6 +195,18 @@
   </url>
 
   <url>
+    <loc>https://newshubnow.in/article/as-talks-between-disney-jimmy-kimmel-continue-conservative-support-around-free-speech-may-tip-scale-towards-shows-return-deadline-mft08mxc</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-09-19T23:56:00.000Z</news:publication_date>
+      <news:title><![CDATA[As Talks Between Disney & Jimmy Kimmel Continue, Conservative Support Around Free Speech May Tip Scale Towards Show’s Return - Deadline]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://newshubnow.in/article/artificial-intelligence-news-for-the-week-of-september-19-updates-from-druid-ai-dxc-technology-g-p-more-mfrb90zd</loc>
     <news:news>
       <news:publication>
@@ -107,138 +239,6 @@
       </news:publication>
       <news:publication_date>2025-09-19T20:42:14.016Z</news:publication_date>
       <news:title><![CDATA[What does the future hold for generative AI?]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/nato-intercepts-russian-warplanes-violating-estonian-airspace-mfrb2khu</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-09-19T20:42:07.554Z</news:publication_date>
-      <news:title><![CDATA[Nato intercepts Russian warplanes violating Estonian airspace]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/lyles-wins-200-again-jefferson-wooden-sweeps-espn-mfshz897</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-09-19T13:42:00.000Z</news:publication_date>
-      <news:title><![CDATA[Lyles wins 200 again; Jefferson-Wooden sweeps - ESPN]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/how-indias-digital-journey-offers-a-replicable-model-to-africa-mfrkhgne</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-09-19T13:05:29.000Z</news:publication_date>
-      <news:title><![CDATA[How India’s digital journey offers a replicable model to Africa]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/rare-black-tiger-captured-by-indian-photographer-on-national-geographics-october-cover-mfrkhl9n</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-09-19T13:02:54.000Z</news:publication_date>
-      <news:title><![CDATA[Rare Black Tiger, Captured By Indian Photographer, On National Geographic’s October Cover]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/suryakumar-yadav-proper-rohit-sharma-replacement-as-india-t20i-captain-mohammed-kaif-mfrb8ulj</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-09-19T08:46:08.000Z</news:publication_date>
-      <news:title><![CDATA[Suryakumar Yadav proper Rohit Sharma replacement as India T20I captain: Mohammed Kaif]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/how-a-new-freight-train-for-transporting-kashmiri-apples-turns-into-a-blessing-for-j-k-local-farmers-mfrb8z4z</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-09-19T08:44:15.000Z</news:publication_date>
-      <news:title><![CDATA[How a new freight train for transporting Kashmiri apples turns into a blessing for J-K local farmers]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/2023-kalamassery-blasts-kerala-police-to-seek-us-help-in-probe-into-bjp-chiefs-fb-post-mfrb2k19</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-09-19T08:40:43.000Z</news:publication_date>
-      <news:title><![CDATA[2023 Kalamassery Blasts: Kerala Police to seek US help in probe into BJP chief's FB post]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/what-is-fentanyl-the-deadly-drug-behind-us-visa-ban-on-indian-businesspersons-mfrb2onh</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-09-19T08:39:39.000Z</news:publication_date>
-      <news:title><![CDATA[What Is Fentanyl? The Deadly Drug Behind US Visa Ban On Indian Businesspersons]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/china-bans-tech-companies-from-buying-nvidias-ai-chips-mfq56qmy</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-09-19T01:09:38.266Z</news:publication_date>
-      <news:title><![CDATA[China bans tech companies from buying Nvidia’s AI chips]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/trump-suggests-starmer-could-use-military-to-control-uk-borders-mfq56lm4</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-09-19T01:09:31.756Z</news:publication_date>
-      <news:title><![CDATA[Trump suggests Starmer could use military to control UK borders]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/cdcs-vaccine-advisory-panel-with-new-members-picked-by-rfk-jr-votes-on-measles-shot-cbs-news-mfrkhg75</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-09-18T23:52:04.000Z</news:publication_date>
-      <news:title><![CDATA[CDC's vaccine advisory panel, with new members picked by RFK Jr., votes on measles shot - CBS News]]></news:title>
     </news:news>
   </url>
 </urlset>
