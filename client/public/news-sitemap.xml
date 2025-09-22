@@ -3,6 +3,114 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://newshubnow.in/article/israel-bristles-as-uk-leads-western-recognition-of-palestine-mfufnriu</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-09-22T01:13:53.431Z</news:publication_date>
+      <news:title><![CDATA[Israel bristles as UK leads Western recognition of Palestine]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/israeli-attack-kills-at-least-25-from-the-same-family-in-gaza-city-homes-mfu61jxz</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-09-21T20:44:40.631Z</news:publication_date>
+      <news:title><![CDATA[Israeli attack kills at least 25 from the same family in Gaza City homes]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/uk-canada-australia-recognize-palestinian-state-netanyahu-vows-it-will-not-happen-mfu5ylt2</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-09-21T20:42:23.078Z</news:publication_date>
+      <news:title><![CDATA[UK, Canada, Australia recognize Palestinian state; Netanyahu vows ‘it will not happen’]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/sunil-gavaskar-slams-mohsin-naqvi-asks-for-points-deduction-for-pakistans-drama-mfufnrwz</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-09-21T13:12:45.000Z</news:publication_date>
+      <news:title><![CDATA[Sunil Gavaskar Slams Mohsin Naqvi, Asks For Points Deduction For Pakistan's Drama]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/how-new-visa-rules-by-trump-is-shattering-american-dream-for-many-indians-mfufnw5u</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-09-21T13:09:01.000Z</news:publication_date>
+      <news:title><![CDATA[How New Visa Rules By Trump Is Shattering American Dream For Many Indians]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/fpis-take-out-rs-7945-crore-from-equities-in-sept-net-outflow-at-rs-14-lakh-crore-in-2025-so-far-mfu61ocm</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-09-21T08:44:04.000Z</news:publication_date>
+      <news:title><![CDATA[FPIs Take Out Rs 7,945 Crore From Equities In Sept; Net Outflow At Rs 1.4 Lakh Crore In 2025 So Far]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/pm-modi-to-address-nation-today-at-5-pm-mfu61jkp</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-09-21T08:43:39.000Z</news:publication_date>
+      <news:title><![CDATA[PM Modi to address nation today at 5 pm]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/pakistan-plan-political-message-if-they-exact-revenge-for-no-handshake-storm-vs-india-in-asia-cup-super-four-report-mfu5ym69</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-09-21T08:42:04.000Z</news:publication_date>
+      <news:title><![CDATA[Pakistan plan 'political message' if they exact revenge for ‘no-handshake’ storm vs India in Asia Cup Super Four: Report]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/mithun-manhas-steps-up-for-bcci-presidency-mfu5yqp2</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-09-21T08:41:42.000Z</news:publication_date>
+      <news:title><![CDATA[Mithun Manhas Steps Up for BCCI Presidency]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://newshubnow.in/article/internet-computer-icp-news-ai-the-new-tech-stack-mft08rvp</loc>
     <news:news>
       <news:publication>
@@ -27,218 +135,14 @@
   </url>
 
   <url>
-    <loc>https://newshubnow.in/article/israel-presses-on-with-gaza-city-assault-at-least-60-palestinians-killed-mfsqjnm5</loc>
+    <loc>https://newshubnow.in/article/multiple-people-shot-at-new-hampshire-country-club-police-say-suspect-in-custody-cnn-mfufnrz4</loc>
     <news:news>
       <news:publication>
         <news:name>NewsHubNow</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2025-09-20T20:43:05.165Z</news:publication_date>
-      <news:title><![CDATA[Israel presses on with Gaza City assault, at least 60 Palestinians killed]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/cyberattack-causes-disruptions-at-major-european-airports-mfsqgr80</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-09-20T20:40:49.872Z</news:publication_date>
-      <news:title><![CDATA[Cyberattack causes disruptions at major European airports]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/new-book-claims-superintelligent-ai-development-is-racing-toward-global-catastrophe-mfshzf7t</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-09-20T16:43:24.233Z</news:publication_date>
-      <news:title><![CDATA[New book claims superintelligent AI development is racing toward global catastrophe]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/cyberattack-causes-flight-delays-cancellations-at-major-european-airports-mfshz8rc</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-09-20T16:43:15.864Z</news:publication_date>
-      <news:title><![CDATA[Cyberattack causes flight delays, cancellations at major European airports]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/fpis-turn-net-buyers-as-fed-rate-cut-boosts-emerging-market-appeal-mft08qtr</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-09-20T13:13:59.000Z</news:publication_date>
-      <news:title><![CDATA[FPIs turn net buyers as Fed rate cut boosts emerging market appeal]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/--mft08mbr</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-09-20T13:13:50.000Z</news:publication_date>
-      <news:title><![CDATA["சென்னை ஒன்று மொபைல் செயலி": நாளை மறுநாள் மு.க.ஸ்டாலின் தொடங்கி வைக்கிறார்]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/shutting-out-the-noise-suryakumar-yadavs-game-plan-against-rivalry-mfsqjsg9</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-09-20T08:42:52.000Z</news:publication_date>
-      <news:title><![CDATA[Shutting Out the Noise: Suryakumar Yadav's Game Plan Against Rivalry]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/suryakumar-yadav-shares-words-of-wisdom-with-omans-squad-after-asia-cup-clash-mfsqjnov</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-09-20T08:42:33.000Z</news:publication_date>
-      <news:title><![CDATA[Suryakumar Yadav shares words of wisdom with Oman's squad after Asia Cup clash]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/pm-modi-inaugurates-mumbai-international-cruise-terminal-projects-worth-34200-crore-in-gujarat-mfsqgs93</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-09-20T08:40:08.000Z</news:publication_date>
-      <news:title><![CDATA[PM Modi inaugurates Mumbai International Cruise Terminal, projects worth ₹34,200 crore in Gujarat]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/opinion-men-occupy-places-vs-women-occupy-spaces-liminality-of-women-mfsqgwkb</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-09-20T08:38:40.000Z</news:publication_date>
-      <news:title><![CDATA[Opinion | Men Occupy Places Vs Women Occupy Spaces: Liminality Of Women]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/4-years-after-death-haryana-mans-remains-exhumed-for-dna-test-amid-murder-probe-mfshzcxw</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-09-20T04:42:51.000Z</news:publication_date>
-      <news:title><![CDATA[4 years after death, Haryana man’s remains exhumed for DNA test amid murder probe]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/non-contact-warfare-new-normal-india-must-stay-ahead-of-curve-lt-gen-adosh-kumar-mfshz8tc</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-09-20T04:40:18.000Z</news:publication_date>
-      <news:title><![CDATA[Non-contact warfare new normal, India must stay ahead of curve: Lt Gen Adosh Kumar]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/artificial-intelligence-ai-update-sept-19-2025-mfrkhlo1</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-09-20T01:05:45.458Z</news:publication_date>
-      <news:title><![CDATA[Artificial Intelligence (A.I.) Update | Sept. 19, 2025]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/trump-hits-out-at-russia-after-fighter-jets-enter-estonian-airspace-in-brazen-incursion-mfrkhgjo</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-09-20T01:05:38.820Z</news:publication_date>
-      <news:title><![CDATA[Trump hits out at Russia after fighter jets enter Estonian airspace in ‘brazen’ incursion]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/as-talks-between-disney-jimmy-kimmel-continue-conservative-support-around-free-speech-may-tip-scale-towards-shows-return-deadline-mft08mxc</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-09-19T23:56:00.000Z</news:publication_date>
-      <news:title><![CDATA[As Talks Between Disney & Jimmy Kimmel Continue, Conservative Support Around Free Speech May Tip Scale Towards Show’s Return - Deadline]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/artificial-intelligence-news-for-the-week-of-september-19-updates-from-druid-ai-dxc-technology-g-p-more-mfrb90zd</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-09-19T20:47:08.857Z</news:publication_date>
-      <news:title><![CDATA[Artificial Intelligence News for the Week of September 19; Updates from Druid AI, DxC Technology, G-P & More]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/eu-chief-seeks-sanctions-on-russian-lng-to-pressure-moscow-over-ukraine-war-mfrb8whl</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-09-19T20:47:03.033Z</news:publication_date>
-      <news:title><![CDATA[EU chief seeks sanctions on Russian LNG to pressure Moscow over Ukraine war]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/what-does-the-future-hold-for-generative-ai-mfrb2phc</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-09-19T20:42:14.016Z</news:publication_date>
-      <news:title><![CDATA[What does the future hold for generative AI?]]></news:title>
+      <news:publication_date>2025-09-21T00:41:00.000Z</news:publication_date>
+      <news:title><![CDATA[Multiple people shot at New Hampshire country club, police say, suspect in custody - CNN]]></news:title>
     </news:news>
   </url>
 </urlset>
