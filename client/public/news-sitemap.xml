@@ -3,6 +3,138 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://newshubnow.in/article/chinas-plans-to-cut-emissions-too-weak-to-stave-off-global-catastrophe-say-experts-mfypst6i</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-09-25T01:08:49.722Z</news:publication_date>
+      <news:title><![CDATA[China’s plans to cut emissions too weak to stave off global catastrophe, say experts]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/openai-to-join-tech-giants-in-building-5-new-data-centers-in-us-mfygfncx</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-09-24T20:46:39.105Z</news:publication_date>
+      <news:title><![CDATA[OpenAI to Join Tech Giants in Building 5 New Data Centers in U.S.]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/italy-and-spain-deploy-ships-to-help-gaza-aid-flotilla-targeted-in-drone-attack-mfygfigu</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-09-24T20:46:32.766Z</news:publication_date>
+      <news:title><![CDATA[Italy and Spain deploy ships to help Gaza aid flotilla targeted in drone attack]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/microsofts-new-cooling-tech-targets-ais-thermal-bottleneck-as-hyperscalers-hit-power-ceilings-mfygddk8</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-09-24T20:44:53.096Z</news:publication_date>
+      <news:title><![CDATA[Microsoft’s new cooling tech targets AI’s thermal bottleneck as hyperscalers hit power ceilings]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/typhoon-ragasa-tears-through-guangfu-in-taiwan-killing-at-least-17-mfygd8pk</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-09-24T20:44:46.808Z</news:publication_date>
+      <news:title><![CDATA[Typhoon Ragasa Tears Through Guangfu in Taiwan, Killing at Least 17]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/customs-seize-social-media-influencers-car-in-idukki-as-part-of-operation-numkhore-mfypsrw0</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-09-24T13:08:39.000Z</news:publication_date>
+      <news:title><![CDATA[Customs seize social media influencer’s car in Idukki as part of Operation Numkhore]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/heres-how-prabhas-baahubali-made-history-mfypsw14</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-09-24T13:08:18.000Z</news:publication_date>
+      <news:title><![CDATA[Here's How Prabhas’ Baahubali Made History]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/ind-vs-ban-today-match-dubai-weather-forecast-updates-mfygfin2</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-09-24T08:46:19.000Z</news:publication_date>
+      <news:title><![CDATA[IND vs BAN Today Match Dubai Weather Forecast & Updates]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/hindenburg-was-a-direct-challenge-to-audacity-of-indian-enterprises-to-go-global-gautam-adani-mfygdch8</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-09-24T08:44:39.000Z</news:publication_date>
+      <news:title><![CDATA[Hindenburg was a direct challenge to audacity of Indian enterprises to go global: Gautam Adani]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/pilots-federation-writes-to-moca-seeks-a-judicial-probe-into-air-india-ai-171-crash-investigation-mfygd7tn</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-09-24T08:44:39.000Z</news:publication_date>
+      <news:title><![CDATA[Pilots’ Federation Writes to MoCA, Seeks a Judicial Probe Into Air India AI 171 Crash Investigation]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/markets-await-earnings-revival-amid-range-bound-trading-says-manish-sonthalia-mfygfowl</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-09-24T08:43:00.000Z</news:publication_date>
+      <news:title><![CDATA[Markets await earnings revival amid range-bound trading, says Manish Sonthalia]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://newshubnow.in/article/dog-whisperer-cesar-millan-brings-artificial-intelligence-to-pet-training-mfxac897</loc>
     <news:news>
       <news:publication>
@@ -23,6 +155,18 @@
       </news:publication>
       <news:publication_date>2025-09-24T01:08:09.495Z</news:publication_date>
       <news:title><![CDATA['Green scam': At UN, watched by drowning nations' leaders, Trump assails the ethos of climate change]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/kyiv-can-win-all-of-ukraine-back-from-russia-trump-says-bbc-mfypss0z</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-09-24T01:00:34.000Z</news:publication_date>
+      <news:title><![CDATA[Kyiv can win all of Ukraine back from Russia, Trump says - BBC]]></news:title>
     </news:news>
   </url>
 
@@ -71,150 +215,6 @@
       </news:publication>
       <news:publication_date>2025-09-23T20:43:28.331Z</news:publication_date>
       <news:title><![CDATA[Trump criticises countries' migration and climate policies in UN speech]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/lionel-messi-to-mark-his-2nd-india-visit-in-november-argentina-likely-to-host-australia-in-kerala-mfxac3m2</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-09-23T13:07:38.000Z</news:publication_date>
-      <news:title><![CDATA[Lionel Messi To Mark His 2nd India Visit In November, Argentina Likely To Host Australia In Kerala]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/studying-in-australia-preparing-students-beyond-exams-mfxac7yk</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-09-23T13:07:03.000Z</news:publication_date>
-      <news:title><![CDATA[Studying in Australia: Preparing students beyond exams]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/how-real-estate-shapes-lifestyle-choices-in-metro-cities-mfx1jy7x</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-09-23T09:02:04.000Z</news:publication_date>
-      <news:title><![CDATA[How real estate shapes lifestyle choices in metro cities]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/amazon-108mp-6600mah-5g--mfx1k2xh</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-09-23T08:59:49.000Z</news:publication_date>
-      <news:title><![CDATA[Amazon दिवाली सेल में बम्पर छूट पर खरीदें 108MP कैमरा, 6600mAh बैटरी वाले रफ एंड टफ 5G फोन्स]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/indias-first-ever-four-wheeler-high-voltage-ev-safety-training-unveiled-mfx106do</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-09-23T08:46:47.000Z</news:publication_date>
-      <news:title><![CDATA[India's First-Ever Four-Wheeler High Voltage EV Safety Training Unveiled]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/indian-it-majors-cut-visa-petitions-by-44-in-four-years-mfx10auc</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-09-23T08:45:35.000Z</news:publication_date>
-      <news:title><![CDATA[Indian IT Majors Cut Visa Petitions by 44% in Four Years]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/--mfx0vq0g</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-09-23T08:43:04.000Z</news:publication_date>
-      <news:title><![CDATA[भारत के बारे में इस भाषा में बात करने कि क्या जरूरत थी, ट्रंप के खास नवारो को शशि थरूर ने सुनाया]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/amazon-great-indian-festival-sale-is-live-10-best-deals-on-front-load-washing-machines-from-lg-samsung-and-others-mfx0vvba</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-09-23T08:42:24.000Z</news:publication_date>
-      <news:title><![CDATA[Amazon Great Indian Festival Sale is LIVE: 10 best deals on front load washing machines from LG, Samsung and others]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/what-is-1-of-the-best-artificial-intelligence-ai-stocks-to-buy-now-mfvuv95c</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-09-23T01:07:23.280Z</news:publication_date>
-      <news:title><![CDATA[What Is 1 of the Best Artificial Intelligence (AI) Stocks to Buy Now?]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/france-defies-trump-recognizes-palestinian-statehood-despite-us-pressure-mfvuv2en</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-09-23T01:07:14.543Z</news:publication_date>
-      <news:title><![CDATA[France defies Trump, recognizes Palestinian statehood despite U.S. pressure]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/designating-antifa-as-a-domestic-terrorist-organization-the-white-house-gov-mfxac3gh</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-09-22T22:42:38.000Z</news:publication_date>
-      <news:title><![CDATA[DESIGNATING ANTIFA AS A DOMESTIC TERRORIST ORGANIZATION - The White House (.gov)]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/what-to-know-as-un-general-assembly-opens-marking-80-years-tackling-deep-crises-mfvlj7lz</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-09-22T20:46:04.871Z</news:publication_date>
-      <news:title><![CDATA[What to know as U.N. General Assembly opens, marking 80 years, tackling deep crises]]></news:title>
     </news:news>
   </url>
 </urlset>
