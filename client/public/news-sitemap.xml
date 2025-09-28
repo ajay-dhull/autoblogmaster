@@ -3,6 +3,66 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://newshubnow.in/article/hamas-says-it-has-not-received-trump-plan-as-israel-expands-gaza-city-assault-mg31fj8e</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-09-28T01:45:30.398Z</news:publication_date>
+      <news:title><![CDATA[Hamas says it has not received Trump plan as Israel expands Gaza City assault]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/in-the-gen-ai-economy-consumers-want-innovation-they-can-trust-mg30d1jn</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-09-28T01:15:34.547Z</news:publication_date>
+      <news:title><![CDATA[In the gen AI economy, consumers want innovation they can trust]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/iranians-brace-for-economic-impact-of-new-un-sanctions-mg30cr7c</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-09-28T01:15:21.144Z</news:publication_date>
+      <news:title><![CDATA[Iranians Brace for Economic Impact of New U.N. Sanctions]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/un-sanctions-set-to-be-reimposed-on-iran-on-saturday-mg2qnxxj</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-09-27T20:44:06.920Z</news:publication_date>
+      <news:title><![CDATA[UN sanctions set to be reimposed on Iran on Saturday]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/fact-check-israeli-prime-minister-netanyahus-speech-at-the-unga-mg2qlhxw</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-09-27T20:42:12.884Z</news:publication_date>
+      <news:title><![CDATA[Fact check: Israeli Prime Minister Netanyahu’s speech at the UNGA]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://newshubnow.in/article/chatgpt-glossary-57-ai-terms-everyone-should-know-mg2k1o49</loc>
     <news:news>
       <news:publication>
@@ -35,6 +95,90 @@
       </news:publication>
       <news:publication_date>2025-09-27T17:38:38.797Z</news:publication_date>
       <news:title><![CDATA[Master Digital Marketing: SEO, Social Media & Content Strategy]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/wasim-akrams-strategic-insights-on-asia-cup-clash-mg31fijn</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-09-27T13:45:13.000Z</news:publication_date>
+      <news:title><![CDATA[Wasim Akram's Strategic Insights on Asia Cup Clash]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/indian-mission-celebrates-ayurveda-day-in-johannesburg-mg31fnie</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-09-27T13:45:04.000Z</news:publication_date>
+      <news:title><![CDATA[Indian mission celebrates Ayurveda Day in Johannesburg]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/asia-cup-final-acc-chief-mohsin-naqvi-to-present-trophy-may-test-indias-no-handshake-policy-mg30crne</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-09-27T13:15:03.000Z</news:publication_date>
+      <news:title><![CDATA[Asia Cup final: ACC chief Mohsin Naqvi to present trophy, may test India’s ‘No Handshake’ policy]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/canada-sees-50-drop-in-indian-study-permits-education-sector-braces-for-impact-mg2qo2wa</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-09-27T08:44:07.000Z</news:publication_date>
+      <news:title><![CDATA[Canada sees 50% drop in Indian study permits; education sector braces for impact]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/indias-first-bullet-train-moves-closer-to-reality-railway-minister-makes-big-announcement-says-entire-mumbaiahmedabad-route-will-be-open-by-mg2qlies</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-09-27T08:42:00.000Z</news:publication_date>
+      <news:title><![CDATA[India’s first bullet train moves closer to reality, Railway Minister makes BIG announcement, says entire Mumbai–Ahmedabad route will be open by…]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/iit-madras-hero-motocorp-sign-mou-to-partner-in-research-employee-upskilling-mg2qlmmm</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-09-27T08:41:49.000Z</news:publication_date>
+      <news:title><![CDATA[IIT Madras, Hero MotoCorp sign MoU to partner in research, employee upskilling]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/no-sanctions-on-russian-oil-india-will-keep-buying-safeguarding-energy-needs-is-governments-top-priority-hardeep-singh-puri-mg2qny7w</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-09-27T08:41:36.000Z</news:publication_date>
+      <news:title><![CDATA[No Sanctions On Russian Oil; India Will Keep Buying; Safeguarding Energy Needs Is Government’s Top Priority: Hardeep Singh Puri]]></news:title>
     </news:news>
   </url>
 
@@ -75,170 +219,26 @@
   </url>
 
   <url>
-    <loc>https://newshubnow.in/article/defiant-netanyahu-denounces-palestine-recognition-to-a-mostly-empty-un-hall-mg1bak8d</loc>
+    <loc>https://newshubnow.in/article/mlbs-six-month-roller-coaster-careens-toward-an-unknowable-ending-the-washington-post-mg30crk1</loc>
     <news:news>
       <news:publication>
         <news:name>NewsHubNow</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2025-09-26T20:46:02.222Z</news:publication_date>
-      <news:title><![CDATA[Defiant Netanyahu Denounces Palestine Recognition, to a Mostly Empty U.N. Hall]]></news:title>
+      <news:publication_date>2025-09-27T00:36:27.000Z</news:publication_date>
+      <news:title><![CDATA[MLB’s six-month roller coaster careens toward an unknowable ending - The Washington Post]]></news:title>
     </news:news>
   </url>
 
   <url>
-    <loc>https://newshubnow.in/article/amd-ai-chips-news-today-the-surprising-shift-that-could-redefine-tomorrow-mg1b7677</loc>
+    <loc>https://newshubnow.in/article/official-weigh-in-results-ufc-perth-ufccom-mg31fih5</loc>
     <news:news>
       <news:publication>
         <news:name>NewsHubNow</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2025-09-26T20:43:24.067Z</news:publication_date>
-      <news:title><![CDATA[AMD AI Chips News Today: The Surprising Shift That Could Redefine Tomorrow]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/netanyahu-attacks-palestinian-recognition-as-dozens-walk-out-of-un-speech-mg1b70ap</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-09-26T20:43:16.417Z</news:publication_date>
-      <news:title><![CDATA[Netanyahu attacks Palestinian recognition as dozens walk out of UN speech]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/what-trumps-new-tariffs-mean-for-pharmaceuticals-and-patented-drugs-the-washington-post-mg2k1jyl</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-09-26T16:46:35.000Z</news:publication_date>
-      <news:title><![CDATA[What Trump’s new tariffs mean for pharmaceuticals and ‘patented’ drugs - The Washington Post]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/the-10-best-and-weirdest-tech-trends-of-2024-mg110u43</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-09-26T15:58:32.307Z</news:publication_date>
-      <news:title><![CDATA[The 10 best (and weirdest) tech trends of 2024]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/kraneshares-artificial-intelligence-technology-etf-agix-joins-lpl-financials-no-transaction-fee-platform-mg110ocw</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-09-26T15:58:24.849Z</news:publication_date>
-      <news:title><![CDATA[KraneShares Artificial Intelligence & Technology ETF (AGIX) Joins LPL Financial’s No-Transaction-Fee Platform]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/order-in-the-hall-dozens-walk-out-as-netanyahu-begins-speech-at-un-mg110iy8</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-09-26T15:58:17.840Z</news:publication_date>
-      <news:title><![CDATA['Order in the hall': Dozens walk out as Netanyahu begins speech at UN]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/explained-why-dalal-street-has-an-edge-over-global-stock-markets-mg1kkhge</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-09-26T13:05:11.000Z</news:publication_date>
-      <news:title><![CDATA[Explained: Why Dalal Street has an edge over global stock markets]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/indian-mans-us-visa-denied-for-not-travelling-beyond-delhi-see-your-own-country-first-mg1kklm9</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-09-26T13:04:12.000Z</news:publication_date>
-      <news:title><![CDATA[Indian man’s US visa denied for not travelling beyond Delhi: ‘See your own country first’]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/nira-balance-and-garmin-forge-groundbreaking-partnership-to-transform-personalized-wellness-experience-mg1bakoe</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-09-26T08:45:28.000Z</news:publication_date>
-      <news:title><![CDATA[nira balance and Garmin Forge Groundbreaking Partnership to Transform Personalized Wellness Experience]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/why-stock-market-is-down-today-sensex-tumbles-over-750-pts-nifty-below-24650-key-reasons-behind-the-slump-mg1b75on</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-09-26T08:43:00.000Z</news:publication_date>
-      <news:title><![CDATA[Why stock market is down today? Sensex tumbles over 750 pts, Nifty below 24,650; key reasons behind the slump]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/india-sets-global-example-in-accessible-justice-showcased-at-un-human-rights-council-mg1b70qi</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-09-26T08:42:56.000Z</news:publication_date>
-      <news:title><![CDATA[India sets global example in accessible justice, showcased at UN Human Rights Council]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/alarming-levels-of-triglycerides-in-indian-children-a-stark-reality-mg1baq6h</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-09-26T08:41:35.000Z</news:publication_date>
-      <news:title><![CDATA[Alarming Levels of Triglycerides in Indian Children: A Stark Reality]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/highest-fd-interest-rates-in-top-5-banks-sbi-pnb-icici-bank-hdfc-bank-and-bank-of-baroda-mg110nsm</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-09-26T03:58:16.000Z</news:publication_date>
-      <news:title><![CDATA[Highest FD interest rates in top 5 banks: SBI, PNB, ICICI Bank, HDFC Bank and Bank of Baroda]]></news:title>
+      <news:publication_date>2025-09-27T00:16:12.000Z</news:publication_date>
+      <news:title><![CDATA[Official Weigh-In Results | UFC Perth - UFC.com]]></news:title>
     </news:news>
   </url>
 </urlset>
