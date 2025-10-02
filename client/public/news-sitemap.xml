@@ -3,6 +3,138 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://newshubnow.in/article/israel-intercepts-gaza-sumud-flotilla-vessels-what-we-know-so-far-mg8ptjba</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-10-02T01:07:05.350Z</news:publication_date>
+      <news:title><![CDATA[Israel intercepts Gaza Sumud flotilla vessels: What we know so far]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/activists-on-board-gaza-aid-flotilla-say-israel-intercepting-vessels-mg8gh09r</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-10-01T20:45:24.255Z</news:publication_date>
+      <news:title><![CDATA[Activists on board Gaza aid flotilla say Israel intercepting vessels]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/ai-is-dreaming-up-millions-of-new-materials-are-they-any-good-mg8gevu5</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-10-01T20:43:45.197Z</news:publication_date>
+      <news:title><![CDATA[AI is dreaming up millions of new materials. Are they any good?]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/in-the-philippines-search-teams-look-for-survivors-of-deadly-earthquake-mg8geq9c</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-10-01T20:43:37.968Z</news:publication_date>
+      <news:title><![CDATA[In the Philippines, Search Teams Look for Survivors of Deadly Earthquake]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/air-india-inaugurates-indias-first-non-mg8ptjku</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-10-01T13:06:09.000Z</news:publication_date>
+      <news:title><![CDATA[Air India inaugurates India's first non]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/has-everything-which-a-sportsman-needs-jaiswal-jadeja-praise-bcci-centre-of-excellences-world-mg8ptnzm</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-10-01T13:05:15.000Z</news:publication_date>
+      <news:title><![CDATA["Has everything which a sportsman needs": Jaiswal, Jadeja praise BCCI Centre of Excellence's world]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/ranked-schools-elevated-to-new-ivy-league-category-mg8ggz9w</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-10-01T08:44:50.000Z</news:publication_date>
+      <news:title><![CDATA[Ranked Schools Elevated to New Ivy League Category]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/no-proposal-to-levy-charges-on-upi-transactions-rbi-governor-mg8geq5i</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-10-01T08:43:08.000Z</news:publication_date>
+      <news:title><![CDATA[No proposal to levy charges on UPI transactions: RBI Governor]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/european-flour-fuels-indias-growing-pizza-passion-mg8gevzi</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-10-01T08:40:57.000Z</news:publication_date>
+      <news:title><![CDATA[European Flour Fuels India's Growing Pizza Passion]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/indian-railways-first-container-train-from-delhi-to-kolkata-assures-delivery-in-120-mins-mg8gh5a6</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-10-01T08:40:51.000Z</news:publication_date>
+      <news:title><![CDATA[Indian Railways first container train from Delhi to Kolkata assures delivery in 120 mins]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/us-futures-slip-as-washington-approaches-shutdown-markets-wrap-bloombergcom-mg8ptjrs</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-10-01T02:16:00.000Z</news:publication_date>
+      <news:title><![CDATA[US Futures Slip as Washington Approaches Shutdown: Markets Wrap - Bloomberg.com]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://newshubnow.in/article/californias-gavin-newsom-signs-major-ai-safety-law-mg7aqdg7</loc>
     <news:news>
       <news:publication>
@@ -71,114 +203,6 @@
       </news:publication>
       <news:publication_date>2025-09-30T20:43:56.280Z</news:publication_date>
       <news:title><![CDATA[Unpicking Trump’s Gaza peace plan map]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/at-gravitas-fest-vit-showcases-student-innovation-as-india-eyes-30-trillion-economy-mg7aq5c8</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-09-30T13:16:29.000Z</news:publication_date>
-      <news:title><![CDATA[At graVITas Fest, VIT Showcases Student Innovation as India Eyes $30 Trillion Economy]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/trailer-of-pranav-mohanlals-much-anticipated-dies-irae-to-release-tomorrow-mg7aq9pg</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-09-30T13:14:29.000Z</news:publication_date>
-      <news:title><![CDATA[Trailer of Pranav Mohanlal's much-anticipated 'Dies Irae' to release tomorrow]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/online-betting-app-case-urvashi-rautela-appears-before-ed-for-questioning-mg712snv</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-09-30T08:46:30.000Z</news:publication_date>
-      <news:title><![CDATA[Online betting app case: Urvashi Rautela appears before ED for questioning]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/lot-happened-in-the-middle-cant-reveal-all-of-them-tilak-varma-on-india-pakistan-final-mg70zaf0</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-09-30T08:43:46.000Z</news:publication_date>
-      <news:title><![CDATA[‘Lot happened in the middle, can’t reveal all of them,’ Tilak Varma on India-Pakistan final]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/jomel-warrican-battle-ready-for-indias-spin-challenge-mg70zejv</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-09-30T08:40:58.000Z</news:publication_date>
-      <news:title><![CDATA[Jomel Warrican: Battle-Ready for India's Spin Challenge]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/governor-newsom-signs-sb-53-advancing-californias-world-leading-artificial-intelligence-industry-mg5v1i2e</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-09-30T01:09:56.534Z</news:publication_date>
-      <news:title><![CDATA[Governor Newsom signs SB 53, advancing California’s world-leading artificial intelligence industry]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/trumps-gaza-peace-plan-welcomed-by-arab-and-islamic-countries-the-west-mg5v1czh</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-09-30T01:09:49.949Z</news:publication_date>
-      <news:title><![CDATA[Trump’s Gaza peace plan welcomed by Arab and Islamic countries, the West]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/how-would-a-government-shutdown-impact-the-us-military-cbs-news-mg7aq6bp</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-09-29T23:07:49.000Z</news:publication_date>
-      <news:title><![CDATA[How would a government shutdown impact the U.S. military? - CBS News]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/eu-grins-russia-grouses-after-pro-europe-forces-win-moldovan-election-mg5lkev6</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-09-29T20:44:42.691Z</news:publication_date>
-      <news:title><![CDATA[EU grins, Russia grouses after pro-Europe forces win Moldovan election]]></news:title>
     </news:news>
   </url>
 </urlset>
