@@ -3,6 +3,66 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://newshubnow.in/article/will-artificial-intelligence-ever-replace-human-cognition-mgpv5ja6</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-10-14T01:08:28.254Z</news:publication_date>
+      <news:title><![CDATA[Will artificial intelligence ever replace human cognition?]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/israeli-hostages-and-palestinian-detainees-are-freed-as-trump-hails-historic-dawn-in-middle-east-mgpv5chu</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-10-14T01:08:19.458Z</news:publication_date>
+      <news:title><![CDATA[Israeli hostages and Palestinian detainees are freed as Trump hails 'historic dawn' in Middle East]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/5-takeaways-from-trumps-trip-to-mark-gaza-peace-deal-mgplqejg</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-10-13T20:44:45.724Z</news:publication_date>
+      <news:title><![CDATA[5 takeaways from Trump’s trip to mark Gaza peace deal]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/analysis-china-now-leads-the-us-in-this-key-part-of-the-ai-race-mgplobfu</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-10-13T20:43:08.394Z</news:publication_date>
+      <news:title><![CDATA[Analysis | China now leads the U.S. in this key part of the AI race]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/trump-draws-praise-from-more-than-just-maga-as-israeli-hostages-return-home-mgplo6lv</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-10-13T20:43:02.131Z</news:publication_date>
+      <news:title><![CDATA[Trump draws praise from more than just MAGA as Israeli hostages return home]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://newshubnow.in/article/openai-inks-deal-with-broadcom-to-design-its-own-chips-for-ai-mgpf8pmu</loc>
     <news:news>
       <news:publication>
@@ -99,6 +159,78 @@
   </url>
 
   <url>
+    <loc>https://newshubnow.in/article/indian-scientists-harness-coffee-stain-effect-to-detect-toxins-at-trillionth-levels-mgpv5f70</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-10-13T13:07:51.000Z</news:publication_date>
+      <news:title><![CDATA[Indian Scientists Harness Coffee-Stain Effect to Detect Toxins at Trillionth Levels]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/india-and-egypt-discuss-water-resilience-during-cairo-event-mgpv5aba</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-10-13T13:07:43.000Z</news:publication_date>
+      <news:title><![CDATA[India and Egypt discuss water resilience during Cairo event]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/mahindra-xev-7e-snapped-testing-in-india-heres-what-we-know-so-far-mgplqecb</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-10-13T08:44:31.000Z</news:publication_date>
+      <news:title><![CDATA[Mahindra XEV 7e Snapped Testing In India, Here's What We Know So Far]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/indian-officials-to-visit-us-this-week-for-trade-talks-1st-tranche-likely-soon-mgplqiay</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-10-13T08:44:21.000Z</news:publication_date>
+      <news:title><![CDATA[Indian officials to visit US this week for trade talks, 1st tranche likely soon]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/dr-rashel-and-ekta-kapoor-break-the-internet-with-their-latest-collaboration-mgploai2</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-10-13T08:42:57.000Z</news:publication_date>
+      <news:title><![CDATA[Dr. Rashel and Ekta Kapoor Break the Internet with Their Latest Collaboration]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/risk-international-economy-by-forging-strong-partnerships-jaishankar-as-india-mgplo60u</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-10-13T08:41:24.000Z</news:publication_date>
+      <news:title><![CDATA[risk international economy by forging strong partnerships...' Jaishankar as India]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://newshubnow.in/article/indian-womans-emotional-video-after-chain-snatching-in-chicago-sparks-debate-mgpf8qbb</loc>
     <news:news>
       <news:publication>
@@ -107,138 +239,6 @@
       </news:publication>
       <news:publication_date>2025-10-13T05:42:44.000Z</news:publication_date>
       <news:title><![CDATA[Indian Woman's Emotional Video After Chain Snatching In Chicago Sparks Debate]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/indian-banks-to-bolster-resilience-under-rbis-regulatory-reforms-fitch-mgpf8l3x</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-10-13T05:41:46.000Z</news:publication_date>
-      <news:title><![CDATA[Indian banks to bolster resilience under RBI's regulatory reforms: Fitch]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/rishab-shettys-kantara-a-legend-chapter-1-beats-prabhass-bahubali-the-beginning-to-become-12th-biggest-hit-of-indian-cinema-mgpduu45</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-10-13T05:04:00.000Z</news:publication_date>
-      <news:title><![CDATA[Rishab Shetty’s ‘Kantara: A Legend Chapter 1’ beats Prabhas’s ‘ Bahubali- The Beginning’ to become 12th biggest hit of Indian Cinema]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/linklogis-international-rebrands-to-unloq-reinforcing-commitment-to-global-trade-finance-innovation-mgpdupm3</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-10-13T05:03:58.000Z</news:publication_date>
-      <news:title><![CDATA[Linklogis International Rebrands to Unloq, Reinforcing Commitment to Global Trade Finance Innovation]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/teacher-schools-andhra-pradesh-tops-in-count-up-records-most-enrolments-mgpc6ai4</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-10-13T04:16:00.000Z</news:publication_date>
-      <news:title><![CDATA[teacher schools: Andhra Pradesh tops in count, UP records most enrolments]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/--mgpc6f9n</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-10-13T04:14:30.000Z</news:publication_date>
-      <news:title><![CDATA[दुनिया रह गई हैरान! एक पैसेंजर के लिए सालों तक रोकी ट्रेन, जानें क्या था पूरा मामला]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/in-a-new-book-a-journalist-relates-the-curious-hold-of-a-godman-over-former-pm-pv-narasimha-rao-mgp9fwrq</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-10-13T03:00:00.000Z</news:publication_date>
-      <news:title><![CDATA[In a new book, a journalist relates the curious hold of a ‘godman’ over former PM PV Narasimha Rao]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/watch-rohit-sharma-picks-up-shreyas-iyers-award-and-places-it-on-table-at-2025-ceat-cricket-award-event-mgp9g1lm</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-10-13T02:56:04.000Z</news:publication_date>
-      <news:title><![CDATA[Watch: Rohit Sharma Picks Up Shreyas Iyer’s Award And Places It On Table At 2025 CEAT Cricket Award Event]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/no-new-international-flights-from-chandigarh-this-year-too-mgp5v6c7</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-10-13T01:18:08.000Z</news:publication_date>
-      <news:title><![CDATA[No new international flights from Chandigarh this year too]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/australia-beats-india-in-womens-cricket-world-cup-mgp5v1jg</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-10-13T01:15:29.000Z</news:publication_date>
-      <news:title><![CDATA[Australia Beats India in Women's Cricket World Cup]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/israelis-prepare-to-celebrate-freed-hostages-ahead-of-trump-visit-mgofw1e0</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-10-13T01:13:24.744Z</news:publication_date>
-      <news:title><![CDATA[Israelis prepare to celebrate freed hostages ahead of Trump visit]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/25-new-technology-trends-for-2025-mgo6bttt</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-10-12T20:45:45.281Z</news:publication_date>
-      <news:title><![CDATA[25 New Technology Trends for 2025]]></news:title>
     </news:news>
   </url>
 </urlset>
