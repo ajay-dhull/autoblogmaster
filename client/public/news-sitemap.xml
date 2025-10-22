@@ -3,6 +3,126 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://newshubnow.in/article/ai-dominates-gartners-top-strategic-technology-trends-for-2026-mh1avfyf</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-10-22T01:13:59.175Z</news:publication_date>
+      <news:title><![CDATA[AI dominates Gartner’s top strategic technology trends for 2026]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/louvre-heist-stolen-jewellery-worth-88m-prosecutor-says-mh1av858</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-10-22T01:13:49.052Z</news:publication_date>
+      <news:title><![CDATA[Louvre heist: Stolen jewellery worth €88m, prosecutor says]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/watch-a-big-moment-for-france-as-sarkozy-jailed-mh11ejud</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-10-21T20:48:54.517Z</news:publication_date>
+      <news:title><![CDATA[Watch: A 'big moment' for France as Sarkozy jailed]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/openai-unveils-atlas-web-browser-built-to-work-closely-with-chatgpt-mh11auc5</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-10-21T20:46:01.493Z</news:publication_date>
+      <news:title><![CDATA[OpenAI Unveils Atlas Web Browser Built to Work Closely With ChatGPT]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/louvre-heist-losses-put-at-almost-90m-as-museums-head-prepares-to-face-mps-mh11aosk</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-10-21T20:45:54.308Z</news:publication_date>
+      <news:title><![CDATA[Louvre heist losses put at almost €90m as museum’s head prepares to face MPs]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/cms-02-indias-new-shield-over-the-indian-seas-mh1av87p</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-10-21T13:12:59.000Z</news:publication_date>
+      <news:title><![CDATA[CMS-02: India’s New Shield Over The Indian Seas]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/coal-imports-fall-marginally-in-august-as-extended-monsoon-hits-demand-mh11ek1y</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-10-21T08:48:37.000Z</news:publication_date>
+      <news:title><![CDATA[Coal imports fall marginally in August as extended monsoon hits demand]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/5-easy-indian-home-remedies-to-help-reverse-balding-naturally-mh11epb6</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-10-21T08:47:00.000Z</news:publication_date>
+      <news:title><![CDATA[5 easy Indian home remedies to help reverse balding naturally]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/india-a-vs-south-africa-a-fans-react-as-sarfaraz-khan-left-out-despite-domestic-dominance-mh11aoc6</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-10-21T08:45:23.000Z</news:publication_date>
+      <news:title><![CDATA[India-A vs South Africa-A: Fans React as Sarfaraz Khan Left Out Despite Domestic Dominance]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/no-one-else-but-rima-could-have-pulled-off-meera-director-sajin-speaks-on-physical-challenges-of-theatre-mh11atpt</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-10-21T08:43:03.000Z</news:publication_date>
+      <news:title><![CDATA[No one else but Rima could have pulled off Meera: Director Sajin speaks on physical challenges of ‘Theatre’]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://newshubnow.in/article/ama-creates-new-center-for-digital-health-and-ai-mgzvdgpr</loc>
     <news:news>
       <news:publication>
@@ -23,6 +143,18 @@
       </news:publication>
       <news:publication_date>2025-10-21T01:12:12.047Z</news:publication_date>
       <news:title><![CDATA[Israel continues deadly Gaza truce breaches as US seeks to strengthen deal]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/lions-vs-buccaneers-live-updates-score-highlights-analysis-for-mnf-cbs-sports-mh1av8pf</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-10-20T23:37:30.000Z</news:publication_date>
+      <news:title><![CDATA[Lions vs. Buccaneers live updates: Score, highlights, analysis for 'MNF' - CBS Sports]]></news:title>
     </news:news>
   </url>
 
@@ -107,138 +239,6 @@
       </news:publication>
       <news:publication_date>2025-10-20T20:45:20.301Z</news:publication_date>
       <news:title><![CDATA[‘Smash, grab, melt it down’: how material value likely motivated the Louvre heist]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/diwali-2025-from-big-b-to-akshay-kumar-celebs-extend-wishes-on-festival-of-lights-mgzvdd3y</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-10-20T13:10:48.000Z</news:publication_date>
-      <news:title><![CDATA[Diwali 2025: From Big B To Akshay Kumar, Celebs Extend Wishes On Festival Of Lights]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/india-rapidly-emerging-as-global-hub-for-services-exports-nse-mgzvd94m</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-10-20T13:10:11.000Z</news:publication_date>
-      <news:title><![CDATA[India rapidly emerging as global hub for services exports: NSE]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/shah-rukh-khan-and-kajol-reflect-on-films-success-mgzrxlwi</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-10-20T11:35:48.000Z</news:publication_date>
-      <news:title><![CDATA[Shah Rukh Khan and Kajol reflect on film’s success]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/gainers-losers-ril-south-indian-bank-among-7-stocks-that-moved-most-today-heres-why-mgzrxrjy</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-10-20T11:33:19.000Z</news:publication_date>
-      <news:title><![CDATA[Gainers & Losers: RIL, South Indian Bank among 7 stocks that moved most today. Here’s why]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/inconsistent-growth-shadows-cancer-research-in-emerging-economies-mgzlx5ne</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-10-20T08:47:15.000Z</news:publication_date>
-      <news:title><![CDATA[Inconsistent Growth Shadows Cancer Research in Emerging Economies]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/delhi-air-pollution-live-updates-aqi-turns-very-poor-ahead-of-diwali-grap-stage-ii-curbs-enforced-full-list-of-restrictions-mgzlu55b</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-10-20T08:44:00.000Z</news:publication_date>
-      <news:title><![CDATA[Delhi Air Pollution Live Updates: AQI Turns ‘Very Poor’ Ahead of Diwali; GRAP Stage II Curbs Enforced - Full List of Restrictions]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/earnings-driven-recovery-for-indian-markets-market-watchers-on-samvat-2082-mgzlu9p2</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-10-20T08:43:18.000Z</news:publication_date>
-      <news:title><![CDATA[Earnings-Driven Recovery For Indian Markets: Market Watchers On Samvat 2082]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/googles-diwali-2025-offer-for-indian-users-2tb-google-one-storage-for-just-rs-11-till-october-31-how-to-avail-mgzlxb9z</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-10-20T08:43:08.000Z</news:publication_date>
-      <news:title><![CDATA[Google’s Diwali 2025 Offer For Indian Users: 2TB Google One Storage For Just Rs. 11 Till October 31-How To Avail]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/are-we-living-in-a-golden-age-of-stupidity-mgyg1wa7</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-10-20T01:15:39.824Z</news:publication_date>
-      <news:title><![CDATA[Are we living in a golden age of stupidity?]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/israel-says-resuming-gaza-ceasefire-after-deadly-attack-on-troops-led-to-massive-strikes-mgyg1oga</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-10-20T01:15:29.674Z</news:publication_date>
-      <news:title><![CDATA[Israel says resuming Gaza ceasefire after deadly attack on troops led to massive strikes]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/renewed-fighting-tests-gaza-ceasefire-and-israel-briefly-halts-aid-ap-news-mgzvd8cb</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-10-20T01:10:00.000Z</news:publication_date>
-      <news:title><![CDATA[Renewed fighting tests Gaza ceasefire and Israel briefly halts aid - AP News]]></news:title>
     </news:news>
   </url>
 </urlset>
