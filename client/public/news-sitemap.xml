@@ -3,6 +3,42 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://newshubnow.in/article/six-die-as-russia-targets-energy-and-residential-sites-in-ukraine-mhr0vzwe</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-11-09T01:16:29.438Z</news:publication_date>
+      <news:title><![CDATA[Six die as Russia targets energy and residential sites in Ukraine]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/thousands-of-sudanese-flee-to-overcrowded-camps-after-paramilitary-captures-el-fasher-mhqr57t5</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-11-08T20:43:43.433Z</news:publication_date>
+      <news:title><![CDATA[Thousands of Sudanese flee to overcrowded camps after paramilitary captures el-Fasher]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/massive-russian-missile-attack-destroys-two-ukrainian-power-plants-mhqr35ru</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-11-08T20:42:07.482Z</news:publication_date>
+      <news:title><![CDATA[‘Massive’ Russian missile attack destroys two Ukrainian power plants]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://newshubnow.in/article/philippines-braces-for-typhoon-fung-wong-after-earlier-storm-kills-over-200-mhqfywi1</loc>
     <news:news>
       <news:publication>
@@ -59,6 +95,78 @@
       </news:publication>
       <news:publication_date>2025-11-08T13:35:48.205Z</news:publication_date>
       <news:title><![CDATA[Cloud Computing Fundamentals: AWS, Azure, Google Cloud]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/the-scent-of-purpose-blossom-kochhars-journey-from-kitchen-table-to-factory-floor-mhr0vzlf</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-11-08T13:15:00.000Z</news:publication_date>
+      <news:title><![CDATA[The Scent of Purpose: Blossom Kochhar’s Journey from Kitchen Table to Factory Floor]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/pranavi-best-indian-at-t31-as-ruixin-liu-wins-aramco-china-mhr0w3jl</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-11-08T13:12:57.000Z</news:publication_date>
+      <news:title><![CDATA[Pranavi best Indian at T31 as Ruixin Liu wins Aramco China]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/dont-let-the-media-fool-you-what-15-years-in-india-taught-a-russian-woman-about-food-faith-and-coexistence-mhqr587j</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-11-08T08:43:14.000Z</news:publication_date>
+      <news:title><![CDATA[‘Don’t let the media fool you’: What 15 years in India taught a Russian woman about food, faith and coexistence]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/ssrdp-and-schneider-electric-make-bariakhop-school-a-smart-model-school-on-its-75th-anniversary-mhqr33z8</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-11-08T08:41:12.000Z</news:publication_date>
+      <news:title><![CDATA[SSRDP and Schneider Electric Make Bariakhop School a Smart Model School on Its 75th Anniversary]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/indian-musicians-dominate-grammy-stage-with-nominations-for-anoushka-shankar-shakti-and-charu-suri-mhqr38gz</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-11-08T08:40:09.000Z</news:publication_date>
+      <news:title><![CDATA[Indian musicians dominate Grammy stage with nominations for Anoushka Shankar, Shakti, and Charu Suri]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/usha-uthup-birthday-special-celebrating-queen-of-indian-pop-who-redefined-music-with-her-iconic-voice-mhqr5d07</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-11-08T08:40:07.000Z</news:publication_date>
+      <news:title><![CDATA[Usha Uthup Birthday Special: Celebrating queen of Indian pop who redefined music with her iconic voice]]></news:title>
     </news:news>
   </url>
 
@@ -131,114 +239,6 @@
       </news:publication>
       <news:publication_date>2025-11-08T02:51:00.000Z</news:publication_date>
       <news:title><![CDATA[linked unrest in Mali: Five Indian workers kidnapped near Kobri; no group claims responsibility]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/north-korea-fires-ballistic-missile-days-after-hegseth-wraps-south-korea-visit-mhpo2xjf</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-11-08T02:30:11.787Z</news:publication_date>
-      <news:title><![CDATA[North Korea fires ballistic missile days after Hegseth wraps South Korea visit]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/watch-hegseth-outlines-new-weapons-buying-priorities-in-remarks-at-national-war-college-mhpmrfdd</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-11-08T01:53:15.409Z</news:publication_date>
-      <news:title><![CDATA[WATCH: Hegseth outlines new weapons buying priorities in remarks at National War College]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/priyank-panchals-5-word-tweet-after-india-defeat-pakistan-in-hong-kong-sixes-goes-viral-mhqbuybi</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-11-08T01:35:19.000Z</news:publication_date>
-      <news:title><![CDATA[Priyank Panchal's 5-Word Tweet After India Defeat Pakistan In Hong Kong Sixes Goes Viral]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/india-urges-developed-nations-to-act-faster-on-emissions-at-cop30-says-global-carbon-budget-rapidly-depleting-mhqbv3ea</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-11-08T01:31:30.000Z</news:publication_date>
-      <news:title><![CDATA[India urges developed nations to act faster on emissions at COP30, says global carbon budget 'rapidly depleting']]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/crawling-to-escape-slaughter-people-flee-sudan-paramilitary-group-on-their-hands-and-knees-mhpl792g</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-11-08T01:09:34.504Z</news:publication_date>
-      <news:title><![CDATA[Crawling to escape slaughter, people flee Sudan paramilitary group on their hands and knees]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/artificial-intelligence-ai-update-nov-7-2025-mhphx4us</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-11-07T23:37:43.636Z</news:publication_date>
-      <news:title><![CDATA[Artificial Intelligence (A.I.) Update | Nov. 7, 2025]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/outside-powers-reported-backing-for-sudans-warring-sides-helps-fuel-fighting-as-atrocities-mount-mhphwzli</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-11-07T23:37:36.822Z</news:publication_date>
-      <news:title><![CDATA[Outside powers' reported backing for Sudan's warring sides helps fuel fighting as atrocities mount]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/typhoon-kalmaegi-rampages-across-vietnam-as-the-philippines-prepares-for-a-new-storm-mhpbsftw</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-11-07T20:46:06.884Z</news:publication_date>
-      <news:title><![CDATA[Typhoon Kalmaegi rampages across Vietnam as the Philippines prepares for a new storm]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/44-new-artificial-intelligence-statistics-oct-2025-mhpbpaow</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-11-07T20:43:40.256Z</news:publication_date>
-      <news:title><![CDATA[44 NEW Artificial Intelligence Statistics (Oct 2025)]]></news:title>
     </news:news>
   </url>
 </urlset>
