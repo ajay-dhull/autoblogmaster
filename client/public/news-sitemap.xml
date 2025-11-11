@@ -3,6 +3,78 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://newshubnow.in/article/ai-stocks-lead-wall-street-rebound-as-nvidia-palantir-surge-and-sp-500-claws-back-last-weeks-losses-mhtvozvd</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-11-11T01:14:23.257Z</news:publication_date>
+      <news:title><![CDATA[AI stocks lead Wall Street rebound as Nvidia, Palantir surge and S&P 500 claws back last week’s losses]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/russia-hits-ukrainian-nuclear-plants-as-leaders-worry-it-could-spark-catastrophic-incident-mhtvou0q</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-11-11T01:14:15.674Z</news:publication_date>
+      <news:title><![CDATA[Russia hits Ukrainian nuclear plants as leaders worry it could spark ‘catastrophic’ incident]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/legal-ai-firm-clio-valued-at-5-billion-in-latest-funding-round-mhtmbcyy</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-11-10T20:51:50.506Z</news:publication_date>
+      <news:title><![CDATA[Legal AI firm Clio valued at $5 billion in latest funding round]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/typhoon-fung-wong-leaves-4-dead-and-14-million-displaced-in-the-philippines-mhtmb7v5</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-11-10T20:51:43.889Z</news:publication_date>
+      <news:title><![CDATA[Typhoon Fung-wong leaves 4 dead and 1.4 million displaced in the Philippines]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/ai-is-moving-fast-this-project-aims-to-help-states-keep-up-responsibly-mhtm5i1b</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-11-10T20:47:17.135Z</news:publication_date>
+      <news:title><![CDATA[AI is moving fast. This project aims to help states keep up — responsibly.]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/delhi-red-fort-explosion-at-least-eight-killed-after-blast-in-car-mhtm5cbf</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-11-10T20:47:09.723Z</news:publication_date>
+      <news:title><![CDATA[Delhi Red Fort explosion: At least eight killed after blast in car]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://newshubnow.in/article/ai-technology-race-is-new-cold-war-between-us-and-china-that-could-have-devastating-consequences-report-mhtboi1g</loc>
     <news:news>
       <news:publication>
@@ -23,6 +95,30 @@
       </news:publication>
       <news:publication_date>2025-11-10T15:54:00.138Z</news:publication_date>
       <news:title><![CDATA[Former French President Nicolas Sarkozy to be released from prison]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/white-collar-terror-ecosystem-radical-professionals-in-jk-8-arrested-in-terror-module-bust-key-points-mhtvou6x</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-11-10T13:14:00.000Z</news:publication_date>
+      <news:title><![CDATA['White collar terror ecosystem, radical professionals in J&K': 8 arrested in terror module bust - key points]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/india-tracks-trump-tariff-case-for-impact-on-trade-deal-with-the-us-mhtvoz20</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-11-10T13:05:01.000Z</news:publication_date>
+      <news:title><![CDATA[India tracks Trump tariff case for impact on trade deal with the US]]></news:title>
     </news:news>
   </url>
 
@@ -51,6 +147,54 @@
   </url>
 
   <url>
+    <loc>https://newshubnow.in/article/india-china-flights-resume-a-new-era-of-connectivity-mhtmb89s</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-11-10T08:51:22.000Z</news:publication_date>
+      <news:title><![CDATA[India-China Flights Resume: A New Era of Connectivity]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/indian-womens-cricket-team-might-soon-have-foreign-strength-conditioning-coach-mhtmbcwt</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-11-10T08:51:00.000Z</news:publication_date>
+      <news:title><![CDATA[Indian women's cricket team might soon have foreign strength & conditioning coach]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/shaktimaan-returns-mukesh-khanna-revives-indias-iconic-superhero-through-40-episode-audio-series-mhtm5cw0</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-11-10T08:46:00.000Z</news:publication_date>
+      <news:title><![CDATA[Shaktimaan Returns: Mukesh Khanna Revives India’s Iconic Superhero Through 40-Episode Audio Series]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/how-nation-defence-academy-is-shaping-indias-next-generation-of-defence-leaders-with-their-school-integration-program-mhtm5ikk</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-11-10T08:45:35.000Z</news:publication_date>
+      <news:title><![CDATA[How Nation Defence Academy is shaping India's next generation of defence leaders with their School Integration Program]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://newshubnow.in/article/nepal-border-closed-ahead-of-bihar-polls-movement-halted-at-birgunj-mhtbod9f</loc>
     <news:news>
       <news:publication>
@@ -75,6 +219,18 @@
   </url>
 
   <url>
+    <loc>https://newshubnow.in/article/chargers-vs-steelers-live-updates-score-highlights-and-analysis-from-snf-cbs-sports-mhtvou6s</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-11-10T02:40:45.000Z</news:publication_date>
+      <news:title><![CDATA[Chargers vs. Steelers live updates: Score, highlights and analysis from 'SNF' - CBS Sports]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://newshubnow.in/article/creating-ai-that-matters-mhsgbxn8</loc>
     <news:news>
       <news:publication>
@@ -83,162 +239,6 @@
       </news:publication>
       <news:publication_date>2025-11-10T01:16:33.428Z</news:publication_date>
       <news:title><![CDATA[Creating AI that matters]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/ecuador-prison-riot-leaves-4-inmates-dead-and-dozens-injured-mhsgbrmw</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-11-10T01:16:25.640Z</news:publication_date>
-      <news:title><![CDATA[Ecuador prison riot leaves 4 inmates dead and dozens injured]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/nasha-mukt-bharat-abhiyaan-event-set-to-be-held-on-nov-18-mht0oxul</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-11-09T22:43:23.000Z</news:publication_date>
-      <news:title><![CDATA[Nasha Mukt Bharat Abhiyaan event set to be held on Nov 18]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/1st-fateh-cup-football-tourney-inaugurated-mht0p32q</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-11-09T22:32:45.000Z</news:publication_date>
-      <news:title><![CDATA[1st Fateh Cup Football tourney inaugurated]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/chatgpt-gemini-why-openai-google-and-perplexity-are-offering-free-ai-in-india-mhs6lsr6</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-11-09T20:44:17.490Z</news:publication_date>
-      <news:title><![CDATA[ChatGPT, Gemini: Why OpenAI, Google and Perplexity are offering free AI in India?]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/one-photo-that-captures-tenderness-amid-chaos-in-the-philippines-as-typhoon-fung-wong-hits-mhs6ln9e</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-11-09T20:44:10.370Z</news:publication_date>
-      <news:title><![CDATA[One photo that captures tenderness amid chaos in the Philippines as Typhoon Fung-wong hits]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/google-touts-big-step-toward-continual-learning-with-new-ai-model-hope-mhs6jkst</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-11-09T20:42:33.869Z</news:publication_date>
-      <news:title><![CDATA[Google touts big step toward continual learning with new AI model ‘HOPE’]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/hamas-hands-over-body-of-hadar-goldin-israeli-soldier-held-since-2014-mhs6jf2x</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-11-09T20:42:26.457Z</news:publication_date>
-      <news:title><![CDATA[Hamas Hands Over Body of Hadar Goldin, Israeli Soldier Held Since 2014]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/predator-badlands-sets-franchise-record-with-40-million-debut-snapping-box-office-cold-streak-variety-mhtbodff</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-11-09T15:48:00.000Z</news:publication_date>
-      <news:title><![CDATA[‘Predator: Badlands’ Sets Franchise Record With $40 Million Debut, Snapping Box Office Cold Streak - Variety]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/if-4-people-go-out-for-drinks-top-cops-no-humiliation-push-for-gurugram-nightlife-mhsgbqsb</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-11-09T13:16:16.000Z</news:publication_date>
-      <news:title><![CDATA['If 4 people go out for drinks…': Top cop's ‘no humiliation’ push for Gurugram nightlife]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/cii-moots-twin-arm-govt-backed-fund-to-boost-domestic-capacity-global-influence-mhsgbuy3</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-11-09T13:13:57.000Z</news:publication_date>
-      <news:title><![CDATA[CII moots twin-arm govt-backed fund to boost domestic capacity, global influence]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/telangana-cyber-security-bureau-arrests-81-people-in-multi-state-special-operation-mhs6lmia</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-11-09T08:43:49.000Z</news:publication_date>
-      <news:title><![CDATA[Telangana Cyber Security Bureau arrests 81 people in multi-state special operation]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/critical-need-to-prioritise-modernisation-air-traffic-managers-raise-red-flag-after-igia-atc-glitch-mhs6jf8z</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-11-09T08:42:00.000Z</news:publication_date>
-      <news:title><![CDATA[‘Critical need to prioritise modernisation:” Air traffic managers raise red flag after IGIA ATC glitch]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/7-indian-dinner-options-that-can-lead-to-weight-gain-mhs6lrjj</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-11-09T08:34:00.000Z</news:publication_date>
-      <news:title><![CDATA[7 Indian dinner options that can lead to weight gain]]></news:title>
     </news:news>
   </url>
 </urlset>
