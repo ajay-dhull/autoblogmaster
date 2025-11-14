@@ -3,6 +3,234 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://newshubnow.in/article/fox-news-ai-newsletter-russian-robot-faceplants-in-humiliating-debut-mhz86b2r</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-11-14T19:02:37.203Z</news:publication_date>
+      <news:title><![CDATA[Fox News AI Newsletter: Russian robot faceplants in humiliating debut]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/russia-pummels-kyiv-as-it-torments-ukrainian-civilians-mhz864nt</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-11-14T19:02:28.889Z</news:publication_date>
+      <news:title><![CDATA[Russia Pummels Kyiv as It Torments Ukrainian Civilians]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/israeli-settler-attacks-in-west-bank-threaten-vital-olive-harvest-mhz1kz18</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-11-14T15:58:04.124Z</news:publication_date>
+      <news:title><![CDATA[Israeli settler attacks in West Bank threaten vital olive harvest]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/anthropic-says-chinese-hackers-used-its-ai-in-online-attack-mhz0917k</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-11-14T15:20:47.456Z</news:publication_date>
+      <news:title><![CDATA[Anthropic Says Chinese Hackers Used Its A.I. in Online Attack]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/russia-pummels-kyiv-trying-to-plunge-ukraine-into-darkness-mhz08v85</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-11-14T15:20:39.701Z</news:publication_date>
+      <news:title><![CDATA[Russia Pummels Kyiv, Trying to Plunge Ukraine Into Darkness]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/--mhz869mf</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-11-14T07:02:00.000Z</news:publication_date>
+      <news:title><![CDATA[टेम्बा बावुमा को गाली के साथ बौना बोला भारतीय खिलाड़ियों ने, वीडियो हुआ वायरल]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/cybermindr-wins-innovation-in-preemptive-exposure-management-award-at-2025-ciso-conclave-mhz864ns</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-11-14T07:01:46.000Z</news:publication_date>
+      <news:title><![CDATA[CyberMindr Wins Innovation in Preemptive Exposure Management Award at 2025 CISO Conclave]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/openai-backs-startup-aiming-to-block-ai-enabled-bioweapons-mhyehpvw</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-11-14T05:11:41.132Z</news:publication_date>
+      <news:title><![CDATA[OpenAI backs startup aiming to block AI-enabled bioweapons]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/beijing-vows-to-strike-back-if-japan-uses-military-force-in-taiwan-strait-mhyehk4q</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-11-14T05:11:33.674Z</news:publication_date>
+      <news:title><![CDATA[Beijing vows to strike back if Japan uses military force in Taiwan Strait]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/sensex-falls-over-300-pts-nifty-below-25800-as-bihar-election-results-spark-street-caution-it-metal-stock-tumble-mhz1l2fw</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-11-14T03:58:00.000Z</news:publication_date>
+      <news:title><![CDATA[Sensex falls over 300 pts, Nifty below 25,800 as Bihar election results spark street caution; IT, metal stock tumble]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/adani-cement-becomes-first-indian-cement-company-to-adopt-tnfd-framework-mhz1ky8h</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-11-14T03:57:49.000Z</news:publication_date>
+      <news:title><![CDATA[Adani Cement becomes first Indian cement company to adopt TNFD framework]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/physicswallah-ipo-allotment-in-focus-today-latest-gmp-6-steps-to-check-status-mhz08ucn</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-11-14T03:20:29.000Z</news:publication_date>
+      <news:title><![CDATA[PhysicsWallah IPO allotment in focus today; latest GMP, 6 steps to check status]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/pine-labs-share-price-live-gmp-experts-signal-debut-of-shares-at-modest-premium-in-stock-market-today-mhz08yvt</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-11-14T03:18:55.000Z</news:publication_date>
+      <news:title><![CDATA[Pine Labs Share Price LIVE: GMP, experts signal debut of shares at modest premium in stock market today]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/new-dragon-hatchling-ai-architecture-modeled-after-the-human-brain-could-be-a-key-step-toward-agi-researchers-claim-mhy60kuy</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-11-14T01:14:24.538Z</news:publication_date>
+      <news:title><![CDATA[New 'Dragon Hatchling' AI architecture modeled after the human brain could be a key step toward AGI, researchers claim]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/a-decade-after-the-bataclan-attacks-france-is-still-grappling-with-how-to-remember-mhy60epx</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-11-14T01:14:16.581Z</news:publication_date>
+      <news:title><![CDATA[A decade after the Bataclan attacks, France is still grappling with how to remember]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/shadow-ai-is-widespread-and-executives-use-it-the-most-mhxwhrni</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-11-13T20:47:50.334Z</news:publication_date>
+      <news:title><![CDATA[Shadow AI is widespread — and executives use it the most]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/german-coalition-government-agrees-new-military-service-plan-mhxwhmrg</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-11-13T20:47:43.997Z</news:publication_date>
+      <news:title><![CDATA[German coalition government agrees new military service plan]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/exclusive-chinese-hackers-used-anthropics-ai-to-automate-cyberattacks-mhxwfgyg</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-11-13T20:46:03.160Z</news:publication_date>
+      <news:title><![CDATA[Exclusive | Chinese Hackers Used Anthropic’s AI to Automate Cyberattacks]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/the-pain-remains-france-remembers-victims-of-2015-paris-attacks-mhxwfbjo</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-11-13T20:45:56.148Z</news:publication_date>
+      <news:title><![CDATA[‘The pain remains’: France remembers victims of 2015 Paris attacks]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://newshubnow.in/article/artificial-intelligence-technology-solutions-expands-with-global-client-mhxoww8x</loc>
     <news:news>
       <news:publication>
@@ -11,234 +239,6 @@
       </news:publication>
       <news:publication_date>2025-11-13T17:15:39.201Z</news:publication_date>
       <news:title><![CDATA[Artificial Intelligence Technology Solutions Expands with Global Client]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/iraq-election-results-set-stage-for-a-long-power-struggle-mhxowrcb</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-11-13T17:15:32.843Z</news:publication_date>
-      <news:title><![CDATA[Iraq Election Results Set Stage for a Long Power Struggle]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/citi-welcomes-new-export-promotion-mission-to-boost-textile-sector-mhxowwff</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-11-13T05:15:27.000Z</news:publication_date>
-      <news:title><![CDATA[CITI Welcomes New Export Promotion Mission to Boost Textile Sector]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/anlon-healthcare-delivers-over-102-profit-growth-in-h1-fy26-259-in-q2fy26-driven-by-robust-rd-and-expanding-api-portfolio-mhxowrp6</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-11-13T05:15:18.000Z</news:publication_date>
-      <news:title><![CDATA[Anlon Healthcare Delivers Over 102% Profit Growth in H1 FY26 & 259% in Q2FY26 Driven by Robust R&D and Expanding API Portfolio]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/israels-president-says-shocking-settler-violence-against-palestinians-must-end-mhwqkjsy</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-11-13T01:14:16.258Z</news:publication_date>
-      <news:title><![CDATA[Israel's president says 'shocking' settler violence against Palestinians must end]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/who-are-india-and-pakistan-blaming-for-delhi-islamabad-blasts-mhwh16w3</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-11-12T20:47:16.515Z</news:publication_date>
-      <news:title><![CDATA[Who are India and Pakistan blaming for Delhi, Islamabad blasts?]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/lg-rolls-out-its-thinq-ai-into-a-sleek-new-crew-of-connected-home-helpers-mhwgyye4</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-11-12T20:45:32.188Z</news:publication_date>
-      <news:title><![CDATA[LG rolls out its ThinQ AI into a sleek new crew of connected home helpers]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/major-corruption-scandal-engulfs-top-zelensky-allies-mhwgyt5v</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-11-12T20:45:25.412Z</news:publication_date>
-      <news:title><![CDATA[Major corruption scandal engulfs top Zelensky allies]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/new-epstein-emails-that-mention-trump-released-by-house-democrats-live-updates-bbc-mhxows1k</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-11-12T16:11:56.000Z</news:publication_date>
-      <news:title><![CDATA[New Epstein emails that mention Trump released by House Democrats - live updates - BBC]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/who-pays-when-ai-is-wrong-mhw4xwcb</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-11-12T15:08:47.483Z</news:publication_date>
-      <news:title><![CDATA[Who Pays When A.I. Is Wrong?]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/pakistan-investigates-the-suicide-bombing-that-killed-12-outside-an-islamabad-court-mhw4xqxg</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-11-12T15:08:40.468Z</news:publication_date>
-      <news:title><![CDATA[Pakistan investigates the suicide bombing that killed 12 outside an Islamabad court]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/americans-buy-sports-teams-indians-build-empires-360-one-ceo-on-how-the-ultra-rich-think-differently-across-countries-mhwqkkmh</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-11-12T13:14:03.000Z</news:publication_date>
-      <news:title><![CDATA[Americans buy sports teams, Indians build empires’: 360 ONE CEO on how the ultra rich think differently across countries]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/australian-man-lists-top-5-things-he-cant-do-in-front-of-his-indian-girlfriend-wins-hearts-on-the-internet-bhai-ki-fielding-set-hai-mhwqkpg6</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-11-12T13:14:03.000Z</news:publication_date>
-      <news:title><![CDATA[Australian man lists ‘top 5 things he can’t do’ in front of his Indian girlfriend, wins hearts on the Internet: ‘Bhai ki fielding set hai’]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/india-week-at-riyadh-season-a-cultural-tapestry-unfolds-mhwh1b2e</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-11-12T08:47:11.000Z</news:publication_date>
-      <news:title><![CDATA[India Week at Riyadh Season: A Cultural Tapestry Unfolds]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/changing-hiv-prevention-shot-may-soon-be-made-in-india-mhwh166j</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-11-12T08:47:00.000Z</news:publication_date>
-      <news:title><![CDATA[changing HIV prevention shot may soon be made in India]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/dead-body-was-lying-in-his-bedroom-indian-man-shows-sad-reality-of-life-in-us-after-his-elderly-neighbour-dies-with-no-family-members-in-sight-mhwgyzqx</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-11-12T08:45:20.000Z</news:publication_date>
-      <news:title><![CDATA[‘Dead body was lying in his bedroom’: Indian man shows ‘sad reality’ of life in US after his elderly neighbour dies with no family members in sight]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/chatgpt-openai--mhwgyuw7</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-11-12T08:44:58.000Z</news:publication_date>
-      <news:title><![CDATA[ChatGPT ची निर्माती कंपनी OpenAI ची भारतात एन्ट्री! 'या' शहरात उघडणार ऑफिस, काय आहेत योजना?]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/groww-listing-shares-to-open-strong-on-nse-bse-check-gmp-mhw4xo08</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-11-12T03:04:58.000Z</news:publication_date>
-      <news:title><![CDATA[Groww listing: Shares to open strong on NSE, BSE? Check GMP]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/celebrating-indian-voices-iaac-literary-festival-2025-unites-global-authors-mhw4xsi1</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-11-12T02:59:47.000Z</news:publication_date>
-      <news:title><![CDATA[Celebrating Indian Voices: IAAC Literary Festival 2025 Unites Global Authors]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/pakistan-in-a-state-of-war-after-explosion-kills-12-in-capital-mhvb4998</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-11-12T01:13:55.676Z</news:publication_date>
-      <news:title><![CDATA[Pakistan ‘in a State of War’ After Explosion Kills 12 in Capital]]></news:title>
     </news:news>
   </url>
 </urlset>
