@@ -3,6 +3,54 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://newshubnow.in/article/gdit-chief-gilliland-bets-her-humans-will-master-artificial-intelligence-miqqvdtl</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-12-04T01:15:47.001Z</news:publication_date>
+      <news:title><![CDATA[GDIT chief Gilliland bets her humans will master artificial intelligence]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/israel-receives-coffin-that-hamas-says-contains-gaza-hostages-body-miqqv8km</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-12-04T01:15:40.198Z</news:publication_date>
+      <news:title><![CDATA[Israel receives coffin that Hamas says contains Gaza hostage's body]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/hong-kong-orders-removal-of-scaffolding-mesh-after-deadly-blaze-miqhefg3</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-12-03T20:50:39.412Z</news:publication_date>
+      <news:title><![CDATA[Hong Kong orders removal of scaffolding mesh after deadly blaze]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/stakes-high-europe-races-to-save-its-financing-plan-for-ukraine-miqhcfea</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-12-03T20:49:06.034Z</news:publication_date>
+      <news:title><![CDATA[Stakes High, Europe Races to Save Its Financing Plan for Ukraine]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://newshubnow.in/article/microsoft-denies-report-of-lowering-targets-for-ai-software-sales-growth-miqazb4m</loc>
     <news:news>
       <news:publication>
@@ -59,6 +107,66 @@
       </news:publication>
       <news:publication_date>2025-12-03T14:11:27.874Z</news:publication_date>
       <news:title><![CDATA[Search resumes for missing Malaysia Airlines flight MH370]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/spotifys-top-5-songs-of-2025-skip-arijit-singh-entirely-miqqv8c1</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-12-03T13:15:00.000Z</news:publication_date>
+      <news:title><![CDATA[Spotify’s top 5 songs of 2025 skip Arijit Singh entirely]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/uday-kotak-urges-indian-firms-to-step-up-as-rupee-crosses-90-and-foreign-investors-dominate-markets-miqhemob</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-12-03T08:50:33.000Z</news:publication_date>
+      <news:title><![CDATA[Uday Kotak urges Indian firms to step up as rupee crosses 90 and foreign investors dominate markets]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/india-us-trade-5--miqheh9f</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-12-03T08:50:28.000Z</news:publication_date>
+      <news:title><![CDATA[India-US Trade: रूस-भारत में कितनी तगड़ी दोस्ती, ये 5 बड़े सबूत... फिर कुछ भी करे अमेरिका]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/as-ai-roils-shares-of-indias-largest-it-firms-their-share-in-sensex-falls-to-lowest-in-18-years-miqhcckw</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-12-03T08:48:09.000Z</news:publication_date>
+      <news:title><![CDATA[As AI roils shares of India's largest IT firms, their share in Sensex falls to lowest in 18 years]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/gold-glitters-again-as-prices-surge-across-indian-cities-on-mid-week-rally-miqhch0q</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-12-03T08:46:48.000Z</news:publication_date>
+      <news:title><![CDATA[Gold glitters again as prices surge across Indian cities on mid-week rally]]></news:title>
     </news:news>
   </url>
 
@@ -131,114 +239,6 @@
       </news:publication>
       <news:publication_date>2025-12-03T03:45:09.000Z</news:publication_date>
       <news:title><![CDATA[Who is Indian-origin owner Ravindra Nath Soni? Key accused of Dubai BlueChip Group scam arrested by Kanpur Police]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/adani-group-to-invest-15-billion-in-airport-expansion-across-india-by-2030-miq352qc</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-12-03T02:11:03.000Z</news:publication_date>
-      <news:title><![CDATA[Adani Group To Invest $15 Billion In Airport Expansion Across India By 2030]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/dr-reddys-titan-more-top-stocks-to-buy-on-december-3-check-list-miq358mv</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-12-03T02:07:00.000Z</news:publication_date>
-      <news:title><![CDATA[Dr Reddys, Titan & more: Top stocks to buy on December 3 - Check list]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/pope-prays-at-site-of-beirut-port-blast-at-end-of-lebanon-visit-mipbfgt0</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-12-03T01:15:43.956Z</news:publication_date>
-      <news:title><![CDATA[Pope prays at site of Beirut port blast at end of Lebanon visit]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/new-aws-ai-factories-transform-customers-existing-infrastructure-into-high-performance-ai-environments-mip1xsvb</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-12-02T20:50:03.239Z</news:publication_date>
-      <news:title><![CDATA[New AWS AI Factories transform customers’ existing infrastructure into high-performance AI environments]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/death-toll-from-indonesia-floods-and-landslides-passes-700-mip1xo1f</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-12-02T20:49:56.979Z</news:publication_date>
-      <news:title><![CDATA[Death toll from Indonesia floods and landslides passes 700]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/ai-threatens-to-widen-inequality-among-states-un-mip1vblo</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-12-02T20:48:07.548Z</news:publication_date>
-      <news:title><![CDATA[AI threatens to widen inequality among states: UN]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/pope-prays-at-beirut-port-blast-site-on-last-day-of-lebanon-visit-mip1v5ut</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-12-02T20:48:00.101Z</news:publication_date>
-      <news:title><![CDATA[Pope prays at Beirut port blast site on last day of Lebanon visit]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/export-promotion-measures-launched-to-offset-tariffs-mipnlh47</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-12-02T18:53:00.000Z</news:publication_date>
-      <news:title><![CDATA[Export promotion measures launched to offset tariffs]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/indias-seafood-exports-rise-led-by-eu-china-vietnam-mipnlmro</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-12-02T18:50:00.000Z</news:publication_date>
-      <news:title><![CDATA[India's seafood exports rise, led by EU, China, Vietnam]]></news:title>
     </news:news>
   </url>
 </urlset>
