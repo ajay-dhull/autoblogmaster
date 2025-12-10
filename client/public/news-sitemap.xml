@@ -3,6 +3,102 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://newshubnow.in/article/hegseth-introduces-department-to-new-ai-tool-mizfo7fi</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-12-10T03:12:11.934Z</news:publication_date>
+      <news:title><![CDATA[Hegseth Introduces Department to New AI Tool]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/former-meta-coo-sheryl-sandberg-weighs-in-on-social-media-bans-for-kids-mizfo0i8</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-12-10T03:12:02.960Z</news:publication_date>
+      <news:title><![CDATA[Former Meta COO Sheryl Sandberg weighs in on social media bans for kids]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/chief-digital-and-artificial-intelligence-office-selects-google-clouds-ai-to-power-genaimil-mizbkthg</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-12-10T01:17:35.428Z</news:publication_date>
+      <news:title><![CDATA[Chief Digital and Artificial Intelligence Office Selects Google Cloud's AI to Power GenAI.mil]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/the-older-the-better-child-psychiatrist-weighs-in-on-new-australia-law-banning-social-media-access-for-children-under-16-mizbkn6e</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-12-10T01:17:27.254Z</news:publication_date>
+      <news:title><![CDATA['The older the better': Child psychiatrist weighs in on new Australia law banning social media access for children under 16]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/are-we-ready-to-let-ai-interpret-x-rays-all-by-itself-miz20tjy</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-12-09T20:50:05.854Z</news:publication_date>
+      <news:title><![CDATA[Are we ready to let AI interpret X-rays all by itself?]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/australias-social-media-ban-for-people-under-16-takes-effect-miz20nxe</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-12-09T20:49:58.562Z</news:publication_date>
+      <news:title><![CDATA[Australia’s Social Media Ban for People Under 16 Takes Effect]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/trump-eases-limits-on-nvidia-exports-to-china-at-critical-moment-miz1sb7q</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-12-09T20:43:28.838Z</news:publication_date>
+      <news:title><![CDATA[Trump Eases Limits on Nvidia Exports to China at ‘Critical Moment’]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/death-toll-rises-as-renewed-hostilities-flare-along-thai-cambodia-border-miz1s4ze</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-12-09T20:43:20.762Z</news:publication_date>
+      <news:title><![CDATA[Death toll rises as renewed hostilities flare along Thai-Cambodia border]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://newshubnow.in/article/chinas-access-to-powerful-nvidia-chips-comes-at-critical-moment-miyvx5m1</loc>
     <news:news>
       <news:publication>
@@ -51,194 +147,98 @@
   </url>
 
   <url>
-    <loc>https://newshubnow.in/article/trump-clears-nvidia-chips-for-china-warns-of-tariffs-on-indian-rice-and-more-miyvx7uv</loc>
+    <loc>https://newshubnow.in/article/satya-nadella-confirms-175-billion-microsoft-investment-to-power-indias-ai-future-mizfnyu2</loc>
     <news:news>
       <news:publication>
         <news:name>NewsHubNow</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2025-12-09T05:59:09.000Z</news:publication_date>
-      <news:title><![CDATA[Trump clears Nvidia chips for China, warns of tariffs on Indian rice, and more]]></news:title>
+      <news:publication_date>2025-12-09T15:11:34.000Z</news:publication_date>
+      <news:title><![CDATA[Satya Nadella confirms $17.5 billion Microsoft investment to power India’s AI future]]></news:title>
     </news:news>
   </url>
 
   <url>
-    <loc>https://newshubnow.in/article/ind-vs-sa-1st-t20i-cuttack-weather-pitch-report-how-conditions-could-shape-series-opener-miyvx027</loc>
+    <loc>https://newshubnow.in/article/not-just-in-india-but-all-around-the-world-quang-duong-sees-ipbl-as-catalyst-for-growth-mizfo41r</loc>
     <news:news>
       <news:publication>
         <news:name>NewsHubNow</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2025-12-09T05:58:53.000Z</news:publication_date>
-      <news:title><![CDATA[IND vs SA 1st T20I: Cuttack Weather & Pitch Report - How Conditions Could Shape Series Opener]]></news:title>
+      <news:publication_date>2025-12-09T15:05:54.000Z</news:publication_date>
+      <news:title><![CDATA['Not Just in India, But All Around the World': Quang Duong Sees IPBL as Catalyst for Growth]]></news:title>
     </news:news>
   </url>
 
   <url>
-    <loc>https://newshubnow.in/article/gold-price-december-9-check-18-22-24-carat-gold-prices-in-chennai-mumbai-delhi-kolkata-and-other-cities-of-india-miyr1gw0</loc>
+    <loc>https://newshubnow.in/article/microsoft-commits-175-billion-for-indias-ai-buildout-after-satya-nadella-meets-pm-modi-mizbkn4f</loc>
     <news:news>
       <news:publication>
         <news:name>NewsHubNow</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2025-12-09T03:42:16.000Z</news:publication_date>
-      <news:title><![CDATA[Gold Price December 9: Check 18, 22, 24 carat gold prices in Chennai, Mumbai, Delhi, Kolkata, and other cities of India]]></news:title>
+      <news:publication_date>2025-12-09T13:16:52.000Z</news:publication_date>
+      <news:title><![CDATA[Microsoft commits $17.5 billion for India’s AI buildout after Satya Nadella meets PM Modi]]></news:title>
     </news:news>
   </url>
 
   <url>
-    <loc>https://newshubnow.in/article/krbl-to-lt-foods-rice-stocks-to-remain-in-focus-after-us-president-warns-of-new-tariffs-on-rice-imports-miyr1l9g</loc>
+    <loc>https://newshubnow.in/article/from-opener-to-dropped-sanju-samson-snubbed-for-jitesh-sharma-in-cuttack-t20i-mizbks33</loc>
     <news:news>
       <news:publication>
         <news:name>NewsHubNow</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2025-12-09T03:37:37.000Z</news:publication_date>
-      <news:title><![CDATA[KRBL to LT Foods: Rice stocks to remain in focus after US President warns of new tariffs on rice imports]]></news:title>
+      <news:publication_date>2025-12-09T13:15:10.000Z</news:publication_date>
+      <news:title><![CDATA[From opener to dropped: Sanju Samson snubbed for Jitesh Sharma in Cuttack T20I]]></news:title>
     </news:news>
   </url>
 
   <url>
-    <loc>https://newshubnow.in/article/trump-clears-sale-of-more-powerful-nvidia-ai-chips-to-china-mixw2yis</loc>
+    <loc>https://newshubnow.in/article/ims-ghaziabad-university-courses-campus-earns-global-recognition-at-an-international-conference-on-geopolitics-travel-and-economic-growth-miz20nx1</loc>
     <news:news>
       <news:publication>
         <news:name>NewsHubNow</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2025-12-09T01:16:01.732Z</news:publication_date>
-      <news:title><![CDATA[Trump Clears Sale of More Powerful Nvidia A.I. Chips to China]]></news:title>
+      <news:publication_date>2025-12-09T08:48:38.000Z</news:publication_date>
+      <news:title><![CDATA[IMS Ghaziabad (University Courses Campus) Earns Global Recognition at an International Conference on Geopolitics, Travel and Economic Growth]]></news:title>
     </news:news>
   </url>
 
   <url>
-    <loc>https://newshubnow.in/article/why-thailand-and-cambodia-are-fighting-mixw2s7i</loc>
+    <loc>https://newshubnow.in/article/why-it-stocks-are-falling-coforge-tcs-hcltech-drop-up-to-4-despite-fed-rate-cut-hopes-miz1sa03</loc>
     <news:news>
       <news:publication>
         <news:name>NewsHubNow</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2025-12-09T01:15:53.550Z</news:publication_date>
-      <news:title><![CDATA[Why Thailand and Cambodia Are Fighting]]></news:title>
+      <news:publication_date>2025-12-09T08:43:07.000Z</news:publication_date>
+      <news:title><![CDATA[Why IT Stocks Are Falling: Coforge, TCS, HCLTech Drop Up To 4% Despite Fed Rate Cut Hopes]]></news:title>
     </news:news>
   </url>
 
   <url>
-    <loc>https://newshubnow.in/article/with-flags-and-fireworks-syrians-celebrate-one-year-since-fall-of-al-assad-mixsm2yc</loc>
+    <loc>https://newshubnow.in/article/leading-public-private-banks-cut-home-loan-rates-after-rbis-slashes-repo-rate-miz1s3ga</loc>
     <news:news>
       <news:publication>
         <news:name>NewsHubNow</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2025-12-08T23:38:55.476Z</news:publication_date>
-      <news:title><![CDATA[With flags and fireworks, Syrians celebrate one year since fall of al-Assad]]></news:title>
+      <news:publication_date>2025-12-09T08:43:07.000Z</news:publication_date>
+      <news:title><![CDATA[Leading public, private banks cut home loan rates after RBI’s slashes repo rate]]></news:title>
     </news:news>
   </url>
 
   <url>
-    <loc>https://newshubnow.in/article/major-earthquake-strikes-japans-north-east-coast-mixpmg6c</loc>
+    <loc>https://newshubnow.in/article/dharmesh-shah-sees-strong-support-at-25500-25700-expects-nifty-to-rebound-towards-26100-soon-miz20tjs</loc>
     <news:news>
       <news:publication>
         <news:name>NewsHubNow</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2025-12-08T22:15:13.764Z</news:publication_date>
-      <news:title><![CDATA[Major earthquake strikes Japan's north-east coast]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/japan-tells-residents-to-evacuate-as-powerful-earthquake-strikes-north-east-mixml53y</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-12-08T20:50:13.918Z</news:publication_date>
-      <news:title><![CDATA[Japan tells residents to evacuate as powerful earthquake strikes north-east]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/2024-life-sciences-technology-trends-mixmimk0</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-12-08T20:48:16.561Z</news:publication_date>
-      <news:title><![CDATA[2024 Life Sciences Technology Trends]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/european-leaders-walk-tightrope-between-backing-ukraine-and-keeping-us-on-board-mixmic2s</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-12-08T20:48:02.980Z</news:publication_date>
-      <news:title><![CDATA[European leaders walk tightrope between backing Ukraine and keeping US on board]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/congress-to-withhold-pentagon-travel-funds-until-it-sees-boat-strike-videos-politico-miyvwzs0</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-12-08T18:20:10.000Z</news:publication_date>
-      <news:title><![CDATA[Congress to withhold Pentagon travel funds until it sees boat strike videos - Politico]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/germanys-merz-skeptical-of-us-peace-proposals-for-ukraine-mixgle50</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-12-08T18:02:27.924Z</news:publication_date>
-      <news:title><![CDATA[Germany’s Merz ‘skeptical’ of US peace proposals for Ukraine]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/european-leaders-meet-zelensky-amid-trump-pressure-on-plan-to-halt-war-mixe7fuu</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-12-08T16:55:37.734Z</news:publication_date>
-      <news:title><![CDATA[European leaders meet Zelensky amid Trump pressure on plan to halt war]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/tsunami-warning-issued-for-japans-northeastern-coast-after-76-magnitude-earthquake-mixdi3pj</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-12-08T16:35:55.591Z</news:publication_date>
-      <news:title><![CDATA[Tsunami warning issued for Japan’s northeastern coast after 7.6-magnitude earthquake]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/zelenskyy-heads-to-london-for-more-ukraine-peace-talks-heres-what-to-know-mixbofcx</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-12-08T15:44:51.393Z</news:publication_date>
-      <news:title><![CDATA[Zelenskyy heads to London for more Ukraine peace talks. Here’s what to know]]></news:title>
+      <news:publication_date>2025-12-09T08:43:00.000Z</news:publication_date>
+      <news:title><![CDATA[Dharmesh Shah sees strong support at 25,500-25,700; expects Nifty to rebound towards 26,100 soon]]></news:title>
     </news:news>
   </url>
 </urlset>
