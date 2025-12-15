@@ -3,6 +3,54 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://newshubnow.in/article/four-new-jobs-that-may-be-in-our-ai-future-mj6gvizh</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-12-15T01:20:16.349Z</news:publication_date>
+      <news:title><![CDATA[Four New Jobs That May Be in Our AI Future]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/bystander-hailed-as-a-hero-for-disarming-sydney-gunman-mj6gvd4a</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-12-15T01:20:08.746Z</news:publication_date>
+      <news:title><![CDATA[Bystander hailed as a hero for disarming Sydney gunman]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/zelensky-offers-compromise-before-latest-round-of-peace-plan-talks-mj67473v</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-12-14T20:47:04.699Z</news:publication_date>
+      <news:title><![CDATA[Zelensky Offers Compromise Before Latest Round of Peace Plan Talks]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/hero-who-wrestled-gun-from-bondi-shooter-named-as-ahmed-al-ahmed-mj671gpu</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-12-14T20:44:57.186Z</news:publication_date>
+      <news:title><![CDATA['Hero' who wrestled gun from Bondi shooter named as Ahmed al Ahmed]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://newshubnow.in/article/world-reacts-to-jewish-festival-shooting-attack-at-sydneys-bondi-beach-mj62ttst</loc>
     <news:news>
       <news:publication>
@@ -47,6 +95,78 @@
       </news:publication>
       <news:publication_date>2025-12-14T14:43:51.874Z</news:publication_date>
       <news:title><![CDATA[Bondi attack on Jewish community 'sickening' says Starmer]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/india-announce-two-forced-changes-as-axar-patel-jasprit-bumrah-miss-out-harshit-kuldeep-named-in-playing-xi-vs-sa-mj6gvdpe</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-12-14T13:20:02.000Z</news:publication_date>
+      <news:title><![CDATA[India Announce Two Forced Changes As Axar Patel, Jasprit Bumrah Miss Out; Harshit, Kuldeep Named In Playing XI vs SA]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/game-recognizes-game-lionel-messi-meets-sunil-chhetri-at-wankhede-on-goat-tour-india-2025-mj6gvhom</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-12-14T13:19:40.000Z</news:publication_date>
+      <news:title><![CDATA[Game Recognizes Game! Lionel Messi Meets Sunil Chhetri At Wankhede On GOAT Tour India 2025]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/--mj674bfe</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-12-14T08:46:34.000Z</news:publication_date>
+      <news:title><![CDATA[अब ट्रेन की सीट पर नहीं दिखेंगे ‘कॉकरोच’, रेलवे ने उठाया कदम]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/the-dig-new-book-explores-keeladi-excavation-and-indias-contested-origins-mj6746sz</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-12-14T08:45:06.000Z</news:publication_date>
+      <news:title><![CDATA['The Dig': New book explores Keeladi excavation and India's contested origins]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/55-pc-of-indians-plan-winter-trips-goa-kerala-lead-demand-says-report-mj671lij</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-12-14T08:43:51.000Z</news:publication_date>
+      <news:title><![CDATA[55 pc Of Indians Plan Winter Trips; Goa, Kerala Lead Demand, Says Report]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/-29-oecd--mj671gsc</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-12-14T08:43:44.000Z</news:publication_date>
+      <news:title><![CDATA[भारत टैक्स पारदर्शिता में मजबूत अगुवा:विदेशी टैक्स चोरी पर 29 हजार करोड़ का हुआ खुलासा, Oecd ने की सराहना]]></news:title>
     </news:news>
   </url>
 
@@ -119,126 +239,6 @@
       </news:publication>
       <news:publication_date>2025-12-14T02:41:00.000Z</news:publication_date>
       <news:title><![CDATA[IND vs SA: Time to take fresh guard as Indian batters endure intense drills ahead of 3rd T20I]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/israel-says-it-killed-senior-hamas-commander-despite-cease-fire-mj51jh4w</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-12-14T01:23:13.665Z</news:publication_date>
-      <news:title><![CDATA[Israel Says It Killed Senior Hamas Commander, Despite Cease-Fire]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/belarus-frees-123-prisoners-including-ales-bialiatski-as-us-lifts-sanctions-mj4rn0f1</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-12-13T20:46:02.461Z</news:publication_date>
-      <news:title><![CDATA[Belarus frees 123 prisoners including Ales Bialiatski as US lifts sanctions]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/trumps-new-order-against-ai-regulation-hits-california-especially-hard-mj4rkxbw</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-12-13T20:44:25.148Z</news:publication_date>
-      <news:title><![CDATA[Trump’s new order against AI regulation hits California especially hard]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/israel-targets-senior-hamas-official-in-deadly-gaza-strike-mj4rkr52</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-12-13T20:44:17.126Z</news:publication_date>
-      <news:title><![CDATA[Israel targets senior Hamas official in deadly Gaza strike]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/abraham-quintanilla-death-father-of-tejano-music-icon-selena-has-died-son-ab-quintanilla-iii-says-abc7-los-angeles-mj62tuqs</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-12-13T16:58:53.000Z</news:publication_date>
-      <news:title><![CDATA[Abraham Quintanilla death: Father of Tejano music icon Selena has died, son A.B. Quintanilla III says - ABC7 Los Angeles]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/artificial-intelligence-news-for-the-week-of-december-12-updates-from-couchbase-dxc-technology-qlik-more-mj4ink3e</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-12-13T16:34:31.419Z</news:publication_date>
-      <news:title><![CDATA[Artificial Intelligence News for the Week of December 12; Updates from Couchbase, DXC Technology, Qlik & More]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/king-charles-iii-speaks-about-his-cancer-treatment-urges-early-screening-mj4ind19</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-12-13T16:34:22.269Z</news:publication_date>
-      <news:title><![CDATA[King Charles III speaks about his cancer treatment, urges early screening]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/belarus-frees-123-prisoners-as-us-lifts-sanctions-bbc-mj5u53ph</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-12-13T14:00:21.000Z</news:publication_date>
-      <news:title><![CDATA[Belarus frees 123 prisoners as US lifts sanctions - BBC]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/making-brain-death-determination-a-standard-of-care-in-icus-mj51jgz4</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-12-13T13:20:54.000Z</news:publication_date>
-      <news:title><![CDATA[Making brain death determination a standard of care in ICUs]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/iim-mumbai-launches-4-year-ug-programme-in-digital-science-and-business-management-mj51jkxe</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-12-13T13:19:55.000Z</news:publication_date>
-      <news:title><![CDATA[IIM Mumbai Launches 4-Year UG Programme In Digital Science And Business Management]]></news:title>
     </news:news>
   </url>
 </urlset>
