@@ -3,6 +3,150 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://newshubnow.in/article/what-is-russias-oreshnik-ballistic-missile-and-what-can-it-do-mk781wpi</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-01-09T18:40:46.038Z</news:publication_date>
+      <news:title><![CDATA[What is Russia’s Oreshnik ballistic missile and what can it do?]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/nato-faces-a-major-crisis-over-greenland-europe-seems-powerless-to-stop-it-mk6rqgea</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-01-09T11:03:57.826Z</news:publication_date>
+      <news:title><![CDATA[NATO faces a major crisis over Greenland. Europe seems powerless to stop it]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/who-is-shishir-mehrotra-walmart-appoints-indian-origin-tech-veteran-to-its-board-mk7820zf</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-01-09T06:40:36.000Z</news:publication_date>
+      <news:title><![CDATA[Who Is Shishir Mehrotra? Walmart Appoints Indian Origin Tech Veteran To Its Board]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/dont-be-driven-by-emotion-think-about-future-tamim-iqbal-on-bangladeshs-t20wc-stance-mk781vj8</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-01-09T06:40:26.000Z</news:publication_date>
+      <news:title><![CDATA[Don't Be Driven By Emotion, Think About Future: Tamim Iqbal on Bangladesh's T20WC Stance]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/exclusive-trump-administration-mulls-payments-to-sway-greenlanders-to-join-us-mk69dul2</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-01-09T02:30:16.598Z</news:publication_date>
+      <news:title><![CDATA[Exclusive: Trump administration mulls payments to sway Greenlanders to join US]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/china-is-investigating-metas-acquisition-of-the-ai-start-ip-manus-mk66wqxz</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-01-09T01:20:59.495Z</news:publication_date>
+      <news:title><![CDATA[China Is Investigating Meta’s Acquisition of the AI Start-Ip Manus]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/trump-admin-reportedly-considers-paying-each-greenland-resident-up-to-100k-amid-us-takeover-talks-mk66wk1q</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-01-09T01:20:50.558Z</news:publication_date>
+      <news:title><![CDATA[Trump admin reportedly considers paying each Greenland resident up to $100K amid US takeover talks]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/minnesota-turmoil-grows-after-woman-shot-dead-by-ice-agent-amid-rising-trump-tensions-telegraph-india-mk6rqdu7</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-01-08T23:03:15.000Z</news:publication_date>
+      <news:title><![CDATA[Minnesota turmoil grows after woman shot dead by ICE agent amid rising Trump tensions - Telegraph India]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/no-new-permit-for-indian-onion-imports-mk6rqibe</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-01-08T23:00:00.000Z</news:publication_date>
+      <news:title><![CDATA[No new permit for Indian onion imports]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/senate-advances-measure-to-restrict-trumps-power-to-use-military-force-in-venezuela-mk60k45t</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-01-08T22:23:12.401Z</news:publication_date>
+      <news:title><![CDATA[Senate advances measure to restrict Trump's power to use military force in Venezuela]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/lebanon-army-says-has-taken-over-security-in-hezbollah-dominated-south-mk5xaohu</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-01-08T20:51:53.346Z</news:publication_date>
+      <news:title><![CDATA[Lebanon: Army says has taken over security in Hezbollah-dominated south]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/liturgy-sidestepped-at-pope-leo-xivs-first-consistory-mk5x86ob</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-01-08T20:49:56.939Z</news:publication_date>
+      <news:title><![CDATA[Liturgy Sidestepped at Pope Leo XIV’s First Consistory]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://newshubnow.in/article/trump-says-5-gop-senators-who-voted-to-limit-venezuela-war-powers-should-never-be-elected-to-office-again-mk5vbnts</loc>
     <news:news>
       <news:publication>
@@ -23,6 +167,18 @@
       </news:publication>
       <news:publication_date>2026-01-08T16:50:20.351Z</news:publication_date>
       <news:title><![CDATA[Saudi-led coalition says UAE helped smuggle separatist leader out of Yemen]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/former-glp-1-users-regain-lost-weight-after-about-18-months-study-says-the-washington-post-mk781uyr</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-01-08T16:33:44.000Z</news:publication_date>
+      <news:title><![CDATA[Former GLP-1 users regain lost weight after about 18 months, study says - The Washington Post]]></news:title>
     </news:news>
   </url>
 
@@ -75,170 +231,14 @@
   </url>
 
   <url>
-    <loc>https://newshubnow.in/article/china-is-investigating-metas-latest-ai-acquisition-mk5ih86w</loc>
+    <loc>https://newshubnow.in/article/updated-wtc-2025-27-points-table-australia-tops-after-scg-win-englands-final-hopes-fade-india-below-than-pakistan-check-full-list-mk69dszm</loc>
     <news:news>
       <news:publication>
         <news:name>NewsHubNow</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-01-08T13:57:04.568Z</news:publication_date>
-      <news:title><![CDATA[China Is Investigating Meta’s Latest A.I. Acquisition]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/ukraine-reports-concrete-results-from-talks-with-western-allies-mk5ih2ii</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-01-08T13:56:57.210Z</news:publication_date>
-      <news:title><![CDATA[Ukraine reports ‘concrete results’ from talks with Western allies]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/british-prime-minister-keir-starmer-on-venezuela-greenland-and-international-law-mk5ewrd9</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-01-08T12:17:10.797Z</news:publication_date>
-      <news:title><![CDATA[British Prime Minister Keir Starmer on Venezuela, Greenland and International Law]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/swiss-nightclub-owner-allegedly-fled-with-cash-destroyed-evidence-as-40-died-in-new-years-eve-inferno-mk5eaq6s</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-01-08T12:00:02.836Z</news:publication_date>
-      <news:title><![CDATA[Swiss nightclub owner allegedly fled with cash, destroyed evidence as 40 died in New Year’s Eve inferno]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/trumps-team-races-to-come-up-with-a-greenland-takeover-plan-heres-whats-at-stake-mk5debuf</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-01-08T11:34:51.255Z</news:publication_date>
-      <news:title><![CDATA[Trump's team races to come up with a Greenland takeover plan — here's what's at stake]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/trump-team-races-to-come-up-with-deals-for-his-greenland-vision-mk5abhlh</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-01-08T10:08:39.894Z</news:publication_date>
-      <news:title><![CDATA[Trump Team Races to Come Up With Deals for His Greenland Vision]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/pakistan-minister-khawaja-asifs-bizarre-claim-receives-huge-backlash-mk5vbovb</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-01-08T07:56:12.000Z</news:publication_date>
-      <news:title><![CDATA[Pakistan Minister Khawaja Asif's Bizarre Claim Receives Huge Backlash]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/tata-steel-shines-it-shows-revival-signs-mayuresh-joshi-on-why-q3-updates-are-reshaping-market-bets-mk5vbuws</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-01-08T07:56:00.000Z</news:publication_date>
-      <news:title><![CDATA[Tata Steel shines, IT shows revival signs: Mayuresh Joshi on why Q3 updates are reshaping market bets]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/israel-tells-doctors-without-borders-to-end-its-work-in-gaza-mk51sjuf</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-01-08T06:09:59.415Z</news:publication_date>
-      <news:title><![CDATA[Israel Tells Doctors Without Borders to End Its Work in Gaza]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/adani-power-tata-motors-among-8-stocks-with-up-to-72-upside-as-brokerages-initiate-coverage-mk5oo0gy</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-01-08T04:50:00.000Z</news:publication_date>
-      <news:title><![CDATA[Adani Power, Tata Motors among 8 stocks with up to 72% upside as brokerages initiate coverage]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/all-india-mahila-congress-holds-candle-march-in-bhopal-over-deaths-linked-to-contaminated-water-mk5onuvd</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-01-08T04:49:36.000Z</news:publication_date>
-      <news:title><![CDATA[All India Mahila Congress holds candle March in Bhopal over deaths linked to contaminated water]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/andhra-cm-naidu-seeks-statutory-status-for-amaravati-in-meeting-with-amit-shah-mk5nv7g1</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-01-08T04:27:16.000Z</news:publication_date>
-      <news:title><![CDATA[Andhra CM Naidu seeks statutory status for Amaravati in meeting with Amit Shah]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/bangladesh-textile-industry-lobbies-for-safeguard-tariff-on-indian-cotton-yarn-imports-mk5nvdgw</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-01-08T04:27:00.000Z</news:publication_date>
-      <news:title><![CDATA[Bangladesh textile industry lobbies for safeguard tariff on Indian cotton yarn imports]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/kerala-hc-gives-interim-relief-from-arrest-to-mamkootathil-mk5m11qh</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-01-08T03:36:09.000Z</news:publication_date>
-      <news:title><![CDATA[Kerala HC gives interim relief from arrest to Mamkootathil]]></news:title>
+      <news:publication_date>2026-01-08T14:30:00.000Z</news:publication_date>
+      <news:title><![CDATA[Updated WTC 2025-27 Points Table: Australia Tops After SCG Win, England’s Final Hopes Fade; India Below Than Pakistan, Check Full List]]></news:title>
     </news:news>
   </url>
 </urlset>
