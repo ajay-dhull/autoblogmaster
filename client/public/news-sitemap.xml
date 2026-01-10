@@ -3,6 +3,78 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://newshubnow.in/article/poll-fewer-americans-see-us-as-moral-leader-and-fbi-takes-over-ice-shooting-case-mk7q7i6s</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-01-10T03:09:00.244Z</news:publication_date>
+      <news:title><![CDATA[Poll: Fewer Americans see U.S. as moral leader. And, FBI takes over ICE shooting case]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/13-top-technology-trends-2025-mk7m91nx</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-01-10T01:18:13.677Z</news:publication_date>
+      <news:title><![CDATA[13 Top Technology Trends (2025)]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/trump-says-us-will-do-something-on-greenland-whether-they-like-it-or-not-mk7m8rfu</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-01-10T01:18:00.426Z</news:publication_date>
+      <news:title><![CDATA[Trump says US will do something on Greenland 'whether they like it or not']]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/eu-mercosur-mega-trade-deal-the-winners-and-losers-mk7cpfg5</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-01-09T20:51:01.877Z</news:publication_date>
+      <news:title><![CDATA[EU-Mercosur mega trade deal: The winners and losers]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/humanoid-robots-take-over-ces-in-las-vegas-as-tech-industry-touts-future-of-ai-mk7cneij</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-01-09T20:49:27.355Z</news:publication_date>
+      <news:title><![CDATA[Humanoid robots take over CES in Las Vegas as tech industry touts future of AI]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/x-restricts-groks-image-generation-to-paying-subscribers-only-after-drawing-the-worlds-ire-mk7cn8km</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-01-09T20:49:19.654Z</news:publication_date>
+      <news:title><![CDATA[X restricts Grok’s image generation to paying subscribers only after drawing the world’s ire]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://newshubnow.in/article/what-is-russias-oreshnik-ballistic-missile-and-what-can-it-do-mk781wpi</loc>
     <news:news>
       <news:publication>
@@ -15,6 +87,42 @@
   </url>
 
   <url>
+    <loc>https://newshubnow.in/article/ireda-sees-37-profit-surge-amid-renewable-energy-push-mk7q7fqa</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-01-09T15:08:30.000Z</news:publication_date>
+      <news:title><![CDATA[IREDA Sees 37% Profit Surge Amid Renewable Energy Push]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/worked-for-bjp-congress-aap-tmc-i-pac-issues-statements-after-ed-raids-calls-it-unsettling-precedent-mk7q7k8y</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-01-09T15:08:00.000Z</news:publication_date>
+      <news:title><![CDATA['Worked for BJP, Congress, AAP, TMC': I-PAC issues statements after ED raids; calls it 'unsettling precedent']]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/punjab-and-haryana-hc-comes-down-heavily-on-frivolous-contempt-plea-imposes-rs-30000-costs-mk7m8omt</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-01-09T13:17:49.000Z</news:publication_date>
+      <news:title><![CDATA[Punjab and Haryana HC comes down heavily on frivolous contempt plea, imposes Rs 30,000 costs]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://newshubnow.in/article/nato-faces-a-major-crisis-over-greenland-europe-seems-powerless-to-stop-it-mk6rqgea</loc>
     <news:news>
       <news:publication>
@@ -23,6 +131,42 @@
       </news:publication>
       <news:publication_date>2026-01-09T11:03:57.826Z</news:publication_date>
       <news:title><![CDATA[NATO faces a major crisis over Greenland. Europe seems powerless to stop it]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/manappurams-bain-deal-delayed-by-indian-regulatory-concerns-sources-say-mk7cpkcb</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-01-09T08:51:00.000Z</news:publication_date>
+      <news:title><![CDATA[Manappuram's Bain deal delayed by Indian regulatory concerns, sources say]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/rti-reveals-govt-evasion-on-imf-c-grade-for-indias-data-quality-mk7cpe71</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-01-09T08:50:06.000Z</news:publication_date>
+      <news:title><![CDATA[RTI reveals govt evasion on IMF ‘C’ grade for India’s Data Quality]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/skyward-journeys-blue-collar-workers-transform-indian-travel-mk7cn4xc</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-01-09T08:49:01.000Z</news:publication_date>
+      <news:title><![CDATA[Skyward Journeys: Blue-Collar Workers Transform Indian Travel]]></news:title>
     </news:news>
   </url>
 
@@ -63,6 +207,30 @@
   </url>
 
   <url>
+    <loc>https://newshubnow.in/article/johnson-johnson-strikes-deal-with-us-government-to-lower-drug-prices-cnbc-mk7q7gk7</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-01-09T02:19:00.000Z</news:publication_date>
+      <news:title><![CDATA[Johnson & Johnson strikes deal with U.S. government to lower drug prices - CNBC]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/hochul-and-mamdani-to-unveil-free-child-care-plan-in-new-york-city-abcnewsgocom-mk7m8q62</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-01-09T01:40:24.000Z</news:publication_date>
+      <news:title><![CDATA[Hochul and Mamdani to unveil free child care plan in New York City - abcnews.go.com]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://newshubnow.in/article/china-is-investigating-metas-acquisition-of-the-ai-start-ip-manus-mk66wqxz</loc>
     <news:news>
       <news:publication>
@@ -71,174 +239,6 @@
       </news:publication>
       <news:publication_date>2026-01-09T01:20:59.495Z</news:publication_date>
       <news:title><![CDATA[China Is Investigating Meta’s Acquisition of the AI Start-Ip Manus]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/trump-admin-reportedly-considers-paying-each-greenland-resident-up-to-100k-amid-us-takeover-talks-mk66wk1q</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-01-09T01:20:50.558Z</news:publication_date>
-      <news:title><![CDATA[Trump admin reportedly considers paying each Greenland resident up to $100K amid US takeover talks]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/minnesota-turmoil-grows-after-woman-shot-dead-by-ice-agent-amid-rising-trump-tensions-telegraph-india-mk6rqdu7</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-01-08T23:03:15.000Z</news:publication_date>
-      <news:title><![CDATA[Minnesota turmoil grows after woman shot dead by ICE agent amid rising Trump tensions - Telegraph India]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/no-new-permit-for-indian-onion-imports-mk6rqibe</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-01-08T23:00:00.000Z</news:publication_date>
-      <news:title><![CDATA[No new permit for Indian onion imports]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/senate-advances-measure-to-restrict-trumps-power-to-use-military-force-in-venezuela-mk60k45t</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-01-08T22:23:12.401Z</news:publication_date>
-      <news:title><![CDATA[Senate advances measure to restrict Trump's power to use military force in Venezuela]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/lebanon-army-says-has-taken-over-security-in-hezbollah-dominated-south-mk5xaohu</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-01-08T20:51:53.346Z</news:publication_date>
-      <news:title><![CDATA[Lebanon: Army says has taken over security in Hezbollah-dominated south]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/liturgy-sidestepped-at-pope-leo-xivs-first-consistory-mk5x86ob</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-01-08T20:49:56.939Z</news:publication_date>
-      <news:title><![CDATA[Liturgy Sidestepped at Pope Leo XIV’s First Consistory]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/trump-says-5-gop-senators-who-voted-to-limit-venezuela-war-powers-should-never-be-elected-to-office-again-mk5vbnts</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-01-08T19:56:39.904Z</news:publication_date>
-      <news:title><![CDATA[Trump says 5 GOP senators who voted to limit Venezuela war powers "should never be elected to office again"]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/saudi-led-coalition-says-uae-helped-smuggle-separatist-leader-out-of-yemen-mk5oo1mn</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-01-08T16:50:20.351Z</news:publication_date>
-      <news:title><![CDATA[Saudi-led coalition says UAE helped smuggle separatist leader out of Yemen]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/former-glp-1-users-regain-lost-weight-after-about-18-months-study-says-the-washington-post-mk781uyr</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-01-08T16:33:44.000Z</news:publication_date>
-      <news:title><![CDATA[Former GLP-1 users regain lost weight after about 18 months, study says - The Washington Post]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/archer-to-build-next-wave-of-aviation-ai-technology-with-nvidia-igx-thor-mk5nv7nz</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-01-08T16:27:55.151Z</news:publication_date>
-      <news:title><![CDATA[Archer To Build Next Wave of Aviation AI Technology With NVIDIA IGX Thor]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/statistician-part-of-new-effort-to-advance-scientific-machine-learning-mk5m18ur</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-01-08T15:36:37.395Z</news:publication_date>
-      <news:title><![CDATA[Statistician part of new effort to advance scientific machine learning]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/danish-soldiers-would-shoot-back-if-invaded-government-confirms-mk5m12k8</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-01-08T15:36:29.240Z</news:publication_date>
-      <news:title><![CDATA[Danish soldiers would shoot back if invaded, government confirms]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/gmails-new-ai-features-turning-it-into-a-personal-assistant-mk5kh0rv</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-01-08T14:52:54.187Z</news:publication_date>
-      <news:title><![CDATA[Gmail's New AI Features, Turning It Into a Personal Assistant]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/updated-wtc-2025-27-points-table-australia-tops-after-scg-win-englands-final-hopes-fade-india-below-than-pakistan-check-full-list-mk69dszm</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-01-08T14:30:00.000Z</news:publication_date>
-      <news:title><![CDATA[Updated WTC 2025-27 Points Table: Australia Tops After SCG Win, England’s Final Hopes Fade; India Below Than Pakistan, Check Full List]]></news:title>
     </news:news>
   </url>
 </urlset>
