@@ -3,6 +3,114 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://newshubnow.in/article/south-koreas-lee-to-head-for-japan-summit-a-week-after-meeting-chinas-xi-mkcqep7t</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-01-13T15:13:26.825Z</news:publication_date>
+      <news:title><![CDATA[South Korea's Lee to head for Japan summit a week after meeting China's Xi]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/ashwini-vaishnaw-participates-in-g7-critical-minerals-meeting-in-washington-mkcqeof6</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-01-13T03:12:39.000Z</news:publication_date>
+      <news:title><![CDATA[Ashwini Vaishnaw Participates in G7 Critical Minerals Meeting in Washington]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/us-court-orders-immigration-authorities-to-facilitate-return-of-wrongfully-deported-indian-mkcqetpa</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-01-13T03:01:32.000Z</news:publication_date>
+      <news:title><![CDATA[US court orders immigration authorities to facilitate return of wrongfully deported Indian]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/home-depot-takes-its-next-step-into-ai-what-it-means-for-you-mkbwj6ox</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-01-13T01:17:07.617Z</news:publication_date>
+      <news:title><![CDATA[Home Depot takes its next step into AI. What it means for you.]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/two-months-after-cease-fire-israel-is-still-demolishing-gaza-mkbwj09r</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-01-13T01:16:59.295Z</news:publication_date>
+      <news:title><![CDATA[Two Months After Cease-Fire, Israel Is Still Demolishing Gaza]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/apple-calls-on-google-to-help-smarten-up-siri-and-bring-other-ai-features-to-the-iphone-mkbn1nhs</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-01-12T20:51:33.041Z</news:publication_date>
+      <news:title><![CDATA[Apple calls on Google to help smarten up Siri and bring other AI features to the iPhone]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/trump-says-us-will-take-greenland-one-way-or-the-other-china-hits-back-over-arctic-threats-mkbn1j05</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-01-12T20:51:27.221Z</news:publication_date>
+      <news:title><![CDATA[Trump says U.S. will take Greenland ‘one way or the other,’ China hits back over Arctic threats]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/apple-teams-up-with-google-for-ai-in-its-products-mkbmzhv0</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-01-12T20:49:52.428Z</news:publication_date>
+      <news:title><![CDATA[Apple Teams Up With Google for A.I. in Its Products]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/unthinkable-behavior-von-der-leyen-slams-musks-ai-for-undressing-photos-of-women-mkbmzbvm</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-01-12T20:49:44.674Z</news:publication_date>
+      <news:title><![CDATA[‘Unthinkable behavior’: Von der Leyen slams Musk’s AI for undressing photos of women]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://newshubnow.in/article/china-says-us-shouldnt-use-other-countries-as-pretext-to-pursue-its-interests-in-greenland-mkb7fwhe</loc>
     <news:news>
       <news:publication>
@@ -11,6 +119,90 @@
       </news:publication>
       <news:publication_date>2026-01-12T13:34:44.018Z</news:publication_date>
       <news:title><![CDATA[China says US shouldn’t use other countries as ‘pretext’ to pursue its interests in Greenland]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/cold-wave-tightens-grip-on-north-india-imd-warns-of-freezing-nights-and-dense-fog-mkbwixsy</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-01-12T13:16:21.000Z</news:publication_date>
+      <news:title><![CDATA[Cold wave tightens grip on North India, IMD warns of freezing nights and dense fog]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/easier-travel-ahead-germany-clears-visa-free-airport-transit-for-indian-travellers-mkbwj3b6</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-01-12T13:16:06.000Z</news:publication_date>
+      <news:title><![CDATA[Easier travel ahead: Germany clears visa free airport transit for Indian travellers]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/the-most-fascinating-monitors-at-ces-2026-ars-technica-mkcqemyd</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-01-12T11:30:06.000Z</news:publication_date>
+      <news:title><![CDATA[The most fascinating monitors at CES 2026 - Ars Technica]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/nippon-india-gold-etf-ranks-15th-globally-with-117-billion-inflows-mkbn1gic</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-01-12T08:50:14.000Z</news:publication_date>
+      <news:title><![CDATA[Nippon India Gold ETF ranks 15th globally with $1.17 billion inflows]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/watch-raghav-chadha-spends-day-as-blinkit-delivery-person-mkbmzbav</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-01-12T08:49:05.000Z</news:publication_date>
+      <news:title><![CDATA[Watch: Raghav Chadha spends day as Blinkit delivery person]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/what-indian-students-need-more-than-another-degree-mkbmzfu6</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-01-12T08:48:31.000Z</news:publication_date>
+      <news:title><![CDATA[What Indian students need more than another degree]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/indian-traveller-shares-what-lies-beyond-europes-postcard-perfect-streets-is-it-even-worth-it-now-mkbn1m87</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-01-12T08:48:06.000Z</news:publication_date>
+      <news:title><![CDATA[Indian Traveller Shares What Lies Beyond Europe’s ‘Postcard-Perfect Streets’- ‘Is It Even Worth It Now?’]]></news:title>
     </news:news>
   </url>
 
@@ -47,198 +239,6 @@
       </news:publication>
       <news:publication_date>2026-01-12T01:24:01.005Z</news:publication_date>
       <news:title><![CDATA[AI is intensifying a 'collapse' of trust online, experts say]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/denmark-warns-of-decisive-moment-as-trump-renews-threat-of-force-over-greenland-mkahc09o</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-01-12T01:23:52.284Z</news:publication_date>
-      <news:title><![CDATA[Denmark warns of ‘decisive moment’ as Trump renews threat of force over Greenland]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/we-hope-they-will-give-us-heat-bitter-winter-cold-bites-for-kyivs-residents-as-russia-steps-up-attacks-mka7izqc</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-01-11T20:49:22.020Z</news:publication_date>
-      <news:title><![CDATA[‘We hope they will give us heat:’ Bitter winter cold bites for Kyiv’s residents as Russia steps up attacks]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/ai-stocks-at-a-crossroads-in-2026-as-volatility-continues-google-bucks-sell-off-mka7ghn0</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-01-11T20:47:25.260Z</news:publication_date>
-      <news:title><![CDATA[AI Stocks At A Crossroads In 2026 As Volatility Continues. Google Bucks Sell Off.]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/sen-chris-murphy-says-it-would-be-the-end-of-nato-if-the-us-annexed-greenland-mka7gbo7</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-01-11T20:47:17.527Z</news:publication_date>
-      <news:title><![CDATA[Sen. Chris Murphy says 'it would be the end of NATO' if the U.S. annexed Greenland]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/gauhati-hc-bar-association-holds-four-hour-strike-to-protest-proposed-new-judicial-city-mkahbx2n</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-01-11T13:22:00.000Z</news:publication_date>
-      <news:title><![CDATA[Gauhati HC Bar Association holds four-hour strike to protest proposed new judicial city]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/govt-mulls-ways-to-tackle-food-subsidy-spike-mkahc1ko</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-01-11T13:16:26.000Z</news:publication_date>
-      <news:title><![CDATA[Govt mulls ways to tackle food subsidy spike]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/greenland-rejects-trumps-threats-with-one-lawmaker-saying-it-is-not-a-product-were-a-people-mk9oj1xg</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-01-11T11:57:32.164Z</news:publication_date>
-      <news:title><![CDATA[Greenland rejects Trump's threats, with one lawmaker saying it "is not a product, we're a people"]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/iran-warns-it-will-target-us-troops-and-israel-if-america-strikes-over-protests-ap-news-mkb7fw64</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-01-11T11:41:00.000Z</news:publication_date>
-      <news:title><![CDATA[Iran warns it will target US troops and Israel if America strikes over protests - AP News]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/meet-kedar-lele-ex-castrol-md-appointed-as-haleon-india-subcontinent-president-mka7izon</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-01-11T08:48:23.000Z</news:publication_date>
-      <news:title><![CDATA[Meet Kedar Lele: Ex-Castrol MD Appointed as Haleon India Subcontinent President]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/indian-idol-3-winner-paatal-lok-actor-prashant-tamang-passes-away-in-delhi-at-43-mka7j51z</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-01-11T08:48:06.000Z</news:publication_date>
-      <news:title><![CDATA[Indian Idol 3 Winner, Paatal Lok Actor Prashant Tamang Passes Away In Delhi At 43]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/another-milestone-virat-kohli-goes-past-sourav-ganguly-mka7gfmm</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-01-11T08:47:00.000Z</news:publication_date>
-      <news:title><![CDATA[Another milestone! Virat Kohli goes past Sourav Ganguly]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/why-is-hardik-pandya-not-playing-in-todays-india-vs-new-zealand-1st-odi-mka7gbft</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-01-11T08:46:38.000Z</news:publication_date>
-      <news:title><![CDATA[Why Is Hardik Pandya Not Playing In Today’s India vs New Zealand 1st ODI?]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/lucas-wake-forest-rapid-reactions-university-of-north-carolina-athletics-mkahbxrf</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-01-11T01:33:27.000Z</news:publication_date>
-      <news:title><![CDATA[Lucas: Wake Forest Rapid Reactions - University of North Carolina Athletics]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/how-artificial-intelligence-is-rewiring-democracy-mk920nw8</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-01-11T01:27:22.616Z</news:publication_date>
-      <news:title><![CDATA[How Artificial Intelligence Is Rewiring Democracy]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/we-do-not-want-to-be-americans-greenland-parties-reject-trumps-threats-mk920isw</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-01-11T01:27:16.016Z</news:publication_date>
-      <news:title><![CDATA[‘We do not want to be Americans’: Greenland parties reject Trump’s threats]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/politically-motivated-tmc-on-nia-arresting-party-worker-for-2023-bjp-neta-murder-mk9oiy9r</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-01-10T23:52:00.000Z</news:publication_date>
-      <news:title><![CDATA[Politically motivated: TMC on NIA arresting party worker for 2023 BJP neta murder]]></news:title>
     </news:news>
   </url>
 </urlset>
