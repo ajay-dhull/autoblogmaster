@@ -3,6 +3,54 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://newshubnow.in/article/canada-trump-tensions-grow-after-carney-rupture-speech-mkrmflo3</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-01-24T01:18:43.059Z</news:publication_date>
+      <news:title><![CDATA[Canada-Trump tensions grow after Carney ‘rupture’ speech]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/inside-usa-house-the-converted-church-that-left-a-maga-mark-on-davos-mkrcxbf0</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-01-23T20:52:33.420Z</news:publication_date>
+      <news:title><![CDATA[Inside USA House: The converted church that left a MAGA mark on Davos]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/fox-news-ai-newsletter-historic-infrastructure-buildout-for-ai-mkrcvcc7</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-01-23T20:51:01.304Z</news:publication_date>
+      <news:title><![CDATA[Fox News AI Newsletter: Historic infrastructure buildout for AI]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/emperor-trumps-so-called-board-of-peace-erases-palestinians-from-gaza-governance-mkrcv4r7</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-01-23T20:50:51.475Z</news:publication_date>
+      <news:title><![CDATA[“Emperor” Trump’s So-Called Board of Peace Erases Palestinians from Gaza Governance]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://newshubnow.in/article/how-ai-and-politics-dominated-davos-mkr4yeb8</loc>
     <news:news>
       <news:publication>
@@ -47,6 +95,78 @@
       </news:publication>
       <news:publication_date>2026-01-23T16:03:24.528Z</news:publication_date>
       <news:title><![CDATA[Canadian PM Carney fires back at Trump over claim that 'Canada lives because of the United States']]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/ind-v-nz-live-score--mkrmfko3</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-01-23T13:18:10.000Z</news:publication_date>
+      <news:title><![CDATA[IND v NZ LIVE score:भारत ने टॉस जीत न्यूजीलैंड को दिया बल्लेबाजी का न्योता, बुमराह और अक्षर को टीम नहीं मिली जगह]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/eus-new-gsp-suspension-to-impact-just-27-of-indian-exports-commerce-ministry-says-mkrmfpir</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-01-23T13:17:32.000Z</news:publication_date>
+      <news:title><![CDATA[EU’s new GSP suspension to impact just 2.7% of Indian exports, commerce ministry says]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/--mkrcxac2</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-01-23T08:51:10.000Z</news:publication_date>
+      <news:title><![CDATA[डोनाल्ड ट्रंप ने बोर्ड ऑफ पीस में भारतीय मूल के किस शख्स को दी बड़ी जिम्मेदारी]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/rise-of-lactation-experts-in-india-over-traditional-wisdom-mkrcv3yw</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-01-23T08:50:42.000Z</news:publication_date>
+      <news:title><![CDATA[Rise of lactation experts in India over traditional wisdom]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/time-low-despite-brief-recovery-attempts-mkrcv9pp</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-01-23T08:49:36.000Z</news:publication_date>
+      <news:title><![CDATA[time low despite brief recovery attempts]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/shreya-ghoshal-roped-in-for-special-song-by-sanjay-leela-bhansali-for-new-film-tableau-in-republic-day-parade-exclusive-mkrcxfdb</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-01-23T08:47:22.000Z</news:publication_date>
+      <news:title><![CDATA[Shreya Ghoshal roped in for special song by Sanjay Leela Bhansali for new film tableau in Republic Day parade| Exclusive]]></news:title>
     </news:news>
   </url>
 
@@ -119,126 +239,6 @@
       </news:publication>
       <news:publication_date>2026-01-23T04:01:57.000Z</news:publication_date>
       <news:title><![CDATA[Indian Railways BIG update: Weekend Special Superfast train to run between Delhi and THIS holy city, check timing, fares, stoppages here]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/republic-day-chief-guest-this-year-full-list-of-guests-since-2014-2026-mkr2lgo7</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-01-23T04:00:29.000Z</news:publication_date>
-      <news:title><![CDATA[Republic Day Chief Guest This Year, Full List Of Guests Since 2014-2026]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/rwanda-to-test-ai-powered-technology-in-clinics-under-a-new-gates-foundation-project-mkq72q9s</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-01-23T01:21:02.080Z</news:publication_date>
-      <news:title><![CDATA[Rwanda to test AI-powered technology in clinics under a new Gates Foundation project]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/trump-touts-total-access-greenland-deal-as-nato-asks-allies-to-step-up-mkq72jwu</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-01-23T01:20:53.838Z</news:publication_date>
-      <news:title><![CDATA[Trump touts 'total access' Greenland deal as NATO asks allies to step up]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/here-are-the-countries-joining-trumps-board-of-peace-so-far-mkpxlym8</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-01-22T20:56:03.200Z</news:publication_date>
-      <news:title><![CDATA[Here are the countries joining Trump's 'Board of Peace' so far]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/we-cannot-negotiate-on-our-sovereignty-danish-pm-says-on-greenland-deal-mkpxl4r4</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-01-22T20:55:24.496Z</news:publication_date>
-      <news:title><![CDATA[‘We cannot negotiate on our sovereignty,’ Danish PM says on Greenland deal]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/the-drama-at-thinking-machines-a-new-ai-start-up-is-riveting-silicon-valley-mkpxix29</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-01-22T20:53:41.217Z</news:publication_date>
-      <news:title><![CDATA[The Drama at Thinking Machines, a New A.I. Start-Up, Is Riveting Silicon Valley]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/judge-rejects-justice-departments-initial-attempt-to-bring-charges-against-don-lemon-mkpxipuj</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-01-22T20:53:31.867Z</news:publication_date>
-      <news:title><![CDATA[Judge rejects Justice Department’s initial attempt to bring charges against Don Lemon]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/as-ai-threatens-jobs-across-industries-melania-trump-on-the-most-powerful-skill-in-ai-era-knowing-what-mkpuyjwg</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-01-22T19:41:51.808Z</news:publication_date>
-      <news:title><![CDATA[As AI threatens jobs across industries, Melania Trump on the most-powerful skill in AI era: Knowing what]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/after-good-trump-meeting-zelensky-pushes-europe-hard-to-do-more-mkpuye5z</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-01-22T19:41:44.375Z</news:publication_date>
-      <news:title><![CDATA[After ‘good’ Trump meeting, Zelensky pushes Europe hard to do more]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/after-years-of-freeze-india-may-ease-curbs-on-trade-with-china-the-real-reason-will-surprise-you-mkqjhgyg</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-01-22T19:07:46.000Z</news:publication_date>
-      <news:title><![CDATA[After Years Of Freeze, India May Ease Curbs On Trade With China - The Real Reason Will Surprise You]]></news:title>
     </news:news>
   </url>
 </urlset>
