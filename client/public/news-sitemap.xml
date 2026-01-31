@@ -3,6 +3,114 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://newshubnow.in/article/the-philosophical-puzzle-of-rational-artificial-intelligence-ml2l7o7r</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-01-31T17:30:01.431Z</news:publication_date>
+      <news:title><![CDATA[The philosophical puzzle of rational artificial intelligence]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/israeli-strikes-kill-30-palestinians-including-children-as-gaza-ceasefire-inches-forward-ml2l7gdd</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-01-31T17:29:51.265Z</news:publication_date>
+      <news:title><![CDATA[Israeli strikes kill 30 Palestinians, including children, as Gaza ceasefire inches forward]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/breaking-news-today-bihar-govt-recommends-cbi-probe-into-death-of-neet-aspirant-in-patna-ml2l7gds</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-01-31T05:29:42.000Z</news:publication_date>
+      <news:title><![CDATA[Breaking News Today: Bihar govt recommends CBI probe into death of NEET aspirant in Patna]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/serbian-jelena-arunovic-to-join-as-pistol-head-coach-ml2l7krr</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-01-31T05:29:00.000Z</news:publication_date>
+      <news:title><![CDATA[Serbian Jelena Arunovic to join as pistol head coach]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/former-google-engineer-found-guilty-of-espionage-and-theft-of-ai-tech-ml1mvwdo</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-01-31T01:29:05.196Z</news:publication_date>
+      <news:title><![CDATA[Former Google engineer found guilty of espionage and theft of AI tech]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/labour-peer-who-had-sanctions-lifted-by-china-says-its-meagre-return-for-uk-ml1mvouz</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-01-31T01:28:55.451Z</news:publication_date>
+      <news:title><![CDATA[Labour peer who had sanctions lifted by China says it's 'meagre return' for UK]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/jeffrey-epstein-sent-thousands-of-pounds-to-peter-mandelsons-husband-emails-show-ml1d9eaj</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-01-30T20:59:38.779Z</news:publication_date>
+      <news:title><![CDATA[Jeffrey Epstein sent thousands of pounds to Peter Mandelson’s husband, emails show]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/ai-generated-news-should-carry-nutrition-labels-thinktank-says-ai-artificial-intelligence-ml1d7co1</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-01-30T20:58:03.361Z</news:publication_date>
+      <news:title><![CDATA[AI-generated news should carry ‘nutrition’ labels, thinktank says | AI (artificial intelligence)]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/donald-trump-warns-it-is-very-dangerous-for-uk-to-deal-with-china-ml1d74v3</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-01-30T20:57:53.247Z</news:publication_date>
+      <news:title><![CDATA[Donald Trump warns it is 'very dangerous' for UK to deal with China]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://newshubnow.in/article/ai-use-surges-at-travelers-as-call-centre-roles-reduce-ml12jd5t</loc>
     <news:news>
       <news:publication>
@@ -27,218 +135,110 @@
   </url>
 
   <url>
-    <loc>https://newshubnow.in/article/security-forces-destroy-ganja-cultivation-worth-27-crore-on-forest-land-in-tripura-ml12j61i</loc>
+    <loc>https://newshubnow.in/article/gov-tim-walz-and-minnesota-ag-keith-ellison-will-testify-before-congress-politico-ml2l7gqs</loc>
     <news:news>
       <news:publication>
         <news:name>NewsHubNow</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-01-30T03:58:54.000Z</news:publication_date>
-      <news:title><![CDATA[Security forces destroy ganja cultivation worth ₹27 crore on forest land in Tripura]]></news:title>
+      <news:publication_date>2026-01-30T15:37:41.000Z</news:publication_date>
+      <news:title><![CDATA[Gov. Tim Walz and Minnesota AG Keith Ellison will testify before Congress - Politico]]></news:title>
     </news:news>
   </url>
 
   <url>
-    <loc>https://newshubnow.in/article/a-tale-of-sun-salt-and-spice-ml12jap2</loc>
+    <loc>https://newshubnow.in/article/-1000--ml1o08g8</loc>
     <news:news>
       <news:publication>
         <news:name>NewsHubNow</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-01-30T03:58:49.000Z</news:publication_date>
-      <news:title><![CDATA[A Tale of Sun, Salt, and Spice]]></news:title>
+      <news:publication_date>2026-01-30T13:58:36.000Z</news:publication_date>
+      <news:title><![CDATA[शिव, सोमस्कंद और सुंदरर… अब भारत लौटेंगी 1000 साल से भी पुरानी ये मूर्तियां, अमेरिका के म्यूजियम में कैसे पहुंचीं?]]></news:title>
     </news:news>
   </url>
 
   <url>
-    <loc>https://newshubnow.in/article/apples-iphone-sales-surge-to-new-quarterly-high-despite-early-missteps-in-artificial-intelligence-ml07ydlc</loc>
+    <loc>https://newshubnow.in/article/moengage-receives-nclt-nod-for-reverse-merger-ahead-of-potential-ipo-ml1o0ece</loc>
     <news:news>
       <news:publication>
         <news:name>NewsHubNow</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-01-30T01:43:20.400Z</news:publication_date>
-      <news:title><![CDATA[Apple's IPhone Sales Surge to New Quarterly High Despite Early Missteps in Artificial Intelligence]]></news:title>
+      <news:publication_date>2026-01-30T13:57:12.000Z</news:publication_date>
+      <news:title><![CDATA[MoEngage receives NCLT nod for reverse merger ahead of potential IPO]]></news:title>
     </news:news>
   </url>
 
   <url>
-    <loc>https://newshubnow.in/article/scientists-quite-surprised-to-find-one-polar-bear-population-thriving-a-fat-bear-is-a-healthy-bear-ml07y7yl</loc>
+    <loc>https://newshubnow.in/article/gold-premiums-in-india-hit-decade-high-ahead-of-budget-china-sees-surge-on-investment-and-jewellery-demand-ml1mvoby</loc>
     <news:news>
       <news:publication>
         <news:name>NewsHubNow</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-01-30T01:43:13.101Z</news:publication_date>
-      <news:title><![CDATA[Scientists "quite surprised" to find one polar bear population thriving: "A fat bear is a healthy bear"]]></news:title>
+      <news:publication_date>2026-01-30T13:28:24.000Z</news:publication_date>
+      <news:title><![CDATA[Gold premiums in India hit decade-high ahead of Budget, China sees surge on investment and jewellery demand]]></news:title>
     </news:news>
   </url>
 
   <url>
-    <loc>https://newshubnow.in/article/apple-acquires-audio-ai-startup-qai-mkzxqn4j</loc>
+    <loc>https://newshubnow.in/article/jio-bp-unveils-active-technology-petrol-up-to-100-km-extra-drive-annually-at-no-extra-cost-ml1mvug8</loc>
     <news:news>
       <news:publication>
         <news:name>NewsHubNow</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-01-29T20:57:23.347Z</news:publication_date>
-      <news:title><![CDATA[Apple acquires audio AI startup Q.ai]]></news:title>
+      <news:publication_date>2026-01-30T13:28:00.000Z</news:publication_date>
+      <news:title><![CDATA[Jio-BP unveils 'Active' technology petrol: Up to 100 km extra drive annually at no extra cost]]></news:title>
     </news:news>
   </url>
 
   <url>
-    <loc>https://newshubnow.in/article/i-can-breathe-again-says-israeli-hostage-held-for-nearly-500-days-in-gaza-mkzxqfdv</loc>
+    <loc>https://newshubnow.in/article/acma-automechanika-new-delhi-2026-set-to-host-its-largest-edition-with-870-exhibitors-from-20-countrie-ml1d9eji</loc>
     <news:news>
       <news:publication>
         <news:name>NewsHubNow</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-01-29T20:57:13.315Z</news:publication_date>
-      <news:title><![CDATA['I can breathe again' says Israeli hostage held for nearly 500 days in Gaza]]></news:title>
+      <news:publication_date>2026-01-30T08:59:02.000Z</news:publication_date>
+      <news:title><![CDATA[ACMA Automechanika New Delhi 2026 set to host its Largest Edition with 870+ Exhibitors from 20 countrie]]></news:title>
     </news:news>
   </url>
 
   <url>
-    <loc>https://newshubnow.in/article/new-year-same-artificial-intelligence-setting-ai-goals-and-a-skynet-strategy-in-2026-mkzx7oq7</loc>
+    <loc>https://newshubnow.in/article/everyday-indian-recipes-that-work-well-for-daily-ordering-ml1d9nds</loc>
     <news:news>
       <news:publication>
         <news:name>NewsHubNow</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-01-29T20:42:38.959Z</news:publication_date>
-      <news:title><![CDATA[New year, same artificial intelligence: Setting AI goals and a “Skynet Strategy” in 2026]]></news:title>
+      <news:publication_date>2026-01-30T08:59:00.000Z</news:publication_date>
+      <news:title><![CDATA[Everyday Indian Recipes That Work Well for Daily Ordering]]></news:title>
     </news:news>
   </url>
 
   <url>
-    <loc>https://newshubnow.in/article/starmer-and-xi-call-for-deeper-uk-china-ties-as-trump-shakes-up-global-relations-mkzx7ivl</loc>
+    <loc>https://newshubnow.in/article/disrespected-northeast-by-not-wearing-gamosa-amit-shah-blasts-rahul-gandhi-in-poll-bound-assam-ml1d73bc</loc>
     <news:news>
       <news:publication>
         <news:name>NewsHubNow</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-01-29T20:42:31.377Z</news:publication_date>
-      <news:title><![CDATA[Starmer and Xi call for deeper UK-China ties as Trump shakes up global relations]]></news:title>
+      <news:publication_date>2026-01-30T08:57:00.000Z</news:publication_date>
+      <news:title><![CDATA['Disrespected northeast by not wearing gamosa': Amit Shah blasts Rahul Gandhi in poll-bound Assam]]></news:title>
     </news:news>
   </url>
 
   <url>
-    <loc>https://newshubnow.in/article/amit-shah-to-reach-assam-on-two-day-visit-unveil-projects-address-public-rally-ml07y6xy</loc>
+    <loc>https://newshubnow.in/article/jetts-fitness-expands-from-australia-to-india-launches-first-hyrox-training-club-x-htcx-in-vasant-kunj-delhi-ml1d78gm</loc>
     <news:news>
       <news:publication>
         <news:name>NewsHubNow</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-01-29T13:43:00.000Z</news:publication_date>
-      <news:title><![CDATA[Amit Shah to reach Assam on two-day visit; unveil projects, address public rally]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/norway-chess-divya-deshmukh-19-year-old-indian-grandmaster-to-make-her-debut-ml07ybou</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-01-29T13:42:16.000Z</news:publication_date>
-      <news:title><![CDATA[Norway Chess: Divya Deshmukh, 19-year-old Indian grandmaster to make her debut]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/eu-sanctions-15-iranian-officials-including-top-revolutionary-guard-leaders-over-brutal-crackdown-ap-news-ml12j5zd</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-01-29T13:31:00.000Z</news:publication_date>
-      <news:title><![CDATA[EU sanctions 15 Iranian officials, including top Revolutionary Guard leaders, over brutal crackdown - AP News]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/meta-forecasts-spending-of-at-least-115-billion-this-year-mkzf8n1e</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-01-29T12:19:30.338Z</news:publication_date>
-      <news:title><![CDATA[Meta Forecasts Spending of at Least $115 Billion This Year]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/in-beijing-starmer-and-xi-seek-a-way-around-a-volatile-us-mkzf8h1v</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-01-29T12:19:22.579Z</news:publication_date>
-      <news:title><![CDATA[In Beijing, Starmer and Xi Seek a Way Around a Volatile U.S.]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/volkswagen-india-to-launch-5-cars-in-2026-all-you-need-to-know-mkzxqfie</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-01-29T08:57:04.000Z</news:publication_date>
-      <news:title><![CDATA[Volkswagen India to launch 5 cars in 2026: All you need to know]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/luxury-cars-in-india-5-brands-that-deliver-comfort-on-indian-roads-mkzxqloe</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-01-29T08:56:10.000Z</news:publication_date>
-      <news:title><![CDATA[Luxury cars in India: 5 brands that deliver comfort on Indian roads]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/shastris-cautious-remark-on-indias-t20-world-cup-defence-when-youre-playing-at-home-there-is-mkzx7kwj</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-01-29T08:42:12.000Z</news:publication_date>
-      <news:title><![CDATA[Shastri’s Cautious Remark On India’s T20 World Cup Defence: ‘When You’re Playing At Home, There Is…’]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/--mkzx7qnw</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-01-29T08:42:06.000Z</news:publication_date>
-      <news:title><![CDATA[राजा राममोहन राय के घर तक होगी अब रेल कनेक्टिविटी, बंगाल को दो और परियोजना की मिली सौगात]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/artificial-intelligence-technology-solutions-inc-reports-rios-extreme-weather-performance-mkyvzk4e</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-01-29T03:20:33.950Z</news:publication_date>
-      <news:title><![CDATA[Artificial Intelligence Technology Solutions Inc Reports RIO's Extreme Weather Performance]]></news:title>
+      <news:publication_date>2026-01-30T08:56:50.000Z</news:publication_date>
+      <news:title><![CDATA[Jetts Fitness Expands from Australia to India, Launches First HYROX Training Club X (HTCx) in Vasant Kunj, Delhi]]></news:title>
     </news:news>
   </url>
 </urlset>
