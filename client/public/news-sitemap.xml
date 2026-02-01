@@ -3,6 +3,102 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://newshubnow.in/article/mine-collapses-in-eastern-congo-leaving-at-least-200-dead-ml3hyzs5</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-02-01T08:47:03.845Z</news:publication_date>
+      <news:title><![CDATA[Mine collapses in eastern Congo, leaving at least 200 dead]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/israel-launches-attack-in-gaza-ml33bjsb</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-02-01T01:56:55.403Z</news:publication_date>
+      <news:title><![CDATA[Israel Launches Attack in Gaza]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/is-ai-washing-behind-new-wave-of-tech-layoffs-ml2sihcd</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-01-31T20:54:23.053Z</news:publication_date>
+      <news:title><![CDATA[Is ‘AI-washing’ behind new wave of tech layoffs?]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/daily-download-your-rapid-recap-of-day-14-at-ao-2026-ml2sic3i</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-01-31T20:54:16.254Z</news:publication_date>
+      <news:title><![CDATA[Daily Download: Your rapid recap of Day 14 at AO 2026]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/rancho-cordova-students-showcase-ai-bots-with-real-world-applications-ml2sftsw</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-01-31T20:52:19.232Z</news:publication_date>
+      <news:title><![CDATA[Rancho Cordova students showcase AI bots with real-world applications]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/drone-strikes-in-ethiopias-tigray-kill-one-amid-fears-of-renewed-conflict-ml2sfna6</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-01-31T20:52:10.782Z</news:publication_date>
+      <news:title><![CDATA[Drone strikes in Ethiopia’s Tigray kill one amid fears of renewed conflict]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/artisans-custodians-of-indias-heritage-radhakrishnan-ml3hywhl</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-01-31T20:46:37.000Z</news:publication_date>
+      <news:title><![CDATA[Artisans custodians of India’s heritage: Radhakrishnan]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/airbus-secures-order-for-three-civil-helicopters-at-wings-india-ml3hz2bw</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-01-31T20:40:04.000Z</news:publication_date>
+      <news:title><![CDATA[Airbus secures order for three civil helicopters at Wings India]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://newshubnow.in/article/the-philosophical-puzzle-of-rational-artificial-intelligence-ml2l7o7r</loc>
     <news:news>
       <news:publication>
@@ -23,6 +119,66 @@
       </news:publication>
       <news:publication_date>2026-01-31T17:29:51.265Z</news:publication_date>
       <news:title><![CDATA[Israeli strikes kill 30 Palestinians, including children, as Gaza ceasefire inches forward]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/main-draw-unveiled-for-2026-mumbai-open-wta-125k-series-ml33bfqc</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-01-31T13:55:44.000Z</news:publication_date>
+      <news:title><![CDATA[Main Draw unveiled for 2026 Mumbai Open WTA 125K Series]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/india-a-mystery-for-the-world-political-polarisation-hurting-transparency-says-abhijit-banerjee-ml2sibd0</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-01-31T08:53:00.000Z</news:publication_date>
+      <news:title><![CDATA['India a mystery for the world': Political polarisation hurting transparency, says Abhijit Banerjee]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/iift-playing-an-important-role-in-shaping-future-leaders-piyush-goyal-ml2sfr3n</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-01-31T08:52:08.000Z</news:publication_date>
+      <news:title><![CDATA[IIFT playing an important role in shaping future leaders: Piyush Goyal]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/high-suicide-rates-in-kerala-due-to-weak-social-bonds-cross-district-ties-economic-survey-ml2sfmja</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-01-31T08:51:48.000Z</news:publication_date>
+      <news:title><![CDATA[High suicide rates in Kerala due to weak social bonds & cross-district ties: Economic Survey]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/ar-rahman-makes-first-appearance-following-communal-thing-comment-graces-the-kapil-sharma-show-ml2sih5b</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-01-31T08:51:11.000Z</news:publication_date>
+      <news:title><![CDATA[AR Rahman Makes First Appearance Following ‘Communal Thing’ Comment, Graces The Kapil Sharma Show]]></news:title>
     </news:news>
   </url>
 
@@ -51,6 +207,18 @@
   </url>
 
   <url>
+    <loc>https://newshubnow.in/article/trump-taps-career-staffer-to-lead-statistics-agency-whose-chief-he-fired-the-washington-post-ml3hyxn8</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-01-31T04:49:00.000Z</news:publication_date>
+      <news:title><![CDATA[Trump taps career staffer to lead statistics agency whose chief he fired - The Washington Post]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://newshubnow.in/article/former-google-engineer-found-guilty-of-espionage-and-theft-of-ai-tech-ml1mvwdo</loc>
     <news:news>
       <news:publication>
@@ -71,174 +239,6 @@
       </news:publication>
       <news:publication_date>2026-01-31T01:28:55.451Z</news:publication_date>
       <news:title><![CDATA[Labour peer who had sanctions lifted by China says it's 'meagre return' for UK]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/jeffrey-epstein-sent-thousands-of-pounds-to-peter-mandelsons-husband-emails-show-ml1d9eaj</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-01-30T20:59:38.779Z</news:publication_date>
-      <news:title><![CDATA[Jeffrey Epstein sent thousands of pounds to Peter Mandelson’s husband, emails show]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/ai-generated-news-should-carry-nutrition-labels-thinktank-says-ai-artificial-intelligence-ml1d7co1</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-01-30T20:58:03.361Z</news:publication_date>
-      <news:title><![CDATA[AI-generated news should carry ‘nutrition’ labels, thinktank says | AI (artificial intelligence)]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/donald-trump-warns-it-is-very-dangerous-for-uk-to-deal-with-china-ml1d74v3</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-01-30T20:57:53.247Z</news:publication_date>
-      <news:title><![CDATA[Donald Trump warns it is 'very dangerous' for UK to deal with China]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/ai-use-surges-at-travelers-as-call-centre-roles-reduce-ml12jd5t</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-01-30T15:59:28.097Z</news:publication_date>
-      <news:title><![CDATA[AI use surges at Travelers as call centre roles reduce]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/israel-reopening-gazas-border-crossing-with-egypt-on-sunday-after-long-closure-ml12j5sz</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-01-30T15:59:18.563Z</news:publication_date>
-      <news:title><![CDATA[Israel reopening Gaza’s border crossing with Egypt on Sunday after long closure]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/gov-tim-walz-and-minnesota-ag-keith-ellison-will-testify-before-congress-politico-ml2l7gqs</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-01-30T15:37:41.000Z</news:publication_date>
-      <news:title><![CDATA[Gov. Tim Walz and Minnesota AG Keith Ellison will testify before Congress - Politico]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/-1000--ml1o08g8</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-01-30T13:58:36.000Z</news:publication_date>
-      <news:title><![CDATA[शिव, सोमस्कंद और सुंदरर… अब भारत लौटेंगी 1000 साल से भी पुरानी ये मूर्तियां, अमेरिका के म्यूजियम में कैसे पहुंचीं?]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/moengage-receives-nclt-nod-for-reverse-merger-ahead-of-potential-ipo-ml1o0ece</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-01-30T13:57:12.000Z</news:publication_date>
-      <news:title><![CDATA[MoEngage receives NCLT nod for reverse merger ahead of potential IPO]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/gold-premiums-in-india-hit-decade-high-ahead-of-budget-china-sees-surge-on-investment-and-jewellery-demand-ml1mvoby</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-01-30T13:28:24.000Z</news:publication_date>
-      <news:title><![CDATA[Gold premiums in India hit decade-high ahead of Budget, China sees surge on investment and jewellery demand]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/jio-bp-unveils-active-technology-petrol-up-to-100-km-extra-drive-annually-at-no-extra-cost-ml1mvug8</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-01-30T13:28:00.000Z</news:publication_date>
-      <news:title><![CDATA[Jio-BP unveils 'Active' technology petrol: Up to 100 km extra drive annually at no extra cost]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/acma-automechanika-new-delhi-2026-set-to-host-its-largest-edition-with-870-exhibitors-from-20-countrie-ml1d9eji</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-01-30T08:59:02.000Z</news:publication_date>
-      <news:title><![CDATA[ACMA Automechanika New Delhi 2026 set to host its Largest Edition with 870+ Exhibitors from 20 countrie]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/everyday-indian-recipes-that-work-well-for-daily-ordering-ml1d9nds</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-01-30T08:59:00.000Z</news:publication_date>
-      <news:title><![CDATA[Everyday Indian Recipes That Work Well for Daily Ordering]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/disrespected-northeast-by-not-wearing-gamosa-amit-shah-blasts-rahul-gandhi-in-poll-bound-assam-ml1d73bc</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-01-30T08:57:00.000Z</news:publication_date>
-      <news:title><![CDATA['Disrespected northeast by not wearing gamosa': Amit Shah blasts Rahul Gandhi in poll-bound Assam]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/jetts-fitness-expands-from-australia-to-india-launches-first-hyrox-training-club-x-htcx-in-vasant-kunj-delhi-ml1d78gm</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-01-30T08:56:50.000Z</news:publication_date>
-      <news:title><![CDATA[Jetts Fitness Expands from Australia to India, Launches First HYROX Training Club X (HTCx) in Vasant Kunj, Delhi]]></news:title>
     </news:news>
   </url>
 </urlset>
