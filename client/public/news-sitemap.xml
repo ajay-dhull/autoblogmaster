@@ -3,6 +3,222 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://newshubnow.in/article/us-forces-locked-in-air-defense-battles-amid-fight-with-iran-official-mm6kbdco</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-02-28T16:55:41.400Z</news:publication_date>
+      <news:title><![CDATA[US Forces Locked in Air-Defense Battles Amid Fight With Iran: Official]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/openai-reaches-ai-agreement-with-defense-dept-after-anthropic-clash-the-new-york-times-mm6i9sz1</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-02-28T15:58:29.101Z</news:publication_date>
+      <news:title><![CDATA[OpenAI Reaches A.I. Agreement With Defense Dept. After Anthropic Clash - The New York Times]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/flights-cancelled-as-travel-warnings-issued-after-us-israeli-strikes-on-iran-mm6i9mdb</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-02-28T15:58:20.543Z</news:publication_date>
+      <news:title><![CDATA[Flights cancelled as travel warnings issued after US-Israeli strikes on Iran]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/trump-orders-us-agencies-to-stop-using-anthropic-technology-in-clash-over-ai-safety-mm6gmunx</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-02-28T15:12:38.589Z</news:publication_date>
+      <news:title><![CDATA[Trump orders US agencies to stop using Anthropic technology in clash over AI safety]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/live-updates-us-and-israel-attack-iran-as-trump-calls-for-change-in-government-the-new-york-times-mm6gmoi4</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-02-28T15:12:30.604Z</news:publication_date>
+      <news:title><![CDATA[Live Updates: U.S. and Israel Attack Iran as Trump Calls for Change in Government - The New York Times]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/saina-nehwal-graces-evolving-south-india-business-excellence-awards-2026-in-bengaluru-mm6kbdjz</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-02-28T04:55:30.000Z</news:publication_date>
+      <news:title><![CDATA[Saina Nehwal Graces Evolving South India Business Excellence Awards 2026 in Bengaluru]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/lovlina-nikhat-to-lead-20-member-indian-squad-at-asian-boxing-championships-mm6kbij2</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-02-28T04:53:04.000Z</news:publication_date>
+      <news:title><![CDATA[Lovlina, Nikhat to lead 20-member Indian squad at Asian Boxing Championships]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/baazar-style-retail-opens-new-store-in-midnapore-total-count-reaches-259-mm6i9men</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-02-28T03:57:15.000Z</news:publication_date>
+      <news:title><![CDATA[Baazar Style Retail Opens New Store in Midnapore, Total Count Reaches 259]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/indias-foundry-industry-to-reach-usd-425-bn-by-2029-bharat-foundry-360-insight-2025-2047-report-mm6i9r8n</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-02-28T03:57:08.000Z</news:publication_date>
+      <news:title><![CDATA[India’s Foundry Industry To Reach USD 42.5 Bn. By 2029: Bharat Foundry 360° Insight 2025 - 2047 Report]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/trump-orders-federal-agencies-to-stop-using-anthropic-tech-over-ai-safety-dispute-mm5riv5z</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-02-28T03:29:42.215Z</news:publication_date>
+      <news:title><![CDATA[Trump orders federal agencies to stop using Anthropic tech over AI safety dispute]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/green-party-defeats-labour-in-uk-special-election-in-blow-to-starmer-mm5riolo</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-02-28T03:29:33.708Z</news:publication_date>
+      <news:title><![CDATA[Green Party Defeats Labour in U.K. Special Election, in Blow to Starmer]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/indian-economy-set-to-record-strong-and-sustained-expansion-with-revised-gdp-estimates-mm6gmrrj</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-02-28T03:10:56.000Z</news:publication_date>
+      <news:title><![CDATA[Indian economy set to record strong and sustained expansion with revised GDP estimates]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/--mm6gmn2s</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-02-28T03:09:39.000Z</news:publication_date>
+      <news:title><![CDATA[कौन थे सबसे पहले भारत का संविधान लिखने वाले बीएन राउ? दो महीने में ही तैयार कर दिया था ड्राफ्ट]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/trump-orders-us-agencies-to-stop-using-anthropic-ai-tech-after-pentagon-standoff-mm5n44dz</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-02-28T01:26:15.863Z</news:publication_date>
+      <news:title><![CDATA[Trump Orders U.S. Agencies to Stop Using Anthropic AI Tech After Pentagon Standoff]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/afghanistans-taliban-says-open-to-talks-after-pakistan-bombs-major-cities-mm5n3xk9</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-02-28T01:26:07.018Z</news:publication_date>
+      <news:title><![CDATA[Afghanistan’s Taliban says open to talks after Pakistan bombs major cities]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/hungary-plays-spoiler-in-europe-as-orban-strains-for-votes-at-home-mm5dkztw</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-02-27T20:59:26.949Z</news:publication_date>
+      <news:title><![CDATA[Hungary Plays Spoiler in Europe as Orban Strains for Votes at Home]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/fox-news-ai-newsletter-trump-forces-big-tech-to-pay-for-ai-power-mm5dgj1d</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-02-27T20:55:58.561Z</news:publication_date>
+      <news:title><![CDATA[Fox News AI Newsletter: Trump forces Big Tech to pay for AI power]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/uk-green-party-how-a-working-class-plumber-threw-a-wrench-in-starmers-election-plans-mm5dgb3q</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-02-27T20:55:48.278Z</news:publication_date>
+      <news:title><![CDATA[UK Green Party: How a working-class plumber threw a wrench in Starmer’s election plans]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://newshubnow.in/article/pakistan-strikes-afghanistan-in-open-war-against-taliban-regime-mm58m6oe</loc>
     <news:news>
       <news:publication>
@@ -23,222 +239,6 @@
       </news:publication>
       <news:publication_date>2026-02-27T15:42:21.619Z</news:publication_date>
       <news:title><![CDATA[Anthropic rejects latest Pentagon offer, escalating AI feud]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/pakistan-is-in-open-war-with-afghanistan-after-latest-strikes-defense-minister-says-mm529157</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-02-27T15:42:13.003Z</news:publication_date>
-      <news:title><![CDATA[Pakistan is in ‘open war’ with Afghanistan after latest strikes, defense minister says]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/how-to-build-passive-income-streams-in-2024-mm528yeo</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-02-27T15:42:09.457Z</news:publication_date>
-      <news:title><![CDATA[How to Build Passive Income Streams in 2024]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/anthropic-ceo-says-ai-firm-cant-agree-to-pentagon-demands-mm4tgeui</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-02-27T11:36:00.810Z</news:publication_date>
-      <news:title><![CDATA[Anthropic CEO says AI firm can't agree to Pentagon demands]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/open-war-pakistan-and-afghanistans-taliban-claim-major-casualties-mm4tg8it</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-02-27T11:35:52.613Z</news:publication_date>
-      <news:title><![CDATA[‘Open war’: Pakistan and Afghanistan’s Taliban claim major casualties]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/hiranandani-groups-regalia-business-parks-joins-hands-with-grav8-sports-for-indias-first-cxo-pickleball-league-mm58m6pj</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-02-27T06:40:02.000Z</news:publication_date>
-      <news:title><![CDATA[Hiranandani Group’s Regalia Business Parks Joins Hands with Grav8 Sports for India’s First CXO Pickleball League]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/executive-centre-leases-over-2-lakh-sq-ft-in-hyderabads-hitec-city-mm58mc5r</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-02-27T06:38:00.000Z</news:publication_date>
-      <news:title><![CDATA[Executive Centre leases over 2 lakh sq ft in Hyderabad's HITEC City]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/india-built-the-worlds-back-office-ai-is-starting-to-shrink-it-mm4hxlud</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-02-27T06:13:27.637Z</news:publication_date>
-      <news:title><![CDATA[India Built the World’s Back Office. A.I. Is Starting to Shrink It.]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/green-party-wins-gorton-and-denton-by-election-with-labour-pushed-into-third-by-reform-mm4hxfd7</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-02-27T06:13:19.243Z</news:publication_date>
-      <news:title><![CDATA[Green Party wins Gorton and Denton by-election with Labour pushed into third by Reform]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/twin-titles-for-gujarats-honey-mm5291kg</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-02-27T03:41:00.000Z</news:publication_date>
-      <news:title><![CDATA[Twin Titles For Gujarat’s Honey]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/stocks-to-watch-today-axis-bank-jio-financial-services-hindalco-industries-bharat-petroleum-corporation-limited-info-edge-india-vishal-mega-mart-larsen-toubro-gaudium-ivf-in-focus-mm5296xi</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-02-27T03:36:50.000Z</news:publication_date>
-      <news:title><![CDATA[Stocks To Watch Today: Axis Bank, Jio Financial Services, Hindalco Industries, Bharat Petroleum Corporation Limited, Info Edge (India), Vishal Mega Mart, Larsen & Toubro, Gaudium IVF In Focus]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/anthropic-cannot-in-good-conscience-accede-to-pentagons-demands-ceo-says-mm48c70k</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-02-27T01:44:52.100Z</news:publication_date>
-      <news:title><![CDATA[Anthropic 'cannot in good conscience accede' to Pentagon's demands, CEO says]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/votes-being-counted-in-gorton-and-denton-by-election-mm48bzec</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-02-27T01:44:42.228Z</news:publication_date>
-      <news:title><![CDATA[Votes being counted in Gorton and Denton by-election]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/afghanistan-launches-attacks-against-pakistan-draws-immediate-response-mm43ziwk</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-02-26T23:43:02.516Z</news:publication_date>
-      <news:title><![CDATA[Afghanistan launches attacks against Pakistan, draws ‘immediate response’]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/data-science-career-path-skills-and-opportunities-mm43zgos</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-02-26T23:42:59.644Z</news:publication_date>
-      <news:title><![CDATA[Data Science Career Path: Skills and Opportunities]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/pune-bound-air-india-express-flights-rough-landing-causes-scare-for-flyers-mm4tg75d</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-02-26T23:34:00.000Z</news:publication_date>
-      <news:title><![CDATA[Pune-bound Air India Express flight’s rough landing causes scare for flyers]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/amalaki-ekadashi-vrat-katha-recite-this-for-prosperity-and-peace-mm4tgbhl</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-02-26T23:30:00.000Z</news:publication_date>
-      <news:title><![CDATA[Amalaki Ekadashi Vrat Katha: Recite This For Prosperity And Peace]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/ai-complicates-old-internet-privacy-risks-mm41vltr</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-02-26T22:44:00.447Z</news:publication_date>
-      <news:title><![CDATA[A.I. Complicates Old Internet Privacy Risks]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/denmark-calls-an-early-election-following-tense-us-greenland-standoff-mm41vedz</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-02-26T22:43:50.808Z</news:publication_date>
-      <news:title><![CDATA[Denmark calls an early election following tense U.S.-Greenland standoff]]></news:title>
     </news:news>
   </url>
 </urlset>
