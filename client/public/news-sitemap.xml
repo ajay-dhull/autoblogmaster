@@ -3,6 +3,186 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://newshubnow.in/article/ai-generated-iran-war-videos-surge-as-creators-use-new-tech-to-cash-in-mmgev391</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-03-07T14:20:45.493Z</news:publication_date>
+      <news:title><![CDATA[AI-generated Iran war videos surge as creators use new tech to cash in]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/pope-leo-votes-for-the-un-mmgeuupk</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-03-07T14:20:34.424Z</news:publication_date>
+      <news:title><![CDATA[Pope Leo votes for the UN]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/pentagons-chief-tech-officer-says-he-clashed-with-ai-company-anthropic-over-autonomous-warfare-mmgcp8el</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-03-07T13:20:13.005Z</news:publication_date>
+      <news:title><![CDATA[Pentagon's chief tech officer says he clashed with AI company Anthropic over autonomous warfare]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/live-updates-trump-signals-he-will-escalate-war-with-iran-as-tehran-apologises-to-neighbors-for-strikes-mmgcp1ge</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-03-07T13:20:03.998Z</news:publication_date>
+      <news:title><![CDATA[Live updates: Trump signals he will escalate war with Iran as Tehran apologises to neighbors for strikes]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/claude-ai-wipes-german-founders-production-database-indian-origin-peer-slams-childish-prompt-mmgeuv7r</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-03-07T02:19:05.000Z</news:publication_date>
+      <news:title><![CDATA[Claude AI wipes German founder’s production database, Indian-origin peer slams ‘childish’ prompt]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/after-us-30-day-waiver-for-new-delhi-to-buy-russian-oil-scott-bessent-says-permitted-india-to-mmgeuqb5</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-03-07T02:17:33.000Z</news:publication_date>
+      <news:title><![CDATA[After US' 30-day waiver for New Delhi to buy Russian oil, Scott Bessent says 'permitted India to...']]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/americans-stuck-in-the-middle-east-recount-finding-their-way-home-with-little-government-help-mmfoncmq</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-03-07T02:06:54.386Z</news:publication_date>
+      <news:title><![CDATA[Americans stuck in the Middle East recount finding their way home with little government help]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/amazon-says-anthropics-claude-still-ok-for-aws-customers-to-use-outside-defense-work-mmfnbius</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-03-07T01:29:42.965Z</news:publication_date>
+      <news:title><![CDATA[Amazon says Anthropic’s Claude still OK for AWS customers to use outside defense work]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/iran-live-updates-trump-demands-irans-unconditional-surrender-as-wars-economic-cost-climbs-mmfnbcxs</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-03-07T01:29:35.296Z</news:publication_date>
+      <news:title><![CDATA[Iran Live Updates: Trump Demands Iran's 'Unconditional Surrender' as War's Economic Cost Climbs]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/rising-middle-east-tensions-oil-prices-pose-multiple-risks-for-india-mmgcp2vx</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-03-07T01:18:04.000Z</news:publication_date>
+      <news:title><![CDATA[Rising Middle East tensions, oil prices pose multiple risks for India]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/after-giving-india-permission-to-buy-russian-oil-bessent-says-us-may-unsanction-more-crude-mmgcp7tu</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-03-07T01:15:39.000Z</news:publication_date>
+      <news:title><![CDATA[After giving India ‘permission’ to buy Russian oil, Bessent says US may ‘unsanction’ more crude]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/openai-ceo-sam-altman-says-company-doesnt-get-to-make-operational-decisions-on-militarys-use-of-its-tech-source-mmfjhbsm</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-03-06T23:42:15.286Z</news:publication_date>
+      <news:title><![CDATA[OpenAI CEO Sam Altman says company doesn't 'get to make operational decisions' on military's use of its tech: Source]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/at-least-217-killed-in-israels-lebanon-attacks-as-beirut-south-east-hit-mmfhy223</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-03-06T22:59:16.587Z</news:publication_date>
+      <news:title><![CDATA[At least 217 killed in Israel’s Lebanon attacks as Beirut, south, east hit]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/after-the-us-sinks-an-iranian-warship-sri-lanka-takes-custody-of-an-iranian-vessel-mmfgi2dh</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-03-06T22:18:50.885Z</news:publication_date>
+      <news:title><![CDATA[After the U.S. sinks an Iranian warship, Sri Lanka takes custody of an Iranian vessel]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/sri-lanka-takes-custody-of-an-iranian-vessel-off-its-coast-after-us-sank-an-iranian-warship-mmfdmil0</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-03-06T20:58:19.669Z</news:publication_date>
+      <news:title><![CDATA[Sri Lanka takes custody of an Iranian vessel off its coast after US sank an Iranian warship]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://newshubnow.in/article/israel-strikes-beirut-and-tehran-as-trump-demands-irans-unconditional-surrender-mmfcqzvx</loc>
     <news:news>
       <news:publication>
@@ -59,186 +239,6 @@
       </news:publication>
       <news:publication_date>2026-03-06T17:40:28.881Z</news:publication_date>
       <news:title><![CDATA[Tehran hit by heavy bombing on day seven of US-Israel war on Iran]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/middle-east-war-trump-says-no-deal-with-iran-except-unconditional-surrender-mmf5bi7t</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-03-06T17:05:49.049Z</news:publication_date>
-      <news:title><![CDATA[Middle East war: Trump says no deal with Iran except ‘unconditional surrender’]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/more-than-120-killed-in-israels-lebanon-attacks-as-beirut-south-east-hit-mmeyts38</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-03-06T14:04:04.340Z</news:publication_date>
-      <news:title><![CDATA[More than 120 killed in Israel’s Lebanon attacks as Beirut, south, east hit]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/how-educated-is-balendra-shah-nepals-former-rapper-eyeing-the-pms-post-studied-at-this-indian-university-mmfcr4go</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-03-06T08:33:08.000Z</news:publication_date>
-      <news:title><![CDATA[How educated is Balendra Shah, Nepal's former rapper eyeing the PM's post? Studied at this Indian University]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/india-and-finland-strengthen-environmental-ties-mmfcqzlz</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-03-06T08:32:35.000Z</news:publication_date>
-      <news:title><![CDATA[India and Finland Strengthen Environmental Ties]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/transforming-indian-industry-garuda-aerospace-and-sails-drone-powered-revolution-mmfa75bj</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-03-06T07:22:03.000Z</news:publication_date>
-      <news:title><![CDATA[Transforming Indian Industry: Garuda Aerospace and SAIL's Drone-Powered Revolution]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/t20-wc-2026-icc-unveils-player-of-the-tournament-shortlist-with-sanju-samson-rachin-ravindra-will-jacks-mmfa6zyg</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-03-06T07:22:00.000Z</news:publication_date>
-      <news:title><![CDATA[T20 WC 2026: ICC Unveils Player Of The Tournament Shortlist With Sanju Samson, Rachin Ravindra & Will Jacks]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/t20-world-cup-england-captain-brook-impressed-by-bumrahs-performance-in-2nd-semi-mmf98g2h</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-03-06T06:55:14.000Z</news:publication_date>
-      <news:title><![CDATA[T20 World Cup: England captain Brook impressed by Bumrah’s performance in 2nd semi]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/singapores-cultural-fusion-catalyzing-diversity-through-arts-and-community-engagement-mmf98la3</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-03-06T06:54:20.000Z</news:publication_date>
-      <news:title><![CDATA[Singapore's Cultural Fusion: Catalyzing Diversity Through Arts and Community Engagement]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/owaisi-demands-modi-govts-statement-on-us-navy-sinking-iranian-ship-mmf8nf65</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-03-06T06:38:42.000Z</news:publication_date>
-      <news:title><![CDATA[Owaisi demands Modi govt's statement on US Navy sinking Iranian ship]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/rajnath-singh-calls-for-indian-maritime-leadership-amid-west-asia-crisis-mmf8nk2q</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-03-06T06:38:10.000Z</news:publication_date>
-      <news:title><![CDATA[Rajnath Singh calls for Indian maritime leadership amid West Asia crisis]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/iran-i-apologise-on-behalf-of-britain-alex-armstrong-explodes-at-starmers-weak-leadership-mmei9k2d</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-03-06T06:20:26.965Z</news:publication_date>
-      <news:title><![CDATA[Iran: 'I APOLOGISE on behalf of Britain!' Alex Armstrong EXPLODES at Starmer's 'WEAK' leadership]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/when-will-merit-list-be-issued-at-indiapostgdsonlinegovin-mmf7wtec</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-03-06T06:18:11.000Z</news:publication_date>
-      <news:title><![CDATA[When will merit list be issued at indiapostgdsonline.gov.in]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/iran-israel-us-war--mmf7wz04</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-03-06T06:15:38.000Z</news:publication_date>
-      <news:title><![CDATA[Iran Israel US War: भारत के तेल जहाजों पर ईरान का बड़ा दावा-‘हम नहीं रोक रहे, अमेरिका से पूछिए’]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/foreign-investors-groove-to-k-pop-music-as-india-awaits-its-reverse-ai-moment-mmf6k2a5</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-03-06T05:39:19.000Z</news:publication_date>
-      <news:title><![CDATA[Foreign investors groove to K Pop music as India awaits its ‘reverse AI’ moment]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/accessifylabs-announce-global-partnership-with-accessibility-cloud-to-deliver-ai-mmf5bfq9</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-03-06T05:05:23.000Z</news:publication_date>
-      <news:title><![CDATA[AccessifyLabs Announce Global Partnership with Accessibility Cloud to Deliver AI]]></news:title>
     </news:news>
   </url>
 </urlset>
