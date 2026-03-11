@@ -3,6 +3,114 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://newshubnow.in/article/ai-powered-apps-struggle-with-long-term-retention-new-report-shows-mmlk4g6b</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-03-11T04:46:51.107Z</news:publication_date>
+      <news:title><![CDATA[AI-powered apps struggle with long-term retention, new report shows]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/israel-launches-new-strikes-at-iran-and-lebanon-as-us-says-it-has-hit-16-iranian-mine-laying-ships-mmlk49ab</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-03-11T04:46:42.179Z</news:publication_date>
+      <news:title><![CDATA[Israel launches new strikes at Iran and Lebanon, as US says it has hit 16 Iranian mine-laying ships]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/internal-pentagon-memo-orders-military-commanders-to-remove-anthropic-ai-technology-from-key-systems-mmld3u7w</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-03-11T01:30:25.340Z</news:publication_date>
+      <news:title><![CDATA[Internal Pentagon memo orders military commanders to remove Anthropic AI technology from key systems]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/trump-not-happy-with-irans-choice-of-mojtaba-khamenei-as-new-supreme-leader-mmld3npn</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-03-11T01:30:16.907Z</news:publication_date>
+      <news:title><![CDATA[Trump 'not happy' with Iran's choice of Mojtaba Khamenei as new supreme leader]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/us-and-iran-dig-in-and-ramp-up-threats-as-war-rages-with-no-end-in-sight-mml3nzx1</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-03-10T21:06:09.685Z</news:publication_date>
+      <news:title><![CDATA[US and Iran dig in and ramp up threats as war rages with no end in sight]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/these-diseases-were-thought-to-be-incurable-now-ai-is-unlocking-new-treatments-mml3gy13</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-03-10T21:00:40.647Z</news:publication_date>
+      <news:title><![CDATA[These diseases were thought to be incurable. Now AI is unlocking new treatments]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/trump-says-hes-not-happy-with-irans-choice-of-new-supreme-leader-mml3gqh2</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-03-10T21:00:30.854Z</news:publication_date>
+      <news:title><![CDATA[Trump says he's 'not happy' with Iran's choice of new supreme leader]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/apis-india-sets-ambitious-growth-trajectory-with-new-ventures-mmlk49ru</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-03-10T16:46:32.000Z</news:publication_date>
+      <news:title><![CDATA[Apis India Sets Ambitious Growth Trajectory with New Ventures]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/1000-indian-nationals-evacuated-from-qatar-amid-west-asia-conflict-mmlk4esd</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-03-10T16:45:09.000Z</news:publication_date>
+      <news:title><![CDATA[1,000 Indian nationals evacuated from Qatar amid West Asia conflict]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://newshubnow.in/article/trump-gives-mixed-messages-about-when-the-war-with-iran-will-end-mmkqvv3j</loc>
     <news:news>
       <news:publication>
@@ -11,6 +119,18 @@
       </news:publication>
       <news:publication_date>2026-03-10T15:08:21.680Z</news:publication_date>
       <news:title><![CDATA[Trump gives mixed messages about when the war with Iran will end]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/inside-mohammed-sirajs-car-collection-5-luxury-cars-owned-by-the-indian-fast-bowler-mmld3mv2</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-03-10T13:30:00.000Z</news:publication_date>
+      <news:title><![CDATA[Inside Mohammed Siraj’s Car Collection: 5 luxury cars owned by the Indian fast bowler]]></news:title>
     </news:news>
   </url>
 
@@ -35,6 +155,54 @@
       </news:publication>
       <news:publication_date>2026-03-10T10:48:58.565Z</news:publication_date>
       <news:title><![CDATA[Web Development Roadmap: Frontend to Fullstack]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/government-approves-chinese-fdi-investment-in-cabinet-meeting-mml3o3e8</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-03-10T09:05:29.000Z</news:publication_date>
+      <news:title><![CDATA[Government Approves Chinese FDI Investment in Cabinet Meeting]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/will-announce-first-20-days-of-ipl-schedule-in-next-2-mml3nyt8</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-03-10T09:05:20.000Z</news:publication_date>
+      <news:title><![CDATA["Will announce first 20 days of IPL schedule in next 2]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/beyond-oil-gas-why-iran-war-could-push-up-prices-for-many-other-industries-in-india-mml3gpjm</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-03-10T09:00:05.000Z</news:publication_date>
+      <news:title><![CDATA[Beyond oil, gas: Why Iran war could push up prices for many other industries in India]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/reminiscent-of-viv-richards-sunil-gavaskar-heaps-praise-on-sanju-samson-after-recent-exceptional-showing-mml3gum4</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-03-10T08:55:23.000Z</news:publication_date>
+      <news:title><![CDATA['Reminiscent of Viv Richards': Sunil Gavaskar heaps praise on Sanju Samson after recent exceptional showing]]></news:title>
     </news:news>
   </url>
 
@@ -71,174 +239,6 @@
       </news:publication>
       <news:publication_date>2026-03-10T05:49:23.480Z</news:publication_date>
       <news:title><![CDATA[Australia grants asylum to 5 members of the Iranian women’s soccer team]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/oil-prices-seesaw-as-trump-sends-mixed-messages-on-whats-next-in-iran-mmk557ph</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-03-10T04:59:46.373Z</news:publication_date>
-      <news:title><![CDATA[Oil prices seesaw as Trump sends mixed messages on what’s next in Iran]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/who-is-madhu-raju-indian-origin-techie-faces-deportation-calls-over-viral-ww2-memorial-dance-video-deletes-social-media-accounts-mmkqvym9</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-03-10T03:08:18.000Z</news:publication_date>
-      <news:title><![CDATA[Who is Madhu Raju? Indian-origin techie faces deportation calls over viral WW2 memorial dance video, deletes social media accounts]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/explained-can-india-still-make-it-to-afc-womens-asian-cup-2026-quarterfinals-mmkqvtdp</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-03-10T03:07:14.000Z</news:publication_date>
-      <news:title><![CDATA[Explained | Can India Still Make It To AFC Women's Asian Cup 2026 Quarterfinals?]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/live-updates-as-us-israeli-war-with-iran-intensifies-trump-says-it-is-very-far-ahead-of-schedule-mmk0g6j1</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-03-10T02:48:19.981Z</news:publication_date>
-      <news:title><![CDATA[Live Updates: As U.S.-Israeli war with Iran intensifies, Trump says it is "very far ahead of schedule"]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/anthropic-sues-department-of-defense-over-supply-chain-risk-label-mmjxnm93</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-03-10T01:30:08.103Z</news:publication_date>
-      <news:title><![CDATA[Anthropic Sues Department of Defense Over ‘Supply Chain Risk’ Label]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/live-updates-trump-gives-conflicting-answers-on-how-long-the-iran-war-will-last-mmjxnecc</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-03-10T01:29:57.852Z</news:publication_date>
-      <news:title><![CDATA[Live updates: Trump gives conflicting answers on how long the Iran war will last]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/omar-hosts-dinner-to-honour-jks-ranji-trophy-champions-mmkhmbn8</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-03-09T22:45:41.000Z</news:publication_date>
-      <news:title><![CDATA[Omar hosts dinner to honour J&K’s Ranji Trophy Champions]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/no-indian-fatality-in-saudi-projectile-incident-embassy-mmkhmgmc</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-03-09T22:31:24.000Z</news:publication_date>
-      <news:title><![CDATA[No Indian fatality in Saudi projectile incident: Embassy]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/artificial-intelligence-technology-solutions-aitx-ceo-video-details-ai-security-autonomy-push-mmjoa09j</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-03-09T21:07:36.535Z</news:publication_date>
-      <news:title><![CDATA[Artificial Intelligence Technology Solutions (AITX) CEO video details AI security autonomy push]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/five-iranian-footballers-in-australian-safe-house-after-asian-cup-protest-mmjo9v2n</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-03-09T21:07:29.807Z</news:publication_date>
-      <news:title><![CDATA[Five Iranian footballers 'in Australian safe house' after Asian Cup protest]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/anthropic-sues-pentagon-over-supply-chain-risk-label-mmjo5iyx</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-03-09T21:04:07.497Z</news:publication_date>
-      <news:title><![CDATA[Anthropic Sues Pentagon Over ‘Supply Chain Risk’ Label]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/who-is-mojtaba-khamenei-irans-new-supreme-leader-mmjo5avk</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-03-09T21:03:57.008Z</news:publication_date>
-      <news:title><![CDATA[Who is Mojtaba Khamenei, Iran's new supreme leader?]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/indian-employers-hiring-outlook-robust-despite-global-headwinds-mmk9z17l</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-03-09T19:12:00.000Z</news:publication_date>
-      <news:title><![CDATA[Indian employers' hiring outlook robust despite global headwinds]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/govt-asks-refineries-to-boost-lpg-output-prioritises-household-supply-amid-global-disruptions-mmk6x07u</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-03-09T17:49:00.000Z</news:publication_date>
-      <news:title><![CDATA[Govt asks refineries to boost LPG output, prioritises household supply amid global disruptions]]></news:title>
     </news:news>
   </url>
 </urlset>
