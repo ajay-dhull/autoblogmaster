@@ -3,6 +3,42 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://newshubnow.in/article/more-marines-and-warships-head-to-middle-east-as-hormuz-mission-intensifies-mmppr1sl</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-03-14T02:35:28.341Z</news:publication_date>
+      <news:title><![CDATA[More Marines and Warships Head to Middle East as Hormuz Mission Intensifies]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/what-the-data-says-about-americans-views-of-artificial-intelligence-mmpnwads</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-03-14T01:43:33.520Z</news:publication_date>
+      <news:title><![CDATA[What the data says about Americans’ views of artificial intelligence]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/six-us-airmen-die-in-crash-2500-marines-being-sent-to-the-middle-east-mmpnw2yo</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-03-14T01:43:23.905Z</news:publication_date>
+      <news:title><![CDATA[Six U.S. airmen die in crash; 2,500 Marines being sent to the Middle East]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://newshubnow.in/article/fox-news-ai-newsletter-fda-rolls-out-ai-powered-vaccine-platform-mmpc8qhx</loc>
     <news:news>
       <news:publication>
@@ -99,6 +135,78 @@
   </url>
 
   <url>
+    <loc>https://newshubnow.in/article/rbi-imposes-penalty-on-manappuram-finance-mmppr2s2</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-03-13T14:35:00.000Z</news:publication_date>
+      <news:title><![CDATA[RBI imposes penalty on Manappuram Finance]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/--mmppr8wy</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-03-13T14:34:56.000Z</news:publication_date>
+      <news:title><![CDATA[इराण म्हणाला, 'भारत आमचा मित्र', आता होर्मुझची सामुद्रधुनी भारतीय जहाजांसाठी खुली होणार? दिले असे संकेत]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/india-sugar-outlook-stable-despite-global-price-fall-report-mmpnw0ju</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-03-13T13:42:19.000Z</news:publication_date>
+      <news:title><![CDATA[India sugar outlook stable despite global price fall: Report]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/kkr-sign-zimbabwes-blessing-muzarabani-for-ipl-2026-season-mmpnw74m</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-03-13T13:41:52.000Z</news:publication_date>
+      <news:title><![CDATA[KKR Sign Zimbabwe's Blessing Muzarabani For IPL 2026 Season]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/inside-the-making-of-asias-largest-university-benaras-hindu-university-mmpdxze8</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-03-13T09:04:46.000Z</news:publication_date>
+      <news:title><![CDATA[Inside the making of Asia’s largest university, Benaras Hindu University]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/diplomatic-dialogues-navigating-the-strait-of-hormuz-mmpdy3z5</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-03-13T09:04:33.000Z</news:publication_date>
+      <news:title><![CDATA[Diplomatic Dialogues: Navigating the Strait of Hormuz]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://newshubnow.in/article/why-natural-and-lab-grown-diamonds-can-coexist-in-indias-evolving-jewellery-market-mmpd5qfy</loc>
     <news:news>
       <news:publication>
@@ -131,114 +239,6 @@
       </news:publication>
       <news:publication_date>2026-03-13T08:15:47.000Z</news:publication_date>
       <news:title><![CDATA[‘Raised India-Australia Ties to Highest Level’: Scott Morrison Praises PM Modi, Urges Stronger Quad Leadership]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/cbfc-makes-subtitles-and-audio-descriptions-mandatory-for-films-internet-says-ruins-viewing-experience-mmpc8l3o</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-03-13T08:15:40.000Z</news:publication_date>
-      <news:title><![CDATA[CBFC Makes Subtitles And Audio Descriptions Mandatory For Films, Internet Says ‘Ruins Viewing Experience’]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/stopping-your-sip-amid-market-fall-experts-say-it-could-be-the-worst-move-mmp94e85</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-03-13T06:49:02.000Z</news:publication_date>
-      <news:title><![CDATA[Stopping Your SIP Amid Market Fall? Experts Say It Could Be The Worst Move]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/india-gold-discounts-hit-near-decade-high-mideast-tensions-lift-china-demand-mmp94a7f</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-03-13T06:49:01.000Z</news:publication_date>
-      <news:title><![CDATA[India Gold Discounts Hit Near-Decade High; Mideast Tensions Lift China Demand]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/--mmp86b3d</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-03-13T06:23:01.000Z</news:publication_date>
-      <news:title><![CDATA[पीएम मोदी ने की ईरानी राष्ट्रपति डॉ. मसूद पेजेशकियान से फोन पर बात: शांति और स्थिरता के प्रति भारत की प्रतिबद्धता को दोहराया, बुनियादी ढांचे को हुए नुकसान पर जताई गहरी चिंता]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/witnessing-breakthroughs-and-breakdowns-india-today-chairman-aroon-purie-on-paradox-of-modern-times-mmp8664h</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-03-13T06:22:03.000Z</news:publication_date>
-      <news:title><![CDATA[Witnessing breakthroughs and breakdowns: India Today Chairman Aroon Purie on paradox of modern times]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/how-shiism-in-india-evolved-differently-from-the-wider-shia-world-mmp6p1jz</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-03-13T05:41:35.000Z</news:publication_date>
-      <news:title><![CDATA[How Shi’ism in India evolved differently from the wider Shia world]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/kritika-kamra-gaurav-kapur-to-yami-gautam-aditya-dhar-10-indian-celebrities-who-chose-simplicity-over-big-fat-weddings-mmp5jzjv</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-03-13T05:09:40.000Z</news:publication_date>
-      <news:title><![CDATA[Kritika Kamra- Gaurav Kapur to Yami Gautam- Aditya Dhar: 10 Indian celebrities who chose simplicity over big-fat weddings]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/rajesh-palviya-of-axis-sec-suggests-linde-india-acme-solar-ajanta-pharma-shares-to-buy-today-mmp5judj</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-03-13T05:09:18.000Z</news:publication_date>
-      <news:title><![CDATA[Rajesh Palviya of Axis Sec suggests Linde India, ACME Solar, Ajanta Pharma shares to buy today]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/ai-vs-it-jobs-clsa-says-no-negative-impact-it-hiring-up-64-mmp4twe3</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-03-13T04:49:35.000Z</news:publication_date>
-      <news:title><![CDATA[AI Vs IT Jobs: CLSA says, ‘no negative impact’ - IT hiring up 6.4%]]></news:title>
     </news:news>
   </url>
 </urlset>
