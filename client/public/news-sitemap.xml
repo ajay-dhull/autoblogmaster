@@ -3,6 +3,186 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://newshubnow.in/article/ai-bots-can-act-as-personal-digital-assistants-but-there-are-serious-risks-mmxyargw</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-03-19T20:56:54.416Z</news:publication_date>
+      <news:title><![CDATA[A.I. Bots Can Act as Personal Digital Assistants, but There Are Serious Risks]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/hegseth-says-no-timeframe-for-war-on-iran-as-pentagon-asks-for-200bn-mmxyakgi</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-03-19T20:56:45.330Z</news:publication_date>
+      <news:title><![CDATA[Hegseth says no ‘timeframe’ for war on Iran as Pentagon asks for $200bn]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/artificial-intelligence-technology-solutions-aitx-books-246-sara-ai-licenses-mmxd69v4</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-03-19T11:05:33.040Z</news:publication_date>
+      <news:title><![CDATA[Artificial Intelligence Technology Solutions (AITX) books 246 SARA AI licenses]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/iran-hits-back-at-multiple-gulf-refineries-after-israeli-strike-on-its-offshore-gas-field-mmxd6502</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-03-19T11:05:26.738Z</news:publication_date>
+      <news:title><![CDATA[Iran hits back at multiple Gulf refineries after Israeli strike on its offshore gas field]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/mea-debunks-claim-iran-blocking-indian-ships-in-strait-of-hormuz-mmxyao0d</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-03-19T08:56:26.000Z</news:publication_date>
+      <news:title><![CDATA[MEA Debunks Claim Iran Blocking Indian Ships In Strait of Hormuz]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/indias-recent-ftas-become-game-changers-for-smes-expert-mmxyaiuf</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-03-19T08:56:11.000Z</news:publication_date>
+      <news:title><![CDATA[India’s recent FTAs become game changers for SMEs: Expert]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/silicon-valley-bet-on-war-the-bets-are-paying-off-mmwtfe8x</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-03-19T01:52:46.305Z</news:publication_date>
+      <news:title><![CDATA[Silicon Valley Bet on War. The Bets Are Paying Off.]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/israel-destroys-river-bridges-in-southern-lebanon-mmwtf90k</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-03-19T01:52:39.524Z</news:publication_date>
+      <news:title><![CDATA[Israel destroys river bridges in southern Lebanon]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/oil-gas-firms-ordered-to-share-import-export-data-with-ppac-mmxd646m</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-03-18T23:04:32.000Z</news:publication_date>
+      <news:title><![CDATA[Oil, gas firms ordered to share import, export data with PPAC]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/3-indian-origin-men-killed-in-canada-within-week-mmxd68zf</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-03-18T23:00:57.000Z</news:publication_date>
+      <news:title><![CDATA[3 Indian-origin men killed in Canada within week]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/new-ai-image-generator-runs-using-10-times-fewer-steps-than-todays-best-models-and-its-coming-to-smartphones-and-laptops-mmwja85j</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-03-18T21:08:48.967Z</news:publication_date>
+      <news:title><![CDATA[New AI image generator runs using 10 times fewer steps than today's best models — and it's coming to smartphones and laptops]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/israeli-bombardment-across-lebanon-kills-more-than-20-people-mmwja3f9</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-03-18T21:08:42.837Z</news:publication_date>
+      <news:title><![CDATA[Israeli bombardment across Lebanon kills more than 20 people]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/mcneilus-introduces-ai-material-contamination-detection-technology-mmwj7vh4</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-03-18T21:06:59.224Z</news:publication_date>
+      <news:title><![CDATA[McNeilus introduces AI material contamination detection technology]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/iran-war-live-updates-oil-prices-spike-as-gulf-energy-sites-are-struck-mmwj7npt</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-03-18T21:06:49.169Z</news:publication_date>
+      <news:title><![CDATA[Iran War Live Updates: Oil Prices Spike as Gulf Energy Sites Are Struck]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/bachelorette-taylor-frankie-paul-speaks-out-amid-investigation-involving-ex-nbc-news-mmxyaj23</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-03-18T18:33:53.000Z</news:publication_date>
+      <news:title><![CDATA['Bachelorette' Taylor Frankie Paul speaks out amid investigation involving ex - NBC News]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://newshubnow.in/article/iran-us-war-live-trump-says-other-countries-are-responsible-for-strait-of-hormuz-mmwblqhi</loc>
     <news:news>
       <news:publication>
@@ -39,206 +219,26 @@
   </url>
 
   <url>
-    <loc>https://newshubnow.in/article/new-app-helps-unhoused-population-find-local-resources-with-ai-technology-mmvtx5xf</loc>
+    <loc>https://newshubnow.in/article/aadhaar-reaches-134-crore-holders-as-government-outlines-multi-tier-security-framework-mmwtf86g</loc>
     <news:news>
       <news:publication>
         <news:name>NewsHubNow</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-03-18T09:18:49.155Z</news:publication_date>
-      <news:title><![CDATA[New app helps unhoused population find local resources with AI technology]]></news:title>
+      <news:publication_date>2026-03-18T13:51:00.000Z</news:publication_date>
+      <news:title><![CDATA[Aadhaar reaches 134 crore holders as government outlines multi-tier security framework]]></news:title>
     </news:news>
   </url>
 
   <url>
-    <loc>https://newshubnow.in/article/live-updates-israel-kills-2-senior-iran-leaders-as-allies-reject-trumps-call-for-strait-of-hormuz-help-mmvtwyx0</loc>
+    <loc>https://newshubnow.in/article/adani-university-signs-mou-with-iit-mandi-to-expand-research-and-academic-collaboration-mmwtff89</loc>
     <news:news>
       <news:publication>
         <news:name>NewsHubNow</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-03-18T09:18:40.069Z</news:publication_date>
-      <news:title><![CDATA[Live Updates: Israel kills 2 senior Iran leaders as allies reject Trump's call for Strait of Hormuz help]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/audi-sq8-launched-in-india-at-rs-178-crore-performance-and-features-explained-mmwblq97</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-03-18T05:32:37.000Z</news:publication_date>
-      <news:title><![CDATA[Audi SQ8 launched in India at Rs 1.78 crore - Performance and features explained]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/middle-east-flight-status-tracker-march-18-qatar-airways-to-operate-flights-to-9-indian-cities-today-check-here-mmwblvb5</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-03-18T05:25:45.000Z</news:publication_date>
-      <news:title><![CDATA[Middle East Flight Status Tracker March 18: Qatar Airways To Operate Flights To 9 Indian Cities Today - Check Here]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/finlands-president-canadas-carney-discuss-dhurandhar-during-morning-run-not-a-game-at-all-mmwaldyt</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-03-18T05:05:17.000Z</news:publication_date>
-      <news:title><![CDATA[Finland's President, Canada's Carney discuss ‘Dhurandhar’ during morning run: ‘Not a game at all’]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/dhurandhar-2-who-is-bade-sahab-ranveer-singh-aka-hamza-says-aditya-dhars-thriller-will-change-the-future-of-indian-cinema-mmwaljer</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-03-18T05:03:00.000Z</news:publication_date>
-      <news:title><![CDATA[Dhurandhar 2: Who is Bade Sahab? Ranveer Singh aka Hamza says Aditya Dhar’s thriller will change the future of Indian Cinema]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/us-says-anthropic-is-an-unacceptable-national-security-risk-mmvh4tsu</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-03-18T03:20:51.678Z</news:publication_date>
-      <news:title><![CDATA[U.S. Says Anthropic Is an ‘Unacceptable’ National Security Risk]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/middle-east-crisis-live-iran-army-vows-revenge-for-death-of-security-chief-ali-larijani-us-targets-iranian-missile-sites-near-strait-of-hormuz-mmvh4lyc</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-03-18T03:20:41.509Z</news:publication_date>
-      <news:title><![CDATA[Middle East crisis live: Iran army vows revenge for death of security chief Ali Larijani; US targets Iranian missile sites near strait of Hormuz]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/middle-east-crisis-live-iran-confirms-security-chief-ali-larijani-has-been-killed-us-targets-iranian-missile-sites-near-strait-of-hormuz-mmvdyyhw</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-03-18T01:52:18.980Z</news:publication_date>
-      <news:title><![CDATA[Middle East crisis live: Iran confirms security chief Ali Larijani has been killed; US targets Iranian missile sites near strait of Hormuz]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/rajya-sabha-poll-row-inld-alleges-horse-mmvtx3o5</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-03-17T21:15:57.000Z</news:publication_date>
-      <news:title><![CDATA[Rajya Sabha poll row: INLD alleges horse]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/we-want-this-war-to-end-german-envoy-to-india-says-mmvtwz3u</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-03-17T21:15:02.000Z</news:publication_date>
-      <news:title><![CDATA[We want this war to end, German Envoy to India says]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/gecko-robotics-brings-its-ai-to-us-navy-ship-repair-in-latest-next-gen-defense-tech-deal-mmv3wdqd</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-03-17T21:10:22.597Z</news:publication_date>
-      <news:title><![CDATA[Gecko Robotics brings its AI to U.S. Navy ship repair in latest next-gen defense tech deal]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/trump-says-natos-refusal-to-help-on-iran-is-very-foolish-mistake-mmv3w8q5</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-03-17T21:10:16.109Z</news:publication_date>
-      <news:title><![CDATA[Trump says NATO's refusal to help on Iran is "very foolish mistake"]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/china-is-embracing-openclaw-a-new-ai-agent-and-the-government-is-wary-mmv3tzrh</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-03-17T21:08:31.181Z</news:publication_date>
-      <news:title><![CDATA[China Is Embracing OpenClaw, a New A.I. Agent, and the Government Is Wary]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/trump-says-hell-have-the-honour-of-taking-cuba-as-massive-blackouts-hit-island-mmv3tt6t</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-03-17T21:08:22.661Z</news:publication_date>
-      <news:title><![CDATA[Trump says he’ll ‘have the honour’ of taking Cuba as massive blackouts hit island]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/family-beyond-devastated-after-meningitis-death-in-kent-bbc-mmwaleb6</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-03-17T15:28:04.000Z</news:publication_date>
-      <news:title><![CDATA[Family 'beyond devastated' after meningitis death in Kent - BBC]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/switching-to-electric-power-has-saved-railways-rs-6000-crore-ashwini-vaishnaw-in-lok-sabha-mmvh4qnv</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-03-17T15:20:00.000Z</news:publication_date>
-      <news:title><![CDATA[Switching to electric power has saved Railways Rs 6,000 crore: Ashwini Vaishnaw in Lok Sabha]]></news:title>
+      <news:publication_date>2026-03-18T13:50:24.000Z</news:publication_date>
+      <news:title><![CDATA[Adani University signs MoU with IIT Mandi to expand research and academic collaboration]]></news:title>
     </news:news>
   </url>
 </urlset>
