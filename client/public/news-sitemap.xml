@@ -3,6 +3,78 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://newshubnow.in/article/three-charged-with-conspiring-to-unlawfully-divert-us-artificial-intelligence-technology-to-china-mmy8otod</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-03-20T01:47:46.621Z</news:publication_date>
+      <news:title><![CDATA[Three Charged With Conspiring To Unlawfully Divert U.S. Artificial Intelligence Technology To China]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/who-knows-better-about-surprise-than-japan-trumps-pearl-harbor-comment-to-japans-pm-stuns-room-mmy8ondd</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-03-20T01:47:38.449Z</news:publication_date>
+      <news:title><![CDATA[‘Who knows better about surprise than Japan?’ Trump’s Pearl Harbor comment to Japan’s PM stuns room]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/afresh-expands-ai-replenishment-tech-beyond-fresh-categories-mmy0p21e</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-03-19T22:04:00.530Z</news:publication_date>
+      <news:title><![CDATA[Afresh expands AI replenishment tech beyond fresh categories]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/live-updates-iran-war-news-netanyahu-says-israel-acted-alone-in-gas-field-strike-as-energy-costs-soar-mmy0owlo</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-03-19T22:03:53.484Z</news:publication_date>
+      <news:title><![CDATA[Live updates: Iran war news; Netanyahu says Israel ‘acted alone’ in gas field strike as energy costs soar]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/chinas-alibaba-targets-100b-in-ai-and-cloud-revenue-over-5-years-mmxypogc</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-03-19T21:08:30.348Z</news:publication_date>
+      <news:title><![CDATA[China's Alibaba Targets $100B in AI and Cloud Revenue Over 5 Years]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/a-crucial-loan-for-ukraine-becomes-election-leverage-for-orban-mmxypj0z</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-03-19T21:08:23.315Z</news:publication_date>
+      <news:title><![CDATA[A Crucial Loan for Ukraine Becomes Election Leverage for Orban]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://newshubnow.in/article/ai-bots-can-act-as-personal-digital-assistants-but-there-are-serious-risks-mmxyargw</loc>
     <news:news>
       <news:publication>
@@ -27,6 +99,30 @@
   </url>
 
   <url>
+    <loc>https://newshubnow.in/article/indias-auto-boom-at-risk-as-iran-israel-war-chokes-gas-supplies-straining-supply-chains-mmy8olwc</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-03-19T13:47:27.000Z</news:publication_date>
+      <news:title><![CDATA[India's Auto Boom At Risk As Iran-Israel War Chokes Gas Supplies, Straining Supply Chains]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/ipl-2026-abhishek-sharma-gets-anil-kumble-boost-ahead-of-new-season-likens-srh-star-to-indian-legend-mmy8orci</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-03-19T13:44:20.000Z</news:publication_date>
+      <news:title><![CDATA[IPL 2026: Abhishek Sharma Gets Anil Kumble Boost Ahead Of New Season, Likens SRH Star To Indian Legend]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://newshubnow.in/article/artificial-intelligence-technology-solutions-aitx-books-246-sara-ai-licenses-mmxd69v4</loc>
     <news:news>
       <news:publication>
@@ -47,6 +143,42 @@
       </news:publication>
       <news:publication_date>2026-03-19T11:05:26.738Z</news:publication_date>
       <news:title><![CDATA[Iran hits back at multiple Gulf refineries after Israeli strike on its offshore gas field]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/left-stranded-by-iran-war-gulf-nris-risk-being-taxed-as-indian-residents-mmy0p1hq</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-03-19T10:03:36.000Z</news:publication_date>
+      <news:title><![CDATA[Left stranded by Iran war, Gulf NRIs risk being taxed as Indian residents]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/-1000-km--mmy0owbe</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-03-19T10:02:46.000Z</news:publication_date>
+      <news:title><![CDATA[कुदरत का खेल: आसमान में 1000 KM लंबी बादलों की पट्टी, दिल्ली]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/indias-oilmeal-export-to-china-jumps-20-fold-to-779-lakh-tons-in-11-months-of-fy26-sea-mmxypjyh</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-03-19T09:08:00.000Z</news:publication_date>
+      <news:title><![CDATA[India's oilmeal export to China jumps 20-fold to 7.79 lakh tons in 11 months of FY26: SEA]]></news:title>
     </news:news>
   </url>
 
@@ -99,146 +231,14 @@
   </url>
 
   <url>
-    <loc>https://newshubnow.in/article/oil-gas-firms-ordered-to-share-import-export-data-with-ppac-mmxd646m</loc>
+    <loc>https://newshubnow.in/article/oil-prices-climb-again-after-strikes-in-crucial-iranian-gas-field-the-washington-post-mmy8omet</loc>
     <news:news>
       <news:publication>
         <news:name>NewsHubNow</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-03-18T23:04:32.000Z</news:publication_date>
-      <news:title><![CDATA[Oil, gas firms ordered to share import, export data with PPAC]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/3-indian-origin-men-killed-in-canada-within-week-mmxd68zf</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-03-18T23:00:57.000Z</news:publication_date>
-      <news:title><![CDATA[3 Indian-origin men killed in Canada within week]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/new-ai-image-generator-runs-using-10-times-fewer-steps-than-todays-best-models-and-its-coming-to-smartphones-and-laptops-mmwja85j</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-03-18T21:08:48.967Z</news:publication_date>
-      <news:title><![CDATA[New AI image generator runs using 10 times fewer steps than today's best models — and it's coming to smartphones and laptops]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/israeli-bombardment-across-lebanon-kills-more-than-20-people-mmwja3f9</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-03-18T21:08:42.837Z</news:publication_date>
-      <news:title><![CDATA[Israeli bombardment across Lebanon kills more than 20 people]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/mcneilus-introduces-ai-material-contamination-detection-technology-mmwj7vh4</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-03-18T21:06:59.224Z</news:publication_date>
-      <news:title><![CDATA[McNeilus introduces AI material contamination detection technology]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/iran-war-live-updates-oil-prices-spike-as-gulf-energy-sites-are-struck-mmwj7npt</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-03-18T21:06:49.169Z</news:publication_date>
-      <news:title><![CDATA[Iran War Live Updates: Oil Prices Spike as Gulf Energy Sites Are Struck]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/bachelorette-taylor-frankie-paul-speaks-out-amid-investigation-involving-ex-nbc-news-mmxyaj23</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-03-18T18:33:53.000Z</news:publication_date>
-      <news:title><![CDATA['Bachelorette' Taylor Frankie Paul speaks out amid investigation involving ex - NBC News]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/iran-us-war-live-trump-says-other-countries-are-responsible-for-strait-of-hormuz-mmwblqhi</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-03-18T17:33:49.014Z</news:publication_date>
-      <news:title><![CDATA[Iran-US war live: Trump says ‘other countries’ are responsible for Strait of Hormuz]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/5-alarming-new-reasons-to-be-wary-of-artificial-intelligence-mmwalmto</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-03-18T17:05:44.652Z</news:publication_date>
-      <news:title><![CDATA[5 alarming new reasons to be wary of artificial intelligence]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/killing-of-larijani-will-not-destabilise-iranian-political-system-minister-mmwalgwl</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-03-18T17:05:36.981Z</news:publication_date>
-      <news:title><![CDATA[Killing of Larijani will not destabilise Iranian political system: Minister]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/aadhaar-reaches-134-crore-holders-as-government-outlines-multi-tier-security-framework-mmwtf86g</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-03-18T13:51:00.000Z</news:publication_date>
-      <news:title><![CDATA[Aadhaar reaches 134 crore holders as government outlines multi-tier security framework]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/adani-university-signs-mou-with-iit-mandi-to-expand-research-and-academic-collaboration-mmwtff89</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-03-18T13:50:24.000Z</news:publication_date>
-      <news:title><![CDATA[Adani University signs MoU with IIT Mandi to expand research and academic collaboration]]></news:title>
+      <news:publication_date>2026-03-19T01:11:29.000Z</news:publication_date>
+      <news:title><![CDATA[Oil prices climb again after strikes in crucial Iranian gas field - The Washington Post]]></news:title>
     </news:news>
   </url>
 </urlset>
