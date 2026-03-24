@@ -3,6 +3,126 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://newshubnow.in/article/uw-credit-union-chips-in-so-wisconsinites-can-stream-a-free-ai-basics-series-mn51bfm5</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-03-24T19:55:47.789Z</news:publication_date>
+      <news:title><![CDATA[UW Credit Union chips in so Wisconsinites can stream a free AI basics series]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/pakistans-mediator-role-in-iran-war-puts-modi-in-hot-seat-mn51b2x8</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-03-24T19:55:31.340Z</news:publication_date>
+      <news:title><![CDATA[Pakistan's mediator role in Iran war puts Modi in hot seat]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/centre-calls-all-party-meeting-tomorrow-to-discuss-west-asia-crisis-mn51b07z</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-03-24T07:55:04.000Z</news:publication_date>
+      <news:title><![CDATA[Centre Calls All-Party Meeting Tomorrow To Discuss West Asia Crisis]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/indian-railways-revises-rules-for-refunds-on-cancellation-of-tickets-mn51b4u1</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-03-24T07:54:32.000Z</news:publication_date>
+      <news:title><![CDATA[Indian Railways revises rules for refunds on cancellation of tickets]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/13-top-technology-trends-2025-mn3ydxop</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-03-24T01:45:59.497Z</news:publication_date>
+      <news:title><![CDATA[13 Top Technology Trends (2025)]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/ai-stocks-to-watch-cybersecuritys-rsa-on-tap-death-cross-in-the-making-mn3ydpnp</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-03-24T01:45:49.093Z</news:publication_date>
+      <news:title><![CDATA[AI Stocks To Watch: Cybersecurity's RSA On Tap, 'Death Cross' In The Making?]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/colombian-military-plane-with-125-people-crashes-mn3ydif6</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-03-24T01:45:39.714Z</news:publication_date>
+      <news:title><![CDATA[Colombian military plane with 125 people crashes]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/scores-feared-dead-as-colombian-military-plane-crashes-mn3ok5oa</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-03-23T21:10:53.626Z</news:publication_date>
+      <news:title><![CDATA[Scores feared dead as Colombian military plane crashes]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/health-tech-weekly-rundown-how-docs-are-using-ai-mn3ofm1u</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-03-23T21:07:21.571Z</news:publication_date>
+      <news:title><![CDATA[Health Tech Weekly Rundown: How docs are using AI]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/live-updates-iran-war-news-trump-delays-strikes-on-iranian-power-plants-after-very-good-talks-with-tehran-mn3offl3</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-03-23T21:07:13.191Z</news:publication_date>
+      <news:title><![CDATA[Live updates: Iran war news, Trump delays strikes on Iranian power plants after ‘very good’ talks with Tehran]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://newshubnow.in/article/investigators-face-new-struggles-in-the-age-of-ai-and-technology-mn3kcdlz</loc>
     <news:news>
       <news:publication>
@@ -27,6 +147,90 @@
   </url>
 
   <url>
+    <loc>https://newshubnow.in/article/live-updates-trump-says-ultimatum-for-iran-to-reopen-strait-of-hormuz-postponed-amid-negotiations-cbs-news-mn51b1xy</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-03-23T18:36:00.000Z</news:publication_date>
+      <news:title><![CDATA[Live Updates: Trump says ultimatum for Iran to reopen Strait of Hormuz postponed amid negotiations - CBS News]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/amns-india-kicks-off-work-on-136-trillion-andhra-pradesh-steel-plant-mn3ydi69</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-03-23T13:45:05.000Z</news:publication_date>
+      <news:title><![CDATA[AM/NS India kicks off work on ₹1.36 trillion Andhra Pradesh steel plant]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/the-legacy-of-s-thyagarajan-celebrated-hockey-scribe-bids-farewell-mn3ydn5m</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-03-23T13:42:50.000Z</news:publication_date>
+      <news:title><![CDATA[The Legacy of S Thyagarajan: Celebrated Hockey Scribe Bids Farewell]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/pm-modi-warns-of-mischief-over-west-asia-crisis-says-indian-security-agencies-put-on-alert-mn3okb68</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-03-23T09:10:45.000Z</news:publication_date>
+      <news:title><![CDATA[PM Modi warns of ‘mischief’ over West Asia crisis, says Indian security agencies put on alert]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/process-for-preparation-of-india-semiconductor-mission-20-already-underway-says-meity-joint-secretary-mn3ok5ft</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-03-23T09:10:33.000Z</news:publication_date>
+      <news:title><![CDATA[Process for preparation of India Semiconductor Mission 2.0 already underway, says MeitY Joint Secretary]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/from-gold-to-eid-savings-kashmiris-aid-iranians-tehran-says-kindness-will-never-be-forgotten-mn3ofe85</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-03-23T09:06:56.000Z</news:publication_date>
+      <news:title><![CDATA[From Gold To Eid Savings: Kashmiris Aid Iranians, Tehran Says ‘Kindness Will Never Be Forgotten’]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/navigating-troubled-waters-the-journey-of-indian-lpg-tankers-through-the-strait-of-hormuz-mn3ofk04</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-03-23T09:06:02.000Z</news:publication_date>
+      <news:title><![CDATA[Navigating Troubled Waters: The Journey of Indian LPG Tankers Through the Strait of Hormuz]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://newshubnow.in/article/lok-sabha-live-updates-mp-demands-discussion-on-manipur-violence-pm-modi-set-to-speak-on-us-iran-war-mn3kc2o9</loc>
     <news:news>
       <news:publication>
@@ -35,210 +239,6 @@
       </news:publication>
       <news:publication_date>2026-03-23T07:12:03.000Z</news:publication_date>
       <news:title><![CDATA[Lok Sabha Live Updates: MP demands discussion on Manipur violence; PM Modi set to speak on US-Iran war]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/anna-muzychuk-replaces-koneru-humpy-in-candidates-after-safety-concerns-mn3kc82c</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-03-23T07:11:00.000Z</news:publication_date>
-      <news:title><![CDATA[Anna Muzychuk replaces Koneru Humpy in Candidates after safety concerns]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/starmer-and-trump-discuss-need-to-reopen-hormuz-strait-mn2j7xse</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-03-23T01:53:39.278Z</news:publication_date>
-      <news:title><![CDATA[Starmer and Trump discuss need to reopen Hormuz Strait]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/socialist-emmanuel-gregoire-wins-paris-mayoral-race-mn2hzxof</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-03-23T01:19:26.271Z</news:publication_date>
-      <news:title><![CDATA[Socialist Emmanuel Gregoire wins Paris mayoral race]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/no-assessment-iran-capable-of-striking-london-steve-reed-says-mn28nq8k</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-03-22T20:58:00.212Z</news:publication_date>
-      <news:title><![CDATA[No assessment Iran capable of striking London, Steve Reed says]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/iran-war-live-updates-tehran-vows-to-destroy-key-infrastructure-after-trumps-power-plant-threat-mn28kp62</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-03-22T20:55:38.858Z</news:publication_date>
-      <news:title><![CDATA[Iran War Live Updates: Tehran Vows to Destroy Key Infrastructure After Trump's Power Plant Threat]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/trump-says-ice-agents-will-assist-tsa-at-airports-as-delays-worsen-amid-dhs-shutdown-cbs-news-mn3kc1he</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-03-22T17:36:34.000Z</news:publication_date>
-      <news:title><![CDATA[Trump says ICE agents will assist TSA at airports as delays worsen amid DHS shutdown - CBS News]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/courts-using-ai-and-cybersecurity-advances-to-improve-access-to-justice-mn1wr21z</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-03-22T15:24:40.103Z</news:publication_date>
-      <news:title><![CDATA[Courts Using AI and Cybersecurity Advances to Improve Access to Justice]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/middle-east-crisis-live-iran-will-completely-close-strait-of-hormuz-if-trump-acts-on-infrastructure-threats-says-irg-mn1wqnmm</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-03-22T15:24:21.406Z</news:publication_date>
-      <news:title><![CDATA[Middle East crisis live: Iran will completely close strait of Hormuz if Trump acts on infrastructure threats, says IRG]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/serving-head-of-govt-top-ministers-hail-milestone-mn2j7xat</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-03-22T13:53:31.000Z</news:publication_date>
-      <news:title><![CDATA[serving head of Govt; Top ministers hail milestone]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/kolkata-knight-riders-launch-practice-jersey-following-overwhelming-fan-demand-mn2j82hx</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-03-22T13:50:21.000Z</news:publication_date>
-      <news:title><![CDATA[Kolkata Knight Riders launch practice jersey following overwhelming fan demand]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/mohsin-naqvi-vows-to-take-revenge-against-players-choosing-to-leave-psl-for-ipl-we-are-planning-to-mn2i02hh</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-03-22T13:19:14.000Z</news:publication_date>
-      <news:title><![CDATA[Mohsin Naqvi vows to take revenge against players choosing to leave PSL for IPL: 'We are planning to...']]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/real-madrid-vs-atletico-madrid-live-streaming-when-and-where-to-watch-la-liga-in-india-mn2hzxgv</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-03-22T13:19:02.000Z</news:publication_date>
-      <news:title><![CDATA[Real Madrid vs Atletico Madrid Live Streaming: When And Where To Watch La Liga In India?]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/iran-strikes-towns-near-israels-key-nuclear-site-at-least-180-wounded-mn1k8trz</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-03-22T09:34:34.175Z</news:publication_date>
-      <news:title><![CDATA[Iran strikes towns near Israel’s key nuclear site, at least 180 wounded]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/india-urea-plants-at-half-capacity-as-west-asia-tensions-choke-gas-supplies-mn28nqg0</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-03-22T08:57:33.000Z</news:publication_date>
-      <news:title><![CDATA[India Urea Plants at Half Capacity as West Asia Tensions Choke Gas Supplies]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/where-to-go-for-the-best-wildlife-safaris-in-2026-mn28nvae</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-03-22T08:57:00.000Z</news:publication_date>
-      <news:title><![CDATA[Where to go for the best wildlife safaris in 2026]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/virat-kohli-laughs-offs-chartered-flights-to-london-reports-ahead-of-ipl-2026-mn28kpca</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-03-22T08:55:29.000Z</news:publication_date>
-      <news:title><![CDATA[Virat Kohli laughs offs "chartered flights to London" reports ahead of IPL 2026]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/indian-firms-lead-global-peers-in-ai-adoption-but-lag-in-expertise-deloitte-mn28kunj</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-03-22T08:55:21.000Z</news:publication_date>
-      <news:title><![CDATA[Indian firms lead global peers in AI adoption, but lag in expertise: Deloitte]]></news:title>
     </news:news>
   </url>
 </urlset>
