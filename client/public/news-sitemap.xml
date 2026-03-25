@@ -3,6 +3,78 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://newshubnow.in/article/openai-pulls-the-plug-on-sora-the-viral-ai-video-app-that-sparked-deepfake-concerns-mn5e2291</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-03-25T01:52:25.573Z</news:publication_date>
+      <news:title><![CDATA[OpenAI Pulls the Plug on Sora, the Viral AI Video App That Sparked Deepfake Concerns]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/danish-election-mette-frederiksen-wins-but-tricky-coalition-talks-await-mn5e1unz</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-03-25T01:52:15.743Z</news:publication_date>
+      <news:title><![CDATA[Danish election: Mette Frederiksen wins — but tricky coalition talks await]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/news-generative-ai-deals-revealed-who-is-suing-who-is-signing-mn5429cg</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-03-24T21:12:38.608Z</news:publication_date>
+      <news:title><![CDATA[News generative AI deals revealed: Who is suing, who is signing?]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/danish-election-exit-poll-says-frederiksen-is-on-track-to-win-after-trump-clash-mn5423ma</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-03-24T21:12:31.186Z</news:publication_date>
+      <news:title><![CDATA[Danish election: Exit poll says Frederiksen is on track to win after Trump clash]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/aitx-aitx-grows-alaska-presence-with-rad-rosa-ai-security-deployment-mn53xa0i</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-03-24T21:08:46.194Z</news:publication_date>
+      <news:title><![CDATA[AITX (AITX) grows Alaska presence with RAD ROSA AI security deployment]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/middle-east-crisis-live-trump-claims-iran-has-agreed-never-to-have-a-nuclear-weapon-as-us-reportedly-sends-thousands-more-troops-mn53x2wf</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-03-24T21:08:36.975Z</news:publication_date>
+      <news:title><![CDATA[Middle East crisis live: Trump claims Iran has agreed ‘never’ to have a nuclear weapon as US reportedly sends thousands more troops]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://newshubnow.in/article/uw-credit-union-chips-in-so-wisconsinites-can-stream-a-free-ai-basics-series-mn51bfm5</loc>
     <news:news>
       <news:publication>
@@ -27,6 +99,78 @@
   </url>
 
   <url>
+    <loc>https://newshubnow.in/article/redefining-coverage-menstruation-and-womens-health-insurance-mn5e1vas</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-03-24T13:51:47.000Z</news:publication_date>
+      <news:title><![CDATA[Redefining Coverage: Menstruation And Women’s Health Insurance]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/west-asia-conflict-impacting-indian-real-estate-a-geopolitical-shock-mn5e207v</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-03-24T13:51:29.000Z</news:publication_date>
+      <news:title><![CDATA[West Asia Conflict Impacting Indian Real Estate: A Geopolitical Shock]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/delhis-urdu-poetry-legacy-shankar-shad-mushaira-unites-nations-poets-mn5423jm</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-03-24T09:12:20.000Z</news:publication_date>
+      <news:title><![CDATA[Delhi's Urdu Poetry Legacy: Shankar Shad Mushaira Unites Nation's Poets]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/key-highlights-of-pm-modis-speech-in-rajya-sabha-in-contact-with-iran-israel-us-war-may-lead-to-serious-problems-mn54297i</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-03-24T09:11:00.000Z</news:publication_date>
+      <news:title><![CDATA[Key highlights of PM Modi’s speech in Rajya Sabha: ‘In contact with Iran, Israel, US; war may lead to serious problems']]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/--mn53x8lc</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-03-24T09:07:13.000Z</news:publication_date>
+      <news:title><![CDATA[खाडी युद्ध के प्रभाव को लेकर विपक्ष ने केंद्र सरकार को घेरा, मनीष तिवारी ने कहा-ईंधन, खाद्यान और दवाईयों की कीमतों में आने वाले समय में होने वाली वृद्धि पर सरकार को बतानी चाहिए योजना]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/historicity-mamatas-constituency-bhowanipore-is-as-old-as-it-is-fascinating-mn53x3e5</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-03-24T09:06:53.000Z</news:publication_date>
+      <news:title><![CDATA[HistoriCity | Mamata’s constituency Bhowanipore is as old as it is fascinating]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://newshubnow.in/article/centre-calls-all-party-meeting-tomorrow-to-discuss-west-asia-crisis-mn51b07z</loc>
     <news:news>
       <news:publication>
@@ -47,6 +191,18 @@
       </news:publication>
       <news:publication_date>2026-03-24T07:54:32.000Z</news:publication_date>
       <news:title><![CDATA[Indian Railways revises rules for refunds on cancellation of tickets]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/2026-womens-march-madness-live-updates-second-round-scores-analysis-bracket-cbs-sports-mn5e1us3</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-03-24T02:27:23.000Z</news:publication_date>
+      <news:title><![CDATA[2026 Women's March Madness live updates: Second-round scores, analysis, bracket - CBS Sports]]></news:title>
     </news:news>
   </url>
 
@@ -83,162 +239,6 @@
       </news:publication>
       <news:publication_date>2026-03-24T01:45:39.714Z</news:publication_date>
       <news:title><![CDATA[Colombian military plane with 125 people crashes]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/scores-feared-dead-as-colombian-military-plane-crashes-mn3ok5oa</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-03-23T21:10:53.626Z</news:publication_date>
-      <news:title><![CDATA[Scores feared dead as Colombian military plane crashes]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/health-tech-weekly-rundown-how-docs-are-using-ai-mn3ofm1u</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-03-23T21:07:21.571Z</news:publication_date>
-      <news:title><![CDATA[Health Tech Weekly Rundown: How docs are using AI]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/live-updates-iran-war-news-trump-delays-strikes-on-iranian-power-plants-after-very-good-talks-with-tehran-mn3offl3</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-03-23T21:07:13.191Z</news:publication_date>
-      <news:title><![CDATA[Live updates: Iran war news, Trump delays strikes on Iranian power plants after ‘very good’ talks with Tehran]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/investigators-face-new-struggles-in-the-age-of-ai-and-technology-mn3kcdlz</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-03-23T19:12:52.199Z</news:publication_date>
-      <news:title><![CDATA[Investigators face new struggles in the age of AI and technology]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/trump-postpones-military-strikes-on-iranian-power-plants-for-five-days-mn3kc3sp</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-03-23T19:12:39.481Z</news:publication_date>
-      <news:title><![CDATA[Trump postpones military strikes on Iranian power plants for five days]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/live-updates-trump-says-ultimatum-for-iran-to-reopen-strait-of-hormuz-postponed-amid-negotiations-cbs-news-mn51b1xy</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-03-23T18:36:00.000Z</news:publication_date>
-      <news:title><![CDATA[Live Updates: Trump says ultimatum for Iran to reopen Strait of Hormuz postponed amid negotiations - CBS News]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/amns-india-kicks-off-work-on-136-trillion-andhra-pradesh-steel-plant-mn3ydi69</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-03-23T13:45:05.000Z</news:publication_date>
-      <news:title><![CDATA[AM/NS India kicks off work on ₹1.36 trillion Andhra Pradesh steel plant]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/the-legacy-of-s-thyagarajan-celebrated-hockey-scribe-bids-farewell-mn3ydn5m</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-03-23T13:42:50.000Z</news:publication_date>
-      <news:title><![CDATA[The Legacy of S Thyagarajan: Celebrated Hockey Scribe Bids Farewell]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/pm-modi-warns-of-mischief-over-west-asia-crisis-says-indian-security-agencies-put-on-alert-mn3okb68</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-03-23T09:10:45.000Z</news:publication_date>
-      <news:title><![CDATA[PM Modi warns of ‘mischief’ over West Asia crisis, says Indian security agencies put on alert]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/process-for-preparation-of-india-semiconductor-mission-20-already-underway-says-meity-joint-secretary-mn3ok5ft</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-03-23T09:10:33.000Z</news:publication_date>
-      <news:title><![CDATA[Process for preparation of India Semiconductor Mission 2.0 already underway, says MeitY Joint Secretary]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/from-gold-to-eid-savings-kashmiris-aid-iranians-tehran-says-kindness-will-never-be-forgotten-mn3ofe85</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-03-23T09:06:56.000Z</news:publication_date>
-      <news:title><![CDATA[From Gold To Eid Savings: Kashmiris Aid Iranians, Tehran Says ‘Kindness Will Never Be Forgotten’]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/navigating-troubled-waters-the-journey-of-indian-lpg-tankers-through-the-strait-of-hormuz-mn3ofk04</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-03-23T09:06:02.000Z</news:publication_date>
-      <news:title><![CDATA[Navigating Troubled Waters: The Journey of Indian LPG Tankers Through the Strait of Hormuz]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/lok-sabha-live-updates-mp-demands-discussion-on-manipur-violence-pm-modi-set-to-speak-on-us-iran-war-mn3kc2o9</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-03-23T07:12:03.000Z</news:publication_date>
-      <news:title><![CDATA[Lok Sabha Live Updates: MP demands discussion on Manipur violence; PM Modi set to speak on US-Iran war]]></news:title>
     </news:news>
   </url>
 </urlset>
