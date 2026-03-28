@@ -3,6 +3,210 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://newshubnow.in/article/joining-war-yemens-iran-backed-houthis-launch-missile-attack-on-southern-israel-mna7berz</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-03-28T10:42:35.279Z</news:publication_date>
+      <news:title><![CDATA[Joining war, Yemen’s Iran-backed Houthis launch missile attack on southern Israel]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/global-markets-recoil-as-marco-rubio-warns-war-in-iran-could-stretch-for-weeks-mn9wsg0c</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-03-28T05:47:54.252Z</news:publication_date>
+      <news:title><![CDATA[Global markets recoil as Marco Rubio warns war in Iran could stretch for weeks]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/strike-on-us-base-in-saudi-arabia-injures-12-american-troops-2-seriously-officials-say-mn9w2va7</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-03-28T05:28:00.991Z</news:publication_date>
+      <news:title><![CDATA[Strike on U.S. Base in Saudi Arabia Injures 12 American Troops, 2 Seriously, Officials Say]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/iran-war-live-updates-12-us-troops-injured-in-attack-on-saudi-base-officials-say-mn9tbcpq</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-03-28T04:10:37.982Z</news:publication_date>
+      <news:title><![CDATA[Iran War Live Updates: 12 U.S. Troops Injured in Attack on Saudi Base, Officials Say]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/israel-hits-iranian-nuke-facilities-and-tehran-strikes-base-in-saudi-arabia-wounding-us-troops-mn9r3dnz</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-03-28T03:08:26.736Z</news:publication_date>
+      <news:title><![CDATA[Israel hits Iranian nuke facilities and Tehran strikes base in Saudi Arabia, wounding US troops]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/iranian-missile-hits-an-airbase-in-saudi-arabia-injuring-us-troops-mn9o9ydu</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-03-28T01:49:34.674Z</news:publication_date>
+      <news:title><![CDATA[Iranian missile hits an airbase in Saudi Arabia, injuring U.S. troops]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/omar-urges-pm-to-use-indias-strong-diplomatic-relations-to-help-end-war-mna7bbg8</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-03-27T22:42:18.000Z</news:publication_date>
+      <news:title><![CDATA[Omar urges PM to use India’s strong diplomatic relations to help end war]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/nc-cong-mlas-flag-selective-security-withdrawal-in-assembly-mna7bgm5</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-03-27T22:41:49.000Z</news:publication_date>
+      <news:title><![CDATA[NC, Cong MLAs flag ‘selective’ security withdrawal in Assembly]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/live-updates-israel-targets-iranian-nuclear-facilities-in-latest-strikes-mn9eba6o</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-03-27T21:10:40.464Z</news:publication_date>
+      <news:title><![CDATA[Live updates: Israel targets Iranian nuclear facilities in latest strikes]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/judge-questions-pentagons-motives-for-labeling-anthropic-as-a-security-threat-in-battle-over-ai-mn9e86wf</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-03-27T21:08:16.239Z</news:publication_date>
+      <news:title><![CDATA[Judge questions Pentagon’s motives for labeling Anthropic as a security threat in battle over AI]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/us-diplomat-marco-rubio-denounces-settler-violence-tolls-in-hormuz-strait-mn9e7uwa</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-03-27T21:08:00.682Z</news:publication_date>
+      <news:title><![CDATA[US diplomat Marco Rubio denounces settler violence, tolls in Hormuz strait]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/arrival-at-departure-lounge-building-a-transit-hub-faces-challenges-deeper-than-the-infra-build-mn9wses6</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-03-27T17:46:40.000Z</news:publication_date>
+      <news:title><![CDATA[Arrival at departure lounge: Building a transit hub faces challenges deeper than the infra build]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/govt-tweaks-ev-subsidy-scheme-sets-deadlines-for-e-mn9wsjn8</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-03-27T17:39:20.000Z</news:publication_date>
+      <news:title><![CDATA[Govt tweaks EV subsidy scheme, sets deadlines for e]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/run-firms-to-procure-critical-equipment-from-china-mn9w2s6j</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-03-27T17:26:05.000Z</news:publication_date>
+      <news:title><![CDATA[run firms to procure critical equipment from China]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/atiqa-mir-breaks-barriers-with-top-female-finish-in-wsk-super-masters-mn9w2yg5</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-03-27T17:25:59.000Z</news:publication_date>
+      <news:title><![CDATA[Atiqa Mir Breaks Barriers With Top Female Finish In WSK Super Masters]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/india-and-us-forge-path-to-enhanced-bilateral-trade-an-interim-agreement-mn9tb47a</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-03-27T16:10:03.000Z</news:publication_date>
+      <news:title><![CDATA[India and US Forge Path to Enhanced Bilateral Trade: An Interim Agreement]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/1000-crore-club-dhurandhar-the-revenge-not-the-fastest-indian-film-to-hit-box-office-milestone-mn9tb9md</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-03-27T16:09:30.000Z</news:publication_date>
+      <news:title><![CDATA[₹1000 Crore Club: Dhurandhar The Revenge Not The Fastest Indian Film To Hit Box Office Milestone]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://newshubnow.in/article/new-technology-tested-in-south-west-to-track-maritime-emissions-mn93frja</loc>
     <news:news>
       <news:publication>
@@ -27,218 +231,14 @@
   </url>
 
   <url>
-    <loc>https://newshubnow.in/article/-100-bjp--mn93fjaa</loc>
+    <loc>https://newshubnow.in/article/who-is-rahul-bhatt-indian-origin-tour-photographer-of-k-pop-girl-group-katseye-wins-at-2026-iheartradio-music-awards-mn9r3j3y</loc>
     <news:news>
       <news:publication>
         <news:name>NewsHubNow</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-03-27T04:05:00.000Z</news:publication_date>
-      <news:title><![CDATA[ममता के गढ़ में सेंध लगाने की कोशिश, इन 100 सीटों पर BJP की नजरें; शाह जारी करेंगे ‘चार्जशीट’]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/12-2-3--mn93fp5i</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-03-27T04:04:33.000Z</news:publication_date>
-      <news:title><![CDATA[12 ജില്ലകളിലും യെലോ അലർട്ട്: 2-3 ഡിഗ്രി സെൽഷ്യസ് വരെ താപനില ഉയരും; ഉയർന്ന അളവിലുള്ള യുവി വികിരണവും ആശങ്ക]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/memory-stock-boom-seen-resilient-to-threat-from-new-google-tech-mn7yvno5</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-03-26T21:10:51.029Z</news:publication_date>
-      <news:title><![CDATA[Memory Stock Boom Seen Resilient to Threat From New Google Tech]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/tehrans-tollbooth-a-visual-guide-to-how-a-trickle-of-ships-still-passes-through-strait-of-hormuz-mn7yvicd</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-03-26T21:10:44.125Z</news:publication_date>
-      <news:title><![CDATA[‘Tehran’s tollbooth’: a visual guide to how a trickle of ships still passes through strait of Hormuz]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/ai-is-just-another-technology-americans-dont-like-but-cant-stop-using-mn7yps1a</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-03-26T21:06:16.750Z</news:publication_date>
-      <news:title><![CDATA[AI is just another technology Americans don’t like but can’t stop using]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/iran-rejects-trump-proposal-to-end-war-leaving-status-of-talks-unclear-mn7ypcqr</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-03-26T21:05:56.931Z</news:publication_date>
-      <news:title><![CDATA[Iran rejects Trump proposal to end war, leaving status of talks unclear]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/stock-market-today-dow-slips-oil-pushes-past-100-again-live-updates-wsj-mn93fjgj</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-03-26T14:30:36.000Z</news:publication_date>
-      <news:title><![CDATA[Stock Market Today: Dow Slips, Oil Pushes Past $100 Again — Live Updates - WSJ]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/shield-ai-a-start-up-making-military-drones-raises-2-billion-mn7k4gt4</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-03-26T14:17:47.800Z</news:publication_date>
-      <news:title><![CDATA[Shield AI, a Start-Up Making Military Drones, Raises $2 Billion]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/trump-admin-pitches-15-point-iran-peace-proposal-as-pakistan-offers-to-hold-talks-mn7k4a7h</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-03-26T14:17:39.245Z</news:publication_date>
-      <news:title><![CDATA[Trump admin pitches 15-point Iran peace proposal as Pakistan offers to hold talks]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/video-content-creation-youtube-tiktok-instagram-mn7k47aa</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-03-26T14:17:35.458Z</news:publication_date>
-      <news:title><![CDATA[Video Content Creation: YouTube, TikTok, Instagram]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/india-expands-floodlighting-along-bangladesh-border-to-boost-security-mn8959e2</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-03-26T13:57:16.000Z</news:publication_date>
-      <news:title><![CDATA[India expands floodlighting along Bangladesh border to boost security]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/indian-among-2-killed-in-abu-dhabi-after-debris-from-intercepted-iranian-missile-fall-on-them-mn895fk7</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-03-26T13:53:51.000Z</news:publication_date>
-      <news:title><![CDATA[Indian among 2 killed in Abu Dhabi after debris from intercepted Iranian missile fall on them]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/aitx-otc-aitxd-debuts-award-winning-sara-inside-immix-solution-mn7g1lv9</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-03-26T12:23:35.925Z</news:publication_date>
-      <news:title><![CDATA[AITX (OTC: AITXD) debuts award-winning SARA Inside Immix solution]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/jury-finds-instagram-and-youtube-liable-in-landmark-social-media-addiction-trial-mn7g1a4a</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-03-26T12:23:20.698Z</news:publication_date>
-      <news:title><![CDATA[Jury finds Instagram and YouTube liable in landmark social media addiction trial]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/social-media-influence-build-your-personal-brand-mn7g199w</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-03-26T12:23:19.604Z</news:publication_date>
-      <news:title><![CDATA[Social Media Influence: Build Your Personal Brand]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/kajaria-brings-ranveer-singh-and-rashmika-mandanna-together-for-its-latest-campaign-mn7yvguy</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-03-26T09:10:25.000Z</news:publication_date>
-      <news:title><![CDATA[Kajaria brings Ranveer Singh and Rashmika Mandanna together for its latest campaign]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/fuel-shock-ahead-rising-energy-costs-may-push-indias-inflation-to-45-in-fy27-mn7ypaj1</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-03-26T09:05:25.000Z</news:publication_date>
-      <news:title><![CDATA[Fuel shock ahead? Rising energy costs may push India’s inflation to 4.5% in FY27]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/goldman-downgrades-india-slashes-nifty-target-and-warns-of-earnings-cut-heres-why-mn7ypfy1</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-03-26T09:05:00.000Z</news:publication_date>
-      <news:title><![CDATA[Goldman downgrades India, slashes Nifty target and warns of earnings cut. Here's why]]></news:title>
+      <news:publication_date>2026-03-27T15:07:32.000Z</news:publication_date>
+      <news:title><![CDATA[Who is Rahul Bhatt? Indian-origin tour photographer of K-pop girl group KATSEYE wins at 2026 iHeartRadio Music Awards]]></news:title>
     </news:news>
   </url>
 </urlset>
