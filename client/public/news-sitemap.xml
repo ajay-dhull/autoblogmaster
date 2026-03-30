@@ -3,6 +3,54 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://newshubnow.in/article/pakistan-says-it-will-host-us-iran-talks-while-iran-warns-us-ground-troops-would-be-set-on-fire-mncjpixx</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-03-30T02:05:01.605Z</news:publication_date>
+      <news:title><![CDATA[Pakistan says it will host US-Iran talks, while Iran warns US ground troops would be 'set on fire']]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/iran-warns-us-troops-will-be-set-on-fire-if-americans-launch-ground-operation-mnci6yge</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-03-30T01:22:35.631Z</news:publication_date>
+      <news:title><![CDATA[Iran warns U.S. troops will be "set on fire" if Americans launch ground operation]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/pope-seems-to-rebuke-trump-in-remarks-about-leaders-with-hands-full-of-blood-mnc910lq</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-03-29T21:06:01.934Z</news:publication_date>
+      <news:title><![CDATA[Pope seems to rebuke Trump in remarks about leaders with ‘hands full of blood’]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/iran-warns-us-against-ground-invasion-as-pakistan-holds-diplomatic-talks-mnc8u2z3</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-03-29T21:00:38.415Z</news:publication_date>
+      <news:title><![CDATA[Iran warns U.S. against ground invasion, as Pakistan holds diplomatic talks]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://newshubnow.in/article/pope-leo-xiv-rejects-claims-that-god-justifies-war-in-palm-sunday-mass-message-mnc3lim9</loc>
     <news:news>
       <news:publication>
@@ -23,6 +71,54 @@
       </news:publication>
       <news:publication_date>2026-03-29T17:43:10.237Z</news:publication_date>
       <news:title><![CDATA[Iran warns US ground troops would be ‘set on fire’ as regional diplomats meet on the war]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/solarworld-energy-solutions-secures-31426-crore-bess-epc-contract-from-ntpc-limited-mncjpkbw</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-03-29T14:04:49.000Z</news:publication_date>
+      <news:title><![CDATA[Solarworld Energy Solutions Secures ₹314.26 Crore BESS EPC Contract from NTPC Limited]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/upsc-key-ethanol-push-as-shield-against-energy-crisis-great-indian-bustard-and-golestan-palace-mncjppwe</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-03-29T14:03:48.000Z</news:publication_date>
+      <news:title><![CDATA[UPSC Key: Ethanol push as shield against energy crisis, Great Indian Bustard, and Golestan Palace]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/--mnci6y6h</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-03-29T13:22:00.000Z</news:publication_date>
+      <news:title><![CDATA[माता-पिता खोने के बाद टूट गया था ये खिलाड़ी, फिर ऐसे जीता गोल्ड कि हर कोई रह गया हैरान]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/modi-vows-to-safeguard-gulf-indians-amidst-west-asia-conflict-mnci7333</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-03-29T13:20:53.000Z</news:publication_date>
+      <news:title><![CDATA[Modi Vows to Safeguard Gulf Indians Amidst West Asia Conflict]]></news:title>
     </news:news>
   </url>
 
@@ -99,146 +195,50 @@
   </url>
 
   <url>
-    <loc>https://newshubnow.in/article/reliance-sez-export-duty-clarity-key-under-indias-fuel-tax-rejig-analysts-mnc3lj53</loc>
+    <loc>https://newshubnow.in/article/amit-shah-urges-assam-voters-to-back-bjp-to-curb-infiltration-mnc90ylq</loc>
     <news:news>
       <news:publication>
         <news:name>NewsHubNow</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-03-29T06:33:00.000Z</news:publication_date>
-      <news:title><![CDATA[Reliance SEZ export duty clarity key under India's fuel tax rejig: Analysts]]></news:title>
+      <news:publication_date>2026-03-29T09:03:28.000Z</news:publication_date>
+      <news:title><![CDATA[Amit Shah urges Assam voters to back BJP to curb infiltration]]></news:title>
     </news:news>
   </url>
 
   <url>
-    <loc>https://newshubnow.in/article/upcoming-ott-releases-from-the-cleaning-lady-to-the-boys-5-series-to-binge-watch-mnc3lo8b</loc>
+    <loc>https://newshubnow.in/article/mary-kom-considers-move-into-professional-boxing-mnc913nd</loc>
     <news:news>
       <news:publication>
         <news:name>NewsHubNow</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-03-29T06:30:51.000Z</news:publication_date>
-      <news:title><![CDATA[Upcoming OTT releases: From 'The Cleaning Lady,' to 'The Boys,' 5 series to binge-watch]]></news:title>
+      <news:publication_date>2026-03-29T09:02:13.000Z</news:publication_date>
+      <news:title><![CDATA[Mary Kom considers move into professional boxing]]></news:title>
     </news:news>
   </url>
 
   <url>
-    <loc>https://newshubnow.in/article/quetta-gladiators-vs-hyderabad-kingsmen-psl-2026-live-streaming-where-to-watch-pakistan-super-league-match-on-tv-and-online-in-india-mnc1s4sa</loc>
+    <loc>https://newshubnow.in/article/inme-se-ek-ko-papa-chun-le-harbhajan-singh-fires-back-at-a-trolls-three-clowns-remark-during-rcb-vs-srh-ipl-broadcast-mnc8u1n6</loc>
     <news:news>
       <news:publication>
         <news:name>NewsHubNow</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-03-29T05:42:52.000Z</news:publication_date>
-      <news:title><![CDATA[Quetta Gladiators vs Hyderabad Kingsmen PSL 2026 Live Streaming: Where to Watch Pakistan Super League Match on TV and Online In India]]></news:title>
+      <news:publication_date>2026-03-29T09:00:08.000Z</news:publication_date>
+      <news:title><![CDATA['Inme Se Ek Ko Papa Chun Le': Harbhajan Singh Fires Back At A Troll's 'Three Clowns' Remark During RCB vs SRH IPL Broadcast]]></news:title>
     </news:news>
   </url>
 
   <url>
-    <loc>https://newshubnow.in/article/baahubali-2-producer-reacts-as-dhurandhar-2-dethrones-prabhas-starrer-to-register-highest-north-america-collection-mnc1sbb5</loc>
+    <loc>https://newshubnow.in/article/bizarre-at-this-age-r-ashwin-in-awe-of-virat-kohlis-relentless-intensity-mnc8u7ch</loc>
     <news:news>
       <news:publication>
         <news:name>NewsHubNow</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-03-29T05:36:55.000Z</news:publication_date>
-      <news:title><![CDATA[Baahubali 2 Producer Reacts As Dhurandhar 2 Dethrones Prabhas Starrer To Register Highest North America Collection]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/master-digital-marketing-seo-social-media-content-strategy-mnb43s8u</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-03-29T02:00:26.814Z</news:publication_date>
-      <news:title><![CDATA[Master Digital Marketing: SEO, Social Media & Content Strategy]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/wto-members-try-to-close-gap-between-us-india-on-ecomm-tariff-moratorium-mnbs4wd6</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-03-29T01:08:52.000Z</news:publication_date>
-      <news:title><![CDATA[WTO members try to close gap between US, India on ecomm tariff moratorium]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/2-indian-lpg-tankers-reach-ports-2-more-en-route-from-strait-of-hormuz-mnbs51er</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-03-29T01:06:13.000Z</news:publication_date>
-      <news:title><![CDATA[2 Indian LPG tankers reach ports, 2 more en route from Strait of Hormuz]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/tgana-cm-lays-foundation-for-musi-temples-redevelopment-mnbq1cb6</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-03-29T00:12:04.000Z</news:publication_date>
-      <news:title><![CDATA[T’gana CM lays foundation for Musi temples’ redevelopment]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/great-indian-bustard-chick-born-in-kutch-after-10-years-mnbq1iqt</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-03-29T00:06:13.000Z</news:publication_date>
-      <news:title><![CDATA[Great Indian Bustard Chick Born In Kutch After 10 Years]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/israel-kills-3-journalists-in-lebanon-including-reporter-for-hezbollah-run-broadcaster-mnazl3fv</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-03-28T23:53:56.395Z</news:publication_date>
-      <news:title><![CDATA[Israel kills 3 journalists in Lebanon, including reporter for Hezbollah-run broadcaster]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/dowry-deaths-driven-by-greed-must-be-dealt-with-strongly-sc-mnbpgyvv</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-03-28T23:44:03.000Z</news:publication_date>
-      <news:title><![CDATA[Dowry deaths driven by greed, must be dealt with strongly: SC]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/iran-war-live-updates-us-marines-arrive-in-middle-east-after-houthi-missile-attack-on-israel-mnayzdh5</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-03-28T23:37:02.969Z</news:publication_date>
-      <news:title><![CDATA[Iran War Live Updates: U.S. Marines Arrive in Middle East After Houthi Missile Attack on Israel]]></news:title>
+      <news:publication_date>2026-03-29T08:55:00.000Z</news:publication_date>
+      <news:title><![CDATA[‘Bizarre at this age’: R Ashwin in awe of Virat Kohli’s relentless intensity]]></news:title>
     </news:news>
   </url>
 </urlset>
