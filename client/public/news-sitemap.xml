@@ -3,6 +3,150 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://newshubnow.in/article/gemma-4-byte-for-byte-the-most-capable-open-models-mnmjs2hq</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-04-06T02:04:42.014Z</news:publication_date>
+      <news:title><![CDATA[Gemma 4: Byte for byte, the most capable open models]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/pope-calls-for-peace-and-trump-vows-hell-for-iran-on-easter-mnmjrv2n</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-04-06T02:04:32.399Z</news:publication_date>
+      <news:title><![CDATA[Pope calls for peace, and Trump vows hell for Iran on Easter]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/ai-is-rewiring-the-worlds-most-prolific-film-industry-mnm9557g</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-04-05T21:06:56.284Z</news:publication_date>
+      <news:title><![CDATA[AI is rewiring the world’s most prolific film industry]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/pope-leo-urges-peace-in-first-easter-mass-as-christians-celebrate-in-jerusalem-gaza-and-tehran-mnm9504g</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-04-05T21:06:49.696Z</news:publication_date>
+      <news:title><![CDATA[Pope Leo urges peace in first Easter Mass as Christians celebrate in Jerusalem, Gaza and Tehran]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/ai-news-artificial-intelligence-trends-and-top-ai-stocks-to-watch-mnm90qh5</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-04-05T21:03:30.569Z</news:publication_date>
+      <news:title><![CDATA[AI News: Artificial Intelligence Trends And Top AI Stocks To Watch]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/iran-war-live-updates-trump-escalates-threats-in-truth-social-post-after-us-rescues-downed-airman-mnm90k7s</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-04-05T21:03:22.456Z</news:publication_date>
+      <news:title><![CDATA[Iran War Live Updates: Trump Escalates Threats in Truth Social Post After U.S. Rescues Downed Airman]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/the-worlds-best-travel-destination-in-2026-is-just-2-hrs-from-india-and-its-visa-free-mnmjruw7</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-04-05T14:03:31.000Z</news:publication_date>
+      <news:title><![CDATA[The world’s best travel destination in 2026 is just 2 hrs from India - and it’s visa-free]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/worlds-best-travel-destination-in-2026-is-a-direct-flight-away-from-india-and-tickets-start-under-rs-20000-mnmjrzs6</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-04-05T14:01:10.000Z</news:publication_date>
+      <news:title><![CDATA[World’s best travel destination in 2026 is a direct flight away from India — and tickets start under Rs 20,000]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/building-justice-telanganas-new-high-court-complex-mnm94z8y</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-04-05T09:05:47.000Z</news:publication_date>
+      <news:title><![CDATA[Building Justice: Telangana's New High Court Complex]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/middle-east-tensions-another-india-flagged-tanker-green-asha-crosses-strait-of-hormuz-mnm954qz</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-04-05T09:03:58.000Z</news:publication_date>
+      <news:title><![CDATA[Middle East tensions: Another India-flagged tanker, Green Asha, crosses Strait of Hormuz]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/for-indias-most-stylish-angoori-bhabhi-there-is-peace-even-in-the-storm-mnm90hro</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-04-05T09:03:00.000Z</news:publication_date>
+      <news:title><![CDATA[For India's most stylish Angoori bhabhi, there is peace even in the storm]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/indian-shooters-aim-to-reclaim-prestige-at-issf-world-cup-mnm90mrs</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-04-05T09:02:13.000Z</news:publication_date>
+      <news:title><![CDATA[Indian Shooters Aim to Reclaim Prestige at ISSF World Cup]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://newshubnow.in/article/artificial-intelligence-pros-cons-debate-arguments-computer-science-technology-mnl4besp</loc>
     <news:news>
       <news:publication>
@@ -27,218 +171,14 @@
   </url>
 
   <url>
-    <loc>https://newshubnow.in/article/how-ai-helped-one-man-and-his-brother-build-a-18-billion-company-mnktm7mf</loc>
+    <loc>https://newshubnow.in/article/illinois-vs-uconn-titlegame-pressure-see-photos-usa-today-mnmjrudm</loc>
     <news:news>
       <news:publication>
         <news:name>NewsHubNow</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-04-04T21:04:32.535Z</news:publication_date>
-      <news:title><![CDATA[How A.I. Helped One Man (and His Brother) Build a $1.8 Billion Company]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/uk-prosecutors-charge-3-including-dual-pakistani-citizen-in-arson-attack-on-jewish-ambulances-in-london-mnktlz6m</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-04-04T21:04:21.598Z</news:publication_date>
-      <news:title><![CDATA[UK prosecutors charge 3, including dual Pakistani citizen, in arson attack on Jewish ambulances in London]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/microsoft-says-copilot-is-for-entertainment-purposes-only-not-serious-use-firm-pushing-ai-hard-to-consumers-and-businesses-tells-users-not-to-rely-on-it-for-important-advice-mnktgwpv</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-04-04T21:00:25.123Z</news:publication_date>
-      <news:title><![CDATA[Microsoft says Copilot is for entertainment purposes only, not serious use — firm pushing AI hard to consumers and businesses tells users not to rely on it for important advice]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/trump-gives-iran-48-hours-to-open-strait-of-hormuz-as-search-continues-for-missing-us-pilot-mnktgow2</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-04-04T21:00:14.979Z</news:publication_date>
-      <news:title><![CDATA[Trump gives Iran 48 hours to open Strait of Hormuz as search continues for missing US pilot]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/--mnl4b42x</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-04-04T14:01:50.000Z</news:publication_date>
-      <news:title><![CDATA[बांग्लादेश की अकल आई ठिकाने:बीसीबी ने बीसीसीआई से किया संपर्क, सीमित ओवर की सीरीज खेलने का दिया प्रस्ताव]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/ipl-2026-why-shubman-gill-is-not-playing-todays-gujarat-titans-vs-rajasthan-royals-match-explained-mnl4b8sx</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-04-04T14:00:47.000Z</news:publication_date>
-      <news:title><![CDATA[IPL 2026: Why Shubman Gill Is Not Playing Today’s Gujarat Titans vs Rajasthan Royals Match? EXPLAINED]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/sc-restores-bank-managers-dismissal-says-higher-post-means-higher-accountability-mnktlz0i</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-04-04T09:03:57.000Z</news:publication_date>
-      <news:title><![CDATA[SC restores bank manager’s dismissal, says higher post means higher accountability]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/cbse-new-3-language-system-explained-two-will-be-indian-languages-third-language-mandatory-from-class-6-mnktm3v9</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-04-04T09:01:23.000Z</news:publication_date>
-      <news:title><![CDATA[CBSE new 3-language system explained: Two will be Indian languages, third language mandatory from Class 6]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/dunkin-donuts-to-completely-shut-down-in-india-by-end-of-2026-heres-why-mnktgswn</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-04-04T09:00:00.000Z</news:publication_date>
-      <news:title><![CDATA[Dunkin' Donuts To Completely Shut Down In India By End Of 2026; Here's Why]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/yc-startup-delve-in-trouble-indian-origin-founders-face-open-source-scandal-mnktgy9x</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-04-04T08:59:38.000Z</news:publication_date>
-      <news:title><![CDATA[YC startup Delve in trouble, Indian-origin founders face open-source scandal]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/seville-spains-holy-week-blends-faith-tradition-and-spectacle-mnjod79y</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-04-04T01:49:47.926Z</news:publication_date>
-      <news:title><![CDATA[Seville, Spain's Holy Week blends faith, tradition and spectacle]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/bill-to-ban-sale-of-key-ai-chipmaking-equipment-to-china-introduced-in-house-mnjmyaw8</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-04-04T01:10:13.160Z</news:publication_date>
-      <news:title><![CDATA[Bill to ban sale of key AI chipmaking equipment to China introduced in House]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/exclusive-iranian-strike-on-us-embassy-caused-more-damage-than-disclosed-mnjmy0xg</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-04-04T01:10:00.244Z</news:publication_date>
-      <news:title><![CDATA[Exclusive | Iranian Strike on U.S. Embassy Caused More Damage Than Disclosed]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/pope-leo-xiv-carries-cross-for-full-good-friday-procession-the-first-pontiff-to-do-so-in-decades-mnjkmjv7</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-04-04T00:05:05.683Z</news:publication_date>
-      <news:title><![CDATA[Pope Leo XIV carries cross for full Good Friday procession, the first pontiff to do so in decades]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/iran-war-live-updates-downed-us-jet-and-missing-crew-member-raise-stakes-in-war-mnjjhlvh</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-04-03T23:33:15.389Z</news:publication_date>
-      <news:title><![CDATA[Iran War Live Updates: Downed U.S. Jet and Missing Crew Member Raise Stakes in War]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/united-airlines-raises-bag-fees-amid-rising-fuel-costs-and-introduces-tiered-premium-fares-ap-news-mnl4b4ib</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-04-03T23:31:00.000Z</news:publication_date>
-      <news:title><![CDATA[United Airlines raises bag fees amid rising fuel costs and introduces tiered premium fares - AP News]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/10-healthcare-technology-trends-for-2025-feature-mnjg13o0</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-04-03T21:56:26.448Z</news:publication_date>
-      <news:title><![CDATA[10 healthcare technology trends for 2025 – Feature]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/oracle-cutting-thousands-in-latest-layoff-round-as-company-continues-to-ramp-ai-spending-mnjg0v51</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-04-03T21:56:15.397Z</news:publication_date>
-      <news:title><![CDATA[Oracle cutting thousands in latest layoff round as company continues to ramp AI spending]]></news:title>
+      <news:publication_date>2026-04-05T00:13:00.000Z</news:publication_date>
+      <news:title><![CDATA[Illinois vs UConn, title‑game pressure. See photos - USA Today]]></news:title>
     </news:news>
   </url>
 </urlset>
