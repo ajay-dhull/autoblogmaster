@@ -3,6 +3,114 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://newshubnow.in/article/anthropic-seeks-to-debunk-pentagons-claims-about-its-control-over-ai-technology-in-military-systems-mob3yr7a</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-04-23T06:36:14.518Z</news:publication_date>
+      <news:title><![CDATA[Anthropic Seeks to Debunk Pentagon's Claims About Its Control Over AI Technology in Military Systems]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/iran-fires-on-2-ships-in-strait-of-hormuz-after-trump-extends-ceasefire-mob3yn0y</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-04-23T06:36:09.106Z</news:publication_date>
+      <news:title><![CDATA[Iran fires on 2 ships in Strait of Hormuz after Trump extends ceasefire]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/closing-the-gap-between-ai-technology-and-who-can-actually-use-it-moatzkvl</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-04-23T01:56:56.818Z</news:publication_date>
+      <news:title><![CDATA[Closing the gap between AI technology and who can actually use it]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/israeli-attacks-on-lebanon-kill-at-least-five-people-including-journalist-moatzilh</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-04-23T01:56:53.861Z</news:publication_date>
+      <news:title><![CDATA[Israeli attacks on Lebanon kill at least five people, including journalist]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/anthropic-investigates-report-of-rogue-access-to-hack-enabling-mythos-ai-moanckkh</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-04-22T22:51:05.633Z</news:publication_date>
+      <news:title><![CDATA[Anthropic investigates report of rogue access to hack-enabling Mythos AI]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/ukraine-restarts-russian-oil-to-europe-unblocking-90-billion-euro-eu-loan-moancaon</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-04-22T22:50:52.823Z</news:publication_date>
+      <news:title><![CDATA[Ukraine restarts Russian oil to Europe, unblocking 90-billion-euro EU loan]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/greetings-from-an-islamabad-park-a-peaceful-vantage-point-in-an-uncertain-world-moakhf6g</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-04-22T21:30:53.080Z</news:publication_date>
+      <news:title><![CDATA[Greetings from an Islamabad park, a peaceful vantage point in an uncertain world]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/new-artificial-intelligence-technology-uncovers-hidden-ocean-currents-and-drastically-changes-predictions-about-the-planets-climate-moakfecd</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-04-22T21:29:18.685Z</news:publication_date>
+      <news:title><![CDATA[New artificial intelligence technology uncovers hidden ocean currents and drastically changes predictions about the planet's climate.]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/druzhba-pipeline-restarts-russian-oil-flows-to-europe-unblocking-eu-loan-for-kyiv-moakfai0</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-04-22T21:29:13.704Z</news:publication_date>
+      <news:title><![CDATA[Druzhba pipeline restarts Russian oil flows to Europe, unblocking EU loan for Kyiv]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://newshubnow.in/article/anthropics-new-mythos-ai-model-sets-off-global-alarms-moajt0nt</loc>
     <news:news>
       <news:publication>
@@ -23,6 +131,30 @@
       </news:publication>
       <news:publication_date>2026-04-22T21:11:50.088Z</news:publication_date>
       <news:title><![CDATA[Iran fires on 3 ships in the Strait of Hormuz as US maintains blockade and diplomacy stalls]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/wwii-bomb-detonated-safely-in-jamshedpur-eod-squad-neutralizes-500lb-explosive-mob3yst1</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-04-22T18:36:00.000Z</news:publication_date>
+      <news:title><![CDATA[WWII Bomb Detonated Safely in Jamshedpur: EOD Squad Neutralizes 500lb Explosive]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/sterlite-electric-ties-up-with-spanish-company-for-smart-cable-systems-mob3ymq9</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-04-22T18:36:00.000Z</news:publication_date>
+      <news:title><![CDATA[Sterlite electric ties up with Spanish company for smart cable systems]]></news:title>
     </news:news>
   </url>
 
@@ -63,182 +195,50 @@
   </url>
 
   <url>
-    <loc>https://newshubnow.in/article/old-travels-1200-km-by-road-ambulance-from-mumbai-to-jaipur-undergoes-successful-valve-replacement-and-angioplasty-moajsvx9</loc>
+    <loc>https://newshubnow.in/article/ipl-rishabh-pant-wins-toss-opts-to-field-against-rajasthan-royals-moatzlrb</loc>
     <news:news>
       <news:publication>
         <news:name>NewsHubNow</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-04-22T09:10:40.000Z</news:publication_date>
-      <news:title><![CDATA[Old Travels 1200 km by Road Ambulance from Mumbai to Jaipur, Undergoes Successful Valve Replacement and Angioplasty]]></news:title>
+      <news:publication_date>2026-04-22T13:55:23.000Z</news:publication_date>
+      <news:title><![CDATA[IPL: Rishabh Pant wins toss, opts to field against Rajasthan Royals]]></news:title>
     </news:news>
   </url>
 
   <url>
-    <loc>https://newshubnow.in/article/from-mehendi-to-bachelor-nights-the-new-celebration-economy-around-weddings-moajt0wo</loc>
+    <loc>https://newshubnow.in/article/government-proposes-wew-online-gaming-rules-plans-dedicated-authority-for-oversight-moatzh75</loc>
     <news:news>
       <news:publication>
         <news:name>NewsHubNow</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-04-22T09:10:32.000Z</news:publication_date>
-      <news:title><![CDATA[From Mehendi to Bachelor Nights: The New Celebration Economy Around Weddings]]></news:title>
+      <news:publication_date>2026-04-22T13:55:17.000Z</news:publication_date>
+      <news:title><![CDATA[Government proposes wew online gaming rules, plans dedicated authority for oversight]]></news:title>
     </news:news>
   </url>
 
   <url>
-    <loc>https://newshubnow.in/article/tech-weekly-markets-hit-all-time-highs-as-strait-of-hormuz-reopens-mo9pk073</loc>
+    <loc>https://newshubnow.in/article/telangana-hc-stays-action-against-kcr-3-others-based-on-kaleshwaram-panel-report-moanc8dm</loc>
     <news:news>
       <news:publication>
         <news:name>NewsHubNow</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-04-22T07:05:05.535Z</news:publication_date>
-      <news:title><![CDATA[Tech Weekly: Markets Hit All-Time Highs as Strait of Hormuz Reopens]]></news:title>
+      <news:publication_date>2026-04-22T10:50:17.000Z</news:publication_date>
+      <news:title><![CDATA[Telangana HC stays action against KCR, 3 others based on Kaleshwaram panel report]]></news:title>
     </news:news>
   </url>
 
   <url>
-    <loc>https://newshubnow.in/article/priceless-2500-year-old-golden-helmet-returned-to-romania-after-dutch-museum-raid-mo9pjv6l</loc>
+    <loc>https://newshubnow.in/article/it-selloff-drags-markets-lower-sensex-falls-757-points-nifty-below-24400-moanch4c</loc>
     <news:news>
       <news:publication>
         <news:name>NewsHubNow</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-04-22T07:04:59.037Z</news:publication_date>
-      <news:title><![CDATA[Priceless 2,500-year-old golden helmet returned to Romania after Dutch museum raid]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/fbi-raises-global-alert-for-new-artificial-intelligence-technology-capable-of-cloning-voices-creating-fake-videos-and-executing-scams-so-realistic-that-neither-hearing-nor-seeing-can-guarantee-it-is-true-mo9obtgr</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-04-22T06:30:43.947Z</news:publication_date>
-      <news:title><![CDATA[FBI raises global alert for new artificial intelligence technology capable of cloning voices, creating fake videos, and executing scams so realistic that neither hearing nor seeing can guarantee it is true.]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/mexico-official-teotihuacn-gunman-carried-material-related-to-us-mass-shooting-mo9obohx</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-04-22T06:30:37.509Z</news:publication_date>
-      <news:title><![CDATA[Mexico official: Teotihuacán gunman carried material related to US mass shooting]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/why-el-nio-leaves-pain-in-its-wake-moacvu4m</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-04-22T05:58:00.000Z</news:publication_date>
-      <news:title><![CDATA[Why El Niño leaves pain in its wake]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/ipl-2026-abhishek-sharma-the-entertainer-helps-sunrisers-hyderabad-beat-delhi-capitals-moacvzgu</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-04-22T05:56:00.000Z</news:publication_date>
-      <news:title><![CDATA[IPL 2026: Abhishek Sharma the entertainer helps Sunrisers Hyderabad beat Delhi Capitals]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/ai-is-eliminating-jobs-on-wall-street-mo9lxda3</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-04-22T05:23:30.555Z</news:publication_date>
-      <news:title><![CDATA[A.I. Is Eliminating Jobs on Wall Street]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/lebanese-state-not-seeking-confrontation-with-hezbollah-but-wont-be-intimidated-pm-says-mo9lxb4u</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-04-22T05:23:27.775Z</news:publication_date>
-      <news:title><![CDATA[Lebanese state not seeking confrontation with Hezbollah but won't be intimidated, PM says]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/anthropics-latest-ai-model-is-sparking-fears-from-cybersecurity-experts-and-the-banking-sector-heres-why-mo9khbwr</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-04-22T04:43:02.667Z</news:publication_date>
-      <news:title><![CDATA[Anthropic's latest AI model is sparking fears from cybersecurity experts and the banking sector. Here's why.]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/stop-sucking-up-to-america-japans-youth-rises-up-to-protect-pacifist-constitution-mo9kh810</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-04-22T04:42:57.636Z</news:publication_date>
-      <news:title><![CDATA[‘Stop sucking up to America’: Japan’s youth rises up to protect pacifist constitution]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/meta-to-track-workers-clicks-and-keystrokes-to-train-ai-mo9ijcgp</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-04-22T03:48:37.465Z</news:publication_date>
-      <news:title><![CDATA[Meta to track workers' clicks and keystrokes to train AI]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/taiwan-president-cancels-africa-trip-blaming-chinese-pressure-mo9ij96l</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-04-22T03:48:33.213Z</news:publication_date>
-      <news:title><![CDATA[Taiwan president cancels Africa trip blaming Chinese pressure]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/union-city-becomes-home-to-1st-us-center-for-advanced-ai-chip-assembly-mo9evpii</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-04-22T02:06:15.786Z</news:publication_date>
-      <news:title><![CDATA[Union City becomes home to 1st US center for advanced AI chip assembly]]></news:title>
+      <news:publication_date>2026-04-22T10:50:15.000Z</news:publication_date>
+      <news:title><![CDATA[IT Selloff Drags Markets Lower; Sensex Falls 757 Points, Nifty Below 24,400]]></news:title>
     </news:news>
   </url>
 </urlset>
