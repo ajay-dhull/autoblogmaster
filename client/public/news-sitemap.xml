@@ -3,6 +3,54 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://newshubnow.in/article/what-comes-next-for-us-passengers-evacuated-from-hantavirus-hit-cruise-ship-mp0ljl22</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-05-11T02:42:34.202Z</news:publication_date>
+      <news:title><![CDATA[What comes next for US passengers evacuated from hantavirus-hit cruise ship]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/britains-starmer-fights-for-his-job-as-calls-for-his-ouster-grow-after-local-election-losses-mp0adhhn</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-05-10T21:29:53.867Z</news:publication_date>
+      <news:title><![CDATA[Britain’s Starmer fights for his job as calls for his ouster grow after local election losses]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/china-has-outlawed-companies-from-ai-based-layoffs-should-canada-follow-mp0a9v2l</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-05-10T21:27:04.845Z</news:publication_date>
+      <news:title><![CDATA[China has outlawed companies from AI-based layoffs. Should Canada follow?]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/hantavirus-cruise-ship-evacuations-under-way-in-spains-canary-islands-mp0a9ndh</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-05-10T21:26:54.869Z</news:publication_date>
+      <news:title><![CDATA[Hantavirus cruise ship evacuations under way in Spain’s Canary Islands]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://newshubnow.in/article/current-trend-and-future-research-agenda-for-technological-innovation-in-higher-education-institutions-mozxaf5d</loc>
     <news:news>
       <news:publication>
@@ -35,6 +83,78 @@
       </news:publication>
       <news:publication_date>2026-05-10T15:23:17.690Z</news:publication_date>
       <news:title><![CDATA[Evacuation of passengers from hantavirus-stricken cruise ship begins in Tenerife]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/pm-modi-calls-vijay-congratulates-tvk-chief-on-becoming-cm-mp0ljjw8</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-05-10T14:42:25.000Z</news:publication_date>
+      <news:title><![CDATA[PM Modi Calls Vijay, Congratulates TVK Chief On Becoming CM]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/man-arrested-for-sexual-assault-of-minor-girl-in-kochi-mp0ljp4z</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-05-10T14:42:15.000Z</news:publication_date>
+      <news:title><![CDATA[Man arrested for sexual assault of minor girl in Kochi]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/maharashtra-weather-forecast-thunderstorms-rainfall-and-gusty-winds-likely-in-several-districts-till-may-16-check-details-mp0a9mce</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-05-10T09:26:08.000Z</news:publication_date>
+      <news:title><![CDATA[Maharashtra Weather Forecast: Thunderstorms, Rainfall and Gusty Winds Likely in Several Districts Till May 16; Check Details]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/-pa-upi--mp0adh6c</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-05-10T09:26:04.000Z</news:publication_date>
+      <news:title><![CDATA[शुभेंदु अधिकारी के PA की हत्या मामले में पुलिस को मिला बड़ा सुराग, एक UPI पेमेंट पर पहुंची जांच]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/people-keep-falling-for-same-money-traps-zerodhas-nithin-kamath-on-ulips-endowment-plans-mp0a9qr1</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-05-10T09:23:53.000Z</news:publication_date>
+      <news:title><![CDATA[People keep falling for same money traps: Zerodha’s Nithin Kamath on ULIPs, endowment plans]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/why-milk-packets-in-india-come-in-blue-green-orange-colours-most-people-never-notice-the-real-reason-mp0admcq</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-05-10T09:22:00.000Z</news:publication_date>
+      <news:title><![CDATA[Why milk packets in India come in blue, green & orange colours. Most people never notice the real reason]]></news:title>
     </news:news>
   </url>
 
@@ -99,146 +219,14 @@
   </url>
 
   <url>
-    <loc>https://newshubnow.in/article/visual-investigation-scores-of-online-resellers-are-using-ai-to-fool-customers-by-pretending-to-be-mom-and-pop-stores-moyuscoz</loc>
+    <loc>https://newshubnow.in/article/wwe-backlash-results-reigns-defeats-fatu-john-cena-classic-announced-espn-mp0ljmdf</loc>
     <news:news>
       <news:publication>
         <news:name>NewsHubNow</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-05-09T21:25:47.459Z</news:publication_date>
-      <news:title><![CDATA[Visual investigation: Scores of online resellers are using AI to fool customers by pretending to be mom-and-pop stores]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/peter-magyar-sworn-in-as-hungarys-pm-ending-orbans-16-years-in-power-moyus5wo</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-05-09T21:25:38.664Z</news:publication_date>
-      <news:title><![CDATA[Peter Magyar sworn in as Hungary’s PM, ending Orban’s 16 years in power]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/white-house-considers-implementing-regulations-on-ai-technology-moyuq9fr</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-05-09T21:24:09.927Z</news:publication_date>
-      <news:title><![CDATA[White House considers implementing regulations on AI technology]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/moscow-marks-victory-day-with-a-scaled-down-red-square-parade-under-tight-security-moyuq1ns</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-05-09T21:23:59.848Z</news:publication_date>
-      <news:title><![CDATA[Moscow marks Victory Day with a scaled down Red Square parade under tight security]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/bank-shield-t20-cricket-tournament-2026-rbi-b-beat-jp-morgan-chase-by-9-wickets-to-enter-semi-finals-moz5rm8x</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-05-09T14:32:47.000Z</news:publication_date>
-      <news:title><![CDATA[Bank Shield T20 Cricket Tournament 2026: RBI ‘B’ Beat JP Morgan Chase By 9 Wickets To Enter Semi-Finals]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/shubman-gill-sai-sudharsan-script-history-become-1st-pair-in-ipl-to-moz5rrxw</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-05-09T14:32:40.000Z</news:publication_date>
-      <news:title><![CDATA[Shubman Gill, Sai Sudharsan Script History, Become 1st Pair In IPL To...]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/amid-ukraines-daring-assaults-russia-scales-back-victory-day-celebrations-al-jazeera-mozxa1ux</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-05-09T14:08:36.000Z</news:publication_date>
-      <news:title><![CDATA[Amid Ukraine’s daring assaults, Russia scales back Victory Day celebrations - Al Jazeera]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/fiis-sell-over-rs-2-lakh-crore-worth-of-indian-equities-in-2026-what-lies-ahead-moyus9bw</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-05-09T09:24:00.000Z</news:publication_date>
-      <news:title><![CDATA[FIIs sell over Rs 2 lakh crore worth of Indian equities in 2026. What lies ahead?]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/cbse-ko-copy-check-krne-m-itna-time-kyu-lag-rhaa-hai-anxious-class-12-students-flood-internet-moyus4ck</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-05-09T09:24:00.000Z</news:publication_date>
-      <news:title><![CDATA['CBSE ko copy check krne m itna time kyu lag rhaa hai': Anxious class 12 students flood internet]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/former-india-spinner-takes-aim-at-yuzvendra-chahal-in-alleged-vaping-incident-should-be-behind-bars-moyuq0je</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-05-09T09:23:16.000Z</news:publication_date>
-      <news:title><![CDATA[Former India spinner takes aim at Yuzvendra Chahal in alleged vaping incident: 'Should be behind bars']]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/wfi-bars-vinesh-phogat-from-domestic-events-till-june-26-issues-show-cause-notice-over-alleged-rule-violations-moyuq5y6</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-05-09T09:22:34.000Z</news:publication_date>
-      <news:title><![CDATA[WFI bars Vinesh Phogat from domestic events till June 26; issues show-cause notice over alleged rule violations]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/metas-embrace-of-ai-is-making-its-employees-miserable-moxq7zmf</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-05-09T02:30:12.759Z</news:publication_date>
-      <news:title><![CDATA[Meta’s Embrace of A.I. Is Making Its Employees Miserable]]></news:title>
+      <news:publication_date>2026-05-10T01:15:00.000Z</news:publication_date>
+      <news:title><![CDATA[WWE Backlash results: Reigns defeats Fatu; John Cena Classic announced - ESPN]]></news:title>
     </news:news>
   </url>
 </urlset>
