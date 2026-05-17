@@ -3,6 +3,150 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://newshubnow.in/article/ai-could-put-people-off-tech-jobs-and-hurt-the-economy-warns-raspberry-pi-boss-mp965bxi</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-05-17T02:41:30.534Z</news:publication_date>
+      <news:title><![CDATA[AI could put people off tech jobs and hurt the economy, warns Raspberry Pi boss]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/israel-kills-hamas-armed-wing-leader-haddad-in-gaza-strike-mp9654pj</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-05-17T02:41:21.175Z</news:publication_date>
+      <news:title><![CDATA[Israel kills Hamas armed wing leader Haddad in Gaza strike]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/us-china-moves-to-forge-new-understandings-on-regulating-artificial-intelligence-mp8uzty2</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-05-16T21:29:18.170Z</news:publication_date>
+      <news:title><![CDATA[US-China moves to forge new understandings on regulating artificial intelligence]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/humpback-whale-released-after-spectacular-rescue-effort-found-dead-off-denmark-mp8uzohk</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-05-16T21:29:11.096Z</news:publication_date>
+      <news:title><![CDATA[Humpback whale released after spectacular rescue effort found dead off Denmark]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/new-haven-students-raise-concerns-over-burnout-quality-of-technology-and-ai-policies-mp8uxvow</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-05-16T21:27:47.120Z</news:publication_date>
+      <news:title><![CDATA[New Haven students raise concerns over burnout, quality of technology and AI policies]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/thousands-hit-london-streets-for-unite-the-kingdom-march-organized-by-far-right-activist-tommy-robinson-mp8uxpnl</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-05-16T21:27:39.297Z</news:publication_date>
+      <news:title><![CDATA[Thousands hit London streets for "Unite the Kingdom" march organized by far-right activist Tommy Robinson]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/delhi-faces-rising-temperatures-amid-gusty-winds-mp965ajk</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-05-16T14:40:18.000Z</news:publication_date>
+      <news:title><![CDATA[Delhi Faces Rising Temperatures Amid Gusty Winds]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/tata-electronics-asml-join-hands-for-semiconductor-manufacturing-in-india-mp9655tt</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-05-16T14:39:56.000Z</news:publication_date>
+      <news:title><![CDATA[Tata Electronics, ASML join hands for semiconductor manufacturing in India]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/they-will-take-out-a-gun-russias-lavrov-warns-journalist-on-phone-during-delhi-press-briefing-watch-mp8uznox</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-05-16T09:29:00.000Z</news:publication_date>
+      <news:title><![CDATA['They will take out a gun': Russia's Lavrov warns journalist on phone during Delhi press briefing - watch]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/celebrating-trailblazers-grihshobha-inspire-awards-2026-mp8uzs60</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-05-16T09:28:58.000Z</news:publication_date>
+      <news:title><![CDATA[Celebrating Trailblazers: Grihshobha Inspire Awards 2026]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/review-an-accidental-lawyer-by-kk-venugopal-mp8uxkpy</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-05-16T09:27:25.000Z</news:publication_date>
+      <news:title><![CDATA[Review: An Accidental Lawyer by KK Venugopal]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/victim-of-cyber-fraud-you-may-be-able-to-recover-money-before-culprit-is-caught-mp8uxoy4</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-05-16T09:26:41.000Z</news:publication_date>
+      <news:title><![CDATA[Victim of cyber fraud? You may be able to recover money before culprit is caught]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://newshubnow.in/article/openai-bought-company-that-offered-ai-tools-for-cloning-voices-mp7qebcd</loc>
     <news:news>
       <news:publication>
@@ -23,6 +167,18 @@
       </news:publication>
       <news:publication_date>2026-05-16T02:32:43.368Z</news:publication_date>
       <news:title><![CDATA[Army leaders in hot seat over Poland deployment cancellation]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/cdc-tightens-home-monitoring-guidance-for-high-risk-hantavirus-contacts-the-washington-post-mp96542y</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-05-16T02:27:25.000Z</news:publication_date>
+      <news:title><![CDATA[CDC tightens home monitoring guidance for high-risk hantavirus contacts - The Washington Post]]></news:title>
     </news:news>
   </url>
 
@@ -71,174 +227,6 @@
       </news:publication>
       <news:publication_date>2026-05-15T21:37:18.193Z</news:publication_date>
       <news:title><![CDATA[Skeletal remains of new dinosaur weighing as much as 9 elephants discovered by scientists: "The last titan"]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/import-duty-on-gold-storm-and-withholding-tax-mp7qebyo</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-05-15T14:32:26.000Z</news:publication_date>
-      <news:title><![CDATA[Import duty on gold, Storm and Withholding tax]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/nashik-nima-and-bureau-of-indian-standards-hold-awareness-programme-on-quality-standards-and-higher-exports-for-industries-mp7qe7ny</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-05-15T14:31:08.000Z</news:publication_date>
-      <news:title><![CDATA[Nashik: NIMA And Bureau Of Indian Standards Hold Awareness Programme On Quality Standards And Higher Exports For Industries]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/brisec-chamber-of-commerce-and-industry-brisec-cci-appoints-mr-ashok-kumar-singh-as-co-chairman-and-mr-anand-anu-as-vice-chairman-mp7fw422</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-05-15T09:38:10.000Z</news:publication_date>
-      <news:title><![CDATA[BRISEC Chamber of Commerce and Industry (BRISEC CCI) appoints Mr. Ashok Kumar Singh as Co-Chairman and Mr. Anand Anu as Vice Chairman]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/gps-ai-cctv-watermarks-why-tech-safeguards-failed-to-protect-neet-mp7ftq11</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-05-15T09:36:45.000Z</news:publication_date>
-      <news:title><![CDATA[GPS, AI CCTV, watermarks: Why tech safeguards failed to protect NEET]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/ipl-2026-csk-and-rcb-announce-injury-replacements-for-khaleel-ahmed-and-nuwan-thushara-mp7ftvax</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-05-15T09:36:24.000Z</news:publication_date>
-      <news:title><![CDATA[IPL 2026: CSK and RCB Announce Injury Replacements for Khaleel Ahmed and Nuwan Thushara]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/red-white-and-due-desi-doc-under-lens-for-birthright-babies-mp7fw9j8</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-05-15T09:35:00.000Z</news:publication_date>
-      <news:title><![CDATA[Red, White, and Due: Desi doc under lens for birthright babies]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/unregulated-ai-technology-hurts-black-america-more-than-it-helps-mp6bc1kt</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-05-15T02:43:23.261Z</news:publication_date>
-      <news:title><![CDATA[Unregulated AI Technology Hurts Black America More Than it Helps]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/cuba-says-cia-chief-visited-havana-as-energy-crisis-worsens-mp6bbz5u</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-05-15T02:43:20.130Z</news:publication_date>
-      <news:title><![CDATA[Cuba says CIA chief visited Havana as energy crisis worsens]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/rams-and-seahawks-wont-meet-until-christmas-day-nbc-sports-mp7qe6j7</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-05-15T01:23:09.000Z</news:publication_date>
-      <news:title><![CDATA[Rams and Seahawks won’t meet until Christmas Day - NBC Sports]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/live-updates-xi-hails-us-china-relations-as-worlds-most-consequential-but-warns-trump-on-taiwan-cnn-mp7ftq5c</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-05-14T22:35:00.000Z</news:publication_date>
-      <news:title><![CDATA[Live updates: Xi hails US-China relations as world’s most consequential, but warns Trump on Taiwan - CNN]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/colorado-rewrites-its-ai-law-mp60tlas</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-05-14T21:49:06.196Z</news:publication_date>
-      <news:title><![CDATA[Colorado Rewrites Its AI Law]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/israel-says-it-will-sue-new-york-times-over-article-on-sexual-abuse-of-palestinian-prisoners-mp60tgvl</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-05-14T21:49:00.465Z</news:publication_date>
-      <news:title><![CDATA[Israel says it will sue New York Times over article on sexual abuse of Palestinian prisoners]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/top-10-food-technology-trends-reshaping-the-usd-trillion-industry-in-2026-mp60rc8d</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-05-14T21:47:21.133Z</news:publication_date>
-      <news:title><![CDATA[Top 10 Food Technology Trends Reshaping the USD Trillion Industry in 2026]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/why-ai-safety-controls-are-not-very-effective-mp60r8o9</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-05-14T21:47:16.521Z</news:publication_date>
-      <news:title><![CDATA[Why A.I. Safety Controls Are Not Very Effective]]></news:title>
     </news:news>
   </url>
 </urlset>
