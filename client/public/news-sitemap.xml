@@ -3,6 +3,138 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://newshubnow.in/article/meta-reassigns-7000-employees-to-focus-on-ai-mpc19ex9</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-05-19T02:48:01.485Z</news:publication_date>
+      <news:title><![CDATA[Meta Reassigns 7,000 Employees to Focus on A.I.]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/trump-delays-iran-attack-as-diplomatic-push-intensifies-military-ready-at-moments-notice-mpc19byo</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-05-19T02:47:57.648Z</news:publication_date>
+      <news:title><![CDATA[Trump delays Iran attack as diplomatic push intensifies: Military ready at 'moment’s notice’]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/aws-veteran-matt-wood-returns-to-cloud-giant-in-new-role-chief-ai-and-technology-officer-mpbqo8aj</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-05-18T21:51:36.955Z</news:publication_date>
+      <news:title><![CDATA[AWS veteran Matt Wood returns to cloud giant in new role: chief AI and technology officer]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/death-toll-from-israeli-strikes-on-lebanon-passes-3000-officials-say-mpbqo34b</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-05-18T21:51:30.251Z</news:publication_date>
+      <news:title><![CDATA[Death toll from Israeli strikes on Lebanon passes 3,000, officials say]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/pope-leo-xiv-to-launch-his-first-encylical-a-document-on-artificial-intelligence-with-anthropics-co-founder-mpbqlej6</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-05-18T21:49:25.074Z</news:publication_date>
+      <news:title><![CDATA[Pope Leo XIV to launch his first encylical, a document on artificial intelligence, with Anthropic's co-founder]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/live-updates-trump-calls-off-scheduled-attack-on-iran-amid-serious-negotiations-toward-peace-deal-mpbqla17</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-05-18T21:49:19.243Z</news:publication_date>
+      <news:title><![CDATA[Live Updates: Trump calls off scheduled attack on Iran amid "serious negotiations" toward peace deal]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/iran-cable-fee-threat-could-disrupt-indias-internet-links-via-hormuz-mpc19cgh</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-05-18T14:47:14.000Z</news:publication_date>
+      <news:title><![CDATA[Iran cable fee threat could disrupt India's internet links via Hormuz]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/west-asia-war-targeting-of-uaes-barakah-nuclear-facility-dangerous-escalation-says-india-mpbqo4w5</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-05-18T09:51:00.000Z</news:publication_date>
+      <news:title><![CDATA[West Asia war: Targeting of UAE’s Barakah nuclear facility ‘dangerous escalation’, says India]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/empowering-indias-industry-a-call-for-local-manufacturing-and-export-growth-mpbql8qo</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-05-18T09:47:07.000Z</news:publication_date>
+      <news:title><![CDATA[Empowering India's Industry: A Call for Local Manufacturing and Export Growth]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/who-is-aaron-rai-indian-origin-british-golfer-becomes-first-ever-player-of-indian-heritage-to-win-pga-championship-mpbqle13</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-05-18T09:45:08.000Z</news:publication_date>
+      <news:title><![CDATA[Who Is Aaron Rai? Indian-Origin British Golfer Becomes First-Ever Player of Indian Heritage to Win PGA Championship]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/priyanka-chigurupati-makes-her-cannes-film-festival-debut-with-a-powerful-global-presence-mpbqoasg</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-05-18T09:44:07.000Z</news:publication_date>
+      <news:title><![CDATA[Priyanka Chigurupati Makes Her Cannes Film Festival Debut with a Powerful Global Presence]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://newshubnow.in/article/augmented-intelligence-in-medicine-mpalxeih</loc>
     <news:news>
       <news:publication>
@@ -27,158 +159,14 @@
   </url>
 
   <url>
-    <loc>https://newshubnow.in/article/openai-bought-company-that-offered-ai-tools-for-cloning-voices-mpaaitdo</loc>
+    <loc>https://newshubnow.in/article/acm-awards-2026-live-updates-and-winners-ella-langley-wins-song-of-the-year-lainey-wilson-opens-show-with-explosive-cant-sit-still-performance-yahoo-mpc19iqe</loc>
     <news:news>
       <news:publication>
         <news:name>NewsHubNow</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-05-17T21:31:44.316Z</news:publication_date>
-      <news:title><![CDATA[OpenAI bought company that offered AI tools for cloning voices]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/drone-strike-sparks-fire-on-perimeter-of-uaes-barakah-nuclear-power-plant-mpaaine7</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-05-17T21:31:36.559Z</news:publication_date>
-      <news:title><![CDATA[Drone strike sparks fire on perimeter of UAE’s Barakah nuclear power plant]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/in-a-job-market-reshaped-by-ai-seniors-confront-new-demands-mpaagqkl</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-05-17T21:30:07.365Z</news:publication_date>
-      <news:title><![CDATA[In a job market reshaped by AI, seniors confront new demands]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/ukraine-conducts-large-scale-drone-strikes-on-russia-killing-4-and-wounding-12-others-mpaaghyv</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-05-17T21:29:56.215Z</news:publication_date>
-      <news:title><![CDATA[Ukraine conducts large-scale drone strikes on Russia, killing 4 and wounding 12 others]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/indian-among-3-killed-in-ukrainian-drone-attack-on-moscow-mpalxbta</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-05-17T14:50:47.000Z</news:publication_date>
-      <news:title><![CDATA[Indian Among 3 Killed In Ukrainian Drone Attack On Moscow]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/meet-the-teen-titans-driving-indian-pickleballs-emergence-as-a-global-powerhouse-mpalx689</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-05-17T14:50:41.000Z</news:publication_date>
-      <news:title><![CDATA[Meet the Teen Titans Driving Indian Pickleball’s Emergence as a Global Powerhouse]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/manchester-united-vs-nottingham-forest-live-streaming-when-and-where-to-watch-english-premier-league-live-in-india-usa-uk-and-more-mpaainvs</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-05-17T09:31:23.000Z</news:publication_date>
-      <news:title><![CDATA[Manchester United vs Nottingham Forest Live Streaming: When And Where to Watch English Premier League Live in India, USA, UK And More]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/india-made-first-c-295-aircraft-ready-for-flight-test-at-tata-airbus-vadodara-plant-mpaaghvm</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-05-17T09:29:14.000Z</news:publication_date>
-      <news:title><![CDATA[India-made first C-295 aircraft ready for flight test at Tata-Airbus Vadodara plant]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/--mpaagmek</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-05-17T09:28:28.000Z</news:publication_date>
-      <news:title><![CDATA[ചേച്ചിയുടെ വിഡിയോ കാണിച്ച് അനിയത്തിയെയും പീഡിപ്പിച്ചു; സഹോദരിമാരുടെ ആത്മഹത്യയ്ക്ക് പിന്നിലെന്ത്?]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/pakistani-actress-sanam-saeed-dons-gajra-and-maang-tikka-at-her-cannes-debut-in-white-peacock-inspired-look-mpaaithm</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-05-17T09:28:27.000Z</news:publication_date>
-      <news:title><![CDATA[Pakistani Actress Sanam Saeed Dons Gajra And Maang Tikka At Her Cannes Debut In White Peacock-Inspired Look]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/ai-could-put-people-off-tech-jobs-and-hurt-the-economy-warns-raspberry-pi-boss-mp965bxi</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-05-17T02:41:30.534Z</news:publication_date>
-      <news:title><![CDATA[AI could put people off tech jobs and hurt the economy, warns Raspberry Pi boss]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/israel-kills-hamas-armed-wing-leader-haddad-in-gaza-strike-mp9654pj</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-05-17T02:41:21.175Z</news:publication_date>
-      <news:title><![CDATA[Israel kills Hamas armed wing leader Haddad in Gaza strike]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/ronda-rousey-vs-gina-carano-live-results-updates-round-by-round-scoring-highlights-for-saturdays-netflix-fight-yahoo-sports-mpalx6pw</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-05-17T00:41:00.000Z</news:publication_date>
-      <news:title><![CDATA[Ronda Rousey vs. Gina Carano live results: Updates, round-by-round scoring, highlights for Saturday's Netflix fight - Yahoo Sports]]></news:title>
+      <news:publication_date>2026-05-18T00:38:00.000Z</news:publication_date>
+      <news:title><![CDATA[ACM Awards 2026 live updates and winners: Ella Langley wins Song of the Year; Lainey Wilson opens show with explosive 'Can't Sit Still' performance - Yahoo]]></news:title>
     </news:news>
   </url>
 </urlset>
