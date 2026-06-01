@@ -3,6 +3,162 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://newshubnow.in/article/the-fbi-flags-anti-tech-extremism-as-ai-resentment-grows-mpunnioi</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-06-01T03:34:42.258Z</news:publication_date>
+      <news:title><![CDATA[The FBI Flags 'Anti-Tech Extremism' as AI Resentment Grows]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/european-leaders-condemn-israels-deepening-incursion-into-lebanon-mpunncx5</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-06-01T03:34:34.793Z</news:publication_date>
+      <news:title><![CDATA[European leaders condemn Israel’s deepening incursion into Lebanon]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/washington-roundup-policymakers-reaction-to-popes-ai-encyclical-new-trial-for-death-row-inmate-mpuavz6u</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-05-31T21:37:21.894Z</news:publication_date>
+      <news:title><![CDATA[Washington Roundup: Policymakers’ reaction to pope’s AI encyclical, new trial for death-row inmate]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/witnessing-the-laos-cave-rescue-unfold-in-real-time-mpuavuuj</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-05-31T21:37:16.267Z</news:publication_date>
+      <news:title><![CDATA[Witnessing the Laos cave rescue unfold in real-time]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/as-the-pentagon-pushes-for-battlefield-ai-some-military-leaders-urge-caution-mpuau0h2</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-05-31T21:35:50.246Z</news:publication_date>
+      <news:title><![CDATA[As the Pentagon pushes for battlefield AI, some military leaders urge caution]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/netanyahu-orders-deeper-israeli-incursion-into-lebanon-to-hit-hezbollah-mpuatmmz</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-05-31T21:35:32.315Z</news:publication_date>
+      <news:title><![CDATA[Netanyahu orders deeper Israeli incursion into Lebanon to hit Hezbollah]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/1800-athletes-gather-in-gandhinagar-for-the-4th-pafi-national-armwrestling-para-armwrestling-championship-mpunnbmh</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-05-31T15:32:59.000Z</news:publication_date>
+      <news:title><![CDATA[1800 Athletes Gather In Gandhinagar For The 4th PAFI National Armwrestling & Para Armwrestling Championship]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/asian-u20-athletics-cships-indian-relay-athletes-break-records-secure-medals-mpunngd4</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-05-31T15:30:06.000Z</news:publication_date>
+      <news:title><![CDATA[Asian U20 Athletics C'ships: Indian relay athletes break records, secure medals]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/ahead-of-market-10-things-that-will-decide-stock-market-action-on-monday-mpuavzn1</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-05-31T09:36:00.000Z</news:publication_date>
+      <news:title><![CDATA[Ahead of Market: 10 things that will decide stock market action on Monday]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/mumbai-records-highest-may-property-registrations-in-14-years-at-12315-units-knight-frank-india-mpuavtw8</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-05-31T09:35:54.000Z</news:publication_date>
+      <news:title><![CDATA[Mumbai records highest May property registrations in 14 years at 12,315 units: Knight Frank India]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/indian-government-affirms-harmony-with-judiciary-on-judge-appointments-mpuatsub</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-05-31T09:34:44.000Z</news:publication_date>
+      <news:title><![CDATA[Indian Government Affirms Harmony with Judiciary on Judge Appointments]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/us-citizen-held-in-maharajganj-for-overstaying-visa-ib-liu-to-question-foreigner-mpuatmth</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-05-31T09:31:00.000Z</news:publication_date>
+      <news:title><![CDATA[US citizen held in Maharajganj for overstaying visa; IB, LIU to question foreigner]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/trumps-kennedy-center-plans-were-blocked-by-a-judge-what-happens-next-the-washington-post-mpunnaop</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-05-31T04:37:33.000Z</news:publication_date>
+      <news:title><![CDATA[Trump’s Kennedy Center plans were blocked by a judge. What happens next? - The Washington Post]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://newshubnow.in/article/mystery-company-accidentally-blew-500-million-on-claude-ai-in-a-single-month-failed-to-put-usage-limit-on-licenses-for-employees-mpt6vrtp</loc>
     <news:news>
       <news:publication>
@@ -23,222 +179,6 @@
       </news:publication>
       <news:publication_date>2026-05-31T02:57:20.574Z</news:publication_date>
       <news:title><![CDATA[Four more men freed from flooded Laos cave in hazardous rescue mission]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/nvidia-is-investing-billions-into-this-emerging-technology-that-could-change-the-ai-industry-mpsvh3d0</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-05-30T21:38:07.044Z</news:publication_date>
-      <news:title><![CDATA[Nvidia is investing billions into this emerging technology that could change the AI industry]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/hegseth-urges-asian-leaders-to-boost-military-spending-against-china-mpsvgx6n</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-05-30T21:37:59.039Z</news:publication_date>
-      <news:title><![CDATA[Hegseth urges Asian leaders to boost military spending against China]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/will-eyes-replace-ids-new-ai-tech-scans-your-iris-to-prove-user-is-human-mpsvelwd</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-05-30T21:36:11.101Z</news:publication_date>
-      <news:title><![CDATA[Will eyes replace IDs? New AI tech scans your iris to prove user is human]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/i-will-sleep-with-fear-romanians-shaken-after-block-of-flats-hit-by-drone-mpsvejzn</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-05-30T21:36:08.627Z</news:publication_date>
-      <news:title><![CDATA['I will sleep with fear': Romanians shaken after block of flats hit by drone]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/india-will-require-215-mmlps-by-2047-to-meet-rising-freight-demand-mpt6vmne</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-05-30T14:56:55.000Z</news:publication_date>
-      <news:title><![CDATA[India will require 215 MMLPs by 2047 to meet rising freight demand]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/gulveer-singh-becomes-first-indian-to-clock-a-sub-mpt6vqt5</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-05-30T14:54:20.000Z</news:publication_date>
-      <news:title><![CDATA[Gulveer Singh becomes first Indian to clock a sub]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/acharya-prashant-philosopher-author-and-a-british-engagement-mpsvh0fh</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-05-30T09:36:54.000Z</news:publication_date>
-      <news:title><![CDATA[Acharya Prashant: Philosopher, author, and a British engagement]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/myanmar-president-min-aung-hlaing-visits-bodh-gaya-on-first-foreign-trip-since-taking-office-mpsvgw33</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-05-30T09:36:00.000Z</news:publication_date>
-      <news:title><![CDATA[Myanmar President Min Aung Hlaing visits Bodh Gaya on first foreign trip since taking office]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/be-skill-oriented-and-society-ready-chairman-shri-dk-mohan-sets-vision-at-cambridge-college-graduation-2026-mpsvefo8</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-05-30T09:35:39.000Z</news:publication_date>
-      <news:title><![CDATA['Be Skill Oriented and Society Ready': Chairman Shri D.K. Mohan Sets Vision at Cambridge College Graduation 2026]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/myanmar-leaders-india-visit-could-deliver-roadmap-for-stronger-bilateral-ties-former-envoy-rajiv-bhatia-mpsvek54</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-05-30T09:35:18.000Z</news:publication_date>
-      <news:title><![CDATA[Myanmar leader's India visit could deliver roadmap for stronger bilateral ties: Former envoy Rajiv Bhatia]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/massive-blue-origin-rocket-explosion-gives-edge-to-elon-musk-in-space-race-the-washington-post-mpt6vmdw</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-05-30T02:42:41.000Z</news:publication_date>
-      <news:title><![CDATA[Massive Blue Origin rocket explosion gives edge to Elon Musk in space race - The Washington Post]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/another-tech-company-says-it-will-cut-hundreds-of-jobs-amid-pivot-to-ai-mprqu5zl</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-05-30T02:40:32.721Z</news:publication_date>
-      <news:title><![CDATA[Another tech company says it will cut hundreds of jobs amid pivot to AI]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/russian-official-warns-europe-to-brace-for-more-drone-incidents-after-romania-episode-mprqtz56</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-05-30T02:40:23.850Z</news:publication_date>
-      <news:title><![CDATA[Russian official warns Europe to brace for more drone incidents after Romania episode]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/nt-10-k-artificial-intelligence-technology-solutions-inc-sec-filing-mprhdde8</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-05-29T22:15:32.625Z</news:publication_date>
-      <news:title><![CDATA[[NT 10-K] Artificial Intelligence Technology Solutions Inc. SEC Filing]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/five-killed-in-lebanon-as-israeli-forces-advance-across-key-litani-river-mprhd7yd</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-05-29T22:15:25.573Z</news:publication_date>
-      <news:title><![CDATA[Five killed in Lebanon as Israeli forces advance across key Litani River]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/2024-eic-tech-report-identifies-a-watch-list-of-34-emerging-technologies-that-could-change-future-european-competitiveness-mprhbj0u</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-05-29T22:14:06.606Z</news:publication_date>
-      <news:title><![CDATA[2024 EIC Tech Report identifies a watch list of 34 emerging technologies that could change future European competitiveness]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/nist-expands-ai-consortiums-scope-calls-for-new-members-mprhbbdk</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-05-29T22:13:56.696Z</news:publication_date>
-      <news:title><![CDATA[NIST Expands AI Consortium’s Scope, Calls for New Members]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/russian-drone-targeting-ukraine-hits-apartment-building-in-romania-injuring-2-officials-say-mprhb69m</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-05-29T22:13:50.074Z</news:publication_date>
-      <news:title><![CDATA[Russian drone targeting Ukraine hits apartment building in Romania, injuring 2, officials say]]></news:title>
     </news:news>
   </url>
 </urlset>
