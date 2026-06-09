@@ -3,6 +3,162 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://newshubnow.in/article/openai-files-confidentially-for-ipo-as-ai-companies-rush-to-wall-st-mq61areo</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-06-09T02:42:09.600Z</news:publication_date>
+      <news:title><![CDATA[OpenAI Files Confidentially for IPO as AI Companies Rush to Wall St.]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/germany-and-france-drop-joint-fighter-jet-project-mq61agmp</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-06-09T02:41:55.633Z</news:publication_date>
+      <news:title><![CDATA[Germany and France drop joint fighter jet project]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/mcdonalds-testing-new-ai-ordering-technology-at-some-drive-thrus-mq5rpohu</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-06-08T22:13:49.506Z</news:publication_date>
+      <news:title><![CDATA[McDonald's testing new AI ordering technology at some drive-thrus]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/philippines-35-dead-after-earthquake-off-mindanao-coast-mq5rpjxd</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-06-08T22:13:43.585Z</news:publication_date>
+      <news:title><![CDATA[Philippines: 35 dead after earthquake off Mindanao coast]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/five-healthcare-technology-trends-in-2024-mq5rnmra</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-06-08T22:12:13.942Z</news:publication_date>
+      <news:title><![CDATA[Five healthcare technology trends in 2024]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/can-mark-carney-get-canadians-to-trust-ai-mq5rn9y7</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-06-08T22:11:57.343Z</news:publication_date>
+      <news:title><![CDATA[Can Mark Carney get Canadians to trust AI?]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/live-updates-israel-halts-iran-strikes-after-trump-claims-progress-toward-nuclear-talks-officials-say-mq5rn53y</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-06-08T22:11:51.070Z</news:publication_date>
+      <news:title><![CDATA[Live Updates: Israel Halts Iran Strikes After Trump Claims Progress Toward Nuclear Talks, Officials Say]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/comparing-india-with-taiwan-south-korea-on-semiconductors-not-very-accurate-union-minister-vaishnaw-mq61a7p0</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-06-08T14:41:27.000Z</news:publication_date>
+      <news:title><![CDATA[Comparing India with Taiwan, South Korea on semiconductors not very accurate: Union minister Vaishnaw]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/kerala-police-uses-viral-ai-video-of-rishabh-pant-knocking-down-drone-camera-to-spread-privacy-awareness-mq61ad4a</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-06-08T14:40:31.000Z</news:publication_date>
+      <news:title><![CDATA[Kerala Police Uses Viral AI VIDEO Of Rishabh Pant Knocking Down Drone Camera To Spread 'Privacy' Awareness]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/manav-suthars-dream-debut-indias-historic-test-triumph-mq5rpp77</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-06-08T10:13:43.000Z</news:publication_date>
+      <news:title><![CDATA[Manav Suthar's Dream Debut: India's Historic Test Triumph]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/after-kolkata-tmcs-rebellion-reaches-delhi-10-plus-mps-meet-bjps-bhupender-yadav-mq5rpk2r</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-06-08T10:13:32.000Z</news:publication_date>
+      <news:title><![CDATA[After Kolkata, TMC's rebellion reaches Delhi: 10 plus MPs meet BJP's Bhupender Yadav]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/escalation-in-west-asia-urges-diplomatic-solution-mq5rn5m4</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-06-08T10:11:37.000Z</news:publication_date>
+      <news:title><![CDATA[escalation in West Asia, urges diplomatic solution]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/step-inside-indian-model-avanti-nagraths-94-year-old-bungalow-in-new-delhi-that-blends-heritage-and-modernity-mq5rn7hu</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-06-08T10:11:04.000Z</news:publication_date>
+      <news:title><![CDATA[Step inside Indian model Avanti Nagrath's 94-year-old bungalow in New Delhi that blends heritage and modernity]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://newshubnow.in/article/amazon-unveils-latest-warehouse-robot-as-tech-giants-continue-ai-layoffs-mq4nmcdu</loc>
     <news:news>
       <news:publication>
@@ -27,146 +183,14 @@
   </url>
 
   <url>
-    <loc>https://newshubnow.in/article/trump-to-meet-ai-leaders-to-discuss-us-investment-in-their-companies-mq4bdznl</loc>
+    <loc>https://newshubnow.in/article/graham-platner-takes-questions-from-maine-voters-as-he-looks-to-stabilize-senate-campaign-ap-news-mq61a86a</loc>
     <news:news>
       <news:publication>
         <news:name>NewsHubNow</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-06-07T21:49:04.065Z</news:publication_date>
-      <news:title><![CDATA[Trump to meet AI leaders to discuss US investment in their companies]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/israel-strikes-beirut-after-hezbollah-attack-risking-iran-response-mq4bdtp4</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-06-07T21:48:56.344Z</news:publication_date>
-      <news:title><![CDATA[Israel strikes Beirut after Hezbollah attack, risking Iran response]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/billions-spent-and-hypothetical-returns-the-ai-boom-explained-with-six-charts-mq4bbw12</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-06-07T21:47:26.054Z</news:publication_date>
-      <news:title><![CDATA[Billions spent and hypothetical returns: the AI boom explained with six charts]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/iran-fires-missiles-towards-israel-as-idf-says-it-is-working-to-intercept-threats-follow-live-mq4bbsgb</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-06-07T21:47:21.419Z</news:publication_date>
-      <news:title><![CDATA[Iran fires missiles towards Israel as IDF says it is working to intercept threats - follow live]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/speaker-birla-calls-for-collective-efforts-for-a-developed-india-mq4nm7ut</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-06-07T15:30:06.000Z</news:publication_date>
-      <news:title><![CDATA[Speaker Birla calls for collective efforts for a developed India]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/-thiruvananthapuram-mq4nmcnm</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-06-07T15:20:34.000Z</news:publication_date>
-      <news:title><![CDATA[തിരുവനന്തപുരം റെയിൽവേ സ്റ്റേഷനിൽ സിഗ്നൽ തകരാർ - Thiruvananthapuram]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/people-said-cricket-had-no-scope-manav-suthars-emotional-reaction-after-india-debut-mq4bdt2n</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-06-07T09:48:00.000Z</news:publication_date>
-      <news:title><![CDATA[‘People said cricket had no scope’: Manav Suthar's emotional reaction after India debut]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/cricket-never-sleeps-in-india-big-talking-points-post-ipl-t20-mq4bbsba</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-06-07T09:46:58.000Z</news:publication_date>
-      <news:title><![CDATA[Cricket Never Sleeps In India: Big Talking Points Post-IPL T20]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/developments-in-west-asia-oil-prices-fii-trading-activity-key-factors-for-market-movement-analysts-mq4bdzft</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-06-07T09:45:32.000Z</news:publication_date>
-      <news:title><![CDATA[Developments in West Asia, Oil Prices, FII Trading Activity Key Factors for Market Movement: Analysts]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/novel-artificial-intelligence-technology-improves-eye-disease-diagnosis-mq37ytys</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-06-07T03:25:31.828Z</news:publication_date>
-      <news:title><![CDATA[Novel artificial intelligence technology improves eye disease diagnosis]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/pope-leo-visits-a-polarized-spain-where-conservatives-are-turning-on-the-church-mq37yjf8</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-06-07T03:25:18.164Z</news:publication_date>
-      <news:title><![CDATA[Pope Leo visits a polarized Spain where conservatives are turning on the church]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/missing-auburn-university-student-in-japan-found-dead-mother-says-unimaginable-loss-cbs-news-mq4nm91j</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-06-07T01:57:03.000Z</news:publication_date>
-      <news:title><![CDATA[Missing Auburn University student in Japan found dead, mother says: "Unimaginable loss" - CBS News]]></news:title>
+      <news:publication_date>2026-06-08T01:11:00.000Z</news:publication_date>
+      <news:title><![CDATA[Graham Platner takes questions from Maine voters as he looks to stabilize Senate campaign - AP News]]></news:title>
     </news:news>
   </url>
 </urlset>
