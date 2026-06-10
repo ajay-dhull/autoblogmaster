@@ -3,194 +3,242 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
-    <loc>https://newshubnow.in/article/openai-files-confidentially-for-ipo-as-ai-companies-rush-to-wall-st-mq61areo</loc>
+    <loc>https://newshubnow.in/article/new-backing-for-open-source-ai-builders-data-centre-design-challenge-and-robotics-partnership-mq8mhs7a</loc>
     <news:news>
       <news:publication>
         <news:name>NewsHubNow</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-06-09T02:42:09.600Z</news:publication_date>
-      <news:title><![CDATA[OpenAI Files Confidentially for IPO as AI Companies Rush to Wall St.]]></news:title>
+      <news:publication_date>2026-06-10T22:11:01.510Z</news:publication_date>
+      <news:title><![CDATA[New backing for open-source AI builders, data centre design challenge and robotics partnership]]></news:title>
     </news:news>
   </url>
 
   <url>
-    <loc>https://newshubnow.in/article/germany-and-france-drop-joint-fighter-jet-project-mq61agmp</loc>
+    <loc>https://newshubnow.in/article/trump-holds-meeting-on-iran-strike-options-mq8mhg9l</loc>
     <news:news>
       <news:publication>
         <news:name>NewsHubNow</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-06-09T02:41:55.633Z</news:publication_date>
-      <news:title><![CDATA[Germany and France drop joint fighter jet project]]></news:title>
+      <news:publication_date>2026-06-10T22:10:46.041Z</news:publication_date>
+      <news:title><![CDATA[Trump holds meeting on Iran strike options]]></news:title>
     </news:news>
   </url>
 
   <url>
-    <loc>https://newshubnow.in/article/mcdonalds-testing-new-ai-ordering-technology-at-some-drive-thrus-mq5rpohu</loc>
+    <loc>https://newshubnow.in/article/anthropic-releases-mythos-like-ai-model-to-the-public-two-months-after-private-rollout-rocked-wall-street-mq8kir4f</loc>
     <news:news>
       <news:publication>
         <news:name>NewsHubNow</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-06-08T22:13:49.506Z</news:publication_date>
-      <news:title><![CDATA[McDonald's testing new AI ordering technology at some drive-thrus]]></news:title>
+      <news:publication_date>2026-06-10T21:15:47.535Z</news:publication_date>
+      <news:title><![CDATA[Anthropic releases Mythos-like AI model to the public two months after private rollout rocked Wall Street]]></news:title>
     </news:news>
   </url>
 
   <url>
-    <loc>https://newshubnow.in/article/philippines-35-dead-after-earthquake-off-mindanao-coast-mq5rpjxd</loc>
+    <loc>https://newshubnow.in/article/air-canada-pilot-accused-of-flying-for-17-years-without-proper-license-mq8kinrk</loc>
     <news:news>
       <news:publication>
         <news:name>NewsHubNow</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-06-08T22:13:43.585Z</news:publication_date>
-      <news:title><![CDATA[Philippines: 35 dead after earthquake off Mindanao coast]]></news:title>
+      <news:publication_date>2026-06-10T21:15:43.184Z</news:publication_date>
+      <news:title><![CDATA[Air Canada Pilot Accused of Flying for 17 Years Without Proper License]]></news:title>
     </news:news>
   </url>
 
   <url>
-    <loc>https://newshubnow.in/article/five-healthcare-technology-trends-in-2024-mq5rnmra</loc>
+    <loc>https://newshubnow.in/article/the-50-greatest-innovations-of-2024-mq8jswbp</loc>
     <news:news>
       <news:publication>
         <news:name>NewsHubNow</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-06-08T22:12:13.942Z</news:publication_date>
-      <news:title><![CDATA[Five healthcare technology trends in 2024]]></news:title>
+      <news:publication_date>2026-06-10T20:55:41.221Z</news:publication_date>
+      <news:title><![CDATA[The 50 greatest innovations of 2024]]></news:title>
     </news:news>
   </url>
 
   <url>
-    <loc>https://newshubnow.in/article/can-mark-carney-get-canadians-to-trust-ai-mq5rn9y7</loc>
+    <loc>https://newshubnow.in/article/conference-on-developing-ai-technology-comes-to-denver-mq8jsr0j</loc>
     <news:news>
       <news:publication>
         <news:name>NewsHubNow</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-06-08T22:11:57.343Z</news:publication_date>
-      <news:title><![CDATA[Can Mark Carney get Canadians to trust AI?]]></news:title>
+      <news:publication_date>2026-06-10T20:55:34.339Z</news:publication_date>
+      <news:title><![CDATA[Conference on developing AI technology comes to Denver]]></news:title>
     </news:news>
   </url>
 
   <url>
-    <loc>https://newshubnow.in/article/live-updates-israel-halts-iran-strikes-after-trump-claims-progress-toward-nuclear-talks-officials-say-mq5rn53y</loc>
+    <loc>https://newshubnow.in/article/iran-updates-us-will-hit-iran-hard-again-after-playing-us-for-suckers-trump-says-mq8jsog2</loc>
     <news:news>
       <news:publication>
         <news:name>NewsHubNow</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-06-08T22:11:51.070Z</news:publication_date>
-      <news:title><![CDATA[Live Updates: Israel Halts Iran Strikes After Trump Claims Progress Toward Nuclear Talks, Officials Say]]></news:title>
+      <news:publication_date>2026-06-10T20:55:31.010Z</news:publication_date>
+      <news:title><![CDATA[Iran Updates: U.S. will hit Iran "hard" again after "playing us for suckers," Trump says]]></news:title>
     </news:news>
   </url>
 
   <url>
-    <loc>https://newshubnow.in/article/comparing-india-with-taiwan-south-korea-on-semiconductors-not-very-accurate-union-minister-vaishnaw-mq61a7p0</loc>
+    <loc>https://newshubnow.in/article/whos-suing-ai-and-whos-signing-brazils-folha-settles-openai-lawsuit-with-commercial-deal-mq8hfd1c</loc>
     <news:news>
       <news:publication>
         <news:name>NewsHubNow</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-06-08T14:41:27.000Z</news:publication_date>
-      <news:title><![CDATA[Comparing India with Taiwan, South Korea on semiconductors not very accurate: Union minister Vaishnaw]]></news:title>
+      <news:publication_date>2026-06-10T19:49:10.464Z</news:publication_date>
+      <news:title><![CDATA[Who's suing AI and who's signing: Brazil's Folha settles OpenAI lawsuit with commercial deal]]></news:title>
     </news:news>
   </url>
 
   <url>
-    <loc>https://newshubnow.in/article/kerala-police-uses-viral-ai-video-of-rishabh-pant-knocking-down-drone-camera-to-spread-privacy-awareness-mq61ad4a</loc>
+    <loc>https://newshubnow.in/article/one-protestor-killed-in-kenya-protests-over-ebola-quarantine-for-americans-mq8hf57e</loc>
     <news:news>
       <news:publication>
         <news:name>NewsHubNow</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-06-08T14:40:31.000Z</news:publication_date>
-      <news:title><![CDATA[Kerala Police Uses Viral AI VIDEO Of Rishabh Pant Knocking Down Drone Camera To Spread 'Privacy' Awareness]]></news:title>
+      <news:publication_date>2026-06-10T19:49:00.314Z</news:publication_date>
+      <news:title><![CDATA[One protestor killed in Kenya protests over Ebola quarantine for Americans]]></news:title>
     </news:news>
   </url>
 
   <url>
-    <loc>https://newshubnow.in/article/manav-suthars-dream-debut-indias-historic-test-triumph-mq5rpp77</loc>
+    <loc>https://newshubnow.in/article/apple-unveils-siri-ai-makeover-as-tim-cook-bids-farewell-mq8ggl0q</loc>
     <news:news>
       <news:publication>
         <news:name>NewsHubNow</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-06-08T10:13:43.000Z</news:publication_date>
-      <news:title><![CDATA[Manav Suthar's Dream Debut: India's Historic Test Triumph]]></news:title>
+      <news:publication_date>2026-06-10T19:22:07.850Z</news:publication_date>
+      <news:title><![CDATA[Apple unveils Siri AI makeover as Tim Cook bids farewell]]></news:title>
     </news:news>
   </url>
 
   <url>
-    <loc>https://newshubnow.in/article/after-kolkata-tmcs-rebellion-reaches-delhi-10-plus-mps-meet-bjps-bhupender-yadav-mq5rpk2r</loc>
+    <loc>https://newshubnow.in/article/knife-attack-victims-family-calls-for-calm-after-anti-immigrant-violence-in-belfast-mq8ggez7</loc>
     <news:news>
       <news:publication>
         <news:name>NewsHubNow</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-06-08T10:13:32.000Z</news:publication_date>
-      <news:title><![CDATA[After Kolkata, TMC's rebellion reaches Delhi: 10 plus MPs meet BJP's Bhupender Yadav]]></news:title>
+      <news:publication_date>2026-06-10T19:22:00.020Z</news:publication_date>
+      <news:title><![CDATA[Knife attack victim's family calls for calm after anti-immigrant violence in Belfast]]></news:title>
     </news:news>
   </url>
 
   <url>
-    <loc>https://newshubnow.in/article/escalation-in-west-asia-urges-diplomatic-solution-mq5rn5m4</loc>
+    <loc>https://newshubnow.in/article/ai-jobs-and-the-next-generation-mq8fhb48</loc>
     <news:news>
       <news:publication>
         <news:name>NewsHubNow</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-06-08T10:11:37.000Z</news:publication_date>
-      <news:title><![CDATA[escalation in West Asia, urges diplomatic solution]]></news:title>
+      <news:publication_date>2026-06-10T18:54:42.056Z</news:publication_date>
+      <news:title><![CDATA[AI, jobs, and the next generation]]></news:title>
     </news:news>
   </url>
 
   <url>
-    <loc>https://newshubnow.in/article/step-inside-indian-model-avanti-nagraths-94-year-old-bungalow-in-new-delhi-that-blends-heritage-and-modernity-mq5rn7hu</loc>
+    <loc>https://newshubnow.in/article/middle-east-crisis-live-us-going-to-hit-iran-hard-again-today-says-trump-mq8fh95z</loc>
     <news:news>
       <news:publication>
         <news:name>NewsHubNow</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-06-08T10:11:04.000Z</news:publication_date>
-      <news:title><![CDATA[Step inside Indian model Avanti Nagrath's 94-year-old bungalow in New Delhi that blends heritage and modernity]]></news:title>
+      <news:publication_date>2026-06-10T18:54:39.527Z</news:publication_date>
+      <news:title><![CDATA[Middle East crisis live: US going to hit Iran ‘hard’ again today, says Trump]]></news:title>
     </news:news>
   </url>
 
   <url>
-    <loc>https://newshubnow.in/article/amazon-unveils-latest-warehouse-robot-as-tech-giants-continue-ai-layoffs-mq4nmcdu</loc>
+    <loc>https://newshubnow.in/article/fds-regaining-focus-as-market-volatility-sparks-flight-to-safety-mq8mhg5i</loc>
     <news:news>
       <news:publication>
         <news:name>NewsHubNow</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-06-08T03:31:29.202Z</news:publication_date>
-      <news:title><![CDATA[Amazon unveils latest warehouse robot as tech giants continue AI layoffs]]></news:title>
+      <news:publication_date>2026-06-10T10:09:36.000Z</news:publication_date>
+      <news:title><![CDATA[FDs Regaining Focus As Market Volatility Sparks Flight To Safety]]></news:title>
     </news:news>
   </url>
 
   <url>
-    <loc>https://newshubnow.in/article/live-updates-iran-fires-missiles-at-israel-for-first-time-since-april-cease-fire-mq4nm8yr</loc>
+    <loc>https://newshubnow.in/article/india-rejects-us-claims-of-excess-capacity-in-textiles-and-steel-mq8mhkpj</loc>
     <news:news>
       <news:publication>
         <news:name>NewsHubNow</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-06-08T03:31:24.771Z</news:publication_date>
-      <news:title><![CDATA[Live Updates: Iran Fires Missiles at Israel for First Time Since April Cease-Fire]]></news:title>
+      <news:publication_date>2026-06-10T10:09:17.000Z</news:publication_date>
+      <news:title><![CDATA[India Rejects US Claims Of Excess Capacity In Textiles And Steel]]></news:title>
     </news:news>
   </url>
 
   <url>
-    <loc>https://newshubnow.in/article/graham-platner-takes-questions-from-maine-voters-as-he-looks-to-stabilize-senate-campaign-ap-news-mq61a86a</loc>
+    <loc>https://newshubnow.in/article/indigo-weighs-himalayan-overflights-to-offset-airspace-disruptions-mq8kisx9</loc>
     <news:news>
       <news:publication>
         <news:name>NewsHubNow</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-06-08T01:11:00.000Z</news:publication_date>
-      <news:title><![CDATA[Graham Platner takes questions from Maine voters as he looks to stabilize Senate campaign - AP News]]></news:title>
+      <news:publication_date>2026-06-10T09:15:40.000Z</news:publication_date>
+      <news:title><![CDATA[IndiGo Weighs Himalayan Overflights To Offset Airspace Disruptions]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/india-incs-new-supply-chain-strategy-replacing-efficiency-with-resilience-mq8kimma</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-06-10T09:15:20.000Z</news:publication_date>
+      <news:title><![CDATA[India Inc's new supply chain strategy: Replacing efficiency with resilience]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/altered-video-of-amit-shah-stating-jaac-will-help-india-get-pok-goes-viral-mq8jsohs</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-06-10T08:55:13.000Z</news:publication_date>
+      <news:title><![CDATA[Altered Video of Amit Shah Stating JAAC Will Help India Get PoK Goes Viral]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/nearly-half-of-indian-firms-fear-marsh-study-flags-emerging-workplace-risks-mq8jsudm</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-06-10T08:52:24.000Z</news:publication_date>
+      <news:title><![CDATA['Nearly half of Indian firms fear...': Marsh study flags emerging workplace risks]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/planning-to-fly-from-jewar-air-india-express-pulls-out-what-changes-for-you-mq8hf5ox</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-06-10T07:48:25.000Z</news:publication_date>
+      <news:title><![CDATA[Planning to fly from Jewar? Air India Express pulls out. What changes for you]]></news:title>
     </news:news>
   </url>
 </urlset>
