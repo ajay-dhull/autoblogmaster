@@ -3,6 +3,90 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://newshubnow.in/article/anthropic-says-it-has-taken-its-latest-ai-models-offline-to-comply-with-new-export-controls-mqbridda</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-06-13T02:54:45.550Z</news:publication_date>
+      <news:title><![CDATA[Anthropic says it has taken its latest AI models offline to comply with new export controls]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/canada-earn-first-ever-world-cup-point-with-bosnia-draw-how-important-could-this-be-for-jesse-marschs-side-mqbri7cz</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-06-13T02:54:37.763Z</news:publication_date>
+      <news:title><![CDATA[Canada earn first ever World Cup point with Bosnia draw. How important could this be for Jesse Marsch’s side?]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/eu-agrees-launch-of-accession-process-for-ukraine-and-moldova-mqbjqqg1</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-06-12T23:17:18.817Z</news:publication_date>
+      <news:title><![CDATA[EU agrees launch of accession process for Ukraine and Moldova]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/i-have-a-duty-to-stay-on-says-pm-as-he-justifies-defence-spending-decisions-mqbinfvy</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-06-12T22:46:45.550Z</news:publication_date>
+      <news:title><![CDATA[I have a duty to stay on, says PM as he justifies defence spending decisions]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/number-of-arrests-after-riots-in-northern-ireland-rises-to-19-mqbhdp6i</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-06-12T22:11:11.418Z</news:publication_date>
+      <news:title><![CDATA[Number of arrests after riots in Northern Ireland rises to 19]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/the-trends-that-will-shape-ai-and-tech-in-2026-mqbhbnm7</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-06-12T22:09:36.079Z</news:publication_date>
+      <news:title><![CDATA[The trends that will shape AI and tech in 2026]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/eu-countries-agree-to-unblock-accession-talks-with-ukraine-and-moldova-mqbhbj38</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-06-12T22:09:30.212Z</news:publication_date>
+      <news:title><![CDATA[EU countries agree to unblock accession talks with Ukraine and Moldova]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://newshubnow.in/article/trump-has-backed-away-from-renewed-war-with-iran-heres-why-mqbfs0ob</loc>
     <news:news>
       <news:publication>
@@ -63,6 +147,30 @@
   </url>
 
   <url>
+    <loc>https://newshubnow.in/article/--mqbrid3z</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-06-12T14:54:00.000Z</news:publication_date>
+      <news:title><![CDATA[भारतीय जहाजों पर हमला बर्दाश्त नहीं, ट्रंप ने ईरान पर फोड़ा ठीकरा]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/ind-vs-afg-1st-odi-morne-morkel-chalks-indias-plan-to-replace-virat-kohli-at-number-3-mqbri72m</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-06-12T14:53:14.000Z</news:publication_date>
+      <news:title><![CDATA[IND Vs AFG, 1st ODI: Morne Morkel chalks India's plan to replace Virat Kohli at number 3]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://newshubnow.in/article/xiaomis-latest-ai-coding-tool-claims-to-outperform-claude-code-on-complex-tasks-mqay2zbn</loc>
     <news:news>
       <news:publication>
@@ -111,134 +219,26 @@
   </url>
 
   <url>
-    <loc>https://newshubnow.in/article/swiss-voters-weigh-worlds-first-population-cap-mqaswx2h</loc>
+    <loc>https://newshubnow.in/article/india-summons-us-charge-daffaires-over-strikes-on-merchant-ships-with-indian-crew-mqbjqpik</loc>
     <news:news>
       <news:publication>
         <news:name>NewsHubNow</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-06-12T10:46:17.705Z</news:publication_date>
-      <news:title><![CDATA[Swiss voters weigh world’s first population cap]]></news:title>
+      <news:publication_date>2026-06-12T11:16:35.000Z</news:publication_date>
+      <news:title><![CDATA[India summons US charge d'affaires over strikes on merchant ships with Indian crew]]></news:title>
     </news:news>
   </url>
 
   <url>
-    <loc>https://newshubnow.in/article/fsus-2026-artificial-intelligence-and-machine-learning-expo-explores-latest-applications-for-technology-across-industries-mqaqq0wg</loc>
+    <loc>https://newshubnow.in/article/all-you-need-to-know-about-the-byd-seal-u-before-it-lands-in-india-this-year-mqbinb8c</loc>
     <news:news>
       <news:publication>
         <news:name>NewsHubNow</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-06-12T09:44:56.848Z</news:publication_date>
-      <news:title><![CDATA[FSU’S 2026 Artificial Intelligence and Machine Learning Expo explores latest applications for technology across industries]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/ukraines-newest-generation-of-strike-drones-is-crippling-russias-bridges-in-the-south-mqaqpvf2</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-06-12T09:44:49.743Z</news:publication_date>
-      <news:title><![CDATA[Ukraine's newest generation of strike drones is crippling Russia's bridges in the south]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/india-on-high-alert-as-jamaat-plans-border-protests-over-illegal-bangladeshi-repatriation-mqbfs09b</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-06-12T09:26:04.000Z</news:publication_date>
-      <news:title><![CDATA[India on high alert as Jamaat plans border protests over illegal Bangladeshi repatriation]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/kinshuk-kocher-from-delhi-to-los-angeles-the-indian-entrepreneur-reshaping-health-tech-investments-in-america-mqbfs5ib</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-06-12T09:24:12.000Z</news:publication_date>
-      <news:title><![CDATA[Kinshuk Kocher: From Delhi To Los Angeles, The Indian Entrepreneur Reshaping Health Tech Investments In America]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/elon-musks-companies-could-be-attacked-by-iran-state-media-reports-mqapaa11</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-06-12T09:04:42.565Z</news:publication_date>
-      <news:title><![CDATA[Elon Musk’s Companies Could Be Attacked By Iran, State Media Reports]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/settebello-three-indian-sailors-killed-in-us-strike-on-tanker-in-gulf-of-oman-mqaofm2h</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-06-12T08:40:51.833Z</news:publication_date>
-      <news:title><![CDATA[Settebello: Three Indian sailors killed in US strike on tanker in Gulf of Oman]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/south-koreas-ex-president-yoon-gets-30-years-over-drone-operation-mqandknc</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-06-12T08:11:17.064Z</news:publication_date>
-      <news:title><![CDATA[South Korea’s ex-President Yoon gets 30 years over drone operation]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/macquaries-top-power-picks-ntpc-leads-eyes-40-rally-in-power-grid-amid-51-billion-investment-estimates-mqbc5pmn</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-06-12T07:44:45.000Z</news:publication_date>
-      <news:title><![CDATA[Macquarie’s top power picks: NTPC leads, eyes 40% rally in Power Grid amid $51 billion investment estimates]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/indias-agri-food-strategy-in-a-changing-global-economy-mqbc5uba</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-06-12T07:44:18.000Z</news:publication_date>
-      <news:title><![CDATA[India’s agri-food strategy in a changing global economy]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/the-small-town-voters-deciding-the-uks-future-are-demanding-change-our-focus-group-found-mqam13wo</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-06-12T07:33:35.880Z</news:publication_date>
-      <news:title><![CDATA[The small-town voters deciding the UK’s future are demanding change, our focus group found]]></news:title>
+      <news:publication_date>2026-06-12T10:46:26.000Z</news:publication_date>
+      <news:title><![CDATA[All you need to know about the BYD Seal U before it lands in India this year]]></news:title>
     </news:news>
   </url>
 </urlset>
