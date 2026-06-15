@@ -3,6 +3,222 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://newshubnow.in/article/aitx-otc-aitx-projects-roameo-deployments-and-recurring-revenue-potential-mqf7r445</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-06-15T12:52:45.845Z</news:publication_date>
+      <news:title><![CDATA[AITX (OTC: AITX) projects ROAMEO deployments and recurring revenue potential]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/starmer-says-britain-will-ban-under-16s-from-using-social-media-apps-including-tiktok-and-youtube-mqf7r0ks</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-06-15T12:52:41.260Z</news:publication_date>
+      <news:title><![CDATA[Starmer says Britain will ban under-16s from using social media apps including TikTok and YouTube]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/anthropic-pulls-its-most-powerful-ai-models-after-us-bars-foreign-access-mqeo2uv7</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-06-15T03:42:01.411Z</news:publication_date>
+      <news:title><![CDATA[Anthropic Pulls Its Most Powerful AI Models After U.S. Bars Foreign Access]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/trump-condemns-israels-attack-on-beirut-as-iran-says-us-responsible-mqeo2jgd</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-06-15T03:41:46.621Z</news:publication_date>
+      <news:title><![CDATA[Trump condemns Israel’s attack on Beirut as Iran says US responsible]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/skilled-blue-collar-talent-in-demand-amid-ai-surge-mqf7qzbd</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-06-15T00:52:00.000Z</news:publication_date>
+      <news:title><![CDATA[Skilled blue-collar talent in demand amid AI surge]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/globe-at-a-glance-from-us-iran-agreement-to-pm-modi-in-slovakia-mqf7r696</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-06-15T00:42:15.000Z</news:publication_date>
+      <news:title><![CDATA[Globe at a glance: From US-Iran agreement to PM Modi in Slovakia]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/us-asks-anthropic-to-block-global-access-to-top-ai-models-why-it-matters-mqebps3m</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-06-14T21:55:55.906Z</news:publication_date>
+      <news:title><![CDATA[US asks Anthropic to block global access to top AI models: Why it matters]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/swiss-vote-against-proposal-to-cap-population-at-10-million-mqebpnmy</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-06-14T21:55:50.122Z</news:publication_date>
+      <news:title><![CDATA[Swiss vote against proposal to cap population at 10 million]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/new-artificial-intelligence-minor-launches-this-fall-mqebnncc</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-06-14T21:54:16.429Z</news:publication_date>
+      <news:title><![CDATA[New artificial intelligence minor launches this fall]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/live-updates-trump-says-agreement-reached-with-iran-mqebnig3</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-06-14T21:54:10.083Z</news:publication_date>
+      <news:title><![CDATA[Live updates: Trump says agreement reached with Iran]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/modi-macron-review-india-france-strategic-ties-boost-cooperation-in-ai-startups-and-trade-mqeo2cy1</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-06-14T15:40:32.000Z</news:publication_date>
+      <news:title><![CDATA[Modi, Macron review India-France strategic ties, boost cooperation in AI, startups and trade]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/bring-back-his-mortal-remains-wife-of-indian-seafarer-who-died-aboard-vessel-in-oman-seeks-justice-mqeo2i0k</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-06-14T15:37:00.000Z</news:publication_date>
+      <news:title><![CDATA[‘Bring back his mortal remains’: Wife of Indian seafarer who died aboard vessel in Oman seeks ‘justice’]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/adhd-is-linked-to-chronic-pain-and-other-conditions-heres-what-we-know-the-washington-post-mqf7r0bx</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-06-14T10:20:35.000Z</news:publication_date>
+      <news:title><![CDATA[ADHD is linked to chronic pain and other conditions. Here’s what we know. - The Washington Post]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/5-work-from-anywhere-options-i-asked-chatgpt-for-budget-friendly-options-to-enjoy-summer-vacation-during-remote-work-mqebpnyu</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-06-14T09:55:13.000Z</news:publication_date>
+      <news:title><![CDATA[5 Work From Anywhere options: I asked ChatGPT for budget-friendly options to enjoy summer vacation during remote work]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/forbes-list-of-americas-most-successful-immigrants-features-27-indian-origin-leaders-mqebneop</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-06-14T09:53:28.000Z</news:publication_date>
+      <news:title><![CDATA[Forbes’ List of America’s Most Successful Immigrants Features 27 Indian-Origin Leaders]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/macron-welcomes-pm-modi-in-nice-ahead-of-bharat-innovates-launch-watch-mqebn963</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-06-14T09:53:14.000Z</news:publication_date>
+      <news:title><![CDATA[Macron welcomes PM Modi in Nice ahead of Bharat Innovates launch | Watch]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/pm-modi-macron-inaugurate-bharat-innovates-2026-to-connect-indian-startups-with-global-investors-mqebpsiv</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-06-14T09:52:12.000Z</news:publication_date>
+      <news:title><![CDATA[PM Modi, Macron Inaugurate Bharat Innovates 2026 To Connect Indian Startups With Global Investors]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/new-york-knicks-win-nba-championship-for-first-time-in-over-50-years-bbc-mqeo2bhv</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-06-14T03:41:26.000Z</news:publication_date>
+      <news:title><![CDATA[New York Knicks win NBA championship for first time in over 50 years - BBC]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://newshubnow.in/article/us-bars-foreigners-from-using-anthropics-most-advanced-ai-models-mqd8ald7</loc>
     <news:news>
       <news:publication>
@@ -23,222 +239,6 @@
       </news:publication>
       <news:publication_date>2026-06-14T03:32:13.276Z</news:publication_date>
       <news:title><![CDATA[Trump to attend dinner at Versailles post-G7]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/anthropic-shuts-down-newest-ai-model-after-us-bans-foreign-use-mqcw46tj</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-06-13T21:51:28.135Z</news:publication_date>
-      <news:title><![CDATA[Anthropic shuts down newest AI model after U.S. bans foreign use]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/uae-denies-false-reports-of-fund-transfer-to-iran-mqcw41bi</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-06-13T21:51:21.006Z</news:publication_date>
-      <news:title><![CDATA[UAE denies 'false' reports of fund transfer to Iran]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/20-new-technology-trends-for-2026-emerging-technologies-2026-mqcw1q5z</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-06-13T21:49:33.240Z</news:publication_date>
-      <news:title><![CDATA[20 New Technology Trends for 2026 | Emerging Technologies 2026]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/us-orders-anthropic-to-disable-ai-models-for-all-foreign-nationals-mqcw1l1i</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-06-13T21:49:26.598Z</news:publication_date>
-      <news:title><![CDATA[US orders Anthropic to disable AI models for all foreign nationals]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/ukrainian-drone-strike-kills-1-in-southern-russia-and-triggers-fire-at-sea-terminal-mqcw1eu1</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-06-13T21:49:18.553Z</news:publication_date>
-      <news:title><![CDATA[Ukrainian drone strike kills 1 in southern Russia and triggers fire at sea terminal]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/rms-chail-alumnus-lt-vishal-kumar-wins-sword-of-honour-presidents-gold-medal-mqd8aivd</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-06-13T15:31:54.000Z</news:publication_date>
-      <news:title><![CDATA[RMS Chail alumnus Lt Vishal Kumar wins Sword of Honour, President’s Gold Medal]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/ind-vs-afg-1st-odi-rahmanullah-gurbaz-century-lights-up-weather-interrupted-series-opener-in-dharamsala-mqd8ado0</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-06-13T15:29:58.000Z</news:publication_date>
-      <news:title><![CDATA[IND Vs AFG, 1st ODI: Rahmanullah Gurbaz Century Lights Up Weather-Interrupted Series Opener In Dharamsala]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/revealed-when-is-the-cut-off-time-for-a-20-over-match-in-the-rain-hit-india-afghanistan-1st-odi-at-dharamshala-mqcw41h1</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-06-13T09:49:51.000Z</news:publication_date>
-      <news:title><![CDATA[Revealed! When Is The Cut-Off Time For A 20-Over Match In The Rain-Hit India-Afghanistan 1st ODI At Dharamshala?]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/trust-only-true-currency-for-insolvency-professionals-says-official-mqcw1dzs</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-06-13T09:48:48.000Z</news:publication_date>
-      <news:title><![CDATA[Trust Only True Currency For Insolvency Professionals, Says Official]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/india-can-absorb-oil-at-90-a-barrel-but-growth-and-inflation-risks-rise-beyond-that-avendus-mqcw1iv1</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-06-13T09:48:39.000Z</news:publication_date>
-      <news:title><![CDATA[India can absorb oil at $90 a barrel, but growth and inflation risks rise beyond that: Avendus]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/who-are-the-indian-origin-players-in-this-expanded-48-team-edition-heres-all-you-need-to-know-mqcw46kx</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-06-13T09:46:32.000Z</news:publication_date>
-      <news:title><![CDATA[Who are the Indian origin players in this expanded 48-team edition? Here's all you need to know]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/anthropic-says-it-has-taken-its-latest-ai-models-offline-to-comply-with-new-export-controls-mqbridda</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-06-13T02:54:45.550Z</news:publication_date>
-      <news:title><![CDATA[Anthropic says it has taken its latest AI models offline to comply with new export controls]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/canada-earn-first-ever-world-cup-point-with-bosnia-draw-how-important-could-this-be-for-jesse-marschs-side-mqbri7cz</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-06-13T02:54:37.763Z</news:publication_date>
-      <news:title><![CDATA[Canada earn first ever World Cup point with Bosnia draw. How important could this be for Jesse Marsch’s side?]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/trumps-name-is-poised-to-be-removed-from-the-kennedy-center-npr-mqd8ad6x</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-06-13T01:53:58.000Z</news:publication_date>
-      <news:title><![CDATA[Trump's name is poised to be removed from the Kennedy Center - NPR]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/eu-agrees-launch-of-accession-process-for-ukraine-and-moldova-mqbjqqg1</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-06-12T23:17:18.817Z</news:publication_date>
-      <news:title><![CDATA[EU agrees launch of accession process for Ukraine and Moldova]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/i-have-a-duty-to-stay-on-says-pm-as-he-justifies-defence-spending-decisions-mqbinfvy</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-06-12T22:46:45.550Z</news:publication_date>
-      <news:title><![CDATA[I have a duty to stay on, says PM as he justifies defence spending decisions]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/canada-draws-with-bosnia-1-1-in-co-hosts-world-cup-opener-cnn-mqcw1ed6</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-06-12T22:26:00.000Z</news:publication_date>
-      <news:title><![CDATA[Canada draws with Bosnia 1-1 in co-host’s World Cup opener - CNN]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/elon-musk-becomes-the-first-trillionaire-as-spacex-soars-in-its-market-debut-the-washington-post-mqcw4220</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-06-12T22:11:38.000Z</news:publication_date>
-      <news:title><![CDATA[Elon Musk becomes the first trillionaire as SpaceX soars in its market debut - The Washington Post]]></news:title>
     </news:news>
   </url>
 </urlset>
