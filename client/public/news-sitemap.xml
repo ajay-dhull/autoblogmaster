@@ -3,6 +3,126 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://newshubnow.in/article/keir-starmer-is-a-dead-man-walking-trevor-kavanagh-mqixvat5</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-06-18T03:27:09.689Z</news:publication_date>
+      <news:title><![CDATA[Keir Starmer Is A 'DEAD MAN WALKING' | Trevor Kavanagh]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/anthropic-disables-new-ai-model-after-white-house-security-directive-mqix8h3t</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-06-18T03:09:24.761Z</news:publication_date>
+      <news:title><![CDATA[Anthropic disables new AI model after White House security directive]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/how-macron-won-trump-round-at-the-g7-until-the-next-bust-up-mqix8akg</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-06-18T03:09:16.288Z</news:publication_date>
+      <news:title><![CDATA[How Macron won Trump round at the G7. Until the next bust-up.]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/28-profitable-tech-business-ideas-to-launch-in-2026-mqiwe6s9</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-06-18T02:45:51.705Z</news:publication_date>
+      <news:title><![CDATA[28 Profitable Tech Business Ideas to Launch in 2026]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/heres-how-ai-could-help-astronomers-unlock-new-secrets-about-meteors-mqiwdyz7</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-06-18T02:45:41.587Z</news:publication_date>
+      <news:title><![CDATA[Here's how AI could help astronomers unlock new secrets about meteors]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/heres-how-much-the-iran-war-cost-and-how-its-effects-will-linger-mqiwdunx</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-06-18T02:45:35.997Z</news:publication_date>
+      <news:title><![CDATA[Here's how much the Iran war cost — and how its effects will linger]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/effect-artificial-intelligence-technology-solutions-inc-sec-filing-mqin2gv8</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-06-17T22:24:48.356Z</news:publication_date>
+      <news:title><![CDATA[[EFFECT] Artificial Intelligence Technology Solutions Inc. SEC Filing]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/heres-how-much-the-the-iran-war-cost-and-how-its-effects-will-linger-mqin28tz</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-06-17T22:24:37.943Z</news:publication_date>
+      <news:title><![CDATA[Here's how much the the Iran war cost — and how its effects will linger]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/trump-says-anthropic-negotiations-continue-as-ai-leaders-huddle-at-g-7-mqin05fr</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-06-17T22:23:00.231Z</news:publication_date>
+      <news:title><![CDATA[Trump Says Anthropic Negotiations Continue as AI Leaders Huddle at G-7]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/ukraines-deep-strikes-leaving-russia-short-on-air-defense-missiles-possibly-at-an-unsustainable-rate-mqin02ih</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-06-17T22:22:56.441Z</news:publication_date>
+      <news:title><![CDATA[Ukraine's deep strikes leaving Russia short on air defense missiles, possibly at an "unsustainable rate"]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://newshubnow.in/article/spacex-is-now-worth-more-than-amazon-heres-my-prediction-for-what-comes-next-mqiidkm0</loc>
     <news:news>
       <news:publication>
@@ -51,194 +171,74 @@
   </url>
 
   <url>
-    <loc>https://newshubnow.in/article/australian-right-wing-leader-pauline-hanson-says-multiculturalism-has-failed-mqhw05vh</loc>
+    <loc>https://newshubnow.in/article/trump-says-india-us-are-very-close-to-finalising-trade-deal-calls-modi-a-tough-negotiator-mqixv9vx</loc>
     <news:news>
       <news:publication>
         <news:name>NewsHubNow</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-06-17T09:47:11.165Z</news:publication_date>
-      <news:title><![CDATA[Australian right-wing leader Pauline Hanson says multiculturalism has failed]]></news:title>
+      <news:publication_date>2026-06-17T15:27:00.000Z</news:publication_date>
+      <news:title><![CDATA[Trump Says India & US Are Very Close To Finalising Trade Deal, Calls Modi A 'Tough Negotiator']]></news:title>
     </news:news>
   </url>
 
   <url>
-    <loc>https://newshubnow.in/article/the-latest-ai-news-we-announced-in-april-2026-mqhv937p</loc>
+    <loc>https://newshubnow.in/article/--mqixveuy</loc>
     <news:news>
       <news:publication>
         <news:name>NewsHubNow</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-06-17T09:26:08.005Z</news:publication_date>
-      <news:title><![CDATA[The latest AI news we announced in April 2026]]></news:title>
+      <news:publication_date>2026-06-17T15:27:00.000Z</news:publication_date>
+      <news:title><![CDATA[भारत की शिक्षा प्रणाली हमारे बच्चों पर दबाव डालती है, कोटा में छात्रों से बोले राहुल गांधी]]></news:title>
     </news:news>
   </url>
 
   <url>
-    <loc>https://newshubnow.in/article/g7-summit-live-updates-leaders-praise-trump-for-us-iran-deal-mqhv8uvh</loc>
+    <loc>https://newshubnow.in/article/something-shocking-centre-defends-telegram-curbs-in-hc-says-app-aided-neet-cheating-networks-mqix8ajl</loc>
     <news:news>
       <news:publication>
         <news:name>NewsHubNow</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-06-17T09:25:57.197Z</news:publication_date>
-      <news:title><![CDATA[G7 Summit Live Updates: Leaders Praise Trump for U.S.-Iran Deal]]></news:title>
+      <news:publication_date>2026-06-17T15:09:00.000Z</news:publication_date>
+      <news:title><![CDATA['Something shocking': Centre defends Telegram curbs in HC, says app aided NEET cheating networks]]></news:title>
     </news:news>
   </url>
 
   <url>
-    <loc>https://newshubnow.in/article/ai-boom-ignites-asian-chip-companies-mqhsusea</loc>
+    <loc>https://newshubnow.in/article/pm-modi-raises-issue-of-safety-of-indian-seafarers-in-strait-of-hormuz-in-g7-meeting-with-trump-key-takeaways-mqix8g9k</loc>
     <news:news>
       <news:publication>
         <news:name>NewsHubNow</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-06-17T08:19:01.570Z</news:publication_date>
-      <news:title><![CDATA[A.I. Boom Ignites Asian Chip Companies]]></news:title>
+      <news:publication_date>2026-06-17T15:08:24.000Z</news:publication_date>
+      <news:title><![CDATA[PM Modi raises issue of safety of Indian seafarers in Strait of Hormuz in G7 meeting with Trump | Key takeaways]]></news:title>
     </news:news>
   </url>
 
   <url>
-    <loc>https://newshubnow.in/article/un-chief-visits-haiti-where-a-new-international-force-will-be-deployed-to-help-fight-gangs-mqhsup2o</loc>
+    <loc>https://newshubnow.in/article/-versys-ninja--mqiwdsfi</loc>
     <news:news>
       <news:publication>
         <news:name>NewsHubNow</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-06-17T08:18:57.264Z</news:publication_date>
-      <news:title><![CDATA[UN chief visits Haiti, where a new international force will be deployed to help fight gangs]]></news:title>
+      <news:publication_date>2026-06-17T14:45:24.000Z</news:publication_date>
+      <news:title><![CDATA[कावासाकी ने अपनी चुनिंदा बाइक्स पर की बंपर घोषणा, Versys और Ninja सीरीज पर मिलने वाले खास ऑफर्स जानें]]></news:title>
     </news:news>
   </url>
 
   <url>
-    <loc>https://newshubnow.in/article/maruti-suzuki-wagon-r-bio-flex-delivery-begins-in-india-efficiency-specs-more-mqiid8jb</loc>
+    <loc>https://newshubnow.in/article/rupali-gangulys-rise-to-fame-from-a-filmmakers-daughter-to-indian-televisions-leading-lady-mqiwdyku</loc>
     <news:news>
       <news:publication>
         <news:name>NewsHubNow</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-06-17T08:13:00.000Z</news:publication_date>
-      <news:title><![CDATA[Maruti Suzuki Wagon R Bio-Flex delivery begins in India: Efficiency, specs & more]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/gujarat-unveils-nations-first-public-traffic-circle-dedicated-to-indian-coast-guard-mqiidcpa</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-06-17T08:12:59.000Z</news:publication_date>
-      <news:title><![CDATA[Gujarat unveils nation's first public traffic circle dedicated to Indian Coast Guard]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/rs-2-lakh-monthly-expenses-no-work-after-5-pm-peaceful-weekends-indian-man-compares-how-life-in-poland-differs-from-india-mqiepy2y</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-06-17T06:31:00.000Z</news:publication_date>
-      <news:title><![CDATA[Rs 2 lakh monthly expenses, no work after 5 pm, peaceful weekends: Indian man compares how life in Poland differs from India]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/ap-exclusive-nvidias-jensen-huang-says-society-needs-new-social-norms-in-the-age-of-ai-mqhmsf33</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-06-17T05:29:13.311Z</news:publication_date>
-      <news:title><![CDATA[AP Exclusive: Nvidia's Jensen Huang Says Society Needs 'New Social Norms' in the Age of AI]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/in-albania-anger-grows-against-the-government-for-supporting-a-kushner-linked-luxury-resort-mqhms9g4</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-06-17T05:29:06.004Z</news:publication_date>
-      <news:title><![CDATA[In Albania, anger grows against the government for supporting a Kushner-linked luxury resort]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/ai-tools-every-professional-should-know-mqhms7lz</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-06-17T05:29:03.623Z</news:publication_date>
-      <news:title><![CDATA[AI Tools Every Professional Should Know]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/mornings-with-brian-haldane-big-tech-in-the-crosshairs-as-ai-debate-heats-up-mqhiqauv</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-06-17T03:35:36.055Z</news:publication_date>
-      <news:title><![CDATA[Mornings with Brian Haldane – Big Tech in the Crosshairs as AI Debate Heats Up]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/live-updates-iran-says-deal-with-us-requires-israeli-forces-to-leave-lebanon-mqhiq1tu</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-06-17T03:35:24.354Z</news:publication_date>
-      <news:title><![CDATA[Live Updates: Iran says deal with U.S. requires Israeli forces to leave Lebanon]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/anthropic-to-meet-white-house-over-ai-tool-suspension-mqh7y30z</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-06-16T22:33:43.379Z</news:publication_date>
-      <news:title><![CDATA[Anthropic to meet White House over AI tool suspension]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/trump-signals-swift-return-of-sanctions-on-russian-oil-as-g7-refocuses-on-ukraine-mqh7xxmi</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-06-16T22:33:36.378Z</news:publication_date>
-      <news:title><![CDATA[Trump signals swift return of sanctions on Russian oil as G7 refocuses on Ukraine]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/trump-promised-to-bring-order-to-ai-oversight-that-lasted-2-weeks-mqh7vwle</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-06-16T22:32:01.730Z</news:publication_date>
-      <news:title><![CDATA[Trump promised to bring order to AI oversight. That lasted 2 weeks.]]></news:title>
+      <news:publication_date>2026-06-17T14:45:00.000Z</news:publication_date>
+      <news:title><![CDATA[Rupali Ganguly's rise to fame: From a filmmaker's daughter to Indian television’s leading lady]]></news:title>
     </news:news>
   </url>
 </urlset>
