@@ -3,6 +3,150 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://newshubnow.in/article/fox-news-ai-newsletter-bezos-predicts-labor-shortage-mqlrjfhg</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-06-20T02:53:16.708Z</news:publication_date>
+      <news:title><![CDATA[Fox News AI Newsletter: Bezos predicts labor shortage]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/bedford-train-crash-what-we-we-know-so-far-as-police-confirm-at-least-one-dead-mqlrj82r</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-06-20T02:53:07.107Z</news:publication_date>
+      <news:title><![CDATA[Bedford train crash: What we we know so far as police confirm at least one dead]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/unilever-and-accenture-partner-to-scale-digital-twins-ai-technology-tool-across-manufacturing-mqlgp88o</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-06-19T21:49:51.480Z</news:publication_date>
+      <news:title><![CDATA[Unilever and Accenture partner to scale digital twins AI technology tool across manufacturing]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/kremlin-praises-performance-of-russian-air-defenses-after-record-drone-attack-on-moscow-mqlgp2e3</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-06-19T21:49:43.899Z</news:publication_date>
+      <news:title><![CDATA[Kremlin Praises Performance of Russian Air Defenses After Record Drone Attack on Moscow]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/us-export-ban-on-anthropics-ai-models-further-strains-alliances-mqlgmmky</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-06-19T21:47:50.098Z</news:publication_date>
+      <news:title><![CDATA[US export ban on Anthropic’s AI models further strains alliances]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/lebanon-ceasefire-agreed-after-us-iran-talks-in-switzerland-scrapped-mqlgmjse</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-06-19T21:47:46.478Z</news:publication_date>
+      <news:title><![CDATA[Lebanon ceasefire agreed after US-Iran talks in Switzerland scrapped]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/german-partnership-for-green-and-sustainable-development-hosts-10th-edition-of-gsdp-conversation-series-mqlrjee7</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-06-19T14:53:01.000Z</news:publication_date>
+      <news:title><![CDATA[German Partnership for Green and Sustainable Development hosts 10th edition of GSDP Conversation Series]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/--mqlrj8xa</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-06-19T14:52:15.000Z</news:publication_date>
+      <news:title><![CDATA[आदित्य ठाकरे उद्धव गुट के अभिषेक बनर्जी, कांग्रेस में विलय चाहते हैं; भाजपा नेता का दावा]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/chemkart-india-promoter-acquires-2400-shares-via-open-market-mqlgp2p4</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-06-19T09:48:51.000Z</news:publication_date>
+      <news:title><![CDATA[Chemkart India promoter acquires 2,400 shares via open market]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/amazon-prime-day-sale-2026-check-dates-discounts-what-to-expect-and-more-mqlgmiei</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-06-19T09:47:23.000Z</news:publication_date>
+      <news:title><![CDATA[Amazon Prime Day Sale 2026: Check Dates, Discounts, What To Expect And More]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/reliance-agm-2026-dhurandhar-duology-gets-special-mention-jiohotstar-hits-725-mn-concurrent-viewers-mqlgmnip</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-06-19T09:45:26.000Z</news:publication_date>
+      <news:title><![CDATA[Reliance AGM 2026: 'Dhurandhar' duology gets special mention; JioHotstar hits 72.5 mn concurrent viewers]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/mitva-karan-sherjin-included-in-24-member-india-squad-for-asian-senior-fencing-championships-2026-mqlgp7u5</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-06-19T09:43:59.000Z</news:publication_date>
+      <news:title><![CDATA[Mitva, Karan, Sherjin included in 24-member India squad for Asian Senior Fencing Championships 2026]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://newshubnow.in/article/lawmakers-demand-answers-on-the-administrations-anthropic-restrictions-mqke55ch</loc>
     <news:news>
       <news:publication>
@@ -23,6 +167,18 @@
       </news:publication>
       <news:publication_date>2026-06-19T03:50:20.936Z</news:publication_date>
       <news:title><![CDATA[Ukraine pummels Russian capital with what may be largest drone strike yet on Moscow]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/blue-paint-on-bottom-of-reflecting-pool-appears-to-be-peeling-away-wtop-mqlrj7qn</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-06-19T01:55:35.000Z</news:publication_date>
+      <news:title><![CDATA[Blue paint on bottom of Reflecting Pool appears to be peeling away - WTOP]]></news:title>
     </news:news>
   </url>
 
@@ -71,174 +227,6 @@
       </news:publication>
       <news:publication_date>2026-06-18T22:31:41.167Z</news:publication_date>
       <news:title><![CDATA[Man arrested after boy injured in zoo crocodile enclosure]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/tata-motors-signs-mou-with-government-for-delhi-mqke4x7a</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-06-18T15:50:08.000Z</news:publication_date>
-      <news:title><![CDATA[Tata Motors signs MoU with government for Delhi]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/cordelia-cruises-to-launch-585-crore-ipo-next-week-mqke5258</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-06-18T15:46:28.000Z</news:publication_date>
-      <news:title><![CDATA[Cordelia Cruises to launch ₹585-crore IPO next week]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/sensex-ends-over-250-points-higher-nifty-settles-at-24168-amid-easing-crude-oil-prices-mqk2thwt</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-06-18T10:33:19.000Z</news:publication_date>
-      <news:title><![CDATA[Sensex ends over 250 points higher, Nifty settles at 24,168 amid easing crude oil prices]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/mari-state-university-forges-strategic-academic-alliances-at-ii-indo-mqk2tbwm</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-06-18T10:33:12.000Z</news:publication_date>
-      <news:title><![CDATA[Mari State University Forges Strategic Academic Alliances at II Indo]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/mahindra-vision-s-suv-india-launch-expected-price-engine-and-features-mqk2r5yu</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-06-18T10:31:00.000Z</news:publication_date>
-      <news:title><![CDATA[Mahindra Vision S SUV India Launch - Expected Price, Engine, And Features]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/trump-praises-modi-is-tough-negotiator-after-talks-on-g7-sidelines-mqk2rbm6</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-06-18T10:30:02.000Z</news:publication_date>
-      <news:title><![CDATA[Trump Praises Modi Is 'Tough Negotiator' After Talks On G7 Sidelines]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/keir-starmer-is-a-dead-man-walking-trevor-kavanagh-mqixvat5</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-06-18T03:27:09.689Z</news:publication_date>
-      <news:title><![CDATA[Keir Starmer Is A 'DEAD MAN WALKING' | Trevor Kavanagh]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/anthropic-disables-new-ai-model-after-white-house-security-directive-mqix8h3t</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-06-18T03:09:24.761Z</news:publication_date>
-      <news:title><![CDATA[Anthropic disables new AI model after White House security directive]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/how-macron-won-trump-round-at-the-g7-until-the-next-bust-up-mqix8akg</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-06-18T03:09:16.288Z</news:publication_date>
-      <news:title><![CDATA[How Macron won Trump round at the G7. Until the next bust-up.]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/28-profitable-tech-business-ideas-to-launch-in-2026-mqiwe6s9</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-06-18T02:45:51.705Z</news:publication_date>
-      <news:title><![CDATA[28 Profitable Tech Business Ideas to Launch in 2026]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/heres-how-ai-could-help-astronomers-unlock-new-secrets-about-meteors-mqiwdyz7</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-06-18T02:45:41.587Z</news:publication_date>
-      <news:title><![CDATA[Here's how AI could help astronomers unlock new secrets about meteors]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/heres-how-much-the-iran-war-cost-and-how-its-effects-will-linger-mqiwdunx</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-06-18T02:45:35.997Z</news:publication_date>
-      <news:title><![CDATA[Here's how much the Iran war cost — and how its effects will linger]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/massive-fire-at-warehouse-in-boyle-heights-triggers-shelter-in-place-orders-rare-helicopter-drops-abc7-los-angeles-mqke4xz0</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-06-18T02:34:00.000Z</news:publication_date>
-      <news:title><![CDATA[Massive fire at warehouse in Boyle Heights triggers shelter-in-place orders, rare helicopter drops - ABC7 Los Angeles]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/effect-artificial-intelligence-technology-solutions-inc-sec-filing-mqin2gv8</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-06-17T22:24:48.356Z</news:publication_date>
-      <news:title><![CDATA[[EFFECT] Artificial Intelligence Technology Solutions Inc. SEC Filing]]></news:title>
     </news:news>
   </url>
 </urlset>
