@@ -3,6 +3,150 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://newshubnow.in/article/us-presses-meta-to-agree-to-ai-reviews-as-security-concerns-rise-mqrh3pcm</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-06-24T02:47:43.894Z</news:publication_date>
+      <news:title><![CDATA[U.S. Presses Meta to Agree to A.I. Reviews as Security Concerns Rise]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/france-records-hottest-ever-day-as-40-drown-trying-to-escape-heatwave-mqrh3hfu</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-06-24T02:47:33.642Z</news:publication_date>
+      <news:title><![CDATA[France records hottest-ever day as 40 drown trying to escape heatwave]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/ai-models-capable-of-devastating-attacks-on-governments-and-business-months-away-rare-five-eyes-statement-warns-mqr6w2s2</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-06-23T22:01:51.890Z</news:publication_date>
+      <news:title><![CDATA[AI models capable of devastating attacks on governments and business months away, rare Five Eyes statement warns]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/eu-hosts-taliban-officials-for-the-first-time-in-talks-on-deportations-mqr6vwgm</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-06-23T22:01:43.702Z</news:publication_date>
+      <news:title><![CDATA[EU hosts Taliban officials for the first time in talks on deportations]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/global-tech-sell-off-intensifies-led-by-ai-and-chip-stocks-mqr6tw14</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-06-23T22:00:09.832Z</news:publication_date>
+      <news:title><![CDATA[Global tech sell-off intensifies, led by AI and chip stocks]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/40-people-drown-as-france-seeks-relief-from-record-heat-mqr6tpmp</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-06-23T22:00:01.537Z</news:publication_date>
+      <news:title><![CDATA[40 people drown as France seeks relief from record heat]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/india-and-hungary-discuss-enhancing-bilateral-cooperation-parliamentary-exchanges-mqrh3ego</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-06-23T14:46:30.000Z</news:publication_date>
+      <news:title><![CDATA[India and Hungary discuss enhancing bilateral cooperation, parliamentary exchanges]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/indian-origin-woman-23-quits-google-to-pursue-podcast-and-ai-startup-financial-security-can-also-be-a-trap-mqrh3ixo</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-06-23T14:45:33.000Z</news:publication_date>
+      <news:title><![CDATA[Indian-origin woman, 23, quits Google to pursue podcast and AI startup: ‘Financial security can also be a trap']]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/mha-adds-west-bengals-haldia-seaport-to-immigration-checkpoints-list-mqr6vw8r</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-06-23T10:01:29.000Z</news:publication_date>
+      <news:title><![CDATA[MHA adds West Bengal's Haldia Seaport to immigration checkpoints list]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/what-the-us-sanctions-waiver-on-iranian-oil-sales-means-for-india-and-the-global-energy-market-mqr6w1dm</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-06-23T10:01:26.000Z</news:publication_date>
+      <news:title><![CDATA[What the US sanctions waiver on Iranian oil sales means for India and the global energy market]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/before-leading-whatsapp-kunal-shah-was-betting-on-indias-digital-infra-and-upi-growth-mqr6tq3n</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-06-23T09:59:17.000Z</news:publication_date>
+      <news:title><![CDATA[Before leading WhatsApp, Kunal Shah was betting on India's digital infra and UPI growth]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/talent-twist-silicon-valleys-india-story-takes-an-unexpected-turn-mqr6tyb0</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-06-23T09:57:59.000Z</news:publication_date>
+      <news:title><![CDATA[Talent twist: Silicon Valley's India story takes an unexpected turn]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://newshubnow.in/article/five-eyes-intelligence-alliance-warns-of-threats-from-new-ai-models-mqqbnhzo</loc>
     <news:news>
       <news:publication>
@@ -51,6 +195,18 @@
   </url>
 
   <url>
+    <loc>https://newshubnow.in/article/lionel-messi-becomes-top-scorer-in-world-cup-history-with-2-more-goals-for-argentina-ap-news-mqrh3ey5</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-06-23T02:07:00.000Z</news:publication_date>
+      <news:title><![CDATA[Lionel Messi becomes top scorer in World Cup history with 2 more goals for Argentina - AP News]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://newshubnow.in/article/frost-sullivan-spotlights-aitx-aitx-role-in-physical-ai-security-shift-mqps9zwc</loc>
     <news:news>
       <news:publication>
@@ -83,150 +239,6 @@
       </news:publication>
       <news:publication_date>2026-06-22T22:23:23.049Z</news:publication_date>
       <news:title><![CDATA[AI models that can take down governments and business months away, rare Five Eyes statement warns]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/us-partially-lifts-iran-oil-sanctions-amid-encouraging-talks-mqps7t5y</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-06-22T22:23:18.887Z</news:publication_date>
-      <news:title><![CDATA[US partially lifts Iran oil sanctions amid ‘encouraging’ talks]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/--mqqbner8</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-06-22T19:26:45.000Z</news:publication_date>
-      <news:title><![CDATA[भाकपा बेरमो अंचल कमेटी की बैठक]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/switzerland-fast-tracks-india-trade-pact-implementation-mqqbnizj</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-06-22T19:08:00.000Z</news:publication_date>
-      <news:title><![CDATA[Switzerland fast-tracks India trade pact implementation]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/indian-migration-to-uk-would-be-restricted-but-skilled-workers-still-welcome-says-pm-hopeful-nigel-farage-mqq1n0o8</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-06-22T14:46:28.000Z</news:publication_date>
-      <news:title><![CDATA[Indian migration to UK would be restricted, but skilled workers still welcome, says PM hopeful Nigel Farage]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/haj-2027-applications-open-as-government-unveils-new-policy-mqq1mvs6</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-06-22T14:45:52.000Z</news:publication_date>
-      <news:title><![CDATA[Haj 2027 Applications Open as Government Unveils New Policy]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/parallel-drawn-between-roger-federer-and-ms-dhoni-virat-kohli-compared-to-carlos-alcaraz-it-looks-effortless-yet-very-powerful-mqpsa1jz</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-06-22T10:24:32.000Z</news:publication_date>
-      <news:title><![CDATA[Parallel Drawn Between Roger Federer And MS Dhoni; Virat Kohli Compared To Carlos Alcaraz: 'It Looks Effortless Yet Very Powerful']]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/turning-a-fathers-commitment-into-a-childs-secure-future-with-sbi-life-mqps9w0f</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-06-22T10:24:03.000Z</news:publication_date>
-      <news:title><![CDATA[Turning a Father's Commitment into a Child's Secure Future with SBI Life]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/naked-and-afraid-aadimanav-premieres-in-india-six-survivalists-face-the-wild-mqps7ti7</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-06-22T10:22:28.000Z</news:publication_date>
-      <news:title><![CDATA[Naked And Afraid: Aadimanav Premieres In India, Six Survivalists Face The Wild]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/first-round-of-us-iran-negotiations-ends-technical-talks-will-continue-after-trump-threats-shake-summit-nbc-news-mqqbnf1c</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-06-22T08:09:00.000Z</news:publication_date>
-      <news:title><![CDATA[First round of U.S.-Iran negotiations ends, technical talks will continue after Trump threats shake summit - NBC News]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/tech-new-york-12th-will-test-ai-groups-mqoo5xrr</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-06-22T03:42:06.903Z</news:publication_date>
-      <news:title><![CDATA[Tech: New York 12th will test AI groups]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/iran-mediators-offer-plan-to-ease-lebanon-hormuz-tensions-mqoo5qlh</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-06-22T03:41:57.605Z</news:publication_date>
-      <news:title><![CDATA[Iran Mediators Offer Plan to Ease Lebanon, Hormuz Tensions]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/live-updates-iran-and-us-make-encouraging-progress-in-crucial-talks-mediators-say-cnn-mqq1mx0t</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-06-22T01:35:00.000Z</news:publication_date>
-      <news:title><![CDATA[Live updates: Iran and US make ‘encouraging progress’ in crucial talks, mediators say - CNN]]></news:title>
     </news:news>
   </url>
 </urlset>
