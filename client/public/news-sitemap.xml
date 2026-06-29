@@ -3,6 +3,222 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://newshubnow.in/article/china-has-matched-anthropic-in-cybersecurity-resetting-ai-race-mqyw6okm</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-06-29T07:24:20.326Z</news:publication_date>
+      <news:title><![CDATA[China Has Matched Anthropic in Cybersecurity, Resetting AI Race]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/live-updates-iran-strikes-us-sites-in-bahrain-and-kuwait-as-attacks-show-few-signs-of-de-escalation-mqyw602w</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-06-29T07:23:48.584Z</news:publication_date>
+      <news:title><![CDATA[Live Updates: Iran Strikes U.S. Sites in Bahrain and Kuwait as Attacks Show Few Signs of De-escalation]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/e-commerce-business-start-to-scale-mqyw5xqs</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-06-29T07:23:45.556Z</news:publication_date>
+      <news:title><![CDATA[E-commerce Business: Start to Scale]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/us-loosens-restrictions-on-anthropics-mythos-ai-model-mqymp3pl</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-06-29T02:58:43.593Z</news:publication_date>
+      <news:title><![CDATA[U.S. Loosens Restrictions on Anthropic’s Mythos A.I. Model]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/two-boys-pulled-from-venezuela-earthquake-rubble-among-33-people-rescued-over-weekend-mqymoxbp</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-06-29T02:58:35.317Z</news:publication_date>
+      <news:title><![CDATA[Two boys pulled from Venezuela earthquake rubble among 33 people rescued over weekend]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/the-ai-coding-boom-is-fueling-an-agent-sprawl-crisis-mqybfsiu</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-06-28T21:43:33.415Z</news:publication_date>
+      <news:title><![CDATA[The AI Coding Boom is Fueling an Agent Sprawl Crisis]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/record-heatwave-disrupts-europe-as-france-warns-death-toll-to-rise-mqybfl8n</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-06-28T21:43:23.975Z</news:publication_date>
+      <news:title><![CDATA[Record heatwave disrupts Europe as France warns death toll to rise]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/who-will-control-africas-ai-infrastructure-and-at-what-cost-mqybdz2n</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-06-28T21:42:08.591Z</news:publication_date>
+      <news:title><![CDATA[Who will control Africa’s AI infrastructure, and at what cost?]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/live-updates-us-official-says-iranian-attacks-failed-to-hit-their-targets-as-mideast-tensions-intensify-mqybds0t</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-06-28T21:41:59.453Z</news:publication_date>
+      <news:title><![CDATA[Live updates: US official says Iranian attacks failed to hit their targets as Mideast tensions intensify]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/-35--mqyw5x3y</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-06-28T19:22:00.000Z</news:publication_date>
+      <news:title><![CDATA[अदालत में पेश नहीं हुए साइबर अपराध से जुड़े 35 आरोपी]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/fourteen-year-wait-immigration-lawyer-reveals-the-calculation-pushing-indian-h-1b-green-card-holders-toward-the-uk-mqyw631i</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-06-28T19:11:38.000Z</news:publication_date>
+      <news:title><![CDATA['Fourteen-year wait': Immigration lawyer reveals the calculation pushing Indian H-1B green card holders toward the UK]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/from-indians-to-peruvians-how-foreign-job-seekers-ended-up-in-ukraine-war-mqymp0d5</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-06-28T14:57:49.000Z</news:publication_date>
+      <news:title><![CDATA[From Indians To Peruvians: How Foreign Job Seekers Ended Up In Ukraine War]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/--mqymov6w</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-06-28T14:56:57.000Z</news:publication_date>
+      <news:title><![CDATA[फायर एनओसी खत्म होने से पहले नोटिस दें, जनसुरक्षा से समझौता नहीं: मुख्यमंत्री]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/--mqybflu6</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-06-28T09:43:06.000Z</news:publication_date>
+      <news:title><![CDATA[धीरे-धीरे पैर पसार रहीं झुग्गी-झोपड़ियां बन सकती हैं संकट]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/securities-markets-code-how-a-single-word-could-criminalize-every-informed-investor-in-india-mqybdktb</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-06-28T09:41:18.000Z</news:publication_date>
+      <news:title><![CDATA[Securities Markets Code: how a single word could criminalize every informed investor in India]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/ind-vs-ire-live-cricket-score-ireland-vs-india-t20-series-2026-today-2nd-match-mqybdpxk</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-06-28T09:34:42.000Z</news:publication_date>
+      <news:title><![CDATA[IND vs IRE Live Cricket Score, Ireland vs India T20 Series 2026 Today 2nd Match]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/7-best-idli-dosa-makers-under-rs-2000-for-perfect-south-indian-breakfasts-mqybfqiw</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-06-28T09:30:00.000Z</news:publication_date>
+      <news:title><![CDATA[7 Best Idli & Dosa Makers Under Rs 2,000 For Perfect South Indian Breakfasts]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/iran-attacks-bahrain-and-kuwait-following-us-strikes-and-threatens-to-halt-talks-to-end-the-war-ap-news-mqyw5xpa</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-06-28T07:30:00.000Z</news:publication_date>
+      <news:title><![CDATA[Iran attacks Bahrain and Kuwait following US strikes and threatens to halt talks to end the war - AP News]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://newshubnow.in/article/tech-industry-grapples-with-trumps-ai-about-faces-mqxfdv8p</loc>
     <news:news>
       <news:publication>
@@ -23,222 +239,6 @@
       </news:publication>
       <news:publication_date>2026-06-28T06:46:01.381Z</news:publication_date>
       <news:title><![CDATA[Beijing investigating rare light aircraft crash which killed pilot, injured 13]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/the-us-government-will-decide-who-gets-to-use-the-latest-american-ai-technology-mqx782l8</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-06-28T02:57:48.572Z</news:publication_date>
-      <news:title><![CDATA[The U.S. government will decide who gets to use the latest American AI technology]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/what-earthquake-relief-looks-like-for-venezuelan-volunteers-as-death-toll-passes-1400-mqx77zvv</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-06-28T02:57:45.067Z</news:publication_date>
-      <news:title><![CDATA[What earthquake relief looks like for Venezuelan volunteers as death toll passes 1,400]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/10-emerging-technologies-in-2026-top-innovations-reshaping-industries-mqwvy6q0</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-06-27T21:42:11.592Z</news:publication_date>
-      <news:title><![CDATA[10 Emerging Technologies in 2026: Top Innovations Reshaping Industries]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/legal-defense-fund-warns-new-york-city-council-of-discriminatory-uses-of-technology-and-artificial-intelligence-mqwvy16t</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-06-27T21:42:04.421Z</news:publication_date>
-      <news:title><![CDATA[Legal Defense Fund Warns New York City Council of Discriminatory Uses of Technology and Artificial Intelligence]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/chinese-dissident-who-fled-by-dinghy-to-south-korea-arrives-in-canada-his-friend-says-mqwvxw9l</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-06-27T21:41:58.041Z</news:publication_date>
-      <news:title><![CDATA[Chinese dissident who fled by dinghy to South Korea arrives in Canada, his friend says]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/9-top-business-trends-2026-mqwvw6u9</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-06-27T21:40:38.433Z</news:publication_date>
-      <news:title><![CDATA[9 Top Business Trends (2026)]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/chinese-ai-models-close-the-gap-with-anthropic-and-openai-mqwvw02j</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-06-27T21:40:29.659Z</news:publication_date>
-      <news:title><![CDATA[Chinese A.I. Models Close the Gap With Anthropic and OpenAI]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/central-europe-sizzles-as-heat-records-are-smashed-in-switzerland-denmark-and-czech-republic-mqwvvqkl</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-06-27T21:40:17.349Z</news:publication_date>
-      <news:title><![CDATA[Central Europe sizzles as heat records are smashed in Switzerland, Denmark and Czech Republic]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/england-vs-panama-fifa-world-cup-2026-india-time-ist-live-streaming-details-tv-telecast-venue-and-predicted-lineups-mqxfdicg</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-06-27T18:42:00.000Z</news:publication_date>
-      <news:title><![CDATA[England vs Panama FIFA World Cup 2026: India Time (IST), Live Streaming Details, TV Telecast, Venue and Predicted Lineups]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/indian-mangoes-prove-a-hit-in-washington-mqxfdn7r</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-06-27T18:41:38.000Z</news:publication_date>
-      <news:title><![CDATA[Indian mangoes prove a hit in Washington]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/monsoon-tracker-imd-warns-of-heavy-rain-in-northeast-heatwave-continues-in-uttar-pradesh-mqx780dt</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-06-27T14:57:32.000Z</news:publication_date>
-      <news:title><![CDATA[Monsoon Tracker: IMD warns of heavy rain in Northeast, heatwave continues in Uttar Pradesh]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/ali-fazal-starrer-raakh-becomes-its-1-non-english-series-on-prime-video-worldwide-for-second-consecutive-week-emerges-as-platforms-biggest-indian-original-debut-in-two-years-mqx785f7</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-06-27T14:57:20.000Z</news:publication_date>
-      <news:title><![CDATA[Ali Fazal starrer Raakh becomes its #1 non-English series on Prime Video worldwide for second consecutive week; emerges as platform’s biggest Indian Original debut in two years]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/adult-film-star-johnny-sins-to-appear-on-indias-got-latent-s2-viral-video-shows-them-posing-with-samay-raina-heres-the-truth-mqwvxvqe</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-06-27T09:40:42.000Z</news:publication_date>
-      <news:title><![CDATA[Adult Film Star Johnny Sins & To Appear On India's Got Latent S2? Viral Video Shows Them Posing With Samay Raina- Here's The Truth]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/structured-mechanism-enables-india-to-swiftly-deploy-assets-overseas-for-disaster-relief-mqwvvq5l</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-06-27T09:39:43.000Z</news:publication_date>
-      <news:title><![CDATA[Structured mechanism enables India to swiftly deploy assets overseas for disaster relief]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/doubles-draw-always-quite-open-indian-tennis-legend-vijay-amritraj-ahead-of-wimbledon-2026-mqwvvvse</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-06-27T09:38:13.000Z</news:publication_date>
-      <news:title><![CDATA["Doubles draw always quite open": Indian tennis legend Vijay Amritraj ahead of Wimbledon 2026]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/20-inside-the-radar-spotted-in-iafs-vayu-shakti-2026-mqwvy0zm</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-06-27T09:37:00.000Z</news:publication_date>
-      <news:title><![CDATA[20? Inside the radar spotted in IAF's Vayu Shakti 2026]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/small-aircraft-crashes-into-beijings-tallest-building-videos-show-the-washington-post-mqxfdhqa</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-06-27T03:37:28.000Z</news:publication_date>
-      <news:title><![CDATA[Small aircraft crashes into Beijing’s tallest building, videos show - The Washington Post]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/exploring-the-societal-impacts-of-ai-mqvr9jxt</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-06-27T02:43:17.681Z</news:publication_date>
-      <news:title><![CDATA[Exploring the societal impacts of AI]]></news:title>
     </news:news>
   </url>
 </urlset>
