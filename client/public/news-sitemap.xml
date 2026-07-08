@@ -3,6 +3,150 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://newshubnow.in/article/exclusive-beijing-is-looking-at-curbing-overseas-access-to-chinas-top-ai-models-sources-say-mrbfzxi8</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-08T02:12:11.744Z</news:publication_date>
+      <news:title><![CDATA[EXCLUSIVE: Beijing is looking at curbing overseas access to China's top AI models, sources say]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/live-updates-us-strikes-iran-and-reimposes-sanctions-in-retaliation-for-attacks-on-commercial-shipping-mrbfzpdk</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-08T02:12:01.208Z</news:publication_date>
+      <news:title><![CDATA[Live updates: US strikes Iran and reimposes sanctions in retaliation for attacks on commercial shipping]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/the-legal-tech-to-english-dictionary-20-the-current-state-of-ai-mrb6wwe9</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-07T21:57:53.793Z</news:publication_date>
+      <news:title><![CDATA[The Legal Tech-To-English Dictionary (2.0): The Current State Of AI]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/reform-uks-farage-says-hell-quit-as-lawmaker-and-seek-reelection-amid-donation-allegations-mrb6wpl8</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-07T21:57:44.972Z</news:publication_date>
+      <news:title><![CDATA[Reform UK’s Farage says he’ll quit as lawmaker and seek reelection amid donation allegations]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/meta-enters-ai-image-model-race-in-bid-to-court-advertisers-and-subscribers-mrb6v46b</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-07T21:56:30.563Z</news:publication_date>
+      <news:title><![CDATA[Meta enters AI image model race in bid to court advertisers and subscribers]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/us-reinstates-sanctions-on-iranian-oil-sales-after-lng-oil-tanker-attacks-mrb6us3t</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-07T21:56:14.921Z</news:publication_date>
+      <news:title><![CDATA[US reinstates sanctions on Iranian oil sales after LNG, oil tanker attacks]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/india-vs-england-3rd-t20i-live-score-shreyas-iyers-india-face-must-mrbfzoc3</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-07T14:10:10.000Z</news:publication_date>
+      <news:title><![CDATA[India vs England 3rd T20I Live Score: Shreyas Iyer's India face must]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/i-am-a-great-admirer-of-narendra-modiji-indonesian-president-prabowo-subianto-mrbfzt0l</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-07T14:08:01.000Z</news:publication_date>
+      <news:title><![CDATA["I am a great admirer of Narendra Modiji": Indonesian President Prabowo Subianto]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/asim-munir-threatens-india-over-indus-waters-treaty-mrb6wpa0</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-07T09:57:12.000Z</news:publication_date>
+      <news:title><![CDATA[Asim Munir threatens India over Indus Waters Treaty]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/somalia-joins-indian-govts-opposition-to-whatsapp-username-feature-mrb6wv0u</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-07T09:56:55.000Z</news:publication_date>
+      <news:title><![CDATA[Somalia joins Indian govt’s opposition to WhatsApp username feature]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/swiggy-shares-jump-7-as-foreign-ownership-falls-below-50-what-this-means-quick-commerce-giant-mrb6uu3c</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-07T09:56:00.000Z</news:publication_date>
+      <news:title><![CDATA[Swiggy shares jump 7% as foreign ownership falls below 50%. What this means quick commerce giant?]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/global-investors-return-to-indias-financial-stocks-after-12-billion-selloff-mrb6untv</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-07T09:55:34.000Z</news:publication_date>
+      <news:title><![CDATA[Global investors return to India’s financial stocks after $12 billion selloff]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://newshubnow.in/article/artificial-intelligence-technology-helping-patients-with-als-mra1ix43</loc>
     <news:news>
       <news:publication>
@@ -23,6 +167,30 @@
       </news:publication>
       <news:publication_date>2026-07-07T02:39:09.351Z</news:publication_date>
       <news:title><![CDATA[Iran resumes attacks in Strait of Hormuz after lull, U.S. officials say]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/usa-vs-belgium-live-world-cup-2026-updates-from-intriguing-round-of-16-clash-espn-mrbfzn75</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-06T23:59:00.000Z</news:publication_date>
+      <news:title><![CDATA[USA vs. Belgium LIVE: World Cup 2026 updates from intriguing round of 16 clash - ESPN]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/microsoft-lays-off-4800-in-companywide-cuts-the-seattle-times-mrb6un6h</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-06T22:30:30.000Z</news:publication_date>
+      <news:title><![CDATA[Microsoft lays off 4,800 in companywide cuts - The Seattle Times]]></news:title>
     </news:news>
   </url>
 
@@ -71,114 +239,6 @@
       </news:publication>
       <news:publication_date>2026-07-06T21:58:13.751Z</news:publication_date>
       <news:title><![CDATA[Mourners throng funeral procession in Tehran for Iran's Supreme Leader Ayatollah Ali Khamenei]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/redington-earns-frontier-distributor-status-in-microsoft-ai-cloud-partner-program-mra1htnc</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-06T14:37:53.000Z</news:publication_date>
-      <news:title><![CDATA[Redington earns Frontier Distributor status in Microsoft AI Cloud Partner Program]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/bengaluru-isro-headquarters-receives-second-bomb-threat-in-four-days-mra1hyd0</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-06T14:33:41.000Z</news:publication_date>
-      <news:title><![CDATA[Bengaluru ISRO Headquarters Receives Second Bomb Threat In Four Days]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/powered-health-innovation-at-the-16th-india-mr9rje0i</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-06T09:59:01.000Z</news:publication_date>
-      <news:title><![CDATA[Powered Health Innovation at the 16th India]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/indian-squash-prodigy-amarya-bajaj-clinches-dutch-junior-open-u-mr9rji8o</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-06T09:58:39.000Z</news:publication_date>
-      <news:title><![CDATA[Indian squash prodigy Amarya Bajaj clinches Dutch Junior Open U]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/indias-footpaths-are-disappearing-so-is-the-right-to-walk-safely-mr9rhc10</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-06T09:56:56.000Z</news:publication_date>
-      <news:title><![CDATA[India's footpaths are disappearing. So is the right to walk safely]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/indian-economy--mr9rhgnt</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-06T09:56:48.000Z</news:publication_date>
-      <news:title><![CDATA[Indian Economy: कच्चे तेल की कीमत गिरते ही भारतीय अर्थव्यवस्था ने पकड़ी रफ्तार, रुपये पर कम हुआ दबाव, रिपोर्ट में दावा]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/ai-security-questions-loom-over-nato-summit-mr8m7j3m</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-06T02:42:45.490Z</news:publication_date>
-      <news:title><![CDATA[AI security questions loom over NATO summit]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/khameneis-other-sons-appear-at-his-funeral-in-iran-as-new-supreme-leader-remains-in-hiding-mr8m77qq</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-06T02:42:30.770Z</news:publication_date>
-      <news:title><![CDATA[Khamenei's other sons appear at his funeral in Iran as new supreme leader remains in hiding]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/world-cup-daily-recap-norway-haaland-beat-brazil-mexico-fans-try-to-give-england-sleepless-night-espn-mra1ht2g</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-05T23:31:00.000Z</news:publication_date>
-      <news:title><![CDATA[World Cup Daily recap: Norway, Haaland beat Brazil; Mexico fans try to give England sleepless night - ESPN]]></news:title>
     </news:news>
   </url>
 </urlset>
