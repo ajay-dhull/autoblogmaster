@@ -3,6 +3,138 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://newshubnow.in/article/sk-hynix-rises-13-in-debut-on-wall-street-as-demand-for-memory-chips-soars-amid-ai-frenzy-mrfq7zja</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-11T02:09:28.486Z</news:publication_date>
+      <news:title><![CDATA[SK Hynix rises 13% in debut on Wall Street as demand for memory chips soars amid AI frenzy]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/us-demands-iran-publicly-state-that-strait-of-hormuz-is-open-and-tehran-wont-attack-ships-anymore-mrfq7tvn</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-11T02:09:21.155Z</news:publication_date>
+      <news:title><![CDATA[US demands Iran publicly state that Strait of Hormuz is open and Tehran won't attack ships anymore]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/new-fed-task-force-members-share-chairman-kevin-warshs-embrace-of-ai-mrfgk4zu</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-10T21:38:59.274Z</news:publication_date>
+      <news:title><![CDATA[New Fed task force members share Chairman Kevin Warsh's embrace of AI]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/spanish-wildfire-victims-burned-in-cars-as-roads-turned-into-death-traps-mrfgjyyj</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-10T21:38:51.452Z</news:publication_date>
+      <news:title><![CDATA[Spanish wildfire victims burned in cars as roads turned into death traps]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/government-to-help-20000-firms-adopt-ai-technology-mrfgi2ei</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-10T21:37:22.602Z</news:publication_date>
+      <news:title><![CDATA[Government to help 20,000 firms adopt AI technology]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/us-iran-latest-trump-reiterates-that-ceasefire-is-over-but-says-us-to-continue-negotiating-mrfghxhx</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-10T21:37:16.245Z</news:publication_date>
+      <news:title><![CDATA[U.S.-Iran Latest: Trump reiterates that ceasefire is over, but says U.S. to continue negotiating]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/christopher-nolan-brings-the-odyssey-to-india-says-indian-audiences-are-some-of-the-most-knowledgeable-in-the-world-mrfq7uvm</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-10T14:08:50.000Z</news:publication_date>
+      <news:title><![CDATA[Christopher Nolan brings The Odyssey to India, says Indian audiences are some of the most knowledgeable in the world]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/-7121--mrfgjz3r</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-10T09:38:30.000Z</news:publication_date>
+      <news:title><![CDATA[सीएमए फाउंडेशन जून रिजल्ट जारी: संस्कृति मिश्रा बनीं लखनऊ की सिटी टॉपर, 71.21% अभ्यर्थी सफल]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/fifa-world-cup-2026-whoever-controls-midfield-might-win-says-robin-singh-on-spain-mrfgk4fu</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-10T09:38:21.000Z</news:publication_date>
+      <news:title><![CDATA[FIFA World Cup 2026: "Whoever controls midfield might win," says Robin Singh on Spain]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/another-indian-origin-man-in-us-doj-net-moved-meth-cocaine-worth-17-mn-to-canada-in-a-month-mrfghzec</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-10T09:36:57.000Z</news:publication_date>
+      <news:title><![CDATA[Another Indian-origin man in US DOJ net, moved meth & cocaine worth $17 mn to Canada in a month]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/--mrfghtgw</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-10T09:36:30.000Z</news:publication_date>
+      <news:title><![CDATA[कांग्रेस की एकदिवसीय समीक्षा बैठक]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://newshubnow.in/article/openai-releases-gpt-56-sol-its-most-powerful-ai-model-yet-mrebm0sv</loc>
     <news:news>
       <news:publication>
@@ -23,6 +155,18 @@
       </news:publication>
       <news:publication_date>2026-07-10T02:32:39.731Z</news:publication_date>
       <news:title><![CDATA[US and Iran exchange intensifying fire across Mideast, threatening ceasefire deal]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/trump-fires-federal-election-commissioners-ahead-of-midterms-nbc-news-mrfq7u68</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-09T23:53:00.000Z</news:publication_date>
+      <news:title><![CDATA[Trump fires federal election commissioners ahead of midterms - NBC News]]></news:title>
     </news:news>
   </url>
 
@@ -95,150 +239,6 @@
       </news:publication>
       <news:publication_date>2026-07-09T22:05:02.100Z</news:publication_date>
       <news:title><![CDATA[Live Updates: U.S. and Iran Trade Fresh Strikes After Trump Suggests Cease-Fire is ‘Over’]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/australia-india-take-ties-to-new-level-after-a-chinese-display-of-might-global-media-has-a-quad-theory-mreblx06</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-09T14:32:09.000Z</news:publication_date>
-      <news:title><![CDATA[Australia-India take ties to new level after a Chinese display of might. Global media has a Quad theory]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/huge-excitement-in-new-zealand-for-kia-ora-modi-event-as-auckland-prepares-to-welcome-pm-modi-mrebm2qt</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-09T14:27:32.000Z</news:publication_date>
-      <news:title><![CDATA[Huge excitement in New Zealand for 'Kia Ora Modi' event as Auckland prepares to welcome PM Modi]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/only-face-saving-exercises-sc-raps-authorities-over-illegal-constructions-in-delhi-ncr-and-beyond-mre23tmf</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-09T10:06:18.000Z</news:publication_date>
-      <news:title><![CDATA[‘Only face-saving exercises’: SC raps authorities over illegal constructions in Delhi-NCR and beyond]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/viral-suhagrat-express-sparks-question-does-indian-railways-allow-private-coaches-mre21xaa</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-09T10:04:56.000Z</news:publication_date>
-      <news:title><![CDATA[Viral 'Suhagrat Express' sparks question: Does Indian Railways allow private coaches?]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/indias-housing-market-is-entering-a-new-phase-mre21sej</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-09T10:04:42.000Z</news:publication_date>
-      <news:title><![CDATA[India's housing market is entering a new phase]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/navys-drishti-10-uav-crashes-near-gujarats-porbandar-inquiry-ordered-mre23zuh</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-09T09:57:13.000Z</news:publication_date>
-      <news:title><![CDATA[Navy's Drishti-10 UAV crashes near Gujarat’s Porbandar; inquiry ordered]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/new-coalition-puts-childrens-rights-at-the-centre-of-the-ai-age-mrd31qaf</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-09T05:45:13.047Z</news:publication_date>
-      <news:title><![CDATA[New coalition puts children’s rights at the centre of the AI age]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/trump-orders-new-round-of-strikes-after-calling-iranian-leaders-scum-mrd31h4s</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-09T05:45:01.180Z</news:publication_date>
-      <news:title><![CDATA[Trump orders new round of strikes after calling Iranian leaders ‘scum’]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/nyc-public-schools-puts-technology-purchases-on-hold-amid-heated-debate-over-ai-policy-mrcw3d1n</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-09T02:30:31.883Z</news:publication_date>
-      <news:title><![CDATA[NYC public schools puts technology purchases on hold amid heated debate over AI policy]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/nigel-farage-denies-his-clacton-resignation-is-a-publicity-stunt-mrcw3936</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-09T02:30:26.754Z</news:publication_date>
-      <news:title><![CDATA[Nigel Farage denies his Clacton resignation is a publicity stunt]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/he-saw-a-video-of-a-mexican-man-shot-by-ice-it-was-his-father-the-washington-post-mreblxu6</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-09T00:07:51.000Z</news:publication_date>
-      <news:title><![CDATA[He saw a video of a Mexican man shot by ICE. It was his father. - The Washington Post]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/live-updates-us-conducting-new-strikes-in-iran-after-trump-said-ceasefire-is-over-cnn-mre21t57</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-08T22:21:00.000Z</news:publication_date>
-      <news:title><![CDATA[Live updates: US conducting new strikes in Iran after Trump said ceasefire is ‘over’ - CNN]]></news:title>
     </news:news>
   </url>
 </urlset>
