@@ -3,6 +3,150 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://newshubnow.in/article/chinas-ai-models-have-trumps-ai-world-at-war-with-itself-mru0nojh</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-21T02:10:23.357Z</news:publication_date>
+      <news:title><![CDATA[China’s AI models have Trump’s AI world at war with itself]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/us-launches-fresh-strikes-on-iran-as-trump-warns-of-retaliation-for-deaths-of-soldiers-mru0nlri</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-21T02:10:19.758Z</news:publication_date>
+      <news:title><![CDATA[US launches fresh strikes on Iran, as Trump warns of retaliation for deaths of soldiers]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/chinas-new-ai-model-halts-new-subscriptions-as-demand-swamps-capacity-mrtra29i</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-20T21:47:51.414Z</news:publication_date>
+      <news:title><![CDATA[China's new AI model halts new subscriptions as demand swamps capacity]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/andy-burnham-becomes-the-uks-seventh-prime-minister-in-a-decade-after-starmer-resigns-mrtr9wsd</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-20T21:47:44.317Z</news:publication_date>
+      <news:title><![CDATA[Andy Burnham becomes the UK’s seventh prime minister in a decade after Starmer resigns]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/why-silicon-valley-cant-stop-looking-over-its-shoulder-at-china-mrtr84o4</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-20T21:46:21.220Z</news:publication_date>
+      <news:title><![CDATA[Why Silicon Valley Can’t Stop Looking Over Its Shoulder at China]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/after-deadly-weekend-for-us-troops-trump-vows-revenge-against-iran-mrtr825n</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-20T21:46:17.963Z</news:publication_date>
+      <news:title><![CDATA[After deadly weekend for US troops, Trump vows revenge against Iran]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/--mru0nh3x</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-20T14:10:02.000Z</news:publication_date>
+      <news:title><![CDATA[जसपुर में कल से शुरू होंगे मुख्यमंत्री उदयीमान खिलाड़ी उन्नयन छात्रवृत्ति योजना के खेल]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/global-middas-capital-music-gmc-music-valued-at-rs-500-cr-52-million-usd-mru0nmx1</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-20T14:08:39.000Z</news:publication_date>
+      <news:title><![CDATA[Global Middas Capital Music (GMC Music) valued at Rs 500 Cr (52 Million USD)]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/kia-syros-ev-with-526km-claimed-range-to-launch-in-india-in-july-mrtr9vod</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-20T09:47:15.000Z</news:publication_date>
+      <news:title><![CDATA[Kia Syros EV with 526km claimed range to launch in India in July]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/nearly-90-of-indians-have-abnormal-cholesterol-levels-icmr-study-mrtr83ld</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-20T09:46:03.000Z</news:publication_date>
+      <news:title><![CDATA[Nearly 90% of Indians have abnormal cholesterol levels: ICMR study]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/hope-from-the-wailing-director-na-hong-jin-tops-south-korean-box-office-mrtra1qc</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-20T09:45:46.000Z</news:publication_date>
+      <news:title><![CDATA['Hope', from 'The Wailing' director Na Hong-jin, tops South Korean box office]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/indigo-selects-honeywell-systems-for-810-new-airbus-jets-mrtr7yxs</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-20T09:45:25.000Z</news:publication_date>
+      <news:title><![CDATA[IndiGo Selects Honeywell Systems for 810 New Airbus Jets]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://newshubnow.in/article/chinas-latest-ai-breakthrough-threatens-americas-lead-mrsw06g8</loc>
     <news:news>
       <news:publication>
@@ -87,158 +231,14 @@
   </url>
 
   <url>
-    <loc>https://newshubnow.in/article/xi-pitches-china-as-leader-of-new-global-ai-order-challenging-us-dominance-mrsb93ho</loc>
+    <loc>https://newshubnow.in/article/plaqueboymax-ends-streamer-university-broadcast-after-heated-diva-clash-tmz-mru0nhsh</loc>
     <news:news>
       <news:publication>
         <news:name>NewsHubNow</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-07-19T21:31:26.317Z</news:publication_date>
-      <news:title><![CDATA[Xi pitches China as leader of new global AI order, challenging US dominance]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/who-is-andy-burnham-the-uks-new-prime-minister-mrsb8xdq</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-19T21:31:18.398Z</news:publication_date>
-      <news:title><![CDATA[Who is Andy Burnham, the U.K.'s new prime minister?]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/chinas-xi-jinping-launches-new-ai-alliance-what-is-it-mrsb4x4j</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-19T21:28:11.443Z</news:publication_date>
-      <news:title><![CDATA[China’s Xi Jinping launches new AI alliance: What is it?]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/us-and-iran-trade-strikes-again-as-washington-avenges-american-deaths-mrsb4qpn</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-19T21:28:03.131Z</news:publication_date>
-      <news:title><![CDATA[US and Iran trade strikes again as Washington avenges American deaths]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/the-stark-reality-of-the-missing-jobs-for-indias-gen-z-mrsvzlal</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-19T19:10:00.000Z</news:publication_date>
-      <news:title><![CDATA[The stark reality of the missing jobs for India’s Gen Z]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/india-vs-england-ritika-sajdeh-breaks-down-as-rohit-sharma-scripts-lords-history-with-historic-century-mrsvzqnv</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-19T19:09:06.000Z</news:publication_date>
-      <news:title><![CDATA[India vs England: Ritika Sajdeh Breaks Down as Rohit Sharma Scripts Lord's History With Historic Century]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/ravichandran-ashwin-feels-sorry-for-kuldeep-yadav-after-spinner-misses-another-odi-against-england-mrsp29kt</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-19T15:55:42.000Z</news:publication_date>
-      <news:title><![CDATA[Ravichandran Ashwin Feels Sorry For Kuldeep Yadav After Spinner Misses Another ODI Against England]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/saif-ali-khan-son-taimur-spotted-with-ms-dhoni-at-lords-for-india-vs-england-3rd-odi-kriti-sanon-also-attends-mrslzk7x</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-19T14:30:54.000Z</news:publication_date>
-      <news:title><![CDATA[Saif Ali Khan, Son Taimur Spotted With MS Dhoni At Lord's For India Vs England 3rd ODI; Kriti Sanon Also Attends]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/ramayana-trailer-event-in-delhi-what-ranbir-kapoor-sai-pallavi-rakul-preet-and-the-star-cast-wore-mrslzp46</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-19T14:30:00.000Z</news:publication_date>
-      <news:title><![CDATA[‘Ramayana’ trailer event in Delhi: What Ranbir Kapoor, Sai Pallavi, Rakul Preet and the star cast wore]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/air-india-group-to-hit-30-market-share-in-two-years-says-cco-nipun-aggarwal-mrsb8xfg</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-19T09:30:47.000Z</news:publication_date>
-      <news:title><![CDATA[Air India group to hit 30% market share in two years, says CCO Nipun Aggarwal]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/calcutta-high-court-halts-demolition-at-tmc-mp-abhishek-banerjees-office-mrsb4nnd</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-19T09:27:41.000Z</news:publication_date>
-      <news:title><![CDATA[Calcutta high court halts demolition at TMC MP Abhishek Banerjee's office]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/--mrsb4t3z</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-19T09:27:19.000Z</news:publication_date>
-      <news:title><![CDATA[മറഞ്ഞിരുന്നത് ഒന്നര നൂറ്റാണ്ട്, ഹിമാലയത്തിൽ കണ്ടെത്തിയത് ‘നിഗൂഢ പുഷ്പം’ അമ്പരന്ന് ഗവേഷകർ]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/team-india-visit-high-commission-of-india-in-london-ahead-of-lords-decider-mrsb937l</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-19T09:26:46.000Z</news:publication_date>
-      <news:title><![CDATA[Team India visit High Commission of India in London ahead of Lord’s decider]]></news:title>
+      <news:publication_date>2026-07-20T00:58:37.000Z</news:publication_date>
+      <news:title><![CDATA[PlaqueBoyMax Ends Streamer University Broadcast After Heated 'Diva' Clash - TMZ]]></news:title>
     </news:news>
   </url>
 </urlset>
