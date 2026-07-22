@@ -3,6 +3,162 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://newshubnow.in/article/four-tech-trends-influencing-employee-experience-in-2024-mrvg1e0w</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-22T02:08:43.328Z</news:publication_date>
+      <news:title><![CDATA[Four tech trends influencing employee experience in 2024]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/openai-says-its-ai-models-went-rogue-and-attacked-a-digital-library-mrvg16sd</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-22T02:08:33.949Z</news:publication_date>
+      <news:title><![CDATA[OpenAI Says Its A.I. Models Went Rogue and Attacked a Digital Library]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/woman-gives-birth-to-rare-identical-quadruplet-daughters-mrvg13p1</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-22T02:08:29.941Z</news:publication_date>
+      <news:title><![CDATA[Woman gives birth to rare identical quadruplet daughters]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/startups-oscillator-based-ai-technology-could-be-1000-times-more-energy-efficient-than-conventional-computing-mrv6mbws</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-21T21:45:04.204Z</news:publication_date>
+      <news:title><![CDATA[Startup's 'oscillator-based' AI technology could be 1,000 times more energy efficient than conventional computing]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/india-student-protests-give-opposition-a-rare-opening-against-modi-mrv6m6xf</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-21T21:44:57.747Z</news:publication_date>
+      <news:title><![CDATA[India student protests give opposition a rare opening against Modi]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/how-googles-ai-search-is-imperiling-the-open-web-mrv6j76s</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-21T21:42:38.116Z</news:publication_date>
+      <news:title><![CDATA[How Google’s A.I. Search Is Imperiling the Open Web]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/zelensky-sacks-ukraines-top-army-commander-after-days-of-protests-mrv6j31l</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-21T21:42:32.745Z</news:publication_date>
+      <news:title><![CDATA[Zelensky sacks Ukraine's top army commander after days of protests]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/nsa-ajit-doval-reviews-bilateral-ties-regional-situation-with-senior-saudi-leadership-during-riyadh-visit-mrvg0yjo</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-21T14:08:05.000Z</news:publication_date>
+      <news:title><![CDATA[NSA Ajit Doval reviews bilateral ties, regional situation with senior Saudi leadership during Riyadh visit]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/hospitality-with-a-heart-the-significance-of-this-moment-mrv6m7fp</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-21T09:42:50.000Z</news:publication_date>
+      <news:title><![CDATA[Hospitality With A Heart: The Significance of this moment]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/youth-movement-sparks-major-protests-over-examination-leaks-mrv6j0xo</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-21T09:42:07.000Z</news:publication_date>
+      <news:title><![CDATA[Youth Movement Sparks Major Protests Over Examination Leaks]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/vir-das-calls-out-sheer-hypocrisy-asks-indian-artists-to-support-students-before-trying-to-sell-them-tickets-mrv6j5w8</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-21T09:40:31.000Z</news:publication_date>
+      <news:title><![CDATA[Vir Das calls out ‘sheer hypocrisy’, asks Indian artists to support students before trying to sell them tickets]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/indian-steals-rs-148-crore-diamond-in-singapore-hides-it-in-mouth-jailed-mrv6mck3</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-21T09:40:04.000Z</news:publication_date>
+      <news:title><![CDATA[Indian steals Rs 1.48-crore diamond in Singapore, hides it in mouth; jailed]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/sen-darline-graham-will-seek-full-term-to-her-late-brothers-seat-the-washington-post-mrvg10i9</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-21T02:36:57.000Z</news:publication_date>
+      <news:title><![CDATA[Sen. Darline Graham will seek full term to her late brother’s seat - The Washington Post]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://newshubnow.in/article/chinas-ai-models-have-trumps-ai-world-at-war-with-itself-mru0nojh</loc>
     <news:news>
       <news:publication>
@@ -23,6 +179,30 @@
       </news:publication>
       <news:publication_date>2026-07-21T02:10:19.758Z</news:publication_date>
       <news:title><![CDATA[US launches fresh strikes on Iran, as Trump warns of retaliation for deaths of soldiers]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/spains-world-cup-champions-return-home-for-royal-welcome-and-parade-in-front-of-almost-2-million-ap-news-mrv6j1ql</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-20T21:51:00.000Z</news:publication_date>
+      <news:title><![CDATA[Spain’s World Cup champions return home for royal welcome and parade in front of almost 2 million - AP News]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/taylor-farms-lettuce-is-still-focus-of-cyclospora-investigation-despite-false-positive-test-fda-says-cbs-news-mrv6m8gd</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-20T21:48:18.000Z</news:publication_date>
+      <news:title><![CDATA[Taylor Farms lettuce is still focus of cyclospora investigation despite false positive test, FDA says - CBS News]]></news:title>
     </news:news>
   </url>
 
@@ -59,186 +239,6 @@
       </news:publication>
       <news:publication_date>2026-07-20T21:46:21.220Z</news:publication_date>
       <news:title><![CDATA[Why Silicon Valley Can’t Stop Looking Over Its Shoulder at China]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/after-deadly-weekend-for-us-troops-trump-vows-revenge-against-iran-mrtr825n</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-20T21:46:17.963Z</news:publication_date>
-      <news:title><![CDATA[After deadly weekend for US troops, Trump vows revenge against Iran]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/--mru0nh3x</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-20T14:10:02.000Z</news:publication_date>
-      <news:title><![CDATA[जसपुर में कल से शुरू होंगे मुख्यमंत्री उदयीमान खिलाड़ी उन्नयन छात्रवृत्ति योजना के खेल]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/global-middas-capital-music-gmc-music-valued-at-rs-500-cr-52-million-usd-mru0nmx1</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-20T14:08:39.000Z</news:publication_date>
-      <news:title><![CDATA[Global Middas Capital Music (GMC Music) valued at Rs 500 Cr (52 Million USD)]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/kia-syros-ev-with-526km-claimed-range-to-launch-in-india-in-july-mrtr9vod</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-20T09:47:15.000Z</news:publication_date>
-      <news:title><![CDATA[Kia Syros EV with 526km claimed range to launch in India in July]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/nearly-90-of-indians-have-abnormal-cholesterol-levels-icmr-study-mrtr83ld</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-20T09:46:03.000Z</news:publication_date>
-      <news:title><![CDATA[Nearly 90% of Indians have abnormal cholesterol levels: ICMR study]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/hope-from-the-wailing-director-na-hong-jin-tops-south-korean-box-office-mrtra1qc</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-20T09:45:46.000Z</news:publication_date>
-      <news:title><![CDATA['Hope', from 'The Wailing' director Na Hong-jin, tops South Korean box office]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/indigo-selects-honeywell-systems-for-810-new-airbus-jets-mrtr7yxs</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-20T09:45:25.000Z</news:publication_date>
-      <news:title><![CDATA[IndiGo Selects Honeywell Systems for 810 New Airbus Jets]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/chinas-latest-ai-breakthrough-threatens-americas-lead-mrsw06g8</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-20T07:12:22.184Z</news:publication_date>
-      <news:title><![CDATA[China’s Latest A.I. Breakthrough Threatens America’s Lead]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/andy-burnham-will-become-uk-prime-minister-after-a-meeting-with-king-charles-iii-mrsvzm9t</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-20T07:11:56.033Z</news:publication_date>
-      <news:title><![CDATA[Andy Burnham will become UK prime minister after a meeting with King Charles III]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/more-than-1100-firms-unveil-ai-innovations-at-shanghai-conference-mrsp2geb</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-20T03:58:11.075Z</news:publication_date>
-      <news:title><![CDATA[More than 1,100 firms unveil AI innovations at Shanghai conference]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/iran-attacks-bahrain-kuwait-and-jordan-after-us-hits-iranian-nuclear-site-mrsp2ej4</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-20T03:58:08.656Z</news:publication_date>
-      <news:title><![CDATA[Iran attacks Bahrain, Kuwait and Jordan after US hits Iranian nuclear site]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/python-programming-from-zero-to-job-ready-in-90-days-mrsp287k</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-20T03:58:00.464Z</news:publication_date>
-      <news:title><![CDATA[Python Programming: From Zero to Job-Ready in 90 Days]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/artificial-intelligence-technologies-open-a-new-door-to-debate-about-academic-integrity-mrslzrmy</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-20T02:32:06.826Z</news:publication_date>
-      <news:title><![CDATA[Artificial intelligence technologies open a new door to debate about academic integrity]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/live-updates-us-iran-war-news-us-launches-new-iran-strikes-as-troop-deaths-raise-fear-of-wider-war-mrslzj7k</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-20T02:31:55.904Z</news:publication_date>
-      <news:title><![CDATA[Live updates: US-Iran war news; US launches new Iran strikes as troop deaths raise fear of wider war]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/plaqueboymax-ends-streamer-university-broadcast-after-heated-diva-clash-tmz-mru0nhsh</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-20T00:58:37.000Z</news:publication_date>
-      <news:title><![CDATA[PlaqueBoyMax Ends Streamer University Broadcast After Heated 'Diva' Clash - TMZ]]></news:title>
     </news:news>
   </url>
 </urlset>
