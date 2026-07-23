@@ -3,6 +3,150 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://newshubnow.in/article/openai-says-its-ai-models-hacked-into-hugging-face-a-digital-library-mrwvp8dg</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-23T02:14:56.164Z</news:publication_date>
+      <news:title><![CDATA[OpenAI Says Its A.I. Models Hacked Into Hugging Face, a Digital Library]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/zelenskyy-under-growing-pressure-to-reinstate-sacked-defence-minister-mrwvp1h3</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-23T02:14:47.223Z</news:publication_date>
+      <news:title><![CDATA[Zelenskyy under growing pressure to reinstate sacked defence minister]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/openai-says-its-technology-on-its-own-carried-out-unprecedented-hack-of-another-ai-company-mrwlxjyh</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-22T21:41:28.265Z</news:publication_date>
+      <news:title><![CDATA[OpenAI says its technology, on its own, carried out "unprecedented" hack of another AI company]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/saudis-and-us-strike-deal-for-kingdom-to-enrich-uranium-reports-say-mrwlxdlr</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-22T21:41:20.031Z</news:publication_date>
+      <news:title><![CDATA[Saudis and US strike deal for kingdom to enrich uranium, reports say]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/as-china-advances-in-ai-trump-faces-a-new-test-in-the-technology-race-mrwlvkpr</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-22T21:39:55.935Z</news:publication_date>
+      <news:title><![CDATA[As China advances in AI, Trump faces a new test in the technology race]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/live-updates-trump-vows-to-hit-iranian-bridge-or-power-plant-each-time-tehran-strikes-ships-in-strait-of-hormuz-mrwlvhof</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-22T21:39:51.999Z</news:publication_date>
+      <news:title><![CDATA[Live updates: Trump vows to hit Iranian bridge or power plant each time Tehran strikes ships in Strait of Hormuz]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/recently-listed-indo-smc-bags-666-crore-order-from-engineering-firm-stock-jumps-190-from-march-lows-mrwvp3ze</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-22T14:14:27.000Z</news:publication_date>
+      <news:title><![CDATA[Recently listed Indo SMC bags ₹66.6 crore order from engineering firm; stock jumps 190% from March lows]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/sbi-po-admit-card-2026-out-at-ibpsregibpsin-check-how-to-download-direct-link-exam-day-guidelines-and-more-mrwvoy6e</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-22T14:14:00.000Z</news:publication_date>
+      <news:title><![CDATA[SBI PO Admit Card 2026 out at ibpsreg.ibps.in: Check how to download, direct link, exam day guidelines and more]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/google-gemini-allegedly-used-in-bengaluru-triple-murder-plot-investigation-reveals-mrwlxdwz</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-22T09:40:59.000Z</news:publication_date>
+      <news:title><![CDATA[Google Gemini Allegedly Used in Bengaluru Triple Murder Plot, Investigation Reveals]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/after-summoning-russian-envoy-jaishankar-presses-moscow-on-indian-seafarers-safety-mrwlxjio</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-22T09:40:06.000Z</news:publication_date>
+      <news:title><![CDATA[After summoning Russian envoy, Jaishankar presses Moscow on Indian seafarers’ safety]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/australias-dilemma-of-a-and-odi-tours-clash-in-september-mrwlvhc6</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-22T09:39:09.000Z</news:publication_date>
+      <news:title><![CDATA[Australia's dilemma of 'A' and ODI tours clash in September]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/moneycontrol-pro-panorama-tariff-headwinds-are-blowing-again-mrwlvn50</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-22T09:36:23.000Z</news:publication_date>
+      <news:title><![CDATA[Moneycontrol Pro Panorama | Tariff headwinds are blowing again]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://newshubnow.in/article/four-tech-trends-influencing-employee-experience-in-2024-mrvg1e0w</loc>
     <news:news>
       <news:publication>
@@ -39,6 +183,42 @@
   </url>
 
   <url>
+    <loc>https://newshubnow.in/article/us-military-identifies-3rd-service-member-believed-to-have-been-killed-in-iranian-attack-ap-news-mrwvoxci</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-22T00:15:00.000Z</news:publication_date>
+      <news:title><![CDATA[US military identifies 3rd service member believed to have been killed in Iranian attack - AP News]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/caitlin-clark-declines-wnba-3-point-contest-invitation-dealing-major-blow-to-all-star-weekend-and-espn-fox-news-mrwlvhop</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-21T21:46:18.000Z</news:publication_date>
+      <news:title><![CDATA[Caitlin Clark declines WNBA 3-Point Contest invitation, dealing major blow to All-Star Weekend and ESPN - Fox News]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/child-actor-kaylee-hottle-killed-in-car-crash-nbc-news-mrwlxe97</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-21T21:45:27.000Z</news:publication_date>
+      <news:title><![CDATA[Child actor Kaylee Hottle killed in car crash - NBC News]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://newshubnow.in/article/startups-oscillator-based-ai-technology-could-be-1000-times-more-energy-efficient-than-conventional-computing-mrv6mbws</loc>
     <news:news>
       <news:publication>
@@ -59,186 +239,6 @@
       </news:publication>
       <news:publication_date>2026-07-21T21:44:57.747Z</news:publication_date>
       <news:title><![CDATA[India student protests give opposition a rare opening against Modi]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/how-googles-ai-search-is-imperiling-the-open-web-mrv6j76s</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-21T21:42:38.116Z</news:publication_date>
-      <news:title><![CDATA[How Google’s A.I. Search Is Imperiling the Open Web]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/zelensky-sacks-ukraines-top-army-commander-after-days-of-protests-mrv6j31l</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-21T21:42:32.745Z</news:publication_date>
-      <news:title><![CDATA[Zelensky sacks Ukraine's top army commander after days of protests]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/nsa-ajit-doval-reviews-bilateral-ties-regional-situation-with-senior-saudi-leadership-during-riyadh-visit-mrvg0yjo</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-21T14:08:05.000Z</news:publication_date>
-      <news:title><![CDATA[NSA Ajit Doval reviews bilateral ties, regional situation with senior Saudi leadership during Riyadh visit]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/hospitality-with-a-heart-the-significance-of-this-moment-mrv6m7fp</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-21T09:42:50.000Z</news:publication_date>
-      <news:title><![CDATA[Hospitality With A Heart: The Significance of this moment]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/youth-movement-sparks-major-protests-over-examination-leaks-mrv6j0xo</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-21T09:42:07.000Z</news:publication_date>
-      <news:title><![CDATA[Youth Movement Sparks Major Protests Over Examination Leaks]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/vir-das-calls-out-sheer-hypocrisy-asks-indian-artists-to-support-students-before-trying-to-sell-them-tickets-mrv6j5w8</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-21T09:40:31.000Z</news:publication_date>
-      <news:title><![CDATA[Vir Das calls out ‘sheer hypocrisy’, asks Indian artists to support students before trying to sell them tickets]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/indian-steals-rs-148-crore-diamond-in-singapore-hides-it-in-mouth-jailed-mrv6mck3</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-21T09:40:04.000Z</news:publication_date>
-      <news:title><![CDATA[Indian steals Rs 1.48-crore diamond in Singapore, hides it in mouth; jailed]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/sen-darline-graham-will-seek-full-term-to-her-late-brothers-seat-the-washington-post-mrvg10i9</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-21T02:36:57.000Z</news:publication_date>
-      <news:title><![CDATA[Sen. Darline Graham will seek full term to her late brother’s seat - The Washington Post]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/chinas-ai-models-have-trumps-ai-world-at-war-with-itself-mru0nojh</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-21T02:10:23.357Z</news:publication_date>
-      <news:title><![CDATA[China’s AI models have Trump’s AI world at war with itself]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/us-launches-fresh-strikes-on-iran-as-trump-warns-of-retaliation-for-deaths-of-soldiers-mru0nlri</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-21T02:10:19.758Z</news:publication_date>
-      <news:title><![CDATA[US launches fresh strikes on Iran, as Trump warns of retaliation for deaths of soldiers]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/spains-world-cup-champions-return-home-for-royal-welcome-and-parade-in-front-of-almost-2-million-ap-news-mrv6j1ql</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-20T21:51:00.000Z</news:publication_date>
-      <news:title><![CDATA[Spain’s World Cup champions return home for royal welcome and parade in front of almost 2 million - AP News]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/taylor-farms-lettuce-is-still-focus-of-cyclospora-investigation-despite-false-positive-test-fda-says-cbs-news-mrv6m8gd</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-20T21:48:18.000Z</news:publication_date>
-      <news:title><![CDATA[Taylor Farms lettuce is still focus of cyclospora investigation despite false positive test, FDA says - CBS News]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/chinas-new-ai-model-halts-new-subscriptions-as-demand-swamps-capacity-mrtra29i</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-20T21:47:51.414Z</news:publication_date>
-      <news:title><![CDATA[China's new AI model halts new subscriptions as demand swamps capacity]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/andy-burnham-becomes-the-uks-seventh-prime-minister-in-a-decade-after-starmer-resigns-mrtr9wsd</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-20T21:47:44.317Z</news:publication_date>
-      <news:title><![CDATA[Andy Burnham becomes the UK’s seventh prime minister in a decade after Starmer resigns]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/why-silicon-valley-cant-stop-looking-over-its-shoulder-at-china-mrtr84o4</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-20T21:46:21.220Z</news:publication_date>
-      <news:title><![CDATA[Why Silicon Valley Can’t Stop Looking Over Its Shoulder at China]]></news:title>
     </news:news>
   </url>
 </urlset>
