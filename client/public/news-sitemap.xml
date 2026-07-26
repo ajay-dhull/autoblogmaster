@@ -3,6 +3,174 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://newshubnow.in/article/incndios-florestais-foram-sada-de-330-mil-pessoas-na-frana-e-espanha-ms1wsl2j</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-26T14:44:23.083Z</news:publication_date>
+      <news:title><![CDATA[Incêndios florestais forçam saída de 330 mil pessoas na França e Espanha]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/top-10-technology-innovations-ms1hk0nr</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-26T07:37:49.143Z</news:publication_date>
+      <news:title><![CDATA[Top 10: Technology Innovations]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/google-and-tesla-shares-plunge-as-ai-spending-rattles-markets-ms1hjspt</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-26T07:37:38.849Z</news:publication_date>
+      <news:title><![CDATA[Google and Tesla shares plunge as AI spending rattles markets]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/car-plows-into-crowd-at-berlin-pride-event-in-suspected-terror-attack-ms1hjj5q</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-26T07:37:26.462Z</news:publication_date>
+      <news:title><![CDATA[Car Plows Into Crowd at Berlin Pride Event in Suspected Terror Attack]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/cockroach-janta-party-protest-is-this-gen-zs-defining-political-moment-in-india-ms1wsinx</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-26T02:44:01.000Z</news:publication_date>
+      <news:title><![CDATA[Cockroach Janta Party protest: Is this Gen Z’s defining political moment in India?]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/abhishek-sharma-scripts-history-enters-indian-crickets-record-books-ms1wsnnz</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-26T02:40:00.000Z</news:publication_date>
+      <news:title><![CDATA[Abhishek Sharma scripts history, enters Indian cricket's record books]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/silicon-valley-splits-over-closing-the-borders-to-chinese-ai-ms169ju0</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-26T02:21:45.000Z</news:publication_date>
+      <news:title><![CDATA[Silicon Valley Splits Over Closing the Borders to Chinese A.I.]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/car-plows-into-people-near-a-pride-event-in-berlin-killing-at-least-one-ms169cy5</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-26T02:21:36.077Z</news:publication_date>
+      <news:title><![CDATA[Car Plows Into People Near a Pride Event in Berlin, Killing at Least One]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/qa-what-is-agentic-ai-today-and-what-do-we-want-it-to-be-ms0vu22l</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-25T21:29:45.981Z</news:publication_date>
+      <news:title><![CDATA[Q&A: What is agentic AI today, and what do we want it to be?]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/indias-cockroach-movement-ousts-minister-but-can-modi-calm-youth-ms0vtvdp</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-25T21:29:37.309Z</news:publication_date>
+      <news:title><![CDATA[India's 'cockroach' movement ousts minister, but can Modi calm youth?]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/why-nvidia-microsoft-and-meta-want-the-us-to-support-open-weight-ai-ms0vsb56</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-25T21:28:24.426Z</news:publication_date>
+      <news:title><![CDATA[Why Nvidia, Microsoft and Meta want the US to support open-weight AI]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/live-updates-spain-and-france-battle-raging-wildfires-as-at-least-250000-people-forced-to-flee-ms0vs499</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-25T21:28:15.501Z</news:publication_date>
+      <news:title><![CDATA[Live updates: Spain and France battle raging wildfires as at least 250,000 people forced to flee]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/--ms1hjiuc</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-25T19:35:31.000Z</news:publication_date>
+      <news:title><![CDATA[संत साहित्य की साधना आचार्य के जीवन का ध्येय था : कुलपति]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/phenomenal-achievement-union-sports-minister-mandaviya-hails-anahats-historic-squash-title-ms1hjns6</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-25T19:18:07.000Z</news:publication_date>
+      <news:title><![CDATA["Phenomenal achievement": Union Sports Minister Mandaviya hails Anahat's historic squash title]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://newshubnow.in/article/the-10-biggest-generative-ai-news-stories-of-2026-so-far-ms0iplg5</loc>
     <news:news>
       <news:publication>
@@ -71,174 +239,6 @@
       </news:publication>
       <news:publication_date>2026-07-25T13:18:15.387Z</news:publication_date>
       <news:title><![CDATA[OpenAI says its AI technology acted on its own in an 'unprecedented' hack of another company]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/wildfires-in-spain-and-france-force-evacuation-of-200000-people-ms0e9op8</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-25T13:18:02.060Z</news:publication_date>
-      <news:title><![CDATA[Wildfires in Spain and France force evacuation of 200,000 people]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/more-americans-think-china-is-world-leader-in-ai-new-survey-reveals-ms00wjxb</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-25T07:03:54.335Z</news:publication_date>
-      <news:title><![CDATA[More Americans think China is world leader in AI, new survey reveals]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/trump-swings-back-toward-diplomacy-in-escalating-war-with-iran-ms00w5z9</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-25T07:03:36.261Z</news:publication_date>
-      <news:title><![CDATA[Trump swings back toward diplomacy in escalating war with Iran]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/novel-method-lets-multimodal-ai-update-knowledge-without-losing-earlier-information-mrzuepmx</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-25T04:02:04.233Z</news:publication_date>
-      <news:title><![CDATA[Novel method lets multimodal AI update knowledge without losing earlier information]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/trump-says-nobody-got-out-ahead-on-saudi-nuclear-deal-despite-abraham-accords-twist-mrzuelfv</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-25T04:01:58.795Z</news:publication_date>
-      <news:title><![CDATA[Trump says ‘nobody got out ahead’ on Saudi nuclear deal despite Abraham Accords twist]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/personal-finance-budget-invest-and-build-wealth-mrzuej8r</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-25T04:01:55.947Z</news:publication_date>
-      <news:title><![CDATA[Personal Finance: Budget, Invest, and Build Wealth]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/how-jadumani-singh-mandengbam-overcame-weight-cut-struggles-to-outclass-home-favourite-aaron-cullen-ms0ipdgm</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-25T03:21:30.000Z</news:publication_date>
-      <news:title><![CDATA[How Jadumani Singh Mandengbam Overcame Weight-Cut Struggles To Outclass Home Favourite Aaron Cullen]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/indian-tanker-attacked-off-iran-all-28-crew-members-safe-embassy-ms0ipibc</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-25T03:18:52.000Z</news:publication_date>
-      <news:title><![CDATA[Indian Tanker Attacked Off Iran, All 28 Crew Members Safe: Embassy]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/sc-to-take-up-pleas-alleging-police-excesses-on-monday-ms0hatgx</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-25T02:42:30.000Z</news:publication_date>
-      <news:title><![CDATA[SC to take up pleas alleging police excesses on Monday]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/indian-youth-is-oppressed-by-our-education-system-modi-govt-must-decentralise-and-let-go-ms0hayc8</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-25T02:40:07.000Z</news:publication_date>
-      <news:title><![CDATA[Indian youth is oppressed by our education system. Modi govt must decentralise and let go]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/openai-says-its-ai-went-rogue-and-launched-unprecedented-cyber-attack-mrzqfs08</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-25T02:10:55.496Z</news:publication_date>
-      <news:title><![CDATA[OpenAI says its AI went rogue and launched 'unprecedented' cyber-attack]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/icc-prosecutor-karim-khan-removed-over-political-sex-abuse-claims-mrzqfloe</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-25T02:10:47.294Z</news:publication_date>
-      <news:title><![CDATA[ICC prosecutor Karim Khan removed over ‘political’ sex abuse claims]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/trumps-saudi-arabia-nuclear-gambit-marks-important-shift-ms0e9lt7</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-25T01:15:31.000Z</news:publication_date>
-      <news:title><![CDATA[Trump’s Saudi Arabia nuclear gambit marks important shift]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/meet-the-protester-at-jantar-mantar-young-angry-and-very-gen-z-ms0e9r02</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-25T01:15:16.000Z</news:publication_date>
-      <news:title><![CDATA[Meet the protester at Jantar Mantar - young, angry, and very Gen Z]]></news:title>
     </news:news>
   </url>
 </urlset>
