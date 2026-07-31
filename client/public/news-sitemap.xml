@@ -3,6 +3,150 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://newshubnow.in/article/amazon-to-boost-spending-on-ai-and-other-technology-by-20-billion-after-strong-q2-results-ms8u1368</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-31T11:01:24.176Z</news:publication_date>
+      <news:title><![CDATA[Amazon to boost spending on AI and other technology by $20 billion after strong Q2 results]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/at-least-18-die-after-thousands-breach-border-between-morocco-and-spanish-territory-of-ceuta-ms8u0t70</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-31T11:01:11.244Z</news:publication_date>
+      <news:title><![CDATA[At least 18 die after thousands breach border between Morocco and Spanish territory of Ceuta]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/big-techs-ai-spending-keeps-rising-so-do-the-jitters-ms8bgsne</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-31T02:21:44.330Z</news:publication_date>
+      <news:title><![CDATA[Big Tech’s A.I. Spending Keeps Rising. So Do the Jitters.]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/hamas-reaches-gaza-disarmament-agreement-with-board-of-peace-ms8bgqk9</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-31T02:21:41.625Z</news:publication_date>
+      <news:title><![CDATA[Hamas reaches Gaza disarmament agreement with Board of Peace]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/china-backs-india-to-hold-successful-brics-summit-but-remains-evasive-about-xis-attendance-ms8u0sgj</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-30T23:00:41.000Z</news:publication_date>
+      <news:title><![CDATA[China backs India to hold 'successful' BRICS summit but remains evasive about Xi's attendance]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/indian-origin-lawyer-fined-for-filing-fraudulent-asylum-claims-in-us-ms8u0xai</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-30T22:59:43.000Z</news:publication_date>
+      <news:title><![CDATA[Indian origin lawyer fined for filing fraudulent asylum claims in US]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/nist-launches-new-testbed-program-to-evaluate-ai-model-performance-ms81nvo9</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-30T21:47:18.681Z</news:publication_date>
+      <news:title><![CDATA[NIST Launches New Testbed Program to Evaluate AI Model Performance]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/migrants-pour-into-spains-ceuta-from-morocco-military-called-in-ms81nphw</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-30T21:47:10.676Z</news:publication_date>
+      <news:title><![CDATA[Migrants pour into Spain's Ceuta from Morocco, military called in]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/five-days-inside-a-rogue-ai-agents-stealthy-cyberattack-ms81lzg2</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-30T21:45:50.258Z</news:publication_date>
+      <news:title><![CDATA[Five days inside a rogue AI agent’s stealthy cyberattack]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/us-and-iran-trade-missile-barrages-as-hopes-dim-for-a-quick-resolution-to-the-five-month-conflict-ms81lx0u</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-30T21:45:47.118Z</news:publication_date>
+      <news:title><![CDATA[US and Iran trade missile barrages as hopes dim for a quick resolution to the five-month conflict]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/youngsters-gain-confidence-by-sharing-dressing-room-with-ipl-and-india-stars-vishesh-gaur-on-upt20-leagues-impact-ms8bgpgj</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-30T14:21:06.000Z</news:publication_date>
+      <news:title><![CDATA["Youngsters gain confidence by sharing dressing room with IPL and India stars": Vishesh Gaur on UPT20 League's impact]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/pm-modi-discusses-global-security-situation-supply-chain-in-key-ccs-meet-calls-for-safety-of-indian-nationals-ms8bgudn</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-30T14:18:01.000Z</news:publication_date>
+      <news:title><![CDATA[PM Modi Discusses Global Security Situation, Supply Chain in Key CCS Meet, Calls For Safety of Indian Nationals]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://newshubnow.in/article/how-a-rogue-ai-systems-stealthy-cyberattack-played-out-day-by-day-ms7jgwzy</loc>
     <news:news>
       <news:publication>
@@ -27,6 +171,54 @@
   </url>
 
   <url>
+    <loc>https://newshubnow.in/article/reliable-ventures-india-fixes-july-31-as-open-offer-identified-date-ms81npk7</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-30T09:46:38.000Z</news:publication_date>
+      <news:title><![CDATA[Reliable Ventures India fixes July 31 as open offer identified date]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/indian-football-team-set-for-dream-clash-against-brazil-in-kolkata-report-ms81nues</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-30T09:46:28.000Z</news:publication_date>
+      <news:title><![CDATA[Indian Football Team Set for Dream Clash Against Brazil In Kolkata - Report]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/india-epic-wild-stories-launches-on-animal-planet-ms81lwdc</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-30T09:45:26.000Z</news:publication_date>
+      <news:title><![CDATA[India: Epic Wild Stories Launches On Animal Planet]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/porn-star-emily-willis-slowly-recovering-after-catastrophic-brain-damage-tmz-ms8u0u2c</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-30T07:00:56.000Z</news:publication_date>
+      <news:title><![CDATA[Porn Star Emily Willis Slowly Recovering After Catastrophic Brain Damage - TMZ]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://newshubnow.in/article/microsoft-increases-spending-on-ai-as-profit-jumps-31-ms6v50zi</loc>
     <news:news>
       <news:publication>
@@ -47,198 +239,6 @@
       </news:publication>
       <news:publication_date>2026-07-30T01:56:42.688Z</news:publication_date>
       <news:title><![CDATA[US launches strikes on Iranian targets a day after it foiled missile attack on American forces]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/historic-double-podium-for-bharat-mansukh-mandaviya-hails-gavit-basil-after-indias-1-2-finish-at-cwg-2026-ms7jgnxw</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-30T01:17:18.000Z</news:publication_date>
-      <news:title><![CDATA["Historic double podium for Bharat!"': Mansukh Mandaviya hails Gavit, Basil after India's 1-2 finish at CWG 2026]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/keralas-sreeshankar-wins-historic-silver-becomes-first-indian-to-win-2-cwg-long-jump-medals-ms7jgtsh</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-30T01:13:24.000Z</news:publication_date>
-      <news:title><![CDATA[Kerala's Sreeshankar wins historic silver, becomes first Indian to win 2 CWG long jump medals]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/some-tech-shares-are-plunging-what-does-that-mean-for-the-ai-revolution-ms6lmq7r</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-29T21:30:44.919Z</news:publication_date>
-      <news:title><![CDATA[Some tech shares are plunging - what does that mean for the AI revolution?]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/after-the-quake-came-the-blast-inside-japans-shopping-mall-disaster-ms6lmjxn</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-29T21:30:36.779Z</news:publication_date>
-      <news:title><![CDATA[After the quake came the blast: Inside Japan's shopping mall disaster]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/openais-rogue-agent-hacked-an-account-at-a-second-technology-firm-report-ms6lkubq</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-29T21:29:16.934Z</news:publication_date>
-      <news:title><![CDATA[OpenAI’s rogue agent hacked an account at a second technology firm: Report]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/live-updates-trump-says-iran-going-to-get-a-beating-as-fresh-fighting-shatters-calm-ms6lkovj</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-29T21:29:09.871Z</news:publication_date>
-      <news:title><![CDATA[Live updates: Trump says Iran ‘going to get a beating’ as fresh fighting shatters calm]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/announcing-nists-artificial-intelligence-technology-evaluation-aite-ms6ffmpk</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-29T18:37:16.088Z</news:publication_date>
-      <news:title><![CDATA[Announcing NIST's Artificial Intelligence Technology Evaluation (AITE)]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/iran-attacks-us-forces-in-jordan-as-trump-meets-netanyahu-ms6ffjlx</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-29T18:37:12.070Z</news:publication_date>
-      <news:title><![CDATA[Iran attacks US forces in Jordan as Trump meets Netanyahu]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/fifas-infantino-sets-deadline-for-20m-offer-to-members-in-kushner-backed-world-cup-investor-plan-ap-news-ms7jgoki</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-29T14:24:00.000Z</news:publication_date>
-      <news:title><![CDATA[FIFA's Infantino sets deadline for $20M offer to members in Kushner-backed World Cup investor plan - AP News]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/nuclear-scientist-mother-breadwinner-kerala-woman-did-it-all-ms6v4ugs</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-29T13:56:10.000Z</news:publication_date>
-      <news:title><![CDATA[Nuclear scientist, mother, breadwinner. Kerala woman did it all]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/--ms6v4pon</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-29T13:55:09.000Z</news:publication_date>
-      <news:title><![CDATA[आरोपियों की गिरफ्तारी के लिए ज्ञापन सौंपा]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/top-quotes-from-rahul-gandhis-speech-that-triggered-ruckus-in-parliament-ms6lmjuq</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-29T09:30:22.000Z</news:publication_date>
-      <news:title><![CDATA[Top quotes from Rahul Gandhi's speech that triggered ruckus in Parliament]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/why-indians-have-added-ghee-to-hot-rice-for-generations-according-to-science-ms6lmqic</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-29T09:30:00.000Z</news:publication_date>
-      <news:title><![CDATA[Why Indians have added ghee to hot rice for generations, according to science]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/--ms6lkpuc</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-29T09:28:55.000Z</news:publication_date>
-      <news:title><![CDATA['हिंदू बेचारा कंफ्यूज है' अरविंद केजरीवाल ने क्यों कही ऐसी बात?]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/five-indians-held-in-thailand-over-pattaya-kidnapping-for-ransom-case-ms6lkv05</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-29T09:28:37.000Z</news:publication_date>
-      <news:title><![CDATA[Five Indians held in Thailand over Pattaya kidnapping-for-ransom case]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/indias-100-crore-income-club-expands-taxpayers-rise-to-576-in-ay-2025-26-ms6ffp7o</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-29T06:37:12.000Z</news:publication_date>
-      <news:title><![CDATA[India’s ₹100 Crore Income Club Expands, Taxpayers Rise to 576 in AY 2025-26]]></news:title>
     </news:news>
   </url>
 </urlset>
