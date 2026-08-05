@@ -3,6 +3,150 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://newshubnow.in/article/quote-of-the-day-by-sam-altman-why-society-has-a-limited-amount-of-time-is-a-warning-about-the-future-msffxrh1</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-08-05T02:01:17.653Z</news:publication_date>
+      <news:title><![CDATA[Quote of the day by Sam Altman: Why 'Society has a limited amount of time' is a warning about the future]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/--msffxold</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-08-05T02:01:13.921Z</news:publication_date>
+      <news:title><![CDATA[Боррель заявил о «смерти европейской солидарности»]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/austins-new-ai-report-urges-resident-led-governance-to-prevent-ai-related-harm-msf72dyl</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-08-04T21:52:56.877Z</news:publication_date>
+      <news:title><![CDATA[Austin's new AI report urges resident-led governance to prevent AI-related harm]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/board-of-peace-says-no-israeli-withdrawal-from-gaza-before-hamas-disarms-msf729qy</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-08-04T21:52:51.418Z</news:publication_date>
+      <news:title><![CDATA[Board of Peace says no Israeli withdrawal from Gaza before Hamas disarms]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/white-house-whipsaws-silicon-valley-and-itself-over-ai-rules-msf70l48</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-08-04T21:51:32.840Z</news:publication_date>
+      <news:title><![CDATA[White House Whipsaws Silicon Valley (and Itself) Over A.I. Rules]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/guatemala-volcano-eruption-prompts-evacuation-of-hundreds-of-people-msf70eyk</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-08-04T21:51:24.860Z</news:publication_date>
+      <news:title><![CDATA[Guatemala volcano eruption prompts evacuation of hundreds of people]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/exceptional-skipper-sunil-gavaskar-pays-glowing-tribute-to-ajinkya-rahane-msffxjgt</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-08-04T14:00:44.000Z</news:publication_date>
+      <news:title><![CDATA['Exceptional skipper': Sunil Gavaskar pays glowing tribute to Ajinkya Rahane]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/ind-vs-sl-shubman-gills-indian-team-reach-colombo-without-sai-sudharsan-no-clarity-on-tamil-nadu-batters-fitness-yet-msffxoqv</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-08-04T13:58:44.000Z</news:publication_date>
+      <news:title><![CDATA[IND vs SL: Shubman Gill's Indian team reach Colombo without Sai Sudharsan, no clarity on Tamil Nadu batter's fitness yet]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/revisiting-team-indias-last-test-series-in-sri-lanka-msf72aa5</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-08-04T09:52:19.000Z</news:publication_date>
+      <news:title><![CDATA[Revisiting Team India's last Test series in Sri Lanka]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/indofast-energy-partners-with-zeon-charging-to-expand-battery-msf70e54</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-08-04T09:51:01.000Z</news:publication_date>
+      <news:title><![CDATA[Indofast Energy partners with Zeon Charging to expand battery]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/sc-urged-to-urgently-hear-pleas-against-cbses-3-msf70ja5</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-08-04T09:50:09.000Z</news:publication_date>
+      <news:title><![CDATA[SC Urged To Urgently Hear Pleas Against CBSE's 3]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/indian-techie-in-ireland-explains-why-many-who-move-abroad-never-come-back-the-real-meaning-of-quality-of-life-msf72fwi</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-08-04T09:49:00.000Z</news:publication_date>
+      <news:title><![CDATA[Indian techie in Ireland explains why many who move abroad never come back: ‘The real meaning of quality of life’]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://newshubnow.in/article/op-ed-the-us-lead-over-china-in-ai-is-all-but-gone-we-need-a-change-in-national-strategy-mse0jkin</loc>
     <news:news>
       <news:publication>
@@ -27,158 +171,14 @@
   </url>
 
   <url>
-    <loc>https://newshubnow.in/article/welsh-technology-and-artificial-intelligence-ai-summary-2024-to-2025-msdrd65z</loc>
+    <loc>https://newshubnow.in/article/house-ethics-panel-recommends-censure-for-chuck-edwards-after-harassment-allegations-npr-msffxkag</loc>
     <news:news>
       <news:publication>
         <news:name>NewsHubNow</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-08-03T21:45:39.959Z</news:publication_date>
-      <news:title><![CDATA[Welsh technology and artificial intelligence (AI): summary 2024 to 2025]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/romania-blasts-rock-to-divert-water-from-drought-hit-danube-to-nuclear-reactor-msdrd18r</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-08-03T21:45:33.579Z</news:publication_date>
-      <news:title><![CDATA[Romania blasts rock to divert water from drought-hit Danube to nuclear reactor]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/chinas-tech-giants-race-to-put-ai-on-delivery-riders-heads-msdrbgjx</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-08-03T21:44:20.109Z</news:publication_date>
-      <news:title><![CDATA[China’s tech giants race to put AI on delivery riders’ heads]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/trump-calls-iranian-leadership-extremely-duplicitous-after-tehran-denies-new-talks-will-start-monday-msdrbahd</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-08-03T21:44:12.241Z</news:publication_date>
-      <news:title><![CDATA[Trump calls Iranian leadership ‘extremely duplicitous’ after Tehran denies new talks will start Monday]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/innefu-labs-launches-sarvagata-ai-sovereign-agentic-ai-built-for-sensitive-environments-where-data-cant-leave-the-room-mse0jgeo</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-08-03T14:00:23.000Z</news:publication_date>
-      <news:title><![CDATA[Innefu Labs Launches Sarvagata AI: Sovereign Agentic AI Built for Sensitive Environments Where Data can't Leave the Room]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/commonwealth-games-2026-over-whats-next-for-indian-athletes-mse0jkux</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-08-03T13:59:34.000Z</news:publication_date>
-      <news:title><![CDATA[Commonwealth Games 2026 over, what’s next for Indian athletes?]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/wwe-raw-live-streaming-when-and-where-to-watch-august-3-episode-of-raw-in-india-msdrd24d</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-08-03T09:44:44.000Z</news:publication_date>
-      <news:title><![CDATA[WWE Raw Live Streaming: When And Where To Watch August 3 Episode of Raw In India?]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/first-philosophy-is-shaping-the-future-of-contemporary-indian-fashion-msdrb6eh</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-08-03T09:43:58.000Z</news:publication_date>
-      <news:title><![CDATA[First Philosophy Is Shaping the Future of Contemporary Indian Fashion]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/bluers-product-first-philosophy-is-shaping-the-future-of-contemporary-indian-fashion-msdrd88f</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-08-03T09:40:57.000Z</news:publication_date>
-      <news:title><![CDATA[BLUER's Product-First Philosophy Is Shaping the Future of Contemporary Indian Fashion]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/10-healthcare-technology-trends-for-2025-feature-mscltg2i</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-08-03T02:22:35.418Z</news:publication_date>
-      <news:title><![CDATA[10 healthcare technology trends for 2025 – Feature]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/is-ai-scheming-against-us-msclt7ix</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-08-03T02:22:24.345Z</news:publication_date>
-      <news:title><![CDATA[Is A.I. ‘Scheming’ Against Us?]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/oil-drops-over-4-after-trump-calls-off-planned-strike-on-iran-msclt1al</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-08-03T02:22:16.269Z</news:publication_date>
-      <news:title><![CDATA[Oil drops over 4% after Trump calls off planned strike on Iran]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/rep-max-miller-not-dropping-out-after-domestic-abuse-allegations-axios-mse0jhvw</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-08-03T00:41:43.000Z</news:publication_date>
-      <news:title><![CDATA[Rep. Max Miller not dropping out after domestic abuse allegations - Axios]]></news:title>
+      <news:publication_date>2026-08-04T00:12:33.000Z</news:publication_date>
+      <news:title><![CDATA[House Ethics panel recommends censure for Chuck Edwards after harassment allegations - NPR]]></news:title>
     </news:news>
   </url>
 </urlset>
