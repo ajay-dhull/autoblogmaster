@@ -3,6 +3,66 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://newshubnow.in/article/--mssda4t9</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-08-14T03:07:56.253Z</news:publication_date>
+      <news:title><![CDATA[دي فانس: تأمين أسعار النفط يسبق "النووي"، وواشنطن تلوّح بعزلة تاريخية لإيران]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/new-york-tech-office-signs-agreement-with-ibm-for-ai-cloud-services-mss9nr1w</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-08-14T01:26:33.140Z</news:publication_date>
+      <news:title><![CDATA[New York tech office signs agreement with IBM for AI, cloud services]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/votes-being-counted-in-clacton-by-election-triggered-by-nigel-farage-mss9nofi</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-08-14T01:26:29.743Z</news:publication_date>
+      <news:title><![CDATA[Votes being counted in Clacton by-election triggered by Nigel Farage]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/will-all-out-war-in-yemen-reignite-as-the-houthis-escalate-attacks-mss12zru</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-08-13T21:26:27.738Z</news:publication_date>
+      <news:title><![CDATA[Will all-out war in Yemen reignite as the Houthis escalate attacks?]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/exclusive-ukraine-offers-russia-truce-in-black-sea-as-food-supply-fears-mount-source-says-mss10zl5</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-08-13T21:24:54.185Z</news:publication_date>
+      <news:title><![CDATA[EXCLUSIVE: Ukraine offers Russia truce in Black Sea as food supply fears mount, source says]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://newshubnow.in/article/sam-altman-says-ai-has-entered-singularity-should-we-be-worried-msrzqu4a</loc>
     <news:news>
       <news:publication>
@@ -99,6 +159,54 @@
   </url>
 
   <url>
+    <loc>https://newshubnow.in/article/--mssda2xq</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-08-13T15:07:31.000Z</news:publication_date>
+      <news:title><![CDATA[दिव्यांगों को आत्मनिर्भर बनाने का आह्वान]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/kapil-sharma-brings-iaf-officers-and-operation-safed-sagar-cast-together-on-i-day-watch-mssda8o9</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-08-13T15:07:29.000Z</news:publication_date>
+      <news:title><![CDATA[Kapil Sharma brings IAF officers and Operation Safed Sagar cast together on I-Day. Watch]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/india-us-trade-talks-on-track-despite-russian-oil-tariff-plan-mss9nnt5</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-08-13T13:26:01.000Z</news:publication_date>
+      <news:title><![CDATA[India-US trade talks on track despite Russian-oil tariff plan]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/cabinet-approval-for-coal-mineral-exchanges-in-final-stages-coal-minister-says-mss9nsz8</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-08-13T13:25:27.000Z</news:publication_date>
+      <news:title><![CDATA[Cabinet approval for coal, mineral exchanges in final stages, Coal Minister says]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://newshubnow.in/article/wall-street-edges-near-its-record-as-ai-stocks-rise-and-worries-about-inflation-ease-a-bit-msrfngi5</loc>
     <news:news>
       <news:publication>
@@ -123,122 +231,14 @@
   </url>
 
   <url>
-    <loc>https://newshubnow.in/article/indias-best-dancer-season-5-karisma-kapoor-reveals-her-unusual-connection-to-the-fiza-song-mehboob-mere-msrzqno4</loc>
+    <loc>https://newshubnow.in/article/bangladesh-is-running-out-of-power-10-hour-blackouts-early-shop-closures-angry-crowds-and-a-desperate-call-to-india-mss12xex</loc>
     <news:news>
       <news:publication>
         <news:name>NewsHubNow</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-08-13T08:48:24.000Z</news:publication_date>
-      <news:title><![CDATA[India’s Best Dancer Season 5: Karisma Kapoor reveals her “unusual” connection to the Fiza song ‘Mehboob Mere’]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/ita-backs-11-indian-projects-to-advance-over-18-bn-in-clean-industry-investment-msrzqt28</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-08-13T08:43:10.000Z</news:publication_date>
-      <news:title><![CDATA[ITA Backs 11 Indian Projects; To Advance Over $18 Bn In Clean Industry Investment]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/independence-day-2026-50-heartfelt-wishes-quotes-and-messages-for-students-msrwkqzr</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-08-13T07:20:00.000Z</news:publication_date>
-      <news:title><![CDATA[Independence day 2026: 50 heartfelt wishes, quotes and messages for students]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/everyone-visiting-india-will-experience-ioa-prez-pt-usha-welcomes-badminton-world-to-new-delhi-ahead-of-bwf-world-cships-msrwkw3q</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-08-13T07:18:07.000Z</news:publication_date>
-      <news:title><![CDATA["Everyone visiting India will experience": IOA prez PT Usha welcomes badminton world to New Delhi ahead of BWF World C'ships]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/union-minister-nitin-gadkari-flags-off-porters-10000th-electric-truck-in-delhi-msrslyax</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-08-13T05:28:47.000Z</news:publication_date>
-      <news:title><![CDATA[Union Minister Nitin Gadkari flags off Porter's 10,000th Electric Truck in Delhi]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/us-vs-india-work-culture-employee-highlights-differences-in-workload-and-pay-msrsm3jj</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-08-13T05:28:20.000Z</news:publication_date>
-      <news:title><![CDATA[US vs India work culture: Employee highlights differences in workload and pay]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/nepal-citizenship-no-bar-himachal-high-court-grants-parole-to-murder-dacoity-convict-msrrytl8</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-08-13T05:10:40.000Z</news:publication_date>
-      <news:title><![CDATA[Nepal citizenship no bar: Himachal High Court grants parole to murder-dacoity convict]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/how-to-invest-in-indian-sectoral-funds-msrryyid</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-08-13T05:10:12.000Z</news:publication_date>
-      <news:title><![CDATA[How to invest in Indian sectoral funds]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/20-new-technology-trends-for-2026-emerging-technologies-2026-msqu9cm3</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-08-13T01:27:40.827Z</news:publication_date>
-      <news:title><![CDATA[20 New Technology Trends for 2026 | Emerging Technologies 2026]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/the-ai-threat-to-indias-it-jobs-machine-msqu960h</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-08-13T01:27:32.273Z</news:publication_date>
-      <news:title><![CDATA[The AI threat to India’s IT jobs machine]]></news:title>
+      <news:publication_date>2026-08-13T09:25:35.000Z</news:publication_date>
+      <news:title><![CDATA[Bangladesh is running out of power: 10-hour blackouts, early shop closures, angry crowds and a desperate call to India]]></news:title>
     </news:news>
   </url>
 </urlset>
