@@ -3,6 +3,210 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://newshubnow.in/article/iask-ai-launches-new-education-based-hub-to-help-students-learn-with-artificial-intelligence-mt5hyah5</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-08-23T07:39:42.089Z</news:publication_date>
+      <news:title><![CDATA[iAsk AI Launches New Education-Based Hub to Help Students Learn with Artificial Intelligence]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/mayors-to-get-powers-to-overrule-local-councils-on-planning-decisions-mt5hy7ts</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-08-23T07:39:38.656Z</news:publication_date>
+      <news:title><![CDATA[Mayors to get powers to overrule local councils on planning decisions]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/the-latest-ai-news-we-announced-in-july-2026-mt53q6tt</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-08-23T01:01:29.489Z</news:publication_date>
+      <news:title><![CDATA[The latest AI news we announced in July 2026]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/russian-and-ukrainian-attacks-kill-10-people-a-day-after-deadly-shopping-mall-drone-strike-mt53q30e</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-08-23T01:01:24.542Z</news:publication_date>
+      <news:title><![CDATA[Russian and Ukrainian attacks kill 10 people, a day after deadly shopping mall drone strike]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/most-companies-across-america-laying-off-employees-seemingly-have-a-new-slogan-not-being-replaced-by--mt4uvamn</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-08-22T20:53:31.151Z</news:publication_date>
+      <news:title><![CDATA[Most companies across America laying off employees seemingly have a new slogan: Not being replaced by ...]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/putin-says-ukraine-opened-pandoras-box-with-strikes-on-economic-targets-mt4uv889</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-08-22T20:53:28.041Z</news:publication_date>
+      <news:title><![CDATA[Putin says Ukraine opened 'Pandora's box' with strikes on economic targets]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/the-teens-taking-on-data-centers-mt4ute7l</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-08-22T20:52:02.481Z</news:publication_date>
+      <news:title><![CDATA[The Teens Taking On Data Centers]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/us-iran-live-updates-iran-declares-it-has-won-the-war-as-us-turns-to-economic-warfare-mt4utbd6</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-08-22T20:51:58.794Z</news:publication_date>
+      <news:title><![CDATA[U.S.-Iran Live Updates: Iran declares it has won the war as U.S. turns to economic warfare]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/ties-must-serve-mutual-interest-eam-jaishankar-on-bangladesh-mt5hy7tj</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-08-22T19:39:00.000Z</news:publication_date>
+      <news:title><![CDATA['Ties must serve mutual interest': EAM Jaishankar on Bangladesh]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/kumbakonam-via-london-with-stopover-in-madurai-mt5hy9lc</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-08-22T19:20:12.000Z</news:publication_date>
+      <news:title><![CDATA[Kumbakonam via London, with stopover in Madurai]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/40-of-india-office-occupiers-concerned-over-availability-of-quality-space-through-2028-cbre-mt53pz6b</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-08-22T13:00:00.000Z</news:publication_date>
+      <news:title><![CDATA[40% of India office occupiers concerned over availability of quality space through 2028: CBRE]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/sl-vs-ind--mt4uv7w8</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-08-22T08:53:17.000Z</news:publication_date>
+      <news:title><![CDATA[SL vs IND: गौतम गंभीर ने आलोचकों पर बोला हमला, कहा- मेरा काम ट्रॉफियां जीतना है, व्यूज और लाइक्स पाना नहीं]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/best-restaurant-in-agra-brings-22-years-of-culinary-heritage-with-authentic-north-indian-and-mughlai-flavours-mt4uv9cy</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-08-22T08:53:14.000Z</news:publication_date>
+      <news:title><![CDATA[Best Restaurant in Agra Brings 22 Years of Culinary Heritage with Authentic North Indian and Mughlai Flavours]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/defence-minister-rajnath-singh-rajat-sharma-inaugurate-mahajan-imaging-and-labs-facility-in-noida-mt4utaab</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-08-22T08:51:20.000Z</news:publication_date>
+      <news:title><![CDATA[Defence Minister Rajnath Singh, Rajat Sharma inaugurate Mahajan Imaging and Labs facility in Noida]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/quote-of-the-day-by-priyanka-chopra-jonas-i-wasnt-the-prettiest-girl-in-the-room-but-i-learned-inspiring-lessons-by-global-actress-on-self-confidence-beauty-success-and-why-believing-in-yo-mt4utbv7</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-08-22T08:50:00.000Z</news:publication_date>
+      <news:title><![CDATA[Quote of the day by Priyanka Chopra Jonas: "I wasn't the prettiest girl in the room, but I learned..." – Inspiring lessons by Global actress on self-confidence, beauty, success and why believing in yo]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/canadian-prime-minister-suspends-trade-talks-with-us-setting-new-50-tariffs-in-motion-nbc-news-mt5hy896</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-08-22T07:04:00.000Z</news:publication_date>
+      <news:title><![CDATA[Canadian prime minister suspends trade talks with U.S., setting new 50% tariffs in motion - NBC News]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/kade-anderson-set-to-join-list-of-biggest-pitching-debuts-of-the-past-20-years-mlbcom-mt53pynn</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-08-22T01:57:15.000Z</news:publication_date>
+      <news:title><![CDATA[Kade Anderson set to join list of biggest pitching debuts of the past 20 years - MLB.com]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://newshubnow.in/article/nuobikan-artificial-intelligence-technology-chengdu-sehk2635-stock-drops-as-cash-quality-clouds-profit-growth-mt3o489n</loc>
     <news:news>
       <news:publication>
@@ -35,186 +239,6 @@
       </news:publication>
       <news:publication_date>2026-08-21T20:54:43.080Z</news:publication_date>
       <news:title><![CDATA[XRPPower: Artificial Intelligence Robots Are Changing the Future of Digital Finance]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/us-military-says-it-aided-passage-of-660-million-barrels-of-oil-through-strait-of-hormuz-since-may-mt3fgwzt</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-08-21T20:54:39.881Z</news:publication_date>
-      <news:title><![CDATA[U.S. military says it aided passage of 660 million barrels of oil through Strait of Hormuz since May]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/weekly-rundown-survey-reveals-top-healthcare-it-concerns-mt3ff12x</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-08-21T20:53:11.865Z</news:publication_date>
-      <news:title><![CDATA[Weekly Rundown: Survey reveals top healthcare IT concerns]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/russian-drones-kill-15-people-at-a-shopping-mall-in-a-central-ukrainian-city-officials-say-mt3fey03</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-08-21T20:53:07.875Z</news:publication_date>
-      <news:title><![CDATA[Russian drones kill 15 people at a shopping mall in a central Ukrainian city, officials say]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/indian-sales-consulting-firm-wins-global-recognition-for-dealer-sales-transformation-mt3o3vfn</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-08-21T12:56:21.000Z</news:publication_date>
-      <news:title><![CDATA[Indian Sales Consulting Firm Wins Global Recognition for Dealer Sales Transformation]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/precision-wires-india-issues-egm-corrigendum-for-ccd-preferential-issue-mt3fgx2r</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-08-21T08:54:24.000Z</news:publication_date>
-      <news:title><![CDATA[Precision Wires India issues EGM corrigendum for CCD preferential issue]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/punjab-national-bank-inks-pact-with-indian-army-to-offer-curated-credit-cards-to-army-personnel-mt3fgyk9</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-08-21T08:54:00.000Z</news:publication_date>
-      <news:title><![CDATA[Punjab National Bank inks pact with Indian Army to offer curated credit cards to army personnel]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/89-of-young-fo-traders-lose-money-finds-sebi-study-mt3fey27</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-08-21T08:52:38.000Z</news:publication_date>
-      <news:title><![CDATA[89% Of Young F&O Traders Lose Money, Finds Sebi Study]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/can-ai-help-indian-schools-spot-adhd-earlier-or-could-technology-create-more-misdiagnoses-mt3fezdf</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-08-21T08:50:21.000Z</news:publication_date>
-      <news:title><![CDATA[Can AI help Indian schools spot ADHD earlier-or could technology create more misdiagnoses?]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/new-white-house-strategy-clarifies-military-tech-priorities-undersea-outer-space-and-ai-mt28sfvd</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-08-21T00:59:54.073Z</news:publication_date>
-      <news:title><![CDATA[New White House strategy clarifies military tech priorities: undersea, outer space and AI]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/us-army-moves-to-end-drone-battalion-set-up-to-absorb-lessons-from-ukraine-war-mt28sdsb</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-08-21T00:59:51.371Z</news:publication_date>
-      <news:title><![CDATA[U.S. Army moves to end drone battalion set up to absorb lessons from Ukraine war]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/st-louis-cardinals-vs-cincinnati-reds-results-stats-and-recap-august-20-2026-gametracker-cbs-sports-mt3o3uy8</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-08-20T22:07:30.000Z</news:publication_date>
-      <news:title><![CDATA[St. Louis Cardinals vs. Cincinnati Reds Results, Stats, and Recap - August 20, 2026 Gametracker - CBS Sports]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/palantir-technologies-nasdaqpltr-ai-momentum-faces-new-test-mt208je5</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-08-20T21:00:28.589Z</news:publication_date>
-      <news:title><![CDATA[Palantir Technologies (NASDAQ:PLTR) AI Momentum Faces New Test]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/romania-destroys-marine-drone-near-neptun-deep-gas-project-minister-says-mt208gns</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-08-20T21:00:25.049Z</news:publication_date>
-      <news:title><![CDATA[Romania destroys marine drone near Neptun Deep gas project, minister says]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/a-new-force-is-increasing-inequality-in-america-mt206njx</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-08-20T20:59:00.669Z</news:publication_date>
-      <news:title><![CDATA[A new force is increasing inequality in America]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/pirates-hijack-cargo-ship-carrying-turkish-weapons-off-somalias-coast-official-says-mt206lt8</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-08-20T20:58:58.412Z</news:publication_date>
-      <news:title><![CDATA[Pirates hijack cargo ship carrying Turkish weapons off Somalia’s coast, official says]]></news:title>
     </news:news>
   </url>
 </urlset>
