@@ -3,6 +3,210 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://newshubnow.in/article/as-the-world-debates-the-risks-of-ai-china-closes-the-technology-gap-with-the-us-mu302i9h</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-09-15T18:23:15.701Z</news:publication_date>
+      <news:title><![CDATA[As the world debates the risks of AI, China closes the technology gap with the US]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/poland-reinforces-border-with-ukraine-amid-growing-security-concerns-across-europe-mu302gs1</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-09-15T18:23:13.777Z</news:publication_date>
+      <news:title><![CDATA[Poland reinforces border with Ukraine amid growing security concerns across Europe]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/microsoft-commits-to-sweeping-ai-privacy-rules-for-students-will-other-tech-giants-follow-mu2pd9lt</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-09-15T13:23:41.921Z</news:publication_date>
+      <news:title><![CDATA[Microsoft Commits to Sweeping AI Privacy Rules for Students. Will Other Tech Giants Follow?]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/pentagon-inspector-general-says-223b-spent-on-iran-war-munitions-has-caused-strategic-inventory-shortfalls-mu2pd45v</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-09-15T13:23:34.867Z</news:publication_date>
+      <news:title><![CDATA[Pentagon inspector general says $22.3B spent on Iran war munitions has caused "strategic inventory shortfalls"]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/top-ai-leaders-call-for-slowing-down-ai-development-mu2gt4z3</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-09-15T09:24:05.871Z</news:publication_date>
+      <news:title><![CDATA[Top A.I. Leaders Call for Slowing Down A.I. Development]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/us-president-trump-warns-irans-power-plants-bridges-will-be-destroyed-if-iran-does-not-meet-his-latest-deadline-to-agree-to-deal-akashvani-news-mu2gs2x0</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-09-15T09:23:16.548Z</news:publication_date>
+      <news:title><![CDATA[US President Trump warns Iran’s power plants & bridges will be destroyed if Iran does not meet his latest deadline to agree to deal | Akashvani News]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/distressing-bjp-slams-congress-over-three-of-its-cms-skipping-brics-dinner-mu327jig</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-09-15T07:23:00.000Z</news:publication_date>
+      <news:title><![CDATA['Distressing': BJP slams Congress over three of its CMs 'skipping' Brics dinner]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/meta-says-protecting-children-is-priority-after-agreeing-to-report-child-safety-matters-to-i4c-portal-mu327l5a</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-09-15T07:15:59.000Z</news:publication_date>
+      <news:title><![CDATA[Meta says "protecting children is priority" after agreeing to report child safety matters to I4C portal]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/hike-cycle-likely-to-remain-shallow-report-mu2tmw8e</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-09-15T03:22:47.000Z</news:publication_date>
+      <news:title><![CDATA[hike cycle likely to remain shallow: Report]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/meta-agrees-to-share-details-of-csam-with-indian-law-enforcement-agencies-mu2tmxs2</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-09-15T03:22:25.000Z</news:publication_date>
+      <news:title><![CDATA[Meta agrees to share details of CSAM with Indian law enforcement agencies]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/uta-launches-ai-degree-programs-for-business-mu1vcq3w</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-09-14T23:23:28.172Z</news:publication_date>
+      <news:title><![CDATA[UTA launches AI degree programs for business]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/trump-jr-wedding-celebrations-were-sponsored-by-powerful-russian-businessman-mu1vcnrx</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-09-14T23:23:25.150Z</news:publication_date>
+      <news:title><![CDATA[Trump Jr. wedding celebrations were sponsored by powerful Russian businessman]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/-brics--mu2l29ot</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-09-14T23:22:18.000Z</news:publication_date>
+      <news:title><![CDATA[भारत पर कोई नहीं डाल सकता दबाव, BRICS के बाद चीन भी करने लगा तारीफ]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/iaf-team-bids-farewell-to-egypt-after-breathtaking-aerial-displays-at-el-alamein-mu2l2bi2</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-09-14T23:17:12.000Z</news:publication_date>
+      <news:title><![CDATA[IAF Team bids farewell to Egypt after breathtaking aerial displays at El Alamein]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/macklemore-dropped-from-ed-sheeran-tour-after-pro-palestine-comments-the-washington-post-mu327jgg</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-09-14T20:13:31.000Z</news:publication_date>
+      <news:title><![CDATA[Macklemore dropped from Ed Sheeran tour after pro-Palestine comments - The Washington Post]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/us-envoy-sergio-gor-offers-prayers-at-mumbais-lalbaugcha-raja-on-ganesh-chaturthi-mu2chmn0</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-09-14T19:19:24.000Z</news:publication_date>
+      <news:title><![CDATA[US envoy Sergio Gor offers prayers at Mumbai's Lalbaugcha Raja on Ganesh Chaturthi]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/hong-kong-this-indian-couple-prefers-to-live-in-worlds-most-expensive-city-to-save-more-money-heres-how-mu2choc1</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-09-14T18:53:30.000Z</news:publication_date>
+      <news:title><![CDATA[Hong Kong: This Indian couple prefers to live in 'world's most expensive city' to save more money; here's how]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://newshubnow.in/article/new-warnings-about-the-risks-of-ai-to-humanity-revive-a-long-running-debate-mu1l2bud</loc>
     <news:news>
       <news:publication>
@@ -27,218 +231,14 @@
   </url>
 
   <url>
-    <loc>https://newshubnow.in/article/ai-safety-warnings-grow-as-new-york-officials-weigh-oversight-mu1acj1z</loc>
+    <loc>https://newshubnow.in/article/chased-filmed-forced-into-races-women-bikers-say-gurgaon-case-is-common-on-indian-roads-mu23x0p2</loc>
     <news:news>
       <news:publication>
         <news:name>NewsHubNow</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-09-14T13:35:27.095Z</news:publication_date>
-      <news:title><![CDATA[AI safety warnings grow as New York officials weigh oversight]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/russia-hits-ukrainian-train-shortly-after-boris-johnson-and-top-european-officials-leave-station-mu1acd8d</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-09-14T13:35:19.549Z</news:publication_date>
-      <news:title><![CDATA[Russia hits Ukrainian train shortly after Boris Johnson and top European officials leave station]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/complainant-attacked-me-swatantra-bhardwaj-tells-delhi-court-says-arrest-politically-motivated-mu1tmst9</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-09-14T10:35:00.000Z</news:publication_date>
-      <news:title><![CDATA[‘Complainant attacked me’: Swatantra Bhardwaj tells Delhi court, says arrest politically motivated]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/great-food-from-great-britain-brings-best-of-british-flavours-to-shoppers-across-five-indian-cities-mu1tmtxv</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-09-14T10:34:47.000Z</news:publication_date>
-      <news:title><![CDATA[Great Food From Great Britain Brings Best of British Flavours to Shoppers Across Five Indian Cities]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/openai-boss-and-elon-musk-back-calls-to-put-brakes-on-reckless-ai-development-mu11s0cp</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-09-14T09:35:32.809Z</news:publication_date>
-      <news:title><![CDATA[OpenAI boss and Elon Musk back calls to put brakes on ‘reckless’ AI development]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/fighting-continues-between-yemen-govt-forces-houthis-what-is-the-latest-mu11ru7a</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-09-14T09:35:24.838Z</news:publication_date>
-      <news:title><![CDATA[Fighting continues between Yemen gov’t forces, Houthis: What is the latest?]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/mirzapur-the-movie-sequel-in-discussion-with-director-gurmmeet-singh-puneet-krishna-and-the-cast-to-meet-farhan-akhtar-and-ritesh-sidhwani-as-film-crosses-rs-180-crore-net-in-india-report-mu1l25qv</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-09-14T06:35:00.000Z</news:publication_date>
-      <news:title><![CDATA['Mirzapur: The Movie' sequel in discussion with director Gurmmeet Singh, Puneet Krishna and the cast to meet Farhan Akhtar and Ritesh Sidhwani as film crosses Rs 180 crore net in India - Report]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/bharti-fulmalis-father-praises-indias-asia-cup-win-backs-team-for-asian-games-gold-mu1l27mz</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-09-14T06:33:11.000Z</news:publication_date>
-      <news:title><![CDATA[Bharti Fulmali’s father praises India’s Asia Cup win, backs team for Asian Games gold]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/indias-unstoppable-run-to-womens-t20-asia-cup-crown-mu1chiav</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-09-14T02:33:26.000Z</news:publication_date>
-      <news:title><![CDATA[India’s unstoppable run to Women’s T20 Asia Cup crown]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/technology-taking-regional-storytelling-from-local-audiences-to-the-world-mu1chjvh</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-09-14T02:32:55.000Z</news:publication_date>
-      <news:title><![CDATA[Technology Taking Regional Storytelling From Local Audiences to the World]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/former-anthropic-openai-employee-sounds-alarm-over-ai-development-pace-mu0e8bv3</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-09-13T22:36:23.439Z</news:publication_date>
-      <news:title><![CDATA[Former Anthropic, OpenAI employee sounds alarm over AI development pace]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/iranian-cargo-ship-is-struck-and-talks-between-tehran-and-its-neighbors-are-postponed-mu0e7jy1</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-09-13T22:35:47.257Z</news:publication_date>
-      <news:title><![CDATA[Iranian cargo ship is struck, and talks between Tehran and its neighbors are postponed]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/indian-envoy-bangladesh-water-resource-minister-discuss-bilateral-cooperation-mu13ww8y</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-09-13T22:34:48.000Z</news:publication_date>
-      <news:title><![CDATA[Indian envoy, Bangladesh water resource minister discuss bilateral cooperation]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/from-machines-to-brands-indians-should-control-lab-mu13wv3m</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-09-13T22:34:18.000Z</news:publication_date>
-      <news:title><![CDATA[From machines to brands, Indians should control lab]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/hayden-panettieres-boyfriend-brian-hickerson-involved-in-bloody-bar-altercation-weeks-after-stars-death-fox-news-mu1tmsqp</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-09-13T21:34:06.000Z</news:publication_date>
-      <news:title><![CDATA[Hayden Panettiere's boyfriend Brian Hickerson involved in bloody bar altercation weeks after star's death - Fox News]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/pennsylvania-woman-dies-of-measles-related-complications-local-coroner-says-the-washington-post-mu1l25dw</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-09-13T18:39:15.000Z</news:publication_date>
-      <news:title><![CDATA[Pennsylvania woman dies of measles-related complications, local coroner says - The Washington Post]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/india-thrash-sri-lanka-by-72-runs-to-clinch-eighth-womens-asia-cup-title-mu0vc8an</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-09-13T18:34:59.000Z</news:publication_date>
-      <news:title><![CDATA[India thrash Sri Lanka by 72 runs to clinch eighth Women's Asia Cup title]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/what-are-the-five-pros-and-cons-of-artificial-intelligence-mu05j2k4</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-09-13T18:32:48.052Z</news:publication_date>
-      <news:title><![CDATA[What are the five pros and cons of artificial intelligence?]]></news:title>
+      <news:publication_date>2026-09-14T15:22:22.000Z</news:publication_date>
+      <news:title><![CDATA[‘Chased, filmed, forced into races’-women bikers say Gurgaon case is common on Indian roads]]></news:title>
     </news:news>
   </url>
 </urlset>
