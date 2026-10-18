@@ -3,6 +3,174 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://newshubnow.in/article/utah-ai-sandbox-launches-new-health-care-pilots-with-question-marks-mve62aab</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-18T18:36:13.331Z</news:publication_date>
+      <news:title><![CDATA[Utah AI sandbox launches new health care pilots — with question marks]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/huge-riots-and-anti-government-protests-in-france-what-to-know-mve626y7</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-18T18:36:09.007Z</news:publication_date>
+      <news:title><![CDATA[Huge Riots and Anti-Government Protests in France: What to Know]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/can-ai-be-regulated-why-experts-say-government-intervention-is-needed-but-could-be-tricky-mvdvci6y</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-18T13:36:14.362Z</news:publication_date>
+      <news:title><![CDATA[Can AI be regulated? Why experts say government intervention is needed — but could be tricky]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/france-reels-after-largest-riots-in-years-mvdvce39</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-18T13:36:09.045Z</news:publication_date>
+      <news:title><![CDATA[France Reels After Largest Riots in Years]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/how-artificial-intelligence-is-helping-the-lobster-industry-mvdmrv97</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-18T09:36:14.587Z</news:publication_date>
+      <news:title><![CDATA[How artificial intelligence is helping the lobster industry]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/major-fire-breaks-out-in-alberta-after-deadly-incident-at-canadian-military-base-mvdmrrlj</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-18T09:36:09.847Z</news:publication_date>
+      <news:title><![CDATA[Major fire breaks out in Alberta after deadly incident at Canadian military base]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/book-box-i-who-have-never-known-men-xingu-and-the-ignorance-of-blood-mve626y5</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-18T06:35:23.000Z</news:publication_date>
+      <news:title><![CDATA[Book Box: I Who Have Never Known Men, Xingu, and The Ignorance of Blood]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/love-my-indian-in-laws-vance-clarifies-indentured-servants-remark-over-h-1b-row-says-his-rhetoric-may-have-been-imperfect-mve628rj</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-18T06:34:02.000Z</news:publication_date>
+      <news:title><![CDATA[‘Love my Indian in-laws’: Vance clarifies ‘indentured servants’ remark over H-1B row; says his ‘rhetoric may have been imperfect’]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/kaizad-bharucha-resignation-hdfc-bank-mvdxhk2k</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-18T02:35:32.000Z</news:publication_date>
+      <news:title><![CDATA[Kaizad Bharucha resignation HDFC Bank]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/same-disease-different-odds-why-geography-dictates-breast-cancer-outcomes-mvdxhlf3</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-18T02:35:00.000Z</news:publication_date>
+      <news:title><![CDATA[Same disease, different odds: Why geography dictates breast cancer outcomes]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/rtx-spark-ignites-global-celebration-as-new-windows-pcs-arrive-mvcz76pz</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-17T22:36:18.503Z</news:publication_date>
+      <news:title><![CDATA[RTX Spark Ignites Global Celebration as New Windows PCs Arrive]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/town-hall-in-limoges-largely-lost-to-blaze-set-during-french-protests-mvcz74uw</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-17T22:36:16.088Z</news:publication_date>
+      <news:title><![CDATA[Town hall in Limoges 'largely lost' to blaze set during French protests]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/india-rejects-report-by-un-human-rights-expert-that-says-indian-youth-face-retaliation-terms-claims-as-hearsay-mvdowwm9</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-17T22:35:50.000Z</news:publication_date>
+      <news:title><![CDATA[India rejects report by UN human rights expert that says Indian youth face retaliation, terms claims as 'hearsay']]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/india-rejects-report-by-un-human-rights-expert-that-says-indian-youth-face-retaliation-terms-claims-as-hearsay-mvdowxki</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-17T22:35:50.000Z</news:publication_date>
+      <news:title><![CDATA[India rejects report by UN human rights expert that says Indian youth face retaliation, terms claims as 'hearsay']]></news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://newshubnow.in/article/openai-ceo-sam-altman-claims-ai-singularity-has-arrived-awesome-for-the-world-mvcrh764</loc>
     <news:news>
       <news:publication>
@@ -27,218 +195,50 @@
   </url>
 
   <url>
-    <loc>https://newshubnow.in/article/north-korea-says-it-tested-new-torpedo-system-with-ai-capabilities-mvcgr5q2</loc>
+    <loc>https://newshubnow.in/article/dmk-seeks-cec-gyanesh-kumars-removal-signals-third-front-push-mvdgc9dd</loc>
     <news:news>
       <news:publication>
         <news:name>NewsHubNow</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-10-17T13:59:57.626Z</news:publication_date>
-      <news:title><![CDATA[North Korea says it tested new torpedo system with AI capabilities]]></news:title>
+      <news:publication_date>2026-10-17T18:35:00.000Z</news:publication_date>
+      <news:title><![CDATA[DMK seeks CEC Gyanesh Kumar's removal, signals third-front push]]></news:title>
     </news:news>
   </url>
 
   <url>
-    <loc>https://newshubnow.in/article/live-updates-dozens-detained-in-paris-as-protestors-clash-with-police-during-france-protests-mvcgqpgh</loc>
+    <loc>https://newshubnow.in/article/indian-pilot-smit-machchhar-recounts-flydubai-cockpit-attack-smit-do-something-you-cant-die-like-this-mvdgcaps</loc>
     <news:news>
       <news:publication>
         <news:name>NewsHubNow</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-10-17T13:59:36.545Z</news:publication_date>
-      <news:title><![CDATA[Live updates: Dozens detained in Paris as protestors clash with police during France protests]]></news:title>
+      <news:publication_date>2026-10-17T18:30:24.000Z</news:publication_date>
+      <news:title><![CDATA[Indian pilot Smit Machchhar recounts flydubai cockpit attack: ‘Smit, do something. You can’t die like this’]]></news:title>
     </news:news>
   </url>
 
   <url>
-    <loc>https://newshubnow.in/article/elon-musks-ai-company-testifies-at-nyc-council-hearing-on-artificial-intelligence-safety-and-regulations-mvc863lm</loc>
+    <loc>https://newshubnow.in/article/protesters-clash-with-police-in-paris-and-across-france-during-major-day-of-demonstrations-bbc-mve626lj</loc>
     <news:news>
       <news:publication>
         <news:name>NewsHubNow</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-10-17T09:59:38.170Z</news:publication_date>
-      <news:title><![CDATA[Elon Musk's AI company testifies at NYC Council hearing on artificial intelligence safety and regulations]]></news:title>
+      <news:publication_date>2026-10-17T16:26:23.000Z</news:publication_date>
+      <news:title><![CDATA[Protesters clash with police in Paris and across France during major day of demonstrations - BBC]]></news:title>
     </news:news>
   </url>
 
   <url>
-    <loc>https://newshubnow.in/article/pope-pictured-for-first-time-since-surgery-and-cancer-diagnosis-mvc861gi</loc>
+    <loc>https://newshubnow.in/article/celebrating-20-years-of-pioneering-indias-solar-revolution-orb-energys-journey-mvd7rmox</loc>
     <news:news>
       <news:publication>
         <news:name>NewsHubNow</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-10-17T09:59:35.394Z</news:publication_date>
-      <news:title><![CDATA[Pope pictured for first time since surgery and cancer diagnosis]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/kisna-inaugurates-its-largest-jewellery-showroom-in-bhubaneswar-marks-171st-showroom-in-india-and-9th-in-odisha-mvcrgijl</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-17T06:57:46.000Z</news:publication_date>
-      <news:title><![CDATA[KISNA inaugurates its largest jewellery showroom in Bhubaneswar, marks 171st showroom in India and 9th in Odisha]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/-2027--mvcrgk47</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-17T06:51:22.000Z</news:publication_date>
-      <news:title><![CDATA[आईपीएल 2027:जयवर्धने ने छोड़ा मुंबई इंडियंस का साथ; कोच पद से दिया इस्तीफा; रोहित के फिर कप्तान बनने की चर्चा]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/--mvcivwsa</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-17T02:59:07.000Z</news:publication_date>
-      <news:title><![CDATA[रास्ते में 'पिट' रहीं रीवा, रायपुर और अंबिकापुर इंटरसिटी, ट्रेन के रात में पहुंचने से यात्री बेहाल]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/a-grand-mahalaya-stress-on-sanatani-traditions-a-star-studded-dusshera-and-more-what-has-changed-this-durga-puja-in-bengal-mvcivv4v</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-17T02:58:54.000Z</news:publication_date>
-      <news:title><![CDATA[A grand Mahalaya, stress on Sanatani traditions, a star-studded Dusshera and more: What has changed this Durga Puja in Bengal]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/china-says-it-will-curb-tech-exports-including-ai-citing-national-security-risks-mvbkli3p</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-16T22:59:46.021Z</news:publication_date>
-      <news:title><![CDATA[China says it will curb tech exports, including AI, citing national security risks]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/israeli-settlers-burn-olive-trees-injure-journalist-in-west-bank-attack-mvbklgi7</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-16T22:59:43.951Z</news:publication_date>
-      <news:title><![CDATA[Israeli settlers burn olive trees, injure journalist in West Bank attack]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/india-defeat-zimbabwe-by-four-wickets-in-first-womens-t20-mvcab7xx</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-16T22:55:45.000Z</news:publication_date>
-      <news:title><![CDATA[India defeat Zimbabwe by four wickets in first Women's T20]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/mea-calls-on-us-to-ensure-safety-security-of-indians-after-foiled-illinois-temple-attack-mvcab9di</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-16T22:51:35.000Z</news:publication_date>
-      <news:title><![CDATA[MEA calls on U.S. to ensure safety, security of Indians after foiled Illinois temple attack]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/when-ai-agents-cross-the-line-govt-assessing-whether-ai-labs-should-formally-disclose-autonomous-agent-intrusions-mvc1qmbh</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-16T18:58:00.000Z</news:publication_date>
-      <news:title><![CDATA[When AI agents cross the line: Govt assessing whether AI labs should formally disclose autonomous agent intrusions]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/india-should-become-a-tech-creator-rather-than-tech-user-nation-niti-aayog-vice-chairman-ashok-lahiri-mvc1ql35</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-16T18:54:00.000Z</news:publication_date>
-      <news:title><![CDATA[India should become a tech-creator rather than tech-user nation: Niti Aayog vice-chairman Ashok Lahiri]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/beijing-seeks-tighter-grip-on-ai-exports-amid-us-rivalry-mvbaf0tc</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-16T18:14:47.520Z</news:publication_date>
-      <news:title><![CDATA[Beijing seeks tighter grip on AI exports amid US rivalry]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/first-images-released-of-pope-leo-as-recovery-continues-at-hospital-after-cancer-surgery-mvbaeyll</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-16T18:14:44.649Z</news:publication_date>
-      <news:title><![CDATA[First images released of Pope Leo as recovery continues at hospital after cancer surgery]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/with-tesla-roadster-debut-elon-musk-shows-flying-cars-are-real-cbs-news-mvcrgi6t</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-16T17:57:00.000Z</news:publication_date>
-      <news:title><![CDATA[With Tesla Roadster debut, Elon Musk shows "flying cars are real" - CBS News]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/how-water-intelligence-could-be-indias-next-industrial-advantage-mvbt5xpi</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-16T14:59:27.000Z</news:publication_date>
-      <news:title><![CDATA[How Water Intelligence Could Be India's Next Industrial Advantage]]></news:title>
+      <news:publication_date>2026-10-17T14:35:45.000Z</news:publication_date>
+      <news:title><![CDATA[Celebrating 20 Years Of Pioneering India’s Solar Revolution: Orb Energy’s Journey]]></news:title>
     </news:news>
   </url>
 </urlset>
