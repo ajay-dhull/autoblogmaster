@@ -3,6 +3,222 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://newshubnow.in/article/celtics-news-it-shouldnt-surprise-anybody-that-joe-mazzulla-is-a-big-ai-guy-mvvahe52</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-30T18:12:01.622Z</news:publication_date>
+      <news:title><![CDATA[Celtics news: It shouldn’t surprise anybody that Joe Mazzulla is a big AI guy]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/north-korean-hackers-likelinked-to-record-breaking-63-billion-binance-crypto-heist-mvvahbju</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-30T18:11:58.266Z</news:publication_date>
+      <news:title><![CDATA[North Korean hackers likelinked to record-breaking $6.3 billion Binance crypto heist]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/why-isnt-chinas-ai-and-tech-boom-saving-its-stock-markets-mvuzrk0b</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-30T13:12:00.011Z</news:publication_date>
+      <news:title><![CDATA[Why isn’t China’s AI and tech boom saving its stock markets?]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/netanyahus-bloc-loses-parliamentary-majority-justice-department-subpoenas-california-officials-mvuzribk</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-30T13:11:57.824Z</news:publication_date>
+      <news:title><![CDATA[Netanyahu’s bloc loses parliamentary majority, Justice Department subpoenas California officials]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/big-techs-data-center-blitz-is-burning-through-cash-and-scaring-wall-st-mvur71o0</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-30T09:12:06.192Z</news:publication_date>
+      <news:title><![CDATA[Big Tech’s Data Center Blitz Is Burning Through Cash and Scaring Wall St.]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/ukraine-hits-russian-oil-refinery-ending-pause-and-defying-trump-mvur6vn2</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-30T09:11:58.382Z</news:publication_date>
+      <news:title><![CDATA[Ukraine Hits Russian Oil Refinery, Ending Pause and Defying Trump]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/456-of-indian-households-use-digital-channels-for-at-least-one-purchase-report-mvvernzn</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-30T08:11:00.000Z</news:publication_date>
+      <news:title><![CDATA[45.6% of Indian households use digital channels for at least one purchase: Report]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/india-bloc-postpones-public-impeachment-of-cec-gyanesh-kumar-to-october-31-mvvermow</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-30T08:10:15.000Z</news:publication_date>
+      <news:title><![CDATA[INDIA bloc postpones 'public impeachment' of CEC Gyanesh Kumar to October 31]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/mohammed-siraj-and-nitish-kumar-reddy-set-for-india-a-stints-ahead-of-nz-tests-mvv66zb6</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-30T04:11:47.000Z</news:publication_date>
+      <news:title><![CDATA[Mohammed Siraj and Nitish Kumar Reddy set for India A stints ahead of NZ Tests]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/extreme-poverty-in-india-falls-to-26-but-top-10-earn-13-times-more-than-bottom-10-mvv670j7</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-30T04:07:40.000Z</news:publication_date>
+      <news:title><![CDATA[Extreme poverty in India falls to 2.6%, but top 10% earn 13 times more than bottom 10%]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/global-technology-trends-tech-compass-2026-mvu7wpjz</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-30T00:12:11.231Z</news:publication_date>
+      <news:title><![CDATA[Global technology trends: Tech Compass 2026]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/ucsb-computer-science-department-now-offers-new-artificial-intelligence-major-mvu7wm83</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-30T00:12:06.915Z</news:publication_date>
+      <news:title><![CDATA[UCSB computer science department now offers new artificial intelligence major]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/protests-erupt-in-spain-after-train-crash-kills-dozens-mvu7wke2</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-30T00:12:04.538Z</news:publication_date>
+      <news:title><![CDATA[Protests erupt in Spain after train crash kills dozens]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/india-post-and-uti-mutual-fund-expand-doorstep-kyc-verification-services-mvuxmce5</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-30T00:11:44.000Z</news:publication_date>
+      <news:title><![CDATA[India Post and UTI Mutual Fund expand doorstep KYC verification services]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/indian-stocks-see-weakest-market-breadth-in-seven-months-as-oil-prices-bond-yields-weigh-mvuxmdr7</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-30T00:10:44.000Z</news:publication_date>
+      <news:title><![CDATA[Indian stocks see weakest market breadth in seven months as oil prices, bond yields weigh]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/indian-co-ig-defence-signs-mou-with-oman-firm-to-explore-co-development-of-advanced-drone-counter-drone-systems-mvup1qmj</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-29T20:06:00.000Z</news:publication_date>
+      <news:title><![CDATA[Indian co IG Defence signs MoU with Oman firm to explore co-development of advanced drone, counter-drone systems]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/terror-expertise-with-asean-rajnath-mvup1ozy</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-29T20:04:30.000Z</news:publication_date>
+      <news:title><![CDATA[terror expertise with ASEAN: Rajnath]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://newshubnow.in/article/stock-market-today-nasdaq-sinks-350-points-google-stocks-tumble-in-focus-live-updates-wsj-mvvermct</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NewsHubNow</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-29T18:25:12.000Z</news:publication_date>
+      <news:title><![CDATA[Stock Market Today: Nasdaq Sinks 350 Points; Google Stock's Tumble in Focus — Live Updates - WSJ]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://newshubnow.in/article/wall-streets-new-63-billion-ai-deal-reveals-a-risk-that-could-spread-beyond-tech-mvtv9n8d</loc>
     <news:news>
       <news:publication>
@@ -23,222 +239,6 @@
       </news:publication>
       <news:publication_date>2026-10-29T18:18:17.025Z</news:publication_date>
       <news:title><![CDATA[Netanyahu falls short of majority as Israel faces three possible paths to a new government]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/ai-build-out-hits-snag-as-google-and-microsoft-put-off-raising-capex-forecasts-mvtkjxgh</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-29T13:18:23.777Z</news:publication_date>
-      <news:title><![CDATA[AI build-out hits snag as Google and Microsoft put off raising capex forecasts]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/how-netanyahu-used-fear-again-to-win-more-votes-than-anyone-else-mvtkjruf</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-29T13:18:16.503Z</news:publication_date>
-      <news:title><![CDATA[How Netanyahu Used Fear, Again, to Win More Votes Than Anyone Else]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/new-york-enacts-ban-on-unsafe-chatbot-behavior-with-kids-as-states-push-ai-regulation-boundaries-mvtbz7lz</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-29T09:18:20.231Z</news:publication_date>
-      <news:title><![CDATA[New York Enacts Ban on 'Unsafe' Chatbot Behavior With Kids as States Push AI Regulation Boundaries]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/israel-election-results-live-count-of-absentee-ballots-under-way-as-coalition-talks-set-to-begin-mvtbz4y4</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-29T09:18:16.780Z</news:publication_date>
-      <news:title><![CDATA[Israel election results live: count of absentee ballots under way as coalition talks set to begin]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/icai-ca-foundation-september-result-2026-will-scorecards-be-released-today-heres-what-we-know-mvtzjwfk</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-29T08:18:00.000Z</news:publication_date>
-      <news:title><![CDATA[ICAI CA Foundation September result 2026: Will scorecards be released today? Here's what we know]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/cannot-make-excuses-tilak-varma-reveals-gautam-gambhirs-message-to-team-india-for-nz-tour-mvtzjy8n</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-29T08:15:23.000Z</news:publication_date>
-      <news:title><![CDATA['Cannot Make Excuses': Tilak Varma Reveals Gautam Gambhir’s Message To Team India For NZ Tour]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/from-fan-to-player-nzs-bevon-jacobs-eyes-chance-to-bat-at-eden-park-recalls-2015wc-memories-mvtqz95c</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-29T04:18:10.000Z</news:publication_date>
-      <news:title><![CDATA[From fan to player: NZ's Bevon Jacobs eyes chance to bat at Eden Park, recalls 2015WC memories]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/gold-silver-prices-today-29-october-check-retail-rates-of-24k-22k-gold-999-silver-in-delhi-mumbai-and-kolkata-mvtqzb02</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-29T04:15:32.000Z</news:publication_date>
-      <news:title><![CDATA[Gold, silver prices today, 29 October: Check retail rates of 24K, 22K gold, 999 silver in Delhi, Mumbai and Kolkata]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/pflugerville-enacts-stricter-oversight-on-surveillance-ai-technology-use-mvssowpf</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-29T00:18:26.835Z</news:publication_date>
-      <news:title><![CDATA[Pflugerville enacts stricter oversight on surveillance, AI technology use]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/--mvssouey</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-29T00:18:23.866Z</news:publication_date>
-      <news:title><![CDATA[المظاريف المزدوجة.. هل تقلب أصواتها نتائج انتخابات الكنيست؟]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/indians-working-in-uk-per-diem-paid-by-indian-company-may-be-tax-mvtiend6</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-29T00:16:15.000Z</news:publication_date>
-      <news:title><![CDATA[Indians working in UK: Per diem paid by Indian company may be tax]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/indians-working-in-uk-per-diem-paid-by-indian-company-may-be-tax-mvtiem67</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-29T00:16:15.000Z</news:publication_date>
-      <news:title><![CDATA[Indians working in UK: Per diem paid by Indian company may be tax]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/govt-woos-gujarat-industry-with-global-city-project-in-gurugram-mvt9tyf5</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-28T20:09:50.000Z</news:publication_date>
-      <news:title><![CDATA[Govt woos Gujarat industry with Global City project in Gurugram]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/nepali-crypto-scam-accused-caught-at-lucknow-airport-with-indian-passport-mvt9tzxd</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-28T20:00:00.000Z</news:publication_date>
-      <news:title><![CDATA[Nepali crypto scam accused caught at Lucknow airport with Indian passport]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/fed-meeting-live-updates-interest-rates-held-steady-in-split-vote-warsh-says-politics-played-no-role-ahead-of-midterm-elections-yahoo-finance-mvtzjuvr</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-28T19:19:46.000Z</news:publication_date>
-      <news:title><![CDATA[Fed meeting live updates: Interest rates held steady in split vote, Warsh says politics played 'no role' ahead of midterm elections - Yahoo Finance]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/theres-not-enough-money-in-the-world-to-pay-for-the-ai-boom-mvsh8e1a</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-28T18:57:40.366Z</news:publication_date>
-      <news:title><![CDATA[There’s not enough money in the world to pay for the AI boom]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/spain-train-crash-kills-at-least-68-as-witnesses-describe-devastating-scenes-mvsh8b0n</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-28T18:57:36.455Z</news:publication_date>
-      <news:title><![CDATA[Spain train crash kills at least 68 as witnesses describe devastating scenes]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://newshubnow.in/article/congress-comes-up-with-commit-to-ballot-paper-response-after-pm-modis-how-many-seats-jibe-over-mlc-polls-mvt19bpr</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NewsHubNow</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-28T16:16:41.000Z</news:publication_date>
-      <news:title><![CDATA[Congress Comes Up With 'Commit To Ballot Paper' Response After PM Modi's 'How Many Seats' Jibe Over MLC Polls]]></news:title>
     </news:news>
   </url>
 </urlset>
